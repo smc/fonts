@@ -1,0 +1,6 @@
+4.4:
+* sfd files are added for all fonts
+* fontconfig config files added for proper scaling of Meera
+* created Makefile for generating ttf files
+* Makefile supports installation of fonts and configs
+* Suruma updated to 3.2 version
