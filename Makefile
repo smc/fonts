@@ -30,7 +30,7 @@ uninstall:
 	if [ -f ${DESTDIR}/etc/fonts/conf.avail/67-malayalam-fonts.conf ]; then \
 	rm ${DESTDIR}/etc/fonts/conf.avail/67-malayalam-fonts.conf; fi
 
-	if [ -d ${DESTDIR}/${fontpath} ]; then rmdir ${DESTDIR}/${fontpath}; fi
+	if [ -d ${DESTDIR}/${fontpath} -a -z "$(ls -A ${DESTDIR}/${fontpath})" ] ; then rmdir ${DESTDIR}/${fontpath}; fi
 
 clean:
 # remove ttf fonts
