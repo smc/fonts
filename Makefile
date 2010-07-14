@@ -1,5 +1,5 @@
 fontpath=/usr/share/fonts/truetype/malayalam
-fonts="AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans suruma"
+fonts="AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma"
 
 default:
 # generate ttf files from sfd files
