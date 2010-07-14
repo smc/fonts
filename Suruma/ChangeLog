@@ -1,0 +1,5 @@
+3.2:
+* Font name changed to Suruma(with capital 'S')
+* Glyph outlines reworked and simplified.
+* Reworked feature tables for improved uniscribe support.
+* Added support for opentype version 1.6 which uses an new approach for indic text processing.
