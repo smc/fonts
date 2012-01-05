@@ -4,7 +4,7 @@ FullName: Rachana
 FamilyName: Rachana
 Weight: Book
 Copyright: Copyright (c) Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose ), 2005. All rights reserved.
-Version: Rachana:04;Revision:0.200
+Version: Rachana:04;Revision:0.300
 ItalicAngle: 0
 UnderlinePosition: -520
 UnderlineWidth: 34
@@ -13,14 +13,13 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 400 913805956 978101]
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1313510377
+ModificationTime: 1324795276
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -61,6 +60,7 @@ Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4"  {"'pre
 Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 6"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 ShortTable: maxp 16
   1
@@ -80,16 +80,17 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "FontForge;Rachana_04;31-1-2008" "" "Rachana:04;Revision:0.200" "" "Rachana_w01 is a trademark of Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose )." "Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose )" "Hussain KH" "Rachana Akshara Vedi, Thiruvananthapuram, Kerala, India+AA0ACgANAAoA-Rachana is a language campaign forum for the Original script of Malayalam in the digital computing. It started in 1999 under the leadership of R. Chitrajakumar (Malayalam Lexicon, Kerala University, Palayalm,Thiruvananthapuram). Hussain KH (KFRI, Kerala Forest Research Institute, Peechi, Thrissur) is the project coordinator who designed the font.  Other Members are:  Gangadharan N (Malayalam Lexicon) who assisted Chitrajakumar in compiling the exhaustive character set of Malayalam; Dr. P Vijayakumaran Nair (KFRI) who assisted in programming the Rachana text editor which was used by many from 1999 to 2005 to typeset Books and journal articles in the old Lipi; Subash Kuriakose (KFRI) who gave advice to Hussain in the many aspects of Malayalam calligraphy. Later in 2004 Rajeev J Sebastian joined the Rachana team, whose mastery in Linux and untiring work is elevating the campaign to materialize its highest dream that to embed the original script in the OS enabling it in the whole field of digital applications. Dr. Mammen Chundamannil (KFRI) is an ardent supporter and well wisher of Rachana whose article 'For our language, our script' has spread the vision and objectives of Rachana to the whole world.+AA0ACgANAAoA-The fonts RACHANA_W01.TTF and RACHANA_W01.OTF are the first set of Unicode compliant Open type fonts that contains the exhaustive character set of Malayalam compiled so far by Rachana team.+AA0ACgANAAoA-Your valuable suggestions and comments are always welcome.+AA0ACgANAAoA-Please visit our site+AA0ACgAA                                                   www.rachanamalayalam.org" "www.rachanamalayalam.org" "hussain@rachanamalayalam.org; hussain@kfri.org" "   Rachana Medium OpenType font+AA0ACgAA    Copyright (C) 1999-2005,  Rachana Akshara Vedi+AA0ACgANAAoA    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoA   (Please look in the COPYING file included in the archive to see the full  text of the GNU GPL license or visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)+AA0ACgANAAoACgAA" "" "" "Rachana" "Regular" "Rachana" 
-GaspTable: 1 65535 2
+LangName: 1033 "" "" "Regular" "FontForge;Rachana_04;31-1-2008" "" "Rachana:04;Revision:0.300" "" "" "Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose )" "Hussain KH" "Rachana Akshara Vedi, Thiruvananthapuram, Kerala, India+AA0ACgANAAoA-Rachana is a language campaign forum for the Original script of Malayalam in the digital computing. It started in 1999 under the leadership of R. Chitrajakumar (Malayalam Lexicon, Kerala University, Palayalm,Thiruvananthapuram). Hussain KH (KFRI, Kerala Forest Research Institute, Peechi, Thrissur) is the project coordinator who designed the font.  Other Members are:  Gangadharan N (Malayalam Lexicon) who assisted Chitrajakumar in compiling the exhaustive character set of Malayalam; Dr. P Vijayakumaran Nair (KFRI) who assisted in programming the Rachana text editor which was used by many from 1999 to 2005 to typeset Books and journal articles in the old Lipi; Subash Kuriakose (KFRI) who gave advice to Hussain in the many aspects of Malayalam calligraphy. Later in 2004 Rajeev J Sebastian joined the Rachana team, whose mastery in Linux and untiring work is elevating the campaign to materialize its highest dream that to embed the original script in the OS enabling it in the whole field of digital applications. Dr. Mammen Chundamannil (KFRI) is an ardent supporter and well wisher of Rachana whose article 'For our language, our script' has spread the vision and objectives of Rachana to the whole world.+AA0ACgANAAoA-The fonts RACHANA_W01.TTF and RACHANA_W01.OTF are the first set of Unicode compliant Open type fonts that contains the exhaustive character set of Malayalam compiled so far by Rachana team.+AA0ACgANAAoA-Your valuable suggestions and comments are always welcome.+AA0ACgANAAoA-Please visit our site+AA0ACgAA                                                   www.rachanamalayalam.org" "http://smc.org.in" "hussain.rachana@gmail.com" "Rachana Medium OpenType font+AA0ACgAA    Copyright (C) 1999-2012,  Rachana Akshara Vedi+AA0ACgANAAoA    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoA   (Please look in the COPYING file included in the archive to see the full  text of the GNU GPL license or visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)+AA0ACgANAAoACgAA" "" "" "Rachana" "Regular" "Rachana" 
+GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
+WinInfo: 3213 27 10
+BeginPrivate: 0
+EndPrivate
 BeginChars: 66403 1048
 
 StartChar: .notdef
@@ -7695,26 +7696,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D70
-Encoding: 3440 3440 178
-Width: 524
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-350 160 m 0,0,1
- 380 160 380 160 406 136 c 0,2,3
- 444 102 444 102 422 50 c 128,-1,4
- 400 -2 400 -2 350 2 c 1,5,6
- 300 -2 300 -2 276 50 c 1,7,8
- 254 102 254 102 294 136 c 1,9,10
- 314 160 314 160 350 160 c 0,0,1
-EndSplineSet
-EndChar
-
 StartChar: ZWNJ
-Encoding: 8204 8204 179
+Encoding: 8204 8204 178
 Width: 324
 GlyphClass: 2
 Flags: W
@@ -7730,7 +7713,7 @@ EndSplineSet
 EndChar
 
 StartChar: ZWJ
-Encoding: 8205 8205 180
+Encoding: 8205 8205 179
 Width: 324
 GlyphClass: 2
 Flags: W
@@ -7769,7 +7752,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25CC
-Encoding: 9676 9676 181
+Encoding: 9676 9676 180
 Width: 956
 GlyphClass: 2
 Flags: W
@@ -7842,7 +7825,7 @@ EndSplineSet
 EndChar
 
 StartChar: NULL
-Encoding: 65537 -1 182
+Encoding: 65537 -1 181
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -7850,7 +7833,7 @@ LayerCount: 2
 EndChar
 
 StartChar: r4
-Encoding: 65538 -1 183
+Encoding: 65538 -1 182
 Width: 494
 GlyphClass: 3
 Flags: W
@@ -7875,7 +7858,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable" r3 xx
 EndChar
 
 StartChar: y2
-Encoding: 65539 -1 184
+Encoding: 65539 -1 183
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -7918,7 +7901,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable" y1 xx
 EndChar
 
 StartChar: y2u1
-Encoding: 65540 -1 185
+Encoding: 65540 -1 184
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -7976,7 +7959,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y2u2
-Encoding: 65541 -1 186
+Encoding: 65541 -1 185
 Width: 788
 GlyphClass: 3
 Flags: W
@@ -8049,7 +8032,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v2
-Encoding: 65542 -1 187
+Encoding: 65542 -1 186
 Width: 580
 GlyphClass: 3
 Flags: W
@@ -8068,7 +8051,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable" v1 xx
 EndChar
 
 StartChar: NameMe_195550
-Encoding: 65543 -1 188
+Encoding: 65543 -1 187
 Width: 1772
 GlyphClass: 2
 Flags: W
@@ -8119,7 +8102,7 @@ EndSplineSet
 EndChar
 
 StartChar: k1cil
-Encoding: 65545 -1 189
+Encoding: 65545 -1 188
 Width: 1780
 GlyphClass: 3
 Flags: W
@@ -8208,7 +8191,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx ZWJ
 EndChar
 
 StartChar: nhcil
-Encoding: 65546 -1 190
+Encoding: 65546 -1 189
 Width: 2334
 GlyphClass: 3
 Flags: W
@@ -8292,7 +8275,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx ZWJ
 EndChar
 
 StartChar: n1cil
-Encoding: 65547 -1 191
+Encoding: 65547 -1 190
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -8351,7 +8334,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx ZWJ
 EndChar
 
 StartChar: l3cil
-Encoding: 65548 -1 192
+Encoding: 65548 -1 191
 Width: 1756
 GlyphClass: 3
 Flags: W
@@ -8426,7 +8409,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx ZWJ
 EndChar
 
 StartChar: lhcil
-Encoding: 65549 -1 193
+Encoding: 65549 -1 192
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -8494,7 +8477,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx ZWJ
 EndChar
 
 StartChar: r3cil
-Encoding: 65550 -1 194
+Encoding: 65550 -1 193
 Width: 1092
 GlyphClass: 3
 Flags: W
@@ -8543,7 +8526,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" r3 xx ZWJ
 EndChar
 
 StartChar: k1u1
-Encoding: 65551 -1 195
+Encoding: 65551 -1 194
 Width: 1574
 GlyphClass: 3
 Flags: W
@@ -8612,7 +8595,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1u2
-Encoding: 65552 -1 196
+Encoding: 65552 -1 195
 Width: 1564
 GlyphClass: 3
 Flags: W
@@ -8694,7 +8677,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1r1
-Encoding: 65553 -1 197
+Encoding: 65553 -1 196
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -8769,7 +8752,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1r2
-Encoding: 65554 -1 198
+Encoding: 65554 -1 197
 Width: 1628
 GlyphClass: 3
 Flags: W
@@ -8880,7 +8863,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1l1
-Encoding: 65555 -1 199
+Encoding: 65555 -1 198
 Width: 1522
 GlyphClass: 3
 Flags: W
@@ -8982,7 +8965,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 l1
 EndChar
 
 StartChar: k1k1
-Encoding: 65556 -1 200
+Encoding: 65556 -1 199
 Width: 2186
 GlyphClass: 3
 Flags: W
@@ -9072,7 +9055,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx k1
 EndChar
 
 StartChar: k1k1u1
-Encoding: 65557 -1 201
+Encoding: 65557 -1 200
 Width: 2272
 GlyphClass: 3
 Flags: W
@@ -9171,7 +9154,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1k1u2
-Encoding: 65558 -1 202
+Encoding: 65558 -1 201
 Width: 2232
 GlyphClass: 3
 Flags: W
@@ -9271,7 +9254,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1k1r1
-Encoding: 65559 -1 203
+Encoding: 65559 -1 202
 Width: 2186
 GlyphClass: 3
 Flags: W
@@ -9377,7 +9360,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1k1r3
-Encoding: 65560 -1 204
+Encoding: 65560 -1 203
 Width: 2472
 GlyphClass: 3
 Flags: W
@@ -9477,7 +9460,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1k1r3u1
-Encoding: 65561 -1 205
+Encoding: 65561 -1 204
 Width: 2472
 GlyphClass: 3
 Flags: W
@@ -9593,7 +9576,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1k1r3u2
-Encoding: 65562 -1 206
+Encoding: 65562 -1 205
 Width: 2472
 GlyphClass: 3
 Flags: W
@@ -9719,7 +9702,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1t1
-Encoding: 65563 -1 207
+Encoding: 65563 -1 206
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -9811,7 +9794,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx t1
 EndChar
 
 StartChar: k1t1u1
-Encoding: 65564 -1 208
+Encoding: 65564 -1 207
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -9918,7 +9901,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1t1u2
-Encoding: 65565 -1 209
+Encoding: 65565 -1 208
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -10038,7 +10021,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1t1r3
-Encoding: 65566 -1 210
+Encoding: 65566 -1 209
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -10132,7 +10115,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1t1r3u1
-Encoding: 65567 -1 211
+Encoding: 65567 -1 210
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -10239,7 +10222,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1t1r3u2
-Encoding: 65568 -1 212
+Encoding: 65568 -1 211
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -10359,7 +10342,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1nh
-Encoding: 65569 -1 213
+Encoding: 65569 -1 212
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -10472,7 +10455,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx nh
 EndChar
 
 StartChar: k1nhu1
-Encoding: 65570 -1 214
+Encoding: 65570 -1 213
 Width: 1632
 GlyphClass: 3
 Flags: W
@@ -10594,7 +10577,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1nhu2
-Encoding: 65571 -1 215
+Encoding: 65571 -1 214
 Width: 1782
 GlyphClass: 3
 Flags: W
@@ -10731,7 +10714,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1
-Encoding: 65572 -1 216
+Encoding: 65572 -1 215
 Width: 2430
 GlyphClass: 3
 Flags: W
@@ -10812,7 +10795,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1th1u1
-Encoding: 65573 -1 217
+Encoding: 65573 -1 216
 Width: 2366
 GlyphClass: 3
 Flags: W
@@ -10909,7 +10892,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1u2
-Encoding: 65574 -1 218
+Encoding: 65574 -1 217
 Width: 2378
 GlyphClass: 3
 Flags: W
@@ -11016,7 +10999,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1r1
-Encoding: 65575 -1 219
+Encoding: 65575 -1 218
 Width: 2432
 GlyphClass: 3
 Flags: W
@@ -11129,7 +11112,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1r2
-Encoding: 65576 -1 220
+Encoding: 65576 -1 219
 Width: 2452
 GlyphClass: 3
 Flags: W
@@ -11277,7 +11260,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1r3
-Encoding: 65577 -1 221
+Encoding: 65577 -1 220
 Width: 2702
 GlyphClass: 3
 Flags: W
@@ -11382,7 +11365,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1th1r3u1
-Encoding: 65578 -1 222
+Encoding: 65578 -1 221
 Width: 2702
 GlyphClass: 3
 Flags: W
@@ -11501,7 +11484,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1th1r3u2
-Encoding: 65579 -1 223
+Encoding: 65579 -1 222
 Width: 2702
 GlyphClass: 3
 Flags: W
@@ -11635,7 +11618,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1n1
-Encoding: 65580 -1 224
+Encoding: 65580 -1 223
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -11726,7 +11709,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx n1
 EndChar
 
 StartChar: k1n1u1
-Encoding: 65581 -1 225
+Encoding: 65581 -1 224
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -11827,7 +11810,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1n1u2
-Encoding: 65582 -1 226
+Encoding: 65582 -1 225
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -11940,7 +11923,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1m1
-Encoding: 65583 -1 227
+Encoding: 65583 -1 226
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12031,7 +12014,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx m1
 EndChar
 
 StartChar: k1m1u1
-Encoding: 65584 -1 228
+Encoding: 65584 -1 227
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12143,7 +12126,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1m1u2
-Encoding: 65585 -1 229
+Encoding: 65585 -1 228
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12273,7 +12256,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1r3
-Encoding: 65586 -1 230
+Encoding: 65586 -1 229
 Width: 1890
 GlyphClass: 3
 Flags: W
@@ -12336,7 +12319,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1r3u1
-Encoding: 65587 -1 231
+Encoding: 65587 -1 230
 Width: 1890
 GlyphClass: 3
 Flags: W
@@ -12416,7 +12399,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1r3u2
-Encoding: 65588 -1 232
+Encoding: 65588 -1 231
 Width: 1890
 GlyphClass: 3
 Flags: W
@@ -12508,7 +12491,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1l3
-Encoding: 65589 -1 233
+Encoding: 65589 -1 232
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12612,7 +12595,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: k1l3u1
-Encoding: 65590 -1 234
+Encoding: 65590 -1 233
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12732,7 +12715,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1l3u2
-Encoding: 65591 -1 235
+Encoding: 65591 -1 234
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -12864,7 +12847,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1sh
-Encoding: 65592 -1 236
+Encoding: 65592 -1 235
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -12955,7 +12938,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh
 EndChar
 
 StartChar: k1shu1
-Encoding: 65593 -1 237
+Encoding: 65593 -1 236
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13062,7 +13045,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shu2
-Encoding: 65594 -1 238
+Encoding: 65594 -1 237
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13183,7 +13166,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shr1
-Encoding: 65595 -1 239
+Encoding: 65595 -1 238
 Width: 2672
 GlyphClass: 3
 Flags: W
@@ -13285,7 +13268,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shnh
-Encoding: 65596 -1 240
+Encoding: 65596 -1 239
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13423,7 +13406,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx nh
 EndChar
 
 StartChar: k1shnhu1
-Encoding: 65597 -1 241
+Encoding: 65597 -1 240
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13570,7 +13553,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shnhu2
-Encoding: 65598 -1 242
+Encoding: 65598 -1 241
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13729,7 +13712,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shm1
-Encoding: 65599 -1 243
+Encoding: 65599 -1 242
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13848,7 +13831,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx m1
 EndChar
 
 StartChar: k1shm1u1
-Encoding: 65600 -1 244
+Encoding: 65600 -1 243
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -13984,7 +13967,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shm1u2
-Encoding: 65601 -1 245
+Encoding: 65601 -1 244
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -14139,7 +14122,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1shm1r1
-Encoding: 65602 -1 246
+Encoding: 65602 -1 245
 Width: 2526
 GlyphClass: 3
 Flags: W
@@ -14279,7 +14262,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1s1
-Encoding: 65603 -1 247
+Encoding: 65603 -1 246
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14383,7 +14366,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k1s1u1
-Encoding: 65604 -1 248
+Encoding: 65604 -1 247
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14500,7 +14483,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1s1u2
-Encoding: 65605 -1 249
+Encoding: 65605 -1 248
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14631,7 +14614,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1s1r1
-Encoding: 65606 -1 250
+Encoding: 65606 -1 249
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14757,7 +14740,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1rhrh
-Encoding: 65607 -1 251
+Encoding: 65607 -1 250
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14859,7 +14842,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx rh xx rh
 EndChar
 
 StartChar: k1rhrhu1
-Encoding: 65608 -1 252
+Encoding: 65608 -1 251
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -14980,7 +14963,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k1rhrhu2
-Encoding: 65609 -1 253
+Encoding: 65609 -1 252
 Width: 1588
 GlyphClass: 3
 Flags: W
@@ -15114,7 +15097,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k2u1
-Encoding: 65610 -1 254
+Encoding: 65610 -1 253
 Width: 1636
 GlyphClass: 3
 Flags: W
@@ -15177,7 +15160,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k2u2
-Encoding: 65611 -1 255
+Encoding: 65611 -1 254
 Width: 1636
 GlyphClass: 3
 Flags: W
@@ -15253,7 +15236,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k2r1
-Encoding: 65612 -1 256
+Encoding: 65612 -1 255
 Width: 1592
 GlyphClass: 3
 Flags: W
@@ -15314,7 +15297,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3u1
-Encoding: 65613 -1 257
+Encoding: 65613 -1 256
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -15372,7 +15355,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3u2
-Encoding: 65614 -1 258
+Encoding: 65614 -1 257
 Width: 1420
 GlyphClass: 3
 Flags: W
@@ -15438,7 +15421,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3r1
-Encoding: 65615 -1 259
+Encoding: 65615 -1 258
 Width: 1448
 GlyphClass: 3
 Flags: W
@@ -15493,7 +15476,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3r2
-Encoding: 65616 -1 260
+Encoding: 65616 -1 259
 Width: 1470
 GlyphClass: 3
 Flags: W
@@ -15583,7 +15566,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k3
-Encoding: 65617 -1 261
+Encoding: 65617 -1 260
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -15656,7 +15639,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx k3
 EndChar
 
 StartChar: k3k3u1
-Encoding: 65618 -1 262
+Encoding: 65618 -1 261
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -15745,7 +15728,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k3u2
-Encoding: 65619 -1 263
+Encoding: 65619 -1 262
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -15842,7 +15825,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k3r1
-Encoding: 65620 -1 264
+Encoding: 65620 -1 263
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -15922,7 +15905,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k4
-Encoding: 65621 -1 265
+Encoding: 65621 -1 264
 Width: 2130
 GlyphClass: 3
 Flags: W
@@ -15981,7 +15964,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx k4
 EndChar
 
 StartChar: k3k4u1
-Encoding: 65622 -1 266
+Encoding: 65622 -1 265
 Width: 2130
 GlyphClass: 3
 Flags: W
@@ -16056,7 +16039,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k4u2
-Encoding: 65623 -1 267
+Encoding: 65623 -1 266
 Width: 2130
 GlyphClass: 3
 Flags: W
@@ -16146,7 +16129,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3k4r1
-Encoding: 65624 -1 268
+Encoding: 65624 -1 267
 Width: 2130
 GlyphClass: 3
 Flags: W
@@ -16223,7 +16206,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3
-Encoding: 65625 -1 269
+Encoding: 65625 -1 268
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -16277,7 +16260,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx th3
 EndChar
 
 StartChar: k3th3u1
-Encoding: 65626 -1 270
+Encoding: 65626 -1 269
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -16345,7 +16328,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3u2
-Encoding: 65627 -1 271
+Encoding: 65627 -1 270
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -16427,7 +16410,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3r1
-Encoding: 65628 -1 272
+Encoding: 65628 -1 271
 Width: 1514
 GlyphClass: 3
 Flags: W
@@ -16490,7 +16473,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3th4
-Encoding: 65629 -1 273
+Encoding: 65629 -1 272
 Width: 2066
 GlyphClass: 3
 Flags: W
@@ -16570,7 +16553,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx th3 xx th4
 EndChar
 
 StartChar: k3th3th4u1
-Encoding: 65630 -1 274
+Encoding: 65630 -1 273
 Width: 2066
 GlyphClass: 3
 Flags: W
@@ -16666,7 +16649,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3th4u2
-Encoding: 65631 -1 275
+Encoding: 65631 -1 274
 Width: 2066
 GlyphClass: 3
 Flags: W
@@ -16776,7 +16759,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3th4r1
-Encoding: 65632 -1 276
+Encoding: 65632 -1 275
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -16857,7 +16840,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3th4r3
-Encoding: 65633 -1 277
+Encoding: 65633 -1 276
 Width: 2346
 GlyphClass: 3
 Flags: W
@@ -16938,7 +16921,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k3th3th4r3u1
-Encoding: 65634 -1 278
+Encoding: 65634 -1 277
 Width: 2346
 GlyphClass: 3
 Flags: W
@@ -17036,7 +17019,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3th3th4r3u2
-Encoding: 65635 -1 279
+Encoding: 65635 -1 278
 Width: 2346
 GlyphClass: 3
 Flags: W
@@ -17144,7 +17127,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3n1
-Encoding: 65636 -1 280
+Encoding: 65636 -1 279
 Width: 2000
 GlyphClass: 3
 Flags: W
@@ -17194,7 +17177,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx n1
 EndChar
 
 StartChar: k3n1u1
-Encoding: 65637 -1 281
+Encoding: 65637 -1 280
 Width: 2222
 GlyphClass: 3
 Flags: W
@@ -17253,7 +17236,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3n1u2
-Encoding: 65638 -1 282
+Encoding: 65638 -1 281
 Width: 2494
 GlyphClass: 3
 Flags: W
@@ -17324,7 +17307,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3m1
-Encoding: 65639 -1 283
+Encoding: 65639 -1 282
 Width: 1634
 GlyphClass: 3
 Flags: W
@@ -17378,7 +17361,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx m1
 EndChar
 
 StartChar: k3m1u1
-Encoding: 65640 -1 284
+Encoding: 65640 -1 283
 Width: 1634
 GlyphClass: 3
 Flags: W
@@ -17448,7 +17431,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3m1u2
-Encoding: 65641 -1 285
+Encoding: 65641 -1 284
 Width: 1634
 GlyphClass: 3
 Flags: W
@@ -17531,7 +17514,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3r3
-Encoding: 65642 -1 286
+Encoding: 65642 -1 285
 Width: 1728
 GlyphClass: 3
 Flags: W
@@ -17581,7 +17564,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k3r3u1
-Encoding: 65643 -1 287
+Encoding: 65643 -1 286
 Width: 1728
 GlyphClass: 3
 Flags: W
@@ -17651,7 +17634,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3r3u2
-Encoding: 65644 -1 288
+Encoding: 65644 -1 287
 Width: 1728
 GlyphClass: 3
 Flags: W
@@ -17730,7 +17713,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3l3
-Encoding: 65645 -1 289
+Encoding: 65645 -1 288
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -17811,7 +17794,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: k3l3u1
-Encoding: 65646 -1 290
+Encoding: 65646 -1 289
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -17907,7 +17890,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k3l3u2
-Encoding: 65647 -1 291
+Encoding: 65647 -1 290
 Width: 1416
 GlyphClass: 3
 Flags: W
@@ -18014,7 +17997,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4u1
-Encoding: 65648 -1 292
+Encoding: 65648 -1 291
 Width: 2244
 GlyphClass: 3
 Flags: W
@@ -18084,7 +18067,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4u2
-Encoding: 65649 -1 293
+Encoding: 65649 -1 292
 Width: 2244
 GlyphClass: 3
 Flags: W
@@ -18167,7 +18150,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4r1
-Encoding: 65650 -1 294
+Encoding: 65650 -1 293
 Width: 2354
 GlyphClass: 3
 Flags: W
@@ -18233,7 +18216,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4r2
-Encoding: 65651 -1 295
+Encoding: 65651 -1 294
 Width: 2244
 GlyphClass: 3
 Flags: W
@@ -18331,7 +18314,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4n1
-Encoding: 65652 -1 296
+Encoding: 65652 -1 295
 Width: 2244
 GlyphClass: 3
 Flags: W
@@ -18411,7 +18394,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k4 xx n1
 EndChar
 
 StartChar: k4n1u1
-Encoding: 65653 -1 297
+Encoding: 65653 -1 296
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -18500,7 +18483,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4n1u2
-Encoding: 65654 -1 298
+Encoding: 65654 -1 297
 Width: 2244
 GlyphClass: 3
 Flags: W
@@ -18601,7 +18584,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4r3
-Encoding: 65655 -1 299
+Encoding: 65655 -1 298
 Width: 2592
 GlyphClass: 3
 Flags: W
@@ -18676,7 +18659,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k
 EndChar
 
 StartChar: k4r3u1
-Encoding: 65656 -1 300
+Encoding: 65656 -1 299
 Width: 2592
 GlyphClass: 3
 Flags: W
@@ -18768,7 +18751,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: k4r3u2
-Encoding: 65657 -1 301
+Encoding: 65657 -1 300
 Width: 2592
 GlyphClass: 3
 Flags: W
@@ -18871,7 +18854,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngu1
-Encoding: 65658 -1 302
+Encoding: 65658 -1 301
 Width: 1658
 GlyphClass: 3
 Flags: W
@@ -18950,7 +18933,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngu2
-Encoding: 65659 -1 303
+Encoding: 65659 -1 302
 Width: 1658
 GlyphClass: 3
 Flags: W
@@ -19043,7 +19026,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngk1
-Encoding: 65660 -1 304
+Encoding: 65660 -1 303
 Width: 1564
 GlyphClass: 3
 Flags: W
@@ -19117,7 +19100,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx k1
 EndChar
 
 StartChar: ngk1u1
-Encoding: 65661 -1 305
+Encoding: 65661 -1 304
 Width: 1568
 GlyphClass: 3
 Flags: W
@@ -19190,7 +19173,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngk1u2
-Encoding: 65662 -1 306
+Encoding: 65662 -1 305
 Width: 1580
 GlyphClass: 3
 Flags: W
@@ -19272,7 +19255,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngk1r1
-Encoding: 65663 -1 307
+Encoding: 65663 -1 306
 Width: 1604
 GlyphClass: 3
 Flags: W
@@ -19360,7 +19343,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngng
-Encoding: 65664 -1 308
+Encoding: 65664 -1 307
 Width: 2326
 GlyphClass: 3
 Flags: W
@@ -19454,7 +19437,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx ng
 EndChar
 
 StartChar: ngngu1
-Encoding: 65665 -1 309
+Encoding: 65665 -1 308
 Width: 2326
 GlyphClass: 3
 Flags: W
@@ -19566,7 +19549,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ngngu2
-Encoding: 65666 -1 310
+Encoding: 65666 -1 309
 Width: 2326
 GlyphClass: 3
 Flags: W
@@ -19690,7 +19673,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1u1
-Encoding: 65667 -1 311
+Encoding: 65667 -1 310
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -19740,7 +19723,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1u2
-Encoding: 65668 -1 312
+Encoding: 65668 -1 311
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -19803,7 +19786,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch1
-Encoding: 65669 -1 313
+Encoding: 65669 -1 312
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -19849,7 +19832,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch1
 EndChar
 
 StartChar: ch1ch1u1
-Encoding: 65670 -1 314
+Encoding: 65670 -1 313
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -19911,7 +19894,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch1u2
-Encoding: 65671 -1 315
+Encoding: 65671 -1 314
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -19985,7 +19968,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch2
-Encoding: 65672 -1 316
+Encoding: 65672 -1 315
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20060,7 +20043,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch2
 EndChar
 
 StartChar: ch1ch2u1
-Encoding: 65673 -1 317
+Encoding: 65673 -1 316
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20157,7 +20140,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch2u2
-Encoding: 65674 -1 318
+Encoding: 65674 -1 317
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20260,7 +20243,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch2r1
-Encoding: 65675 -1 319
+Encoding: 65675 -1 318
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20357,7 +20340,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch2r3
-Encoding: 65676 -1 320
+Encoding: 65676 -1 319
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20451,7 +20434,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" c
 EndChar
 
 StartChar: ch1ch2r3u1
-Encoding: 65677 -1 321
+Encoding: 65677 -1 320
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20560,7 +20543,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch1ch2r3u2
-Encoding: 65678 -1 322
+Encoding: 65678 -1 321
 Width: 1488
 GlyphClass: 3
 Flags: W
@@ -20691,7 +20674,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch2u1
-Encoding: 65679 -1 323
+Encoding: 65679 -1 322
 Width: 2362
 GlyphClass: 3
 Flags: W
@@ -20771,7 +20754,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch2u2
-Encoding: 65680 -1 324
+Encoding: 65680 -1 323
 Width: 2596
 GlyphClass: 3
 Flags: W
@@ -20859,7 +20842,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch2r1
-Encoding: 65681 -1 325
+Encoding: 65681 -1 324
 Width: 2194
 GlyphClass: 3
 Flags: W
@@ -20934,7 +20917,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch2r3
-Encoding: 65682 -1 326
+Encoding: 65682 -1 325
 Width: 2344
 GlyphClass: 3
 Flags: W
@@ -21015,7 +20998,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" c
 EndChar
 
 StartChar: ch2r3u1
-Encoding: 65683 -1 327
+Encoding: 65683 -1 326
 Width: 2344
 GlyphClass: 3
 Flags: W
@@ -21111,7 +21094,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch2r3u2
-Encoding: 65684 -1 328
+Encoding: 65684 -1 327
 Width: 2344
 GlyphClass: 3
 Flags: W
@@ -21219,7 +21202,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3u1
-Encoding: 65685 -1 329
+Encoding: 65685 -1 328
 Width: 1654
 GlyphClass: 3
 Flags: W
@@ -21318,7 +21301,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3u2
-Encoding: 65686 -1 330
+Encoding: 65686 -1 329
 Width: 1950
 GlyphClass: 3
 Flags: W
@@ -21434,7 +21417,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3r1
-Encoding: 65687 -1 331
+Encoding: 65687 -1 330
 Width: 1700
 GlyphClass: 3
 Flags: W
@@ -21534,7 +21517,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3r2
-Encoding: 65688 -1 332
+Encoding: 65688 -1 331
 Width: 1700
 GlyphClass: 3
 Flags: W
@@ -21665,7 +21648,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3ch3
-Encoding: 65689 -1 333
+Encoding: 65689 -1 332
 Width: 2848
 GlyphClass: 3
 Flags: W
@@ -21807,7 +21790,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx ch3
 EndChar
 
 StartChar: ch3ch3u1
-Encoding: 65690 -1 334
+Encoding: 65690 -1 333
 Width: 2702
 GlyphClass: 3
 Flags: W
@@ -21945,7 +21928,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3ch3u2
-Encoding: 65691 -1 335
+Encoding: 65691 -1 334
 Width: 2636
 GlyphClass: 3
 Flags: W
@@ -22096,7 +22079,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3ch3r1
-Encoding: 65692 -1 336
+Encoding: 65692 -1 335
 Width: 2722
 GlyphClass: 3
 Flags: W
@@ -22231,7 +22214,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3nj
-Encoding: 65693 -1 337
+Encoding: 65693 -1 336
 Width: 3542
 GlyphClass: 3
 Flags: W
@@ -22361,7 +22344,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx nj
 EndChar
 
 StartChar: ch3nju1
-Encoding: 65694 -1 338
+Encoding: 65694 -1 337
 Width: 3094
 GlyphClass: 3
 Flags: W
@@ -22496,7 +22479,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3nju2
-Encoding: 65695 -1 339
+Encoding: 65695 -1 338
 Width: 3210
 GlyphClass: 3
 Flags: W
@@ -22642,7 +22625,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3r3
-Encoding: 65696 -1 340
+Encoding: 65696 -1 339
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -22742,7 +22725,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" c
 EndChar
 
 StartChar: ch3r3u1
-Encoding: 65697 -1 341
+Encoding: 65697 -1 340
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -22859,7 +22842,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch3r3u2
-Encoding: 65698 -1 342
+Encoding: 65698 -1 341
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -22985,7 +22968,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4u1
-Encoding: 65699 -1 343
+Encoding: 65699 -1 342
 Width: 2548
 GlyphClass: 3
 Flags: W
@@ -23068,7 +23051,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4u2
-Encoding: 65700 -1 344
+Encoding: 65700 -1 343
 Width: 2548
 GlyphClass: 3
 Flags: W
@@ -23164,7 +23147,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4r1
-Encoding: 65701 -1 345
+Encoding: 65701 -1 344
 Width: 2560
 GlyphClass: 3
 Flags: W
@@ -23241,7 +23224,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4r2
-Encoding: 65702 -1 346
+Encoding: 65702 -1 345
 Width: 2584
 GlyphClass: 3
 Flags: W
@@ -23363,7 +23346,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4r3
-Encoding: 65703 -1 347
+Encoding: 65703 -1 346
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -23442,7 +23425,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" c
 EndChar
 
 StartChar: ch4r3u1
-Encoding: 65704 -1 348
+Encoding: 65704 -1 347
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -23539,7 +23522,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: ch4r3u2
-Encoding: 65705 -1 349
+Encoding: 65705 -1 348
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -23645,7 +23628,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nju1
-Encoding: 65706 -1 350
+Encoding: 65706 -1 349
 Width: 2272
 GlyphClass: 3
 Flags: W
@@ -23732,7 +23715,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nju2
-Encoding: 65707 -1 351
+Encoding: 65707 -1 350
 Width: 2272
 GlyphClass: 3
 Flags: W
@@ -23829,7 +23812,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch1
-Encoding: 65708 -1 352
+Encoding: 65708 -1 351
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -23906,7 +23889,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch1
 EndChar
 
 StartChar: njch1u1
-Encoding: 65709 -1 353
+Encoding: 65709 -1 352
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -23999,7 +23982,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch1u2
-Encoding: 65710 -1 354
+Encoding: 65710 -1 353
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -24105,7 +24088,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch1r1
-Encoding: 65711 -1 355
+Encoding: 65711 -1 354
 Width: 2522
 GlyphClass: 3
 Flags: W
@@ -24200,7 +24183,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch2
-Encoding: 65712 -1 356
+Encoding: 65712 -1 355
 Width: 2750
 GlyphClass: 3
 Flags: W
@@ -24298,7 +24281,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch2
 EndChar
 
 StartChar: njch2u1
-Encoding: 65713 -1 357
+Encoding: 65713 -1 356
 Width: 3260
 GlyphClass: 3
 Flags: W
@@ -24421,7 +24404,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch2u2
-Encoding: 65714 -1 358
+Encoding: 65714 -1 357
 Width: 3256
 GlyphClass: 3
 Flags: W
@@ -24554,7 +24537,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch2r1
-Encoding: 65715 -1 359
+Encoding: 65715 -1 358
 Width: 3038
 GlyphClass: 3
 Flags: W
@@ -24671,7 +24654,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch3
-Encoding: 65716 -1 360
+Encoding: 65716 -1 359
 Width: 2566
 GlyphClass: 3
 Flags: W
@@ -24780,7 +24763,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch3
 EndChar
 
 StartChar: njch3u1
-Encoding: 65717 -1 361
+Encoding: 65717 -1 360
 Width: 2702
 GlyphClass: 3
 Flags: W
@@ -24912,7 +24895,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njch3u2
-Encoding: 65718 -1 362
+Encoding: 65718 -1 361
 Width: 2742
 GlyphClass: 3
 Flags: W
@@ -25052,7 +25035,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njnj
-Encoding: 65719 -1 363
+Encoding: 65719 -1 362
 Width: 3318
 GlyphClass: 3
 Flags: W
@@ -25154,7 +25137,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx nj
 EndChar
 
 StartChar: njnju1
-Encoding: 65720 -1 364
+Encoding: 65720 -1 363
 Width: 3318
 GlyphClass: 3
 Flags: W
@@ -25272,7 +25255,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: njnju2
-Encoding: 65721 -1 365
+Encoding: 65721 -1 364
 Width: 3318
 GlyphClass: 3
 Flags: W
@@ -25400,7 +25383,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1u1
-Encoding: 65722 -1 366
+Encoding: 65722 -1 365
 Width: 948
 GlyphClass: 3
 Flags: W
@@ -25454,7 +25437,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1u2
-Encoding: 65723 -1 367
+Encoding: 65723 -1 366
 Width: 948
 GlyphClass: 3
 Flags: W
@@ -25520,7 +25503,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1r1
-Encoding: 65724 -1 368
+Encoding: 65724 -1 367
 Width: 994
 GlyphClass: 3
 Flags: W
@@ -25567,7 +25550,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1r2
-Encoding: 65725 -1 369
+Encoding: 65725 -1 368
 Width: 1080
 GlyphClass: 3
 Flags: W
@@ -25643,7 +25626,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1t1
-Encoding: 65726 -1 370
+Encoding: 65726 -1 369
 Width: 962
 GlyphClass: 3
 Flags: W
@@ -25692,7 +25675,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t1 xx t1
 EndChar
 
 StartChar: t1t1u1
-Encoding: 65727 -1 371
+Encoding: 65727 -1 370
 Width: 962
 GlyphClass: 3
 Flags: W
@@ -25755,7 +25738,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1t1u2
-Encoding: 65728 -1 372
+Encoding: 65728 -1 371
 Width: 962
 GlyphClass: 3
 Flags: W
@@ -25830,7 +25813,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1r3
-Encoding: 65729 -1 373
+Encoding: 65729 -1 372
 Width: 1274
 GlyphClass: 3
 Flags: W
@@ -25873,7 +25856,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: t1r3u1
-Encoding: 65730 -1 374
+Encoding: 65730 -1 373
 Width: 1274
 GlyphClass: 3
 Flags: W
@@ -25934,7 +25917,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t1r3u2
-Encoding: 65731 -1 375
+Encoding: 65731 -1 374
 Width: 1274
 GlyphClass: 3
 Flags: W
@@ -26003,7 +25986,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t2u1
-Encoding: 65732 -1 376
+Encoding: 65732 -1 375
 Width: 1088
 GlyphClass: 3
 Flags: W
@@ -26050,7 +26033,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t2u2
-Encoding: 65733 -1 377
+Encoding: 65733 -1 376
 Width: 1088
 GlyphClass: 3
 Flags: W
@@ -26111,7 +26094,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3u1
-Encoding: 65734 -1 378
+Encoding: 65734 -1 377
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26179,7 +26162,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3u2
-Encoding: 65735 -1 379
+Encoding: 65735 -1 378
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26261,7 +26244,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3r1
-Encoding: 65736 -1 380
+Encoding: 65736 -1 379
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -26323,7 +26306,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3t3
-Encoding: 65737 -1 381
+Encoding: 65737 -1 380
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26416,7 +26399,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t3
 EndChar
 
 StartChar: t3t3u1
-Encoding: 65738 -1 382
+Encoding: 65738 -1 381
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26528,7 +26511,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3t3u2
-Encoding: 65739 -1 383
+Encoding: 65739 -1 382
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26649,7 +26632,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3t4
-Encoding: 65740 -1 384
+Encoding: 65740 -1 383
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26751,7 +26734,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t4
 EndChar
 
 StartChar: t3t4u1
-Encoding: 65741 -1 385
+Encoding: 65741 -1 384
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -26869,7 +26852,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3t4u2
-Encoding: 65742 -1 386
+Encoding: 65742 -1 385
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -27000,7 +26983,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3m1
-Encoding: 65743 -1 387
+Encoding: 65743 -1 386
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -27081,7 +27064,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx m1
 EndChar
 
 StartChar: t3m1u1
-Encoding: 65744 -1 388
+Encoding: 65744 -1 387
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -27179,7 +27162,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3m1u2
-Encoding: 65745 -1 389
+Encoding: 65745 -1 388
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -27295,7 +27278,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3m1r1
-Encoding: 65746 -1 390
+Encoding: 65746 -1 389
 Width: 2014
 GlyphClass: 3
 Flags: W
@@ -27397,7 +27380,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3r3
-Encoding: 65747 -1 391
+Encoding: 65747 -1 390
 Width: 2310
 GlyphClass: 3
 Flags: W
@@ -27460,7 +27443,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: t3r3u1
-Encoding: 65748 -1 392
+Encoding: 65748 -1 391
 Width: 2310
 GlyphClass: 3
 Flags: W
@@ -27540,7 +27523,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t3r3u2
-Encoding: 65749 -1 393
+Encoding: 65749 -1 392
 Width: 2310
 GlyphClass: 3
 Flags: W
@@ -27630,7 +27613,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t4u1
-Encoding: 65750 -1 394
+Encoding: 65750 -1 393
 Width: 2104
 GlyphClass: 3
 Flags: W
@@ -27709,7 +27692,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t4u2
-Encoding: 65751 -1 395
+Encoding: 65751 -1 394
 Width: 2104
 GlyphClass: 3
 Flags: W
@@ -27801,7 +27784,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t4r1
-Encoding: 65752 -1 396
+Encoding: 65752 -1 395
 Width: 2112
 GlyphClass: 3
 Flags: W
@@ -27878,7 +27861,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t4r3
-Encoding: 65753 -1 397
+Encoding: 65753 -1 396
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -27959,7 +27942,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: t4r3u1
-Encoding: 65754 -1 398
+Encoding: 65754 -1 397
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -28058,7 +28041,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: t4r3u2
-Encoding: 65755 -1 399
+Encoding: 65755 -1 398
 Width: 2396
 GlyphClass: 3
 Flags: W
@@ -28167,7 +28150,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhu1
-Encoding: 65756 -1 400
+Encoding: 65756 -1 399
 Width: 2400
 GlyphClass: 3
 Flags: W
@@ -28237,7 +28220,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhu2
-Encoding: 65757 -1 401
+Encoding: 65757 -1 400
 Width: 2612
 GlyphClass: 3
 Flags: W
@@ -28318,7 +28301,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht1
-Encoding: 65758 -1 402
+Encoding: 65758 -1 401
 Width: 2366
 GlyphClass: 3
 Flags: W
@@ -28405,7 +28388,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t1
 EndChar
 
 StartChar: nht1u1
-Encoding: 65759 -1 403
+Encoding: 65759 -1 402
 Width: 2366
 GlyphClass: 3
 Flags: W
@@ -28506,7 +28489,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht1u2
-Encoding: 65760 -1 404
+Encoding: 65760 -1 403
 Width: 2366
 GlyphClass: 3
 Flags: W
@@ -28619,7 +28602,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht1r3
-Encoding: 65761 -1 405
+Encoding: 65761 -1 404
 Width: 2674
 GlyphClass: 3
 Flags: W
@@ -28717,7 +28700,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: nht1r3u1
-Encoding: 65762 -1 406
+Encoding: 65762 -1 405
 Width: 2674
 GlyphClass: 3
 Flags: W
@@ -28830,7 +28813,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht1r3u2
-Encoding: 65763 -1 407
+Encoding: 65763 -1 406
 Width: 2674
 GlyphClass: 3
 Flags: W
@@ -28958,7 +28941,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht2
-Encoding: 65764 -1 408
+Encoding: 65764 -1 407
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -29037,7 +29020,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t2
 EndChar
 
 StartChar: nht3
-Encoding: 65765 -1 409
+Encoding: 65765 -1 408
 Width: 2936
 GlyphClass: 3
 Flags: W
@@ -29118,7 +29101,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t3
 EndChar
 
 StartChar: nht3u1
-Encoding: 65766 -1 410
+Encoding: 65766 -1 409
 Width: 2936
 GlyphClass: 3
 Flags: W
@@ -29215,7 +29198,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht3u2
-Encoding: 65767 -1 411
+Encoding: 65767 -1 410
 Width: 2936
 GlyphClass: 3
 Flags: W
@@ -29326,7 +29309,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht3r1
-Encoding: 65768 -1 412
+Encoding: 65768 -1 411
 Width: 2944
 GlyphClass: 3
 Flags: W
@@ -29414,7 +29397,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht3r3
-Encoding: 65769 -1 413
+Encoding: 65769 -1 412
 Width: 3240
 GlyphClass: 3
 Flags: W
@@ -29518,7 +29501,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: nht3r3u1
-Encoding: 65770 -1 414
+Encoding: 65770 -1 413
 Width: 3240
 GlyphClass: 3
 Flags: W
@@ -29637,7 +29620,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht3r3u2
-Encoding: 65771 -1 415
+Encoding: 65771 -1 414
 Width: 3240
 GlyphClass: 3
 Flags: W
@@ -29765,7 +29748,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht4
-Encoding: 65772 -1 416
+Encoding: 65772 -1 415
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -29851,7 +29834,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t4
 EndChar
 
 StartChar: nht4u1
-Encoding: 65773 -1 417
+Encoding: 65773 -1 416
 Width: 3024
 GlyphClass: 3
 Flags: W
@@ -29957,7 +29940,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht4u2
-Encoding: 65774 -1 418
+Encoding: 65774 -1 417
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -30069,7 +30052,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nht4r1
-Encoding: 65775 -1 419
+Encoding: 65775 -1 418
 Width: 3022
 GlyphClass: 3
 Flags: W
@@ -30178,7 +30161,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhnh
-Encoding: 65776 -1 420
+Encoding: 65776 -1 419
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -30286,7 +30269,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx nh
 EndChar
 
 StartChar: nhnhu1
-Encoding: 65777 -1 421
+Encoding: 65777 -1 420
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -30404,7 +30387,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhnhu2
-Encoding: 65778 -1 422
+Encoding: 65778 -1 421
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -30532,7 +30515,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhm1
-Encoding: 65779 -1 423
+Encoding: 65779 -1 422
 Width: 2448
 GlyphClass: 3
 Flags: W
@@ -30601,7 +30584,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx m1
 EndChar
 
 StartChar: nhm1u1
-Encoding: 65780 -1 424
+Encoding: 65780 -1 423
 Width: 2448
 GlyphClass: 3
 Flags: W
@@ -30686,7 +30669,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: nhm1u2
-Encoding: 65781 -1 425
+Encoding: 65781 -1 424
 Width: 2448
 GlyphClass: 3
 Flags: W
@@ -30783,7 +30766,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1u1
-Encoding: 65782 -1 426
+Encoding: 65782 -1 425
 Width: 1558
 GlyphClass: 3
 Flags: W
@@ -30846,7 +30829,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1u2
-Encoding: 65783 -1 427
+Encoding: 65783 -1 426
 Width: 1544
 GlyphClass: 3
 Flags: W
@@ -30916,7 +30899,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1r1
-Encoding: 65784 -1 428
+Encoding: 65784 -1 427
 Width: 1604
 GlyphClass: 3
 Flags: W
@@ -30979,7 +30962,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1r2
-Encoding: 65785 -1 429
+Encoding: 65785 -1 428
 Width: 1662
 GlyphClass: 3
 Flags: W
@@ -31073,7 +31056,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1
-Encoding: 65786 -1 430
+Encoding: 65786 -1 429
 Width: 2666
 GlyphClass: 3
 Flags: W
@@ -31151,7 +31134,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1
 EndChar
 
 StartChar: th1th1u1
-Encoding: 65787 -1 431
+Encoding: 65787 -1 430
 Width: 2666
 GlyphClass: 3
 Flags: W
@@ -31248,7 +31231,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1u2
-Encoding: 65788 -1 432
+Encoding: 65788 -1 431
 Width: 2666
 GlyphClass: 3
 Flags: W
@@ -31352,7 +31335,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1r1
-Encoding: 65789 -1 433
+Encoding: 65789 -1 432
 Width: 2682
 GlyphClass: 3
 Flags: W
@@ -31434,7 +31417,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1r2
-Encoding: 65790 -1 434
+Encoding: 65790 -1 433
 Width: 2744
 GlyphClass: 3
 Flags: W
@@ -31553,7 +31536,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1r3
-Encoding: 65791 -1 435
+Encoding: 65791 -1 434
 Width: 2634
 GlyphClass: 3
 Flags: W
@@ -31635,7 +31618,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th1th1r3u1
-Encoding: 65792 -1 436
+Encoding: 65792 -1 435
 Width: 2634
 GlyphClass: 3
 Flags: W
@@ -31733,7 +31716,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th1r3u2
-Encoding: 65793 -1 437
+Encoding: 65793 -1 436
 Width: 2634
 GlyphClass: 3
 Flags: W
@@ -31844,7 +31827,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th2
-Encoding: 65794 -1 438
+Encoding: 65794 -1 437
 Width: 2534
 GlyphClass: 3
 Flags: W
@@ -31907,7 +31890,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th2
 EndChar
 
 StartChar: th1th2u1
-Encoding: 65795 -1 439
+Encoding: 65795 -1 438
 Width: 2534
 GlyphClass: 3
 Flags: W
@@ -31987,7 +31970,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th2u2
-Encoding: 65796 -1 440
+Encoding: 65796 -1 439
 Width: 2534
 GlyphClass: 3
 Flags: W
@@ -32084,7 +32067,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1th2r1
-Encoding: 65797 -1 441
+Encoding: 65797 -1 440
 Width: 2534
 GlyphClass: 3
 Flags: W
@@ -32160,7 +32143,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1n1
-Encoding: 65798 -1 442
+Encoding: 65798 -1 441
 Width: 2108
 GlyphClass: 3
 Flags: W
@@ -32215,7 +32198,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx n1
 EndChar
 
 StartChar: th1p4
-Encoding: 65799 -1 443
+Encoding: 65799 -1 442
 Width: 2272
 GlyphClass: 3
 Flags: W
@@ -32299,7 +32282,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx p4
 EndChar
 
 StartChar: th1p4u1
-Encoding: 65800 -1 444
+Encoding: 65800 -1 443
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -32391,7 +32374,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1p4u2
-Encoding: 65801 -1 445
+Encoding: 65801 -1 444
 Width: 2232
 GlyphClass: 3
 Flags: W
@@ -32496,7 +32479,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1p4r1
-Encoding: 65802 -1 446
+Encoding: 65802 -1 445
 Width: 2290
 GlyphClass: 3
 Flags: W
@@ -32578,7 +32561,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1m1
-Encoding: 65803 -1 447
+Encoding: 65803 -1 446
 Width: 2354
 GlyphClass: 3
 Flags: W
@@ -32643,7 +32626,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx m1
 EndChar
 
 StartChar: th1m1u1
-Encoding: 65804 -1 448
+Encoding: 65804 -1 447
 Width: 2354
 GlyphClass: 3
 Flags: W
@@ -32725,7 +32708,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1m1u2
-Encoding: 65805 -1 449
+Encoding: 65805 -1 448
 Width: 2354
 GlyphClass: 3
 Flags: W
@@ -32824,7 +32807,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1m1r1
-Encoding: 65806 -1 450
+Encoding: 65806 -1 449
 Width: 2354
 GlyphClass: 3
 Flags: W
@@ -32903,7 +32886,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1r3
-Encoding: 65807 -1 451
+Encoding: 65807 -1 450
 Width: 1912
 GlyphClass: 3
 Flags: W
@@ -32957,7 +32940,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th1r3u1
-Encoding: 65808 -1 452
+Encoding: 65808 -1 451
 Width: 1912
 GlyphClass: 3
 Flags: W
@@ -33029,7 +33012,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1r3u2
-Encoding: 65809 -1 453
+Encoding: 65809 -1 452
 Width: 1912
 GlyphClass: 3
 Flags: W
@@ -33114,7 +33097,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1l3
-Encoding: 65810 -1 454
+Encoding: 65810 -1 453
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -33198,7 +33181,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: th1l3u1
-Encoding: 65811 -1 455
+Encoding: 65811 -1 454
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -33296,7 +33279,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1l3u2
-Encoding: 65812 -1 456
+Encoding: 65812 -1 455
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -33407,7 +33390,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1
-Encoding: 65813 -1 457
+Encoding: 65813 -1 456
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -33473,7 +33456,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1
 EndChar
 
 StartChar: th1s1u1
-Encoding: 65814 -1 458
+Encoding: 65814 -1 457
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -33555,7 +33538,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1u2
-Encoding: 65815 -1 459
+Encoding: 65815 -1 458
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -33650,7 +33633,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1r1
-Encoding: 65816 -1 460
+Encoding: 65816 -1 459
 Width: 2592
 GlyphClass: 3
 Flags: W
@@ -33735,7 +33718,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1r2
-Encoding: 65817 -1 461
+Encoding: 65817 -1 460
 Width: 2640
 GlyphClass: 3
 Flags: W
@@ -33858,7 +33841,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1th2
-Encoding: 65818 -1 462
+Encoding: 65818 -1 461
 Width: 3590
 GlyphClass: 3
 Flags: W
@@ -33942,7 +33925,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1 xx th2
 EndChar
 
 StartChar: th1s1th2u1
-Encoding: 65819 -1 463
+Encoding: 65819 -1 462
 Width: 3590
 GlyphClass: 3
 Flags: W
@@ -34043,7 +34026,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1th2u2
-Encoding: 65820 -1 464
+Encoding: 65820 -1 463
 Width: 3590
 GlyphClass: 3
 Flags: W
@@ -34155,7 +34138,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1th2r1
-Encoding: 65821 -1 465
+Encoding: 65821 -1 464
 Width: 3590
 GlyphClass: 3
 Flags: W
@@ -34257,7 +34240,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1n1
-Encoding: 65822 -1 466
+Encoding: 65822 -1 465
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34349,7 +34332,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1 xx n1
 EndChar
 
 StartChar: th1s1n1u1
-Encoding: 65823 -1 467
+Encoding: 65823 -1 466
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34450,7 +34433,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1n1u2
-Encoding: 65824 -1 468
+Encoding: 65824 -1 467
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34563,7 +34546,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1m1
-Encoding: 65825 -1 469
+Encoding: 65825 -1 468
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34658,7 +34641,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1 xx m1
 EndChar
 
 StartChar: th1s1m1u1
-Encoding: 65826 -1 470
+Encoding: 65826 -1 469
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34769,7 +34752,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1m1u2
-Encoding: 65827 -1 471
+Encoding: 65827 -1 470
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -34898,7 +34881,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1m1r1
-Encoding: 65828 -1 472
+Encoding: 65828 -1 471
 Width: 2574
 GlyphClass: 3
 Flags: W
@@ -35013,7 +34996,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1r3
-Encoding: 65829 -1 473
+Encoding: 65829 -1 472
 Width: 2588
 GlyphClass: 3
 Flags: W
@@ -35090,7 +35073,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th1s1r3u1
-Encoding: 65830 -1 474
+Encoding: 65830 -1 473
 Width: 2588
 GlyphClass: 3
 Flags: W
@@ -35186,7 +35169,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th1s1r3u2
-Encoding: 65831 -1 475
+Encoding: 65831 -1 474
 Width: 2588
 GlyphClass: 3
 Flags: W
@@ -35292,7 +35275,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2u1
-Encoding: 65832 -1 476
+Encoding: 65832 -1 475
 Width: 1640
 GlyphClass: 3
 Flags: W
@@ -35338,7 +35321,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2u2
-Encoding: 65833 -1 477
+Encoding: 65833 -1 476
 Width: 1640
 GlyphClass: 3
 Flags: W
@@ -35396,7 +35379,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2n1
-Encoding: 65834 -1 478
+Encoding: 65834 -1 477
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35454,7 +35437,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th2 xx n1
 EndChar
 
 StartChar: th2n1u1
-Encoding: 65835 -1 479
+Encoding: 65835 -1 478
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35521,7 +35504,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2n1u2
-Encoding: 65836 -1 480
+Encoding: 65836 -1 479
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35600,7 +35583,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2m1
-Encoding: 65837 -1 481
+Encoding: 65837 -1 480
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35660,7 +35643,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th2 xx m1
 EndChar
 
 StartChar: th2m1u1
-Encoding: 65838 -1 482
+Encoding: 65838 -1 481
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35737,7 +35720,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2m1u2
-Encoding: 65839 -1 483
+Encoding: 65839 -1 482
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35832,7 +35815,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th2m1r1
-Encoding: 65840 -1 484
+Encoding: 65840 -1 483
 Width: 1498
 GlyphClass: 3
 Flags: W
@@ -35917,7 +35900,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3u1
-Encoding: 65841 -1 485
+Encoding: 65841 -1 484
 Width: 994
 GlyphClass: 3
 Flags: W
@@ -35973,7 +35956,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3u2
-Encoding: 65842 -1 486
+Encoding: 65842 -1 485
 Width: 994
 GlyphClass: 3
 Flags: W
@@ -36046,7 +36029,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3r1
-Encoding: 65843 -1 487
+Encoding: 65843 -1 486
 Width: 1028
 GlyphClass: 3
 Flags: W
@@ -36096,7 +36079,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3r2
-Encoding: 65844 -1 488
+Encoding: 65844 -1 487
 Width: 1224
 GlyphClass: 3
 Flags: W
@@ -36177,7 +36160,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th3
-Encoding: 65845 -1 489
+Encoding: 65845 -1 488
 Width: 986
 GlyphClass: 3
 Flags: W
@@ -36232,7 +36215,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th3
 EndChar
 
 StartChar: th3th3u1
-Encoding: 65846 -1 490
+Encoding: 65846 -1 489
 Width: 986
 GlyphClass: 3
 Flags: W
@@ -36301,7 +36284,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th3u2
-Encoding: 65847 -1 491
+Encoding: 65847 -1 490
 Width: 986
 GlyphClass: 3
 Flags: W
@@ -36384,7 +36367,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th3r1
-Encoding: 65848 -1 492
+Encoding: 65848 -1 491
 Width: 1010
 GlyphClass: 3
 Flags: W
@@ -36438,7 +36421,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th3r2
-Encoding: 65849 -1 493
+Encoding: 65849 -1 492
 Width: 1010
 GlyphClass: 3
 Flags: W
@@ -36520,7 +36503,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4
-Encoding: 65850 -1 494
+Encoding: 65850 -1 493
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -36591,7 +36574,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th4
 EndChar
 
 StartChar: th3th4u1
-Encoding: 65851 -1 495
+Encoding: 65851 -1 494
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -36678,7 +36661,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4u2
-Encoding: 65852 -1 496
+Encoding: 65852 -1 495
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -36778,7 +36761,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4r1
-Encoding: 65853 -1 497
+Encoding: 65853 -1 496
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -36873,7 +36856,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4r2
-Encoding: 65854 -1 498
+Encoding: 65854 -1 497
 Width: 1890
 GlyphClass: 3
 Flags: W
@@ -36988,7 +36971,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4n1
-Encoding: 65855 -1 499
+Encoding: 65855 -1 498
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37085,7 +37068,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th4 xx n1
 EndChar
 
 StartChar: th3th4n1u1
-Encoding: 65856 -1 500
+Encoding: 65856 -1 499
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37191,7 +37174,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4n1u2
-Encoding: 65857 -1 501
+Encoding: 65857 -1 500
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37309,7 +37292,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4m1
-Encoding: 65858 -1 502
+Encoding: 65858 -1 501
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37408,7 +37391,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th4 xx m1
 EndChar
 
 StartChar: th3th4m1u1
-Encoding: 65859 -1 503
+Encoding: 65859 -1 502
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37524,7 +37507,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4m1u2
-Encoding: 65860 -1 504
+Encoding: 65860 -1 503
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37658,7 +37641,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4m1r1
-Encoding: 65861 -1 505
+Encoding: 65861 -1 504
 Width: 1838
 GlyphClass: 3
 Flags: W
@@ -37782,7 +37765,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4r3
-Encoding: 65862 -1 506
+Encoding: 65862 -1 505
 Width: 2164
 GlyphClass: 3
 Flags: W
@@ -37865,7 +37848,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th3th4r3u1
-Encoding: 65863 -1 507
+Encoding: 65863 -1 506
 Width: 2164
 GlyphClass: 3
 Flags: W
@@ -37965,7 +37948,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3th4r3u2
-Encoding: 65864 -1 508
+Encoding: 65864 -1 507
 Width: 2164
 GlyphClass: 3
 Flags: W
@@ -38076,7 +38059,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3r3
-Encoding: 65865 -1 509
+Encoding: 65865 -1 508
 Width: 1322
 GlyphClass: 3
 Flags: W
@@ -38123,7 +38106,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th3r3u1
-Encoding: 65866 -1 510
+Encoding: 65866 -1 509
 Width: 1322
 GlyphClass: 3
 Flags: W
@@ -38185,7 +38168,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th3r3u2
-Encoding: 65867 -1 511
+Encoding: 65867 -1 510
 Width: 1322
 GlyphClass: 3
 Flags: W
@@ -38258,7 +38241,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4u1
-Encoding: 65868 -1 512
+Encoding: 65868 -1 511
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38313,7 +38296,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4u2
-Encoding: 65869 -1 513
+Encoding: 65869 -1 512
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38383,7 +38366,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4r1
-Encoding: 65870 -1 514
+Encoding: 65870 -1 513
 Width: 1526
 GlyphClass: 3
 Flags: W
@@ -38442,7 +38425,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4r2
-Encoding: 65871 -1 515
+Encoding: 65871 -1 514
 Width: 2190
 GlyphClass: 3
 Flags: W
@@ -38535,7 +38518,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4n1
-Encoding: 65872 -1 516
+Encoding: 65872 -1 515
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38601,7 +38584,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th4 xx n1
 EndChar
 
 StartChar: th4n1u1
-Encoding: 65873 -1 517
+Encoding: 65873 -1 516
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38676,7 +38659,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4n1u2
-Encoding: 65874 -1 518
+Encoding: 65874 -1 517
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38763,7 +38746,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4m1
-Encoding: 65875 -1 519
+Encoding: 65875 -1 518
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38831,7 +38814,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th4 xx m1
 EndChar
 
 StartChar: th4m1u1
-Encoding: 65876 -1 520
+Encoding: 65876 -1 519
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -38916,7 +38899,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4m1u2
-Encoding: 65877 -1 521
+Encoding: 65877 -1 520
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -39019,7 +39002,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4m1r1
-Encoding: 65878 -1 522
+Encoding: 65878 -1 521
 Width: 1510
 GlyphClass: 3
 Flags: W
@@ -39112,7 +39095,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4r3
-Encoding: 65879 -1 523
+Encoding: 65879 -1 522
 Width: 1800
 GlyphClass: 3
 Flags: W
@@ -39161,7 +39144,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t
 EndChar
 
 StartChar: th4r3u1
-Encoding: 65880 -1 524
+Encoding: 65880 -1 523
 Width: 1800
 GlyphClass: 3
 Flags: W
@@ -39229,7 +39212,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: th4r3u2
-Encoding: 65881 -1 525
+Encoding: 65881 -1 524
 Width: 1800
 GlyphClass: 3
 Flags: W
@@ -39308,7 +39291,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1u1
-Encoding: 65882 -1 526
+Encoding: 65882 -1 525
 Width: 1652
 GlyphClass: 3
 Flags: W
@@ -39357,7 +39340,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1u2
-Encoding: 65883 -1 527
+Encoding: 65883 -1 526
 Width: 1924
 GlyphClass: 3
 Flags: W
@@ -39418,7 +39401,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1r1
-Encoding: 65884 -1 528
+Encoding: 65884 -1 527
 Width: 1560
 GlyphClass: 3
 Flags: W
@@ -39475,7 +39458,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1r2
-Encoding: 65885 -1 529
+Encoding: 65885 -1 528
 Width: 1648
 GlyphClass: 3
 Flags: W
@@ -39560,7 +39543,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1
-Encoding: 65886 -1 530
+Encoding: 65886 -1 529
 Width: 2100
 GlyphClass: 3
 Flags: W
@@ -39616,7 +39599,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th1
 EndChar
 
 StartChar: n1th1u1
-Encoding: 65887 -1 531
+Encoding: 65887 -1 530
 Width: 2074
 GlyphClass: 3
 Flags: W
@@ -39686,7 +39669,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1u2
-Encoding: 65888 -1 532
+Encoding: 65888 -1 531
 Width: 2086
 GlyphClass: 3
 Flags: W
@@ -39768,7 +39751,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1r1
-Encoding: 65889 -1 533
+Encoding: 65889 -1 532
 Width: 2138
 GlyphClass: 3
 Flags: W
@@ -39843,7 +39826,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1r2
-Encoding: 65890 -1 534
+Encoding: 65890 -1 533
 Width: 2170
 GlyphClass: 3
 Flags: W
@@ -39946,7 +39929,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1r3
-Encoding: 65891 -1 535
+Encoding: 65891 -1 534
 Width: 2440
 GlyphClass: 3
 Flags: W
@@ -40012,7 +39995,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1th1r3u1
-Encoding: 65892 -1 536
+Encoding: 65892 -1 535
 Width: 2440
 GlyphClass: 3
 Flags: W
@@ -40096,7 +40079,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th1r3u2
-Encoding: 65893 -1 537
+Encoding: 65893 -1 536
 Width: 2440
 GlyphClass: 3
 Flags: W
@@ -40190,7 +40173,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th2
-Encoding: 65894 -1 538
+Encoding: 65894 -1 537
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -40245,7 +40228,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th2
 EndChar
 
 StartChar: n1th2u1
-Encoding: 65895 -1 539
+Encoding: 65895 -1 538
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -40316,7 +40299,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th2u2
-Encoding: 65896 -1 540
+Encoding: 65896 -1 539
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -40399,7 +40382,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th2r1
-Encoding: 65897 -1 541
+Encoding: 65897 -1 540
 Width: 2604
 GlyphClass: 3
 Flags: W
@@ -40464,7 +40447,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th2r2
-Encoding: 65898 -1 542
+Encoding: 65898 -1 541
 Width: 2546
 GlyphClass: 3
 Flags: W
@@ -40561,7 +40544,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th3
-Encoding: 65899 -1 543
+Encoding: 65899 -1 542
 Width: 1494
 GlyphClass: 3
 Flags: W
@@ -40612,7 +40595,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th3
 EndChar
 
 StartChar: n1th3u1
-Encoding: 65900 -1 544
+Encoding: 65900 -1 543
 Width: 1494
 GlyphClass: 3
 Flags: W
@@ -40677,7 +40660,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th3u2
-Encoding: 65901 -1 545
+Encoding: 65901 -1 544
 Width: 1494
 GlyphClass: 3
 Flags: W
@@ -40755,7 +40738,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th3r1
-Encoding: 65902 -1 546
+Encoding: 65902 -1 545
 Width: 1584
 GlyphClass: 3
 Flags: W
@@ -40818,7 +40801,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th3r3
-Encoding: 65903 -1 547
+Encoding: 65903 -1 546
 Width: 1850
 GlyphClass: 3
 Flags: W
@@ -40879,7 +40862,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1th3r3u1
-Encoding: 65904 -1 548
+Encoding: 65904 -1 547
 Width: 1850
 GlyphClass: 3
 Flags: W
@@ -40954,7 +40937,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th3r3u2
-Encoding: 65905 -1 549
+Encoding: 65905 -1 548
 Width: 1850
 GlyphClass: 3
 Flags: W
@@ -41041,7 +41024,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th4
-Encoding: 65906 -1 550
+Encoding: 65906 -1 549
 Width: 2584
 GlyphClass: 3
 Flags: W
@@ -41100,7 +41083,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th4
 EndChar
 
 StartChar: n1th4u1
-Encoding: 65907 -1 551
+Encoding: 65907 -1 550
 Width: 2584
 GlyphClass: 3
 Flags: W
@@ -41174,7 +41157,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th4u2
-Encoding: 65908 -1 552
+Encoding: 65908 -1 551
 Width: 2584
 GlyphClass: 3
 Flags: W
@@ -41262,7 +41245,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th4r1
-Encoding: 65909 -1 553
+Encoding: 65909 -1 552
 Width: 2612
 GlyphClass: 3
 Flags: W
@@ -41332,7 +41315,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th4r3
-Encoding: 65910 -1 554
+Encoding: 65910 -1 553
 Width: 2556
 GlyphClass: 3
 Flags: W
@@ -41406,7 +41389,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1th4r3u1
-Encoding: 65911 -1 555
+Encoding: 65911 -1 554
 Width: 2556
 GlyphClass: 3
 Flags: W
@@ -41497,7 +41480,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1th4r3u2
-Encoding: 65912 -1 556
+Encoding: 65912 -1 555
 Width: 2556
 GlyphClass: 3
 Flags: W
@@ -41598,7 +41581,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1n1
-Encoding: 65913 -1 557
+Encoding: 65913 -1 556
 Width: 2092
 GlyphClass: 3
 Flags: W
@@ -41646,7 +41629,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx n1
 EndChar
 
 StartChar: n1n1u1
-Encoding: 65914 -1 558
+Encoding: 65914 -1 557
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -41703,7 +41686,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1n1u2
-Encoding: 65915 -1 559
+Encoding: 65915 -1 558
 Width: 2514
 GlyphClass: 3
 Flags: W
@@ -41771,7 +41754,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1n1r1
-Encoding: 65916 -1 560
+Encoding: 65916 -1 559
 Width: 2092
 GlyphClass: 3
 Flags: W
@@ -41830,7 +41813,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1n1r3
-Encoding: 65917 -1 561
+Encoding: 65917 -1 560
 Width: 2374
 GlyphClass: 3
 Flags: W
@@ -41885,7 +41868,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1n1r3u1
-Encoding: 65918 -1 562
+Encoding: 65918 -1 561
 Width: 2374
 GlyphClass: 3
 Flags: W
@@ -41960,7 +41943,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1n1r3u2
-Encoding: 65919 -1 563
+Encoding: 65919 -1 562
 Width: 2374
 GlyphClass: 3
 Flags: W
@@ -42042,7 +42025,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1m1
-Encoding: 65920 -1 564
+Encoding: 65920 -1 563
 Width: 1662
 GlyphClass: 3
 Flags: W
@@ -42091,7 +42074,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx m1
 EndChar
 
 StartChar: n1m1u1
-Encoding: 65921 -1 565
+Encoding: 65921 -1 564
 Width: 1662
 GlyphClass: 3
 Flags: W
@@ -42156,7 +42139,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1m1u2
-Encoding: 65922 -1 566
+Encoding: 65922 -1 565
 Width: 1662
 GlyphClass: 3
 Flags: W
@@ -42233,7 +42216,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1m1r1
-Encoding: 65923 -1 567
+Encoding: 65923 -1 566
 Width: 1682
 GlyphClass: 3
 Flags: W
@@ -42295,7 +42278,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1m1r3
-Encoding: 65924 -1 568
+Encoding: 65924 -1 567
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -42365,7 +42348,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1m1r3u1
-Encoding: 65925 -1 569
+Encoding: 65925 -1 568
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -42447,7 +42430,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1m1r3u2
-Encoding: 65926 -1 570
+Encoding: 65926 -1 569
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -42544,7 +42527,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1r3
-Encoding: 65927 -1 571
+Encoding: 65927 -1 570
 Width: 1804
 GlyphClass: 3
 Flags: W
@@ -42590,7 +42573,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n
 EndChar
 
 StartChar: n1r3u1
-Encoding: 65928 -1 572
+Encoding: 65928 -1 571
 Width: 1804
 GlyphClass: 3
 Flags: W
@@ -42652,7 +42635,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1r3u2
-Encoding: 65929 -1 573
+Encoding: 65929 -1 572
 Width: 1804
 GlyphClass: 3
 Flags: W
@@ -42727,7 +42710,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1rh
-Encoding: 65930 -1 574
+Encoding: 65930 -1 573
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -42802,7 +42785,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx rh
 EndChar
 
 StartChar: n1rhu1
-Encoding: 65931 -1 575
+Encoding: 65931 -1 574
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -42893,7 +42876,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: n1rhu2
-Encoding: 65932 -1 576
+Encoding: 65932 -1 575
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -42996,7 +42979,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1u1
-Encoding: 65933 -1 577
+Encoding: 65933 -1 576
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43044,7 +43027,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1u2
-Encoding: 65934 -1 578
+Encoding: 65934 -1 577
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43105,7 +43088,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1r1
-Encoding: 65935 -1 579
+Encoding: 65935 -1 578
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43152,7 +43135,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1r2
-Encoding: 65936 -1 580
+Encoding: 65936 -1 579
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43228,7 +43211,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1t1
-Encoding: 65937 -1 581
+Encoding: 65937 -1 580
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43286,7 +43269,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx t1
 EndChar
 
 StartChar: p1t1u1
-Encoding: 65938 -1 582
+Encoding: 65938 -1 581
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43358,7 +43341,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1t1u2
-Encoding: 65939 -1 583
+Encoding: 65939 -1 582
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43446,7 +43429,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1th1
-Encoding: 65940 -1 584
+Encoding: 65940 -1 583
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43512,7 +43495,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx th1
 EndChar
 
 StartChar: p1th1u1
-Encoding: 65941 -1 585
+Encoding: 65941 -1 584
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43592,7 +43575,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1th1u2
-Encoding: 65942 -1 586
+Encoding: 65942 -1 585
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43678,7 +43661,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1th1r1
-Encoding: 65943 -1 587
+Encoding: 65943 -1 586
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43756,7 +43739,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1th1r2
-Encoding: 65944 -1 588
+Encoding: 65944 -1 587
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43861,7 +43844,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1n1
-Encoding: 65945 -1 589
+Encoding: 65945 -1 588
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43918,7 +43901,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx n1
 EndChar
 
 StartChar: p1n1u1
-Encoding: 65946 -1 590
+Encoding: 65946 -1 589
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -43985,7 +43968,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1n1u2
-Encoding: 65947 -1 591
+Encoding: 65947 -1 590
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44064,7 +44047,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1p1
-Encoding: 65948 -1 592
+Encoding: 65948 -1 591
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44115,7 +44098,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx p1
 EndChar
 
 StartChar: p1p1u1
-Encoding: 65949 -1 593
+Encoding: 65949 -1 592
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44181,7 +44164,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1p1u2
-Encoding: 65950 -1 594
+Encoding: 65950 -1 593
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44260,7 +44243,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1p1r1
-Encoding: 65951 -1 595
+Encoding: 65951 -1 594
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44325,7 +44308,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1p2
-Encoding: 65952 -1 596
+Encoding: 65952 -1 595
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44388,7 +44371,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx p2
 EndChar
 
 StartChar: p1p2u1
-Encoding: 65953 -1 597
+Encoding: 65953 -1 596
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44467,7 +44450,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1p2u2
-Encoding: 65954 -1 598
+Encoding: 65954 -1 597
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44558,7 +44541,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1r3
-Encoding: 65955 -1 599
+Encoding: 65955 -1 598
 Width: 1858
 GlyphClass: 3
 Flags: W
@@ -44606,7 +44589,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p1r3u1
-Encoding: 65956 -1 600
+Encoding: 65956 -1 599
 Width: 1858
 GlyphClass: 3
 Flags: W
@@ -44673,7 +44656,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1r3u2
-Encoding: 65957 -1 601
+Encoding: 65957 -1 600
 Width: 1858
 GlyphClass: 3
 Flags: W
@@ -44747,7 +44730,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1l3
-Encoding: 65958 -1 602
+Encoding: 65958 -1 601
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44816,7 +44799,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: p1l3u1
-Encoding: 65959 -1 603
+Encoding: 65959 -1 602
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44899,7 +44882,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1l3u2
-Encoding: 65960 -1 604
+Encoding: 65960 -1 603
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -44995,7 +44978,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1s1
-Encoding: 65961 -1 605
+Encoding: 65961 -1 604
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45062,7 +45045,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx s1
 EndChar
 
 StartChar: p1s1u1
-Encoding: 65962 -1 606
+Encoding: 65962 -1 605
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45144,7 +45127,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1s1u2
-Encoding: 65963 -1 607
+Encoding: 65963 -1 606
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45237,7 +45220,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1s1r1
-Encoding: 65964 -1 608
+Encoding: 65964 -1 607
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45317,7 +45300,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1s1r3
-Encoding: 65965 -1 609
+Encoding: 65965 -1 608
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45395,7 +45378,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p1s1r3u1
-Encoding: 65966 -1 610
+Encoding: 65966 -1 609
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45491,7 +45474,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p1s1r3u2
-Encoding: 65967 -1 611
+Encoding: 65967 -1 610
 Width: 1596
 GlyphClass: 3
 Flags: W
@@ -45598,7 +45581,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2u1
-Encoding: 65968 -1 612
+Encoding: 65968 -1 611
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -45658,7 +45641,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2u2
-Encoding: 65969 -1 613
+Encoding: 65969 -1 612
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -45730,7 +45713,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2k1
-Encoding: 65970 -1 614
+Encoding: 65970 -1 613
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -45824,7 +45807,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx k1
 EndChar
 
 StartChar: p2k1u1
-Encoding: 65971 -1 615
+Encoding: 65971 -1 614
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -45922,7 +45905,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2k1u2
-Encoding: 65972 -1 616
+Encoding: 65972 -1 615
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46027,7 +46010,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2t1
-Encoding: 65973 -1 617
+Encoding: 65973 -1 616
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46096,7 +46079,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx t1
 EndChar
 
 StartChar: p2t1u1
-Encoding: 65974 -1 618
+Encoding: 65974 -1 617
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46183,7 +46166,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2t1u2
-Encoding: 65975 -1 619
+Encoding: 65975 -1 618
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46285,7 +46268,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2th1
-Encoding: 65976 -1 620
+Encoding: 65976 -1 619
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46362,7 +46345,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p2th1u1
-Encoding: 65977 -1 621
+Encoding: 65977 -1 620
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46453,7 +46436,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2th1u2
-Encoding: 65978 -1 622
+Encoding: 65978 -1 621
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46552,7 +46535,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2th1r1
-Encoding: 65979 -1 623
+Encoding: 65979 -1 622
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46641,7 +46624,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2n1
-Encoding: 65980 -1 624
+Encoding: 65980 -1 623
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46710,7 +46693,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx n1
 EndChar
 
 StartChar: p2n1u1
-Encoding: 65981 -1 625
+Encoding: 65981 -1 624
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46788,7 +46771,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2n1u2
-Encoding: 65982 -1 626
+Encoding: 65982 -1 625
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46878,7 +46861,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2p1
-Encoding: 65983 -1 627
+Encoding: 65983 -1 626
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -46941,7 +46924,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx p1
 EndChar
 
 StartChar: p2p1u1
-Encoding: 65984 -1 628
+Encoding: 65984 -1 627
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47020,7 +47003,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2p1u2
-Encoding: 65985 -1 629
+Encoding: 65985 -1 628
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47112,7 +47095,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2m1
-Encoding: 65986 -1 630
+Encoding: 65986 -1 629
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47183,7 +47166,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx m1
 EndChar
 
 StartChar: p2m1u1
-Encoding: 65987 -1 631
+Encoding: 65987 -1 630
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47271,7 +47254,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2m1u2
-Encoding: 65988 -1 632
+Encoding: 65988 -1 631
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47377,7 +47360,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2r3
-Encoding: 65989 -1 633
+Encoding: 65989 -1 632
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -47441,7 +47424,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p2r3u1
-Encoding: 65990 -1 634
+Encoding: 65990 -1 633
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -47520,7 +47503,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2r3u2
-Encoding: 65991 -1 635
+Encoding: 65991 -1 634
 Width: 2238
 GlyphClass: 3
 Flags: W
@@ -47607,7 +47590,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2l3
-Encoding: 65992 -1 636
+Encoding: 65992 -1 635
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47687,7 +47670,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: p2l3u1
-Encoding: 65993 -1 637
+Encoding: 65993 -1 636
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47779,7 +47762,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2l3u2
-Encoding: 65994 -1 638
+Encoding: 65994 -1 637
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47887,7 +47870,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2s1
-Encoding: 65995 -1 639
+Encoding: 65995 -1 638
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -47966,7 +47949,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx s1
 EndChar
 
 StartChar: p2s1u1
-Encoding: 65996 -1 640
+Encoding: 65996 -1 639
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48060,7 +48043,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2s1u2
-Encoding: 65997 -1 641
+Encoding: 65997 -1 640
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48167,7 +48150,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2s1r1
-Encoding: 65998 -1 642
+Encoding: 65998 -1 641
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48258,7 +48241,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2rhrh
-Encoding: 65999 -1 643
+Encoding: 65999 -1 642
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48335,7 +48318,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx rh xx rh
 EndChar
 
 StartChar: p2rhrhu1
-Encoding: 66000 -1 644
+Encoding: 66000 -1 643
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48430,7 +48413,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p2rhrhu2
-Encoding: 66001 -1 645
+Encoding: 66001 -1 644
 Width: 1970
 GlyphClass: 3
 Flags: W
@@ -48537,7 +48520,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3u1
-Encoding: 66002 -1 646
+Encoding: 66002 -1 645
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -48613,7 +48596,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3u2
-Encoding: 66003 -1 647
+Encoding: 66003 -1 646
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -48702,7 +48685,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3r1
-Encoding: 66004 -1 648
+Encoding: 66004 -1 647
 Width: 2152
 GlyphClass: 3
 Flags: W
@@ -48782,7 +48765,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3k3
-Encoding: 66005 -1 649
+Encoding: 66005 -1 648
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -48872,7 +48855,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx k3
 EndChar
 
 StartChar: p3k3u1
-Encoding: 66006 -1 650
+Encoding: 66006 -1 649
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -48978,7 +48961,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3k3u2
-Encoding: 66007 -1 651
+Encoding: 66007 -1 650
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49092,7 +49075,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3k3r1
-Encoding: 66008 -1 652
+Encoding: 66008 -1 651
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49191,7 +49174,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3ch3
-Encoding: 66009 -1 653
+Encoding: 66009 -1 652
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49319,7 +49302,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx ch3
 EndChar
 
 StartChar: p3ch3u1
-Encoding: 66010 -1 654
+Encoding: 66010 -1 653
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49461,7 +49444,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3ch3u2
-Encoding: 66011 -1 655
+Encoding: 66011 -1 654
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49608,7 +49591,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3ch3r1
-Encoding: 66012 -1 656
+Encoding: 66012 -1 655
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49751,7 +49734,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th3
-Encoding: 66013 -1 657
+Encoding: 66013 -1 656
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49839,7 +49822,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx th3
 EndChar
 
 StartChar: p3th3u1
-Encoding: 66014 -1 658
+Encoding: 66014 -1 657
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -49945,7 +49928,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th3u2
-Encoding: 66015 -1 659
+Encoding: 66015 -1 658
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50063,7 +50046,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th3r1
-Encoding: 66016 -1 660
+Encoding: 66016 -1 659
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50160,7 +50143,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th4
-Encoding: 66017 -1 661
+Encoding: 66017 -1 660
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50248,7 +50231,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx th4
 EndChar
 
 StartChar: p3th4u1
-Encoding: 66018 -1 662
+Encoding: 66018 -1 661
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50353,7 +50336,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th4u2
-Encoding: 66019 -1 663
+Encoding: 66019 -1 662
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50469,7 +50452,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th4r1
-Encoding: 66020 -1 664
+Encoding: 66020 -1 663
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50572,7 +50555,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3th4r2
-Encoding: 66021 -1 665
+Encoding: 66021 -1 664
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50699,7 +50682,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3n1
-Encoding: 66022 -1 666
+Encoding: 66022 -1 665
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50785,7 +50768,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx n1
 EndChar
 
 StartChar: p3n1u1
-Encoding: 66023 -1 667
+Encoding: 66023 -1 666
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50880,7 +50863,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3n1u2
-Encoding: 66024 -1 668
+Encoding: 66024 -1 667
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -50987,7 +50970,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3p3
-Encoding: 66025 -1 669
+Encoding: 66025 -1 668
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51059,7 +51042,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx p3
 EndChar
 
 StartChar: p3p3u1
-Encoding: 66026 -1 670
+Encoding: 66026 -1 669
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51147,7 +51130,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3p3u2
-Encoding: 66027 -1 671
+Encoding: 66027 -1 670
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51248,7 +51231,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3p4
-Encoding: 66028 -1 672
+Encoding: 66028 -1 671
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51348,7 +51331,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx p4
 EndChar
 
 StartChar: p3r3
-Encoding: 66029 -1 673
+Encoding: 66029 -1 672
 Width: 2386
 GlyphClass: 3
 Flags: W
@@ -51427,7 +51410,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p3r3u1
-Encoding: 66030 -1 674
+Encoding: 66030 -1 673
 Width: 2342
 GlyphClass: 3
 Flags: W
@@ -51524,7 +51507,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3r3u2
-Encoding: 66031 -1 675
+Encoding: 66031 -1 674
 Width: 2344
 GlyphClass: 3
 Flags: W
@@ -51626,7 +51609,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3l3
-Encoding: 66032 -1 676
+Encoding: 66032 -1 675
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51723,7 +51706,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: p3l3u1
-Encoding: 66033 -1 677
+Encoding: 66033 -1 676
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51833,7 +51816,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p3l3u2
-Encoding: 66034 -1 678
+Encoding: 66034 -1 677
 Width: 2096
 GlyphClass: 3
 Flags: W
@@ -51958,7 +51941,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4u1
-Encoding: 66035 -1 679
+Encoding: 66035 -1 678
 Width: 1034
 GlyphClass: 3
 Flags: W
@@ -52018,7 +52001,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4u2
-Encoding: 66036 -1 680
+Encoding: 66036 -1 679
 Width: 1322
 GlyphClass: 3
 Flags: W
@@ -52089,7 +52072,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4r1
-Encoding: 66037 -1 681
+Encoding: 66037 -1 680
 Width: 1076
 GlyphClass: 3
 Flags: W
@@ -52148,7 +52131,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4r2
-Encoding: 66038 -1 682
+Encoding: 66038 -1 681
 Width: 1126
 GlyphClass: 3
 Flags: W
@@ -52245,7 +52228,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4r3
-Encoding: 66039 -1 683
+Encoding: 66039 -1 682
 Width: 1394
 GlyphClass: 3
 Flags: W
@@ -52305,7 +52288,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p
 EndChar
 
 StartChar: p4r3u1
-Encoding: 66040 -1 684
+Encoding: 66040 -1 683
 Width: 1394
 GlyphClass: 3
 Flags: W
@@ -52384,7 +52367,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: p4r3u2
-Encoding: 66041 -1 685
+Encoding: 66041 -1 684
 Width: 1394
 GlyphClass: 3
 Flags: W
@@ -52471,7 +52454,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1u1
-Encoding: 66042 -1 686
+Encoding: 66042 -1 685
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52526,7 +52509,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1u2
-Encoding: 66043 -1 687
+Encoding: 66043 -1 686
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52593,7 +52576,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1r1
-Encoding: 66044 -1 688
+Encoding: 66044 -1 687
 Width: 1038
 GlyphClass: 3
 Flags: W
@@ -52661,7 +52644,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1r2
-Encoding: 66045 -1 689
+Encoding: 66045 -1 688
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52754,7 +52737,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1n1
-Encoding: 66046 -1 690
+Encoding: 66046 -1 689
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52817,7 +52800,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx n1
 EndChar
 
 StartChar: m1n1u1
-Encoding: 66047 -1 691
+Encoding: 66047 -1 690
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52890,7 +52873,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1n1u2
-Encoding: 66048 -1 692
+Encoding: 66048 -1 691
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -52974,7 +52957,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1p1
-Encoding: 66049 -1 693
+Encoding: 66049 -1 692
 Width: 1958
 GlyphClass: 3
 Flags: W
@@ -53018,7 +53001,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx p1
 EndChar
 
 StartChar: m1p1u1
-Encoding: 66050 -1 694
+Encoding: 66050 -1 693
 Width: 1958
 GlyphClass: 3
 Flags: W
@@ -53078,7 +53061,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1p1u2
-Encoding: 66051 -1 695
+Encoding: 66051 -1 694
 Width: 1958
 GlyphClass: 3
 Flags: W
@@ -53151,7 +53134,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1p1r1
-Encoding: 66052 -1 696
+Encoding: 66052 -1 695
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -53217,7 +53200,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1p1r3
-Encoding: 66053 -1 697
+Encoding: 66053 -1 696
 Width: 2248
 GlyphClass: 3
 Flags: W
@@ -53277,7 +53260,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m
 EndChar
 
 StartChar: m1p1r3u1
-Encoding: 66054 -1 698
+Encoding: 66054 -1 697
 Width: 2248
 GlyphClass: 3
 Flags: W
@@ -53356,7 +53339,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1p1r3u2
-Encoding: 66055 -1 699
+Encoding: 66055 -1 698
 Width: 2248
 GlyphClass: 3
 Flags: W
@@ -53445,7 +53428,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1m1
-Encoding: 66056 -1 700
+Encoding: 66056 -1 699
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -53512,7 +53495,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx m1
 EndChar
 
 StartChar: m1m1u1
-Encoding: 66057 -1 701
+Encoding: 66057 -1 700
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -53595,7 +53578,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1m1u2
-Encoding: 66058 -1 702
+Encoding: 66058 -1 701
 Width: 1928
 GlyphClass: 3
 Flags: W
@@ -53691,7 +53674,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1m1r1
-Encoding: 66059 -1 703
+Encoding: 66059 -1 702
 Width: 1936
 GlyphClass: 3
 Flags: W
@@ -53762,7 +53745,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1r3
-Encoding: 66060 -1 704
+Encoding: 66060 -1 703
 Width: 1362
 GlyphClass: 3
 Flags: W
@@ -53820,7 +53803,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m
 EndChar
 
 StartChar: m1r3u1
-Encoding: 66061 -1 705
+Encoding: 66061 -1 704
 Width: 1362
 GlyphClass: 3
 Flags: W
@@ -53894,7 +53877,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1r3u2
-Encoding: 66062 -1 706
+Encoding: 66062 -1 705
 Width: 1362
 GlyphClass: 3
 Flags: W
@@ -53980,7 +53963,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1l3
-Encoding: 66063 -1 707
+Encoding: 66063 -1 706
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -54055,7 +54038,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: m1l3u1
-Encoding: 66064 -1 708
+Encoding: 66064 -1 707
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -54142,7 +54125,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: m1l3u2
-Encoding: 66065 -1 709
+Encoding: 66065 -1 708
 Width: 1046
 GlyphClass: 3
 Flags: W
@@ -54243,7 +54226,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1u1
-Encoding: 66066 -1 710
+Encoding: 66066 -1 709
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54310,7 +54293,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1u2
-Encoding: 66067 -1 711
+Encoding: 66067 -1 710
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54393,7 +54376,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1r1
-Encoding: 66068 -1 712
+Encoding: 66068 -1 711
 Width: 1648
 GlyphClass: 3
 Flags: W
@@ -54463,7 +54446,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1k1
-Encoding: 66069 -1 713
+Encoding: 66069 -1 712
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54565,7 +54548,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1k1u1
-Encoding: 66070 -1 714
+Encoding: 66070 -1 713
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54674,7 +54657,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1k1u2
-Encoding: 66071 -1 715
+Encoding: 66071 -1 714
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54787,7 +54770,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1k1r1
-Encoding: 66072 -1 716
+Encoding: 66072 -1 715
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -54894,7 +54877,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1k1k1
-Encoding: 66073 -1 717
+Encoding: 66073 -1 716
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55015,7 +54998,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1k1k1u1
-Encoding: 66074 -1 718
+Encoding: 66074 -1 717
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55145,7 +55128,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1k1k1u2
-Encoding: 66075 -1 719
+Encoding: 66075 -1 718
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55284,7 +55267,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1ch1
-Encoding: 66076 -1 720
+Encoding: 66076 -1 719
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55357,7 +55340,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1ch1u1
-Encoding: 66077 -1 721
+Encoding: 66077 -1 720
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55446,7 +55429,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1ch1u2
-Encoding: 66078 -1 722
+Encoding: 66078 -1 721
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55547,7 +55530,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1
-Encoding: 66079 -1 723
+Encoding: 66079 -1 722
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55632,7 +55615,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1th1u1
-Encoding: 66080 -1 724
+Encoding: 66080 -1 723
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55731,7 +55714,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1u2
-Encoding: 66081 -1 725
+Encoding: 66081 -1 724
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55836,7 +55819,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1r1
-Encoding: 66082 -1 726
+Encoding: 66082 -1 725
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -55933,7 +55916,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1th1
-Encoding: 66083 -1 727
+Encoding: 66083 -1 726
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56044,7 +56027,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1th1th1u1
-Encoding: 66084 -1 728
+Encoding: 66084 -1 727
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56170,7 +56153,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1th1u2
-Encoding: 66085 -1 729
+Encoding: 66085 -1 728
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56303,7 +56286,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1th1th1r1
-Encoding: 66086 -1 730
+Encoding: 66086 -1 729
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56424,7 +56407,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1n1
-Encoding: 66087 -1 731
+Encoding: 66087 -1 730
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56501,7 +56484,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1n1u1
-Encoding: 66088 -1 732
+Encoding: 66088 -1 731
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56587,7 +56570,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1n1u2
-Encoding: 66089 -1 733
+Encoding: 66089 -1 732
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56685,7 +56668,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1p1
-Encoding: 66090 -1 734
+Encoding: 66090 -1 733
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56756,7 +56739,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1p1u1
-Encoding: 66091 -1 735
+Encoding: 66091 -1 734
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56843,7 +56826,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1p1u2
-Encoding: 66092 -1 736
+Encoding: 66092 -1 735
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -56943,7 +56926,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1p1r1
-Encoding: 66093 -1 737
+Encoding: 66093 -1 736
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57029,7 +57012,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1m1
-Encoding: 66094 -1 738
+Encoding: 66094 -1 737
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57108,7 +57091,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y
 EndChar
 
 StartChar: y1m1u1
-Encoding: 66095 -1 739
+Encoding: 66095 -1 738
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57204,7 +57187,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1m1u2
-Encoding: 66096 -1 740
+Encoding: 66096 -1 739
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57318,7 +57301,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1m1r1
-Encoding: 66097 -1 741
+Encoding: 66097 -1 740
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57422,7 +57405,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1y1
-Encoding: 66098 -1 742
+Encoding: 66098 -1 741
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57487,7 +57470,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1y1u1
-Encoding: 66099 -1 743
+Encoding: 66099 -1 742
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57569,7 +57552,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: y1y1u2
-Encoding: 66100 -1 744
+Encoding: 66100 -1 743
 Width: 1624
 GlyphClass: 3
 Flags: W
@@ -57663,7 +57646,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: r3u1
-Encoding: 66101 -1 745
+Encoding: 66101 -1 744
 Width: 1580
 GlyphClass: 3
 Flags: W
@@ -57721,7 +57704,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: r3u2
-Encoding: 66102 -1 746
+Encoding: 66102 -1 745
 Width: 1892
 GlyphClass: 3
 Flags: W
@@ -57786,7 +57769,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: r3r1
-Encoding: 66103 -1 747
+Encoding: 66103 -1 746
 Width: 1236
 GlyphClass: 3
 Flags: W
@@ -57850,7 +57833,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3u1
-Encoding: 66104 -1 748
+Encoding: 66104 -1 747
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -57902,7 +57885,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3u2
-Encoding: 66105 -1 749
+Encoding: 66105 -1 748
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -57966,7 +57949,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3r1
-Encoding: 66106 -1 750
+Encoding: 66106 -1 749
 Width: 1554
 GlyphClass: 3
 Flags: W
@@ -58017,7 +58000,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k1
-Encoding: 66107 -1 751
+Encoding: 66107 -1 750
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58105,7 +58088,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3k1u1
-Encoding: 66108 -1 752
+Encoding: 66108 -1 751
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58197,7 +58180,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k1u2
-Encoding: 66109 -1 753
+Encoding: 66109 -1 752
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58294,7 +58277,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k1r1
-Encoding: 66110 -1 754
+Encoding: 66110 -1 753
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58385,7 +58368,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k1k1
-Encoding: 66111 -1 755
+Encoding: 66111 -1 754
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58493,7 +58476,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3k1k1u1
-Encoding: 66112 -1 756
+Encoding: 66112 -1 755
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58608,7 +58591,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k1k1u2
-Encoding: 66113 -1 757
+Encoding: 66113 -1 756
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58732,7 +58715,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k3
-Encoding: 66114 -1 758
+Encoding: 66114 -1 757
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58797,7 +58780,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k3
 EndChar
 
 StartChar: l3k3u1
-Encoding: 66115 -1 759
+Encoding: 66115 -1 758
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58877,7 +58860,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k3u2
-Encoding: 66116 -1 760
+Encoding: 66116 -1 759
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -58966,7 +58949,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3k3r1
-Encoding: 66117 -1 761
+Encoding: 66117 -1 760
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59041,7 +59024,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3ch1
-Encoding: 66118 -1 762
+Encoding: 66118 -1 761
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59095,7 +59078,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3ch1u1
-Encoding: 66119 -1 763
+Encoding: 66119 -1 762
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59165,7 +59148,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3ch1u2
-Encoding: 66120 -1 764
+Encoding: 66120 -1 763
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59247,7 +59230,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3th1
-Encoding: 66121 -1 765
+Encoding: 66121 -1 764
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59316,7 +59299,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1
 EndChar
 
 StartChar: l3th1u1
-Encoding: 66122 -1 766
+Encoding: 66122 -1 765
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59400,7 +59383,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3th1u2
-Encoding: 66123 -1 767
+Encoding: 66123 -1 766
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59490,7 +59473,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3th1r1
-Encoding: 66124 -1 768
+Encoding: 66124 -1 767
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59570,7 +59553,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3th1th1
-Encoding: 66125 -1 769
+Encoding: 66125 -1 768
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59664,7 +59647,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1 xx th1
 EndChar
 
 StartChar: l3th1th1u1
-Encoding: 66126 -1 770
+Encoding: 66126 -1 769
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59772,7 +59755,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3th1th1u2
-Encoding: 66127 -1 771
+Encoding: 66127 -1 770
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -59888,7 +59871,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p1
-Encoding: 66128 -1 772
+Encoding: 66128 -1 771
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -59940,7 +59923,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3p1u1
-Encoding: 66129 -1 773
+Encoding: 66129 -1 772
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -60009,7 +59992,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p1u2
-Encoding: 66130 -1 774
+Encoding: 66130 -1 773
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -60090,7 +60073,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p1r3
-Encoding: 66131 -1 775
+Encoding: 66131 -1 774
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60156,7 +60139,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l
 EndChar
 
 StartChar: l3p1r3u1
-Encoding: 66132 -1 776
+Encoding: 66132 -1 775
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60240,7 +60223,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p1r3u2
-Encoding: 66133 -1 777
+Encoding: 66133 -1 776
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60337,7 +60320,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p2
-Encoding: 66134 -1 778
+Encoding: 66134 -1 777
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60403,7 +60386,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx p2
 EndChar
 
 StartChar: l3p2u1
-Encoding: 66135 -1 779
+Encoding: 66135 -1 778
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60485,7 +60468,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p2u2
-Encoding: 66136 -1 780
+Encoding: 66136 -1 779
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60579,7 +60562,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p3
-Encoding: 66137 -1 781
+Encoding: 66137 -1 780
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60659,7 +60642,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx p3
 EndChar
 
 StartChar: l3p3u1
-Encoding: 66138 -1 782
+Encoding: 66138 -1 781
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60755,7 +60738,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3p3u2
-Encoding: 66139 -1 783
+Encoding: 66139 -1 782
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -60868,7 +60851,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3m1
-Encoding: 66140 -1 784
+Encoding: 66140 -1 783
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -60931,7 +60914,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx m1
 EndChar
 
 StartChar: l3m1u1
-Encoding: 66141 -1 785
+Encoding: 66141 -1 784
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -61011,7 +60994,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3m1u2
-Encoding: 66142 -1 786
+Encoding: 66142 -1 785
 Width: 1456
 GlyphClass: 3
 Flags: W
@@ -61109,7 +61092,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3l3
-Encoding: 66143 -1 787
+Encoding: 66143 -1 786
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -61183,7 +61166,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: l3l3u1
-Encoding: 66144 -1 788
+Encoding: 66144 -1 787
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -61273,7 +61256,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l3l3u2
-Encoding: 66145 -1 789
+Encoding: 66145 -1 788
 Width: 1462
 GlyphClass: 3
 Flags: W
@@ -61378,7 +61361,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1u1
-Encoding: 66146 -1 790
+Encoding: 66146 -1 789
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -61428,7 +61411,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1u2
-Encoding: 66147 -1 791
+Encoding: 66147 -1 790
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -61491,7 +61474,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1r1
-Encoding: 66148 -1 792
+Encoding: 66148 -1 791
 Width: 1464
 GlyphClass: 3
 Flags: W
@@ -61542,7 +61525,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1r3
-Encoding: 66149 -1 793
+Encoding: 66149 -1 792
 Width: 1772
 GlyphClass: 3
 Flags: W
@@ -61591,7 +61574,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" v
 EndChar
 
 StartChar: v1r3u1
-Encoding: 66150 -1 794
+Encoding: 66150 -1 793
 Width: 1752
 GlyphClass: 3
 Flags: W
@@ -61660,7 +61643,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1r3u2
-Encoding: 66151 -1 795
+Encoding: 66151 -1 794
 Width: 1756
 GlyphClass: 3
 Flags: W
@@ -61736,7 +61719,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1l3
-Encoding: 66152 -1 796
+Encoding: 66152 -1 795
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -61807,7 +61790,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: v1l3u1
-Encoding: 66153 -1 797
+Encoding: 66153 -1 796
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -61892,7 +61875,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1l3u2
-Encoding: 66154 -1 798
+Encoding: 66154 -1 797
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -61990,7 +61973,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1v1
-Encoding: 66155 -1 799
+Encoding: 66155 -1 798
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -62036,7 +62019,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1v1u1
-Encoding: 66156 -1 800
+Encoding: 66156 -1 799
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -62099,7 +62082,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: v1v1u2
-Encoding: 66157 -1 801
+Encoding: 66157 -1 800
 Width: 1466
 GlyphClass: 3
 Flags: W
@@ -62174,7 +62157,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1u1
-Encoding: 66158 -1 802
+Encoding: 66158 -1 801
 Width: 1988
 GlyphClass: 3
 Flags: W
@@ -62246,7 +62229,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1u2
-Encoding: 66159 -1 803
+Encoding: 66159 -1 802
 Width: 1978
 GlyphClass: 3
 Flags: W
@@ -62330,7 +62313,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1r1
-Encoding: 66160 -1 804
+Encoding: 66160 -1 803
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -62415,7 +62398,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch1
-Encoding: 66161 -1 805
+Encoding: 66161 -1 804
 Width: 2288
 GlyphClass: 3
 Flags: W
@@ -62480,7 +62463,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx ch1
 EndChar
 
 StartChar: z1ch1u1
-Encoding: 66162 -1 806
+Encoding: 66162 -1 805
 Width: 2288
 GlyphClass: 3
 Flags: W
@@ -62563,7 +62546,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch1u2
-Encoding: 66163 -1 807
+Encoding: 66163 -1 806
 Width: 2288
 GlyphClass: 3
 Flags: W
@@ -62657,7 +62640,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch1r1
-Encoding: 66164 -1 808
+Encoding: 66164 -1 807
 Width: 2390
 GlyphClass: 3
 Flags: W
@@ -62733,7 +62716,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch2
-Encoding: 66165 -1 809
+Encoding: 66165 -1 808
 Width: 2892
 GlyphClass: 3
 Flags: W
@@ -62822,7 +62805,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx ch2
 EndChar
 
 StartChar: z1ch2u1
-Encoding: 66166 -1 810
+Encoding: 66166 -1 809
 Width: 3354
 GlyphClass: 3
 Flags: W
@@ -62937,7 +62920,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch2u2
-Encoding: 66167 -1 811
+Encoding: 66167 -1 810
 Width: 3284
 GlyphClass: 3
 Flags: W
@@ -63060,7 +63043,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1ch2r1
-Encoding: 66168 -1 812
+Encoding: 66168 -1 811
 Width: 3180
 GlyphClass: 3
 Flags: W
@@ -63167,7 +63150,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1n1
-Encoding: 66169 -1 813
+Encoding: 66169 -1 812
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63242,7 +63225,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx n1
 EndChar
 
 StartChar: z1n1u1
-Encoding: 66170 -1 814
+Encoding: 66170 -1 813
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63326,7 +63309,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1n1u2
-Encoding: 66171 -1 815
+Encoding: 66171 -1 814
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63422,7 +63405,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1m1
-Encoding: 66172 -1 816
+Encoding: 66172 -1 815
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63498,7 +63481,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx m1
 EndChar
 
 StartChar: z1m1u1
-Encoding: 66173 -1 817
+Encoding: 66173 -1 816
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63596,7 +63579,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1m1u2
-Encoding: 66174 -1 818
+Encoding: 66174 -1 817
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63710,7 +63693,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1m1r1
-Encoding: 66175 -1 819
+Encoding: 66175 -1 818
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -63812,7 +63795,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1r3
-Encoding: 66176 -1 820
+Encoding: 66176 -1 819
 Width: 2240
 GlyphClass: 3
 Flags: W
@@ -63891,7 +63874,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z
 EndChar
 
 StartChar: z1r3u1
-Encoding: 66177 -1 821
+Encoding: 66177 -1 820
 Width: 2240
 GlyphClass: 3
 Flags: W
@@ -63989,7 +63972,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1r3u2
-Encoding: 66178 -1 822
+Encoding: 66178 -1 821
 Width: 2240
 GlyphClass: 3
 Flags: W
@@ -64099,7 +64082,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1l3
-Encoding: 66179 -1 823
+Encoding: 66179 -1 822
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64185,7 +64168,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: z1l3u1
-Encoding: 66180 -1 824
+Encoding: 66180 -1 823
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64284,7 +64267,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1l3u2
-Encoding: 66181 -1 825
+Encoding: 66181 -1 824
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64396,7 +64379,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1z1
-Encoding: 66182 -1 826
+Encoding: 66182 -1 825
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64480,7 +64463,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx z1
 EndChar
 
 StartChar: z1z1u1
-Encoding: 66183 -1 827
+Encoding: 66183 -1 826
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64583,7 +64566,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1z1u2
-Encoding: 66184 -1 828
+Encoding: 66184 -1 827
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64700,7 +64683,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1z1r1
-Encoding: 66185 -1 829
+Encoding: 66185 -1 828
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64812,7 +64795,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1z1r3
-Encoding: 66186 -1 830
+Encoding: 66186 -1 829
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -64921,7 +64904,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z
 EndChar
 
 StartChar: z1z1r3u1
-Encoding: 66187 -1 831
+Encoding: 66187 -1 830
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -65046,7 +65029,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: z1z1r3u2
-Encoding: 66188 -1 832
+Encoding: 66188 -1 831
 Width: 1608
 GlyphClass: 3
 Flags: W
@@ -65181,7 +65164,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shu1
-Encoding: 66189 -1 833
+Encoding: 66189 -1 832
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65255,7 +65238,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shu2
-Encoding: 66190 -1 834
+Encoding: 66190 -1 833
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65341,7 +65324,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shr1
-Encoding: 66191 -1 835
+Encoding: 66191 -1 834
 Width: 1908
 GlyphClass: 3
 Flags: W
@@ -65417,7 +65400,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1
-Encoding: 66192 -1 836
+Encoding: 66192 -1 835
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65527,7 +65510,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx k1
 EndChar
 
 StartChar: shk1u1
-Encoding: 66193 -1 837
+Encoding: 66193 -1 836
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65639,7 +65622,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1u2
-Encoding: 66194 -1 838
+Encoding: 66194 -1 837
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65763,7 +65746,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1r1
-Encoding: 66195 -1 839
+Encoding: 66195 -1 838
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -65876,7 +65859,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1k1
-Encoding: 66196 -1 840
+Encoding: 66196 -1 839
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66005,7 +65988,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx k1 xx k1
 EndChar
 
 StartChar: shk1k1u1
-Encoding: 66197 -1 841
+Encoding: 66197 -1 840
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66144,7 +66127,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1k1u2
-Encoding: 66198 -1 842
+Encoding: 66198 -1 841
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66289,7 +66272,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1k1r1
-Encoding: 66199 -1 843
+Encoding: 66199 -1 842
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66425,7 +66408,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1r3
-Encoding: 66200 -1 844
+Encoding: 66200 -1 843
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66532,7 +66515,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shk1r3u1
-Encoding: 66201 -1 845
+Encoding: 66201 -1 844
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66655,7 +66638,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shk1r3u2
-Encoding: 66202 -1 846
+Encoding: 66202 -1 845
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66791,7 +66774,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht1
-Encoding: 66203 -1 847
+Encoding: 66203 -1 846
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66874,7 +66857,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t1
 EndChar
 
 StartChar: sht1u1
-Encoding: 66204 -1 848
+Encoding: 66204 -1 847
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -66971,7 +66954,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht1u2
-Encoding: 66205 -1 849
+Encoding: 66205 -1 848
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67084,7 +67067,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht1r1
-Encoding: 66206 -1 850
+Encoding: 66206 -1 849
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67173,7 +67156,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht1r2
-Encoding: 66207 -1 851
+Encoding: 66207 -1 850
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67283,11 +67266,12 @@ SplineSet
  960 566 960 566 1024 504 c 128,-1,163
  1088 442 1088 442 1180 434 c 1,155,-1
 EndSplineSet
+LCarets2: 1 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" sht1 r2
 EndChar
 
 StartChar: sht1r3
-Encoding: 66208 -1 852
+Encoding: 66208 -1 851
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67367,12 +67351,13 @@ SplineSet
  960 566 960 566 1024 504 c 128,-1,109
  1088 442 1088 442 1180 434 c 1,101,-1
 EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" sht1 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" sht1 xx r3
 EndChar
 
 StartChar: sht1r3u1
-Encoding: 66209 -1 853
+Encoding: 66209 -1 852
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67471,7 +67456,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht1r3u2
-Encoding: 66210 -1 854
+Encoding: 66210 -1 853
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67585,7 +67570,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht2
-Encoding: 66211 -1 855
+Encoding: 66211 -1 854
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67660,7 +67645,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t2
 EndChar
 
 StartChar: sht2u1
-Encoding: 66212 -1 856
+Encoding: 66212 -1 855
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67752,7 +67737,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: sht2u2
-Encoding: 66213 -1 857
+Encoding: 66213 -1 856
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67858,7 +67843,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shnh
-Encoding: 66214 -1 858
+Encoding: 66214 -1 857
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -67962,7 +67947,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx nh
 EndChar
 
 StartChar: shnhu1
-Encoding: 66215 -1 859
+Encoding: 66215 -1 858
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68075,7 +68060,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shnhu2
-Encoding: 66216 -1 860
+Encoding: 66216 -1 859
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68199,7 +68184,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp1
-Encoding: 66217 -1 861
+Encoding: 66217 -1 860
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68275,7 +68260,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shp1u1
-Encoding: 66218 -1 862
+Encoding: 66218 -1 861
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68367,7 +68352,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp1u2
-Encoding: 66219 -1 863
+Encoding: 66219 -1 862
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68473,7 +68458,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp1r1
-Encoding: 66220 -1 864
+Encoding: 66220 -1 863
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68562,7 +68547,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp1r3
-Encoding: 66221 -1 865
+Encoding: 66221 -1 864
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68650,7 +68635,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shp1r3u1
-Encoding: 66222 -1 866
+Encoding: 66222 -1 865
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68757,7 +68742,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp1r3u2
-Encoding: 66223 -1 867
+Encoding: 66223 -1 866
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68877,7 +68862,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp2
-Encoding: 66224 -1 868
+Encoding: 66224 -1 867
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -68965,7 +68950,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx p2
 EndChar
 
 StartChar: shp2u1
-Encoding: 66225 -1 869
+Encoding: 66225 -1 868
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -69072,7 +69057,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shp2u2
-Encoding: 66226 -1 870
+Encoding: 66226 -1 869
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -69188,7 +69173,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shm1
-Encoding: 66227 -1 871
+Encoding: 66227 -1 870
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -69273,7 +69258,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx m1
 EndChar
 
 StartChar: shm1u1
-Encoding: 66228 -1 872
+Encoding: 66228 -1 871
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -69374,7 +69359,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shm1u2
-Encoding: 66229 -1 873
+Encoding: 66229 -1 872
 Width: 1886
 GlyphClass: 3
 Flags: W
@@ -69493,7 +69478,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shm1r3
-Encoding: 66230 -1 874
+Encoding: 66230 -1 873
 Width: 2194
 GlyphClass: 3
 Flags: W
@@ -69566,7 +69551,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: shm1r3u1
-Encoding: 66231 -1 875
+Encoding: 66231 -1 874
 Width: 2194
 GlyphClass: 3
 Flags: W
@@ -69655,7 +69640,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: shm1r3u2
-Encoding: 66232 -1 876
+Encoding: 66232 -1 875
 Width: 2194
 GlyphClass: 3
 Flags: W
@@ -69757,7 +69742,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1u1
-Encoding: 66233 -1 877
+Encoding: 66233 -1 876
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -69825,7 +69810,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1u2
-Encoding: 66234 -1 878
+Encoding: 66234 -1 877
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -69905,7 +69890,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1r1
-Encoding: 66235 -1 879
+Encoding: 66235 -1 878
 Width: 2026
 GlyphClass: 3
 Flags: W
@@ -69973,7 +69958,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1r2
-Encoding: 66236 -1 880
+Encoding: 66236 -1 879
 Width: 2056
 GlyphClass: 3
 Flags: W
@@ -70071,7 +70056,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1
-Encoding: 66237 -1 881
+Encoding: 66237 -1 880
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70171,7 +70156,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1
 EndChar
 
 StartChar: s1k1u1
-Encoding: 66238 -1 882
+Encoding: 66238 -1 881
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70276,7 +70261,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1u2
-Encoding: 66239 -1 883
+Encoding: 66239 -1 882
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70392,7 +70377,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1r1
-Encoding: 66240 -1 884
+Encoding: 66240 -1 883
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70498,7 +70483,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1k1
-Encoding: 66241 -1 885
+Encoding: 66241 -1 884
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70622,7 +70607,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
-Encoding: 66242 -1 886
+Encoding: 66242 -1 885
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70751,7 +70736,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1k1u2
-Encoding: 66243 -1 887
+Encoding: 66243 -1 886
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -70888,7 +70873,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1k1r1
-Encoding: 66244 -1 888
+Encoding: 66244 -1 887
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71017,7 +71002,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1r3
-Encoding: 66245 -1 889
+Encoding: 66245 -1 888
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71116,7 +71101,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1k1r3u1
-Encoding: 66246 -1 890
+Encoding: 66246 -1 889
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71231,7 +71216,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k1r3u2
-Encoding: 66247 -1 891
+Encoding: 66247 -1 890
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71360,7 +71345,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k2
-Encoding: 66248 -1 892
+Encoding: 66248 -1 891
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71442,7 +71427,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k2
 EndChar
 
 StartChar: s1k2u1
-Encoding: 66249 -1 893
+Encoding: 66249 -1 892
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71540,7 +71525,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1k2u2
-Encoding: 66250 -1 894
+Encoding: 66250 -1 893
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71651,7 +71636,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1t1
-Encoding: 66251 -1 895
+Encoding: 66251 -1 894
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71726,7 +71711,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx t1
 EndChar
 
 StartChar: s1t1u1
-Encoding: 66252 -1 896
+Encoding: 66252 -1 895
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71815,7 +71800,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1t1u2
-Encoding: 66253 -1 897
+Encoding: 66253 -1 896
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71918,7 +71903,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1t1r3
-Encoding: 66254 -1 898
+Encoding: 66254 -1 897
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -71995,7 +71980,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1t1r3u1
-Encoding: 66255 -1 899
+Encoding: 66255 -1 898
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72085,7 +72070,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1t1r3u2
-Encoding: 66256 -1 900
+Encoding: 66256 -1 899
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72188,7 +72173,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1
-Encoding: 66257 -1 901
+Encoding: 66257 -1 900
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72271,7 +72256,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
-Encoding: 66258 -1 902
+Encoding: 66258 -1 901
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72369,7 +72354,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1u2
-Encoding: 66259 -1 903
+Encoding: 66259 -1 902
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72473,7 +72458,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1r1
-Encoding: 66260 -1 904
+Encoding: 66260 -1 903
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72568,7 +72553,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1r2
-Encoding: 66261 -1 905
+Encoding: 66261 -1 904
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72691,7 +72676,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1r3
-Encoding: 66262 -1 906
+Encoding: 66262 -1 905
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72782,7 +72767,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1th1r3u1
-Encoding: 66263 -1 907
+Encoding: 66263 -1 906
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -72890,7 +72875,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th1r3u2
-Encoding: 66264 -1 908
+Encoding: 66264 -1 907
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73009,7 +72994,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th2
-Encoding: 66265 -1 909
+Encoding: 66265 -1 908
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -73076,7 +73061,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u1
-Encoding: 66266 -1 910
+Encoding: 66266 -1 909
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -73160,7 +73145,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th2u2
-Encoding: 66267 -1 911
+Encoding: 66267 -1 910
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -73256,7 +73241,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1th2r1
-Encoding: 66268 -1 912
+Encoding: 66268 -1 911
 Width: 3030
 GlyphClass: 3
 Flags: W
@@ -73340,7 +73325,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1n1
-Encoding: 66269 -1 913
+Encoding: 66269 -1 912
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73415,7 +73400,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx n1
 EndChar
 
 StartChar: s1n1u1
-Encoding: 66270 -1 914
+Encoding: 66270 -1 913
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73499,7 +73484,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1n1u2
-Encoding: 66271 -1 915
+Encoding: 66271 -1 914
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73595,7 +73580,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p1
-Encoding: 66272 -1 916
+Encoding: 66272 -1 915
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73664,7 +73649,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1p1u1
-Encoding: 66273 -1 917
+Encoding: 66273 -1 916
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73749,7 +73734,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p1u2
-Encoding: 66274 -1 918
+Encoding: 66274 -1 917
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73847,7 +73832,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p1r1
-Encoding: 66275 -1 919
+Encoding: 66275 -1 918
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -73931,7 +73916,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p1r3
-Encoding: 66276 -1 920
+Encoding: 66276 -1 919
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74013,7 +73998,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1p1r3u1
-Encoding: 66277 -1 921
+Encoding: 66277 -1 920
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74113,7 +74098,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p1r3u2
-Encoding: 66278 -1 922
+Encoding: 66278 -1 921
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74224,7 +74209,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p2
-Encoding: 66279 -1 923
+Encoding: 66279 -1 922
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74304,7 +74289,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx p2
 EndChar
 
 StartChar: s1p2u1
-Encoding: 66280 -1 924
+Encoding: 66280 -1 923
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74400,7 +74385,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1p2u2
-Encoding: 66281 -1 925
+Encoding: 66281 -1 924
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74508,7 +74493,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1m1
-Encoding: 66282 -1 926
+Encoding: 66282 -1 925
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74585,7 +74570,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx m1
 EndChar
 
 StartChar: s1m1u1
-Encoding: 66283 -1 927
+Encoding: 66283 -1 926
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74679,7 +74664,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1m1u2
-Encoding: 66284 -1 928
+Encoding: 66284 -1 927
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74791,7 +74776,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1m1r1
-Encoding: 66285 -1 929
+Encoding: 66285 -1 928
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -74889,7 +74874,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1r3
-Encoding: 66286 -1 930
+Encoding: 66286 -1 929
 Width: 2304
 GlyphClass: 3
 Flags: W
@@ -74954,7 +74939,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1r3u1
-Encoding: 66287 -1 931
+Encoding: 66287 -1 930
 Width: 2304
 GlyphClass: 3
 Flags: W
@@ -75034,7 +75019,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1r3u2
-Encoding: 66288 -1 932
+Encoding: 66288 -1 931
 Width: 2304
 GlyphClass: 3
 Flags: W
@@ -75124,7 +75109,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1l3
-Encoding: 66289 -1 933
+Encoding: 66289 -1 932
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75210,7 +75195,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: s1l3u1
-Encoding: 66290 -1 934
+Encoding: 66290 -1 933
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75310,7 +75295,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1l3u2
-Encoding: 66291 -1 935
+Encoding: 66291 -1 934
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75423,7 +75408,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1s1
-Encoding: 66292 -1 936
+Encoding: 66292 -1 935
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75508,7 +75493,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
-Encoding: 66293 -1 937
+Encoding: 66293 -1 936
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75608,7 +75593,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1s1u2
-Encoding: 66294 -1 938
+Encoding: 66294 -1 937
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75719,7 +75704,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1s1r1
-Encoding: 66295 -1 939
+Encoding: 66295 -1 938
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75820,7 +75805,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1s1r3
-Encoding: 66296 -1 940
+Encoding: 66296 -1 939
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -75915,7 +75900,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1s1r3u1
-Encoding: 66297 -1 941
+Encoding: 66297 -1 940
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76027,7 +76012,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1s1r3u2
-Encoding: 66298 -1 942
+Encoding: 66298 -1 941
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76151,7 +76136,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1rhrh
-Encoding: 66299 -1 943
+Encoding: 66299 -1 942
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76234,7 +76219,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
-Encoding: 66300 -1 944
+Encoding: 66300 -1 943
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76335,7 +76320,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1rhrhu2
-Encoding: 66301 -1 945
+Encoding: 66301 -1 944
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76450,7 +76435,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1rhrhr3
-Encoding: 66302 -1 946
+Encoding: 66302 -1 945
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76544,7 +76529,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s
 EndChar
 
 StartChar: s1rhrhr3u1
-Encoding: 66303 -1 947
+Encoding: 66303 -1 946
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76652,7 +76637,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: s1rhrhr3u3
-Encoding: 66304 -1 948
+Encoding: 66304 -1 947
 Width: 2006
 GlyphClass: 3
 Flags: W
@@ -76776,7 +76761,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1u1
-Encoding: 66305 -1 949
+Encoding: 66305 -1 948
 Width: 2092
 GlyphClass: 3
 Flags: W
@@ -76835,7 +76820,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1u2
-Encoding: 66306 -1 950
+Encoding: 66306 -1 949
 Width: 2086
 GlyphClass: 3
 Flags: W
@@ -76907,7 +76892,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1r1
-Encoding: 66307 -1 951
+Encoding: 66307 -1 950
 Width: 2026
 GlyphClass: 3
 Flags: W
@@ -76965,7 +76950,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1n1
-Encoding: 66308 -1 952
+Encoding: 66308 -1 951
 Width: 2440
 GlyphClass: 3
 Flags: W
@@ -77020,7 +77005,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx n1
 EndChar
 
 StartChar: h1n1u1
-Encoding: 66309 -1 953
+Encoding: 66309 -1 952
 Width: 2590
 GlyphClass: 3
 Flags: W
@@ -77085,7 +77070,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1n1u2
-Encoding: 66310 -1 954
+Encoding: 66310 -1 953
 Width: 2830
 GlyphClass: 3
 Flags: W
@@ -77163,7 +77148,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1m1
-Encoding: 66311 -1 955
+Encoding: 66311 -1 954
 Width: 1996
 GlyphClass: 3
 Flags: W
@@ -77215,7 +77200,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx m1
 EndChar
 
 StartChar: h1m1u1
-Encoding: 66312 -1 956
+Encoding: 66312 -1 955
 Width: 1996
 GlyphClass: 3
 Flags: W
@@ -77285,7 +77270,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1m1u2
-Encoding: 66313 -1 957
+Encoding: 66313 -1 956
 Width: 1996
 GlyphClass: 3
 Flags: W
@@ -77372,7 +77357,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1m1r1
-Encoding: 66314 -1 958
+Encoding: 66314 -1 957
 Width: 2026
 GlyphClass: 3
 Flags: W
@@ -77438,7 +77423,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1r3
-Encoding: 66315 -1 959
+Encoding: 66315 -1 958
 Width: 2292
 GlyphClass: 3
 Flags: W
@@ -77493,7 +77478,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" h
 EndChar
 
 StartChar: h1r3u1
-Encoding: 66316 -1 960
+Encoding: 66316 -1 959
 Width: 2292
 GlyphClass: 3
 Flags: W
@@ -77567,7 +77552,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1r3u2
-Encoding: 66317 -1 961
+Encoding: 66317 -1 960
 Width: 2292
 GlyphClass: 3
 Flags: W
@@ -77652,7 +77637,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1l3
-Encoding: 66318 -1 962
+Encoding: 66318 -1 961
 Width: 2002
 GlyphClass: 3
 Flags: W
@@ -77736,7 +77721,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"
 EndChar
 
 StartChar: h1l3u1
-Encoding: 66319 -1 963
+Encoding: 66319 -1 962
 Width: 2002
 GlyphClass: 3
 Flags: W
@@ -77834,7 +77819,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: h1l3u2
-Encoding: 66320 -1 964
+Encoding: 66320 -1 963
 Width: 2002
 GlyphClass: 3
 Flags: W
@@ -77945,7 +77930,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: lhu1
-Encoding: 66321 -1 965
+Encoding: 66321 -1 964
 Width: 1134
 GlyphClass: 3
 Flags: W
@@ -78026,7 +78011,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: lhu2
-Encoding: 66322 -1 966
+Encoding: 66322 -1 965
 Width: 1134
 GlyphClass: 3
 Flags: W
@@ -78123,7 +78108,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: lhlh
-Encoding: 66323 -1 967
+Encoding: 66323 -1 966
 Width: 2242
 GlyphClass: 3
 Flags: W
@@ -78242,7 +78227,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
-Encoding: 66324 -1 968
+Encoding: 66324 -1 967
 Width: 2208
 GlyphClass: 3
 Flags: W
@@ -78357,7 +78342,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: lhlhu2
-Encoding: 66325 -1 969
+Encoding: 66325 -1 968
 Width: 2208
 GlyphClass: 3
 Flags: W
@@ -78485,7 +78470,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhu1
-Encoding: 66326 -1 970
+Encoding: 66326 -1 969
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -78546,7 +78531,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhu2
-Encoding: 66327 -1 971
+Encoding: 66327 -1 970
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -78622,7 +78607,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhk1
-Encoding: 66328 -1 972
+Encoding: 66328 -1 971
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -78718,7 +78703,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1
 EndChar
 
 StartChar: zhk1u1
-Encoding: 66329 -1 973
+Encoding: 66329 -1 972
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -78820,7 +78805,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhk1u2
-Encoding: 66330 -1 974
+Encoding: 66330 -1 973
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -78926,7 +78911,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhk1k1
-Encoding: 66331 -1 975
+Encoding: 66331 -1 974
 Width: 1298
 GlyphClass: 3
 Flags: W
@@ -79043,7 +79028,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhk1k1u1
-Encoding: 66332 -1 976
+Encoding: 66332 -1 975
 Width: 1380
 GlyphClass: 3
 Flags: W
@@ -79169,7 +79154,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhk1k1u2
-Encoding: 66333 -1 977
+Encoding: 66333 -1 976
 Width: 1374
 GlyphClass: 3
 Flags: W
@@ -79300,7 +79285,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhch1
-Encoding: 66334 -1 978
+Encoding: 66334 -1 977
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79367,7 +79352,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z
 EndChar
 
 StartChar: zhch1u1
-Encoding: 66335 -1 979
+Encoding: 66335 -1 978
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79456,7 +79441,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhch1u2
-Encoding: 66336 -1 980
+Encoding: 66336 -1 979
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79553,7 +79538,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhth1
-Encoding: 66337 -1 981
+Encoding: 66337 -1 980
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79632,7 +79617,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1
 EndChar
 
 StartChar: zhth1u1
-Encoding: 66338 -1 982
+Encoding: 66338 -1 981
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79726,7 +79711,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhth1u2
-Encoding: 66339 -1 983
+Encoding: 66339 -1 982
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -79826,7 +79811,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhth1th1
-Encoding: 66340 -1 984
+Encoding: 66340 -1 983
 Width: 1126
 GlyphClass: 3
 Flags: W
@@ -79930,7 +79915,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1 xx th1
 EndChar
 
 StartChar: zhth1th1u1
-Encoding: 66341 -1 985
+Encoding: 66341 -1 984
 Width: 1076
 GlyphClass: 3
 Flags: W
@@ -80047,7 +80032,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhth1th1u2
-Encoding: 66342 -1 986
+Encoding: 66342 -1 985
 Width: 1126
 GlyphClass: 3
 Flags: W
@@ -80174,7 +80159,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhn1
-Encoding: 66343 -1 987
+Encoding: 66343 -1 986
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -80244,7 +80229,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1
 EndChar
 
 StartChar: zhn1u1
-Encoding: 66344 -1 988
+Encoding: 66344 -1 987
 Width: 1080
 GlyphClass: 3
 Flags: W
@@ -80325,7 +80310,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhn1u2
-Encoding: 66345 -1 989
+Encoding: 66345 -1 988
 Width: 1054
 GlyphClass: 3
 Flags: W
@@ -80415,7 +80400,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhn1n1
-Encoding: 66346 -1 990
+Encoding: 66346 -1 989
 Width: 1056
 GlyphClass: 3
 Flags: W
@@ -80494,7 +80479,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1 xx n1
 EndChar
 
 StartChar: zhn1n1u1
-Encoding: 66347 -1 991
+Encoding: 66347 -1 990
 Width: 1060
 GlyphClass: 3
 Flags: W
@@ -80581,7 +80566,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhn1n1u2
-Encoding: 66348 -1 992
+Encoding: 66348 -1 991
 Width: 1050
 GlyphClass: 3
 Flags: W
@@ -80678,7 +80663,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhp1
-Encoding: 66349 -1 993
+Encoding: 66349 -1 992
 Width: 1064
 GlyphClass: 3
 Flags: W
@@ -80743,7 +80728,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z
 EndChar
 
 StartChar: zhp1u1
-Encoding: 66350 -1 994
+Encoding: 66350 -1 993
 Width: 1064
 GlyphClass: 3
 Flags: W
@@ -80824,7 +80809,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhp1u2
-Encoding: 66351 -1 995
+Encoding: 66351 -1 994
 Width: 1064
 GlyphClass: 3
 Flags: W
@@ -80918,7 +80903,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhm1
-Encoding: 66352 -1 996
+Encoding: 66352 -1 995
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -80991,7 +80976,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx m1
 EndChar
 
 StartChar: zhm1u1
-Encoding: 66353 -1 997
+Encoding: 66353 -1 996
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -81081,7 +81066,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhm1u2
-Encoding: 66354 -1 998
+Encoding: 66354 -1 997
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -81189,7 +81174,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhv1
-Encoding: 66355 -1 999
+Encoding: 66355 -1 998
 Width: 1052
 GlyphClass: 3
 Flags: W
@@ -81256,7 +81241,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhv1u1
-Encoding: 66356 -1 1000
+Encoding: 66356 -1 999
 Width: 1058
 GlyphClass: 3
 Flags: W
@@ -81338,7 +81323,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhv1u2
-Encoding: 66357 -1 1001
+Encoding: 66357 -1 1000
 Width: 1064
 GlyphClass: 3
 Flags: W
@@ -81433,7 +81418,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhs1
-Encoding: 66358 -1 1002
+Encoding: 66358 -1 1001
 Width: 1066
 GlyphClass: 3
 Flags: W
@@ -81513,7 +81498,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx s1
 EndChar
 
 StartChar: zhs1u1
-Encoding: 66359 -1 1003
+Encoding: 66359 -1 1002
 Width: 1068
 GlyphClass: 3
 Flags: W
@@ -81608,7 +81593,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: zhs1u2
-Encoding: 66360 -1 1004
+Encoding: 66360 -1 1003
 Width: 1062
 GlyphClass: 3
 Flags: W
@@ -81715,7 +81700,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: rhu1
-Encoding: 66361 -1 1005
+Encoding: 66361 -1 1004
 Width: 1048
 GlyphClass: 3
 Flags: W
@@ -81764,7 +81749,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: rhu2
-Encoding: 66362 -1 1006
+Encoding: 66362 -1 1005
 Width: 1048
 GlyphClass: 3
 Flags: W
@@ -81827,7 +81812,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: rhrh
-Encoding: 66363 -1 1007
+Encoding: 66363 -1 1006
 Width: 1048
 GlyphClass: 3
 Flags: W
@@ -81876,7 +81861,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
-Encoding: 66364 -1 1008
+Encoding: 66364 -1 1007
 Width: 1048
 GlyphClass: 3
 Flags: W
@@ -81941,7 +81926,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: rhrhu2
-Encoding: 66365 -1 1009
+Encoding: 66365 -1 1008
 Width: 1048
 GlyphClass: 3
 Flags: W
@@ -82021,7 +82006,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" 
 EndChar
 
 StartChar: l4
-Encoding: 66366 -1 1010
+Encoding: 66366 -1 1009
 Width: 6
 GlyphClass: 3
 Flags: W
@@ -82070,7 +82055,7 @@ Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
 StartChar: k1xx
-Encoding: 66367 -1 1011
+Encoding: 66367 -1 1010
 Width: 1759
 GlyphClass: 3
 Flags: W
@@ -82152,7 +82137,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k1 xx
 EndChar
 
 StartChar: k2xx
-Encoding: 66368 -1 1012
+Encoding: 66368 -1 1011
 Width: 1801
 GlyphClass: 3
 Flags: W
@@ -82215,7 +82200,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k2 xx
 EndChar
 
 StartChar: k3xx
-Encoding: 66369 -1 1013
+Encoding: 66369 -1 1012
 Width: 1595
 GlyphClass: 3
 Flags: W
@@ -82274,7 +82259,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k3 xx
 EndChar
 
 StartChar: k4xx
-Encoding: 66370 -1 1014
+Encoding: 66370 -1 1013
 Width: 2431
 GlyphClass: 3
 Flags: W
@@ -82344,7 +82329,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" k4 xx
 EndChar
 
 StartChar: ngxx
-Encoding: 66371 -1 1015
+Encoding: 66371 -1 1014
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -82425,7 +82410,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ng xx
 EndChar
 
 StartChar: ch1xx
-Encoding: 66372 -1 1016
+Encoding: 66372 -1 1015
 Width: 1685
 GlyphClass: 3
 Flags: W
@@ -82475,7 +82460,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch1 xx
 EndChar
 
 StartChar: ch2xx
-Encoding: 66373 -1 1017
+Encoding: 66373 -1 1016
 Width: 2154
 GlyphClass: 3
 Flags: W
@@ -82546,7 +82531,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch2 xx
 EndChar
 
 StartChar: ch3xx
-Encoding: 66374 -1 1018
+Encoding: 66374 -1 1017
 Width: 1623
 GlyphClass: 3
 Flags: W
@@ -82643,7 +82628,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch3 xx
 EndChar
 
 StartChar: ch4xx
-Encoding: 66375 -1 1019
+Encoding: 66375 -1 1018
 Width: 2736
 GlyphClass: 3
 Flags: W
@@ -82726,7 +82711,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" ch4 xx
 EndChar
 
 StartChar: njxx
-Encoding: 66376 -1 1020
+Encoding: 66376 -1 1019
 Width: 2445
 GlyphClass: 3
 Flags: W
@@ -82814,7 +82799,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" nj xx
 EndChar
 
 StartChar: t1xx
-Encoding: 66377 -1 1021
+Encoding: 66377 -1 1020
 Width: 1134
 GlyphClass: 3
 Flags: W
@@ -82870,7 +82855,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t1 xx
 EndChar
 
 StartChar: t2xx
-Encoding: 66378 -1 1022
+Encoding: 66378 -1 1021
 Width: 1273
 GlyphClass: 3
 Flags: W
@@ -82916,7 +82901,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t2 xx
 EndChar
 
 StartChar: t3xx
-Encoding: 66379 -1 1023
+Encoding: 66379 -1 1022
 Width: 2196
 GlyphClass: 3
 Flags: W
@@ -82985,7 +82970,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t3 xx
 EndChar
 
 StartChar: t4xx
-Encoding: 66380 -1 1024
+Encoding: 66380 -1 1023
 Width: 2284
 GlyphClass: 3
 Flags: W
@@ -83064,7 +83049,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" t4 xx
 EndChar
 
 StartChar: nhxx
-Encoding: 66381 -1 1025
+Encoding: 66381 -1 1024
 Width: 2444
 GlyphClass: 3
 Flags: W
@@ -83141,7 +83126,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" nh xx
 EndChar
 
 StartChar: th1xx
-Encoding: 66382 -1 1026
+Encoding: 66382 -1 1025
 Width: 1785
 GlyphClass: 3
 Flags: W
@@ -83204,7 +83189,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th1 xx
 EndChar
 
 StartChar: th2xx
-Encoding: 66383 -1 1027
+Encoding: 66383 -1 1026
 Width: 1684
 GlyphClass: 3
 Flags: W
@@ -83252,7 +83237,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th2 xx
 EndChar
 
 StartChar: th3xx
-Encoding: 66384 -1 1028
+Encoding: 66384 -1 1027
 Width: 1177
 GlyphClass: 3
 Flags: W
@@ -83309,7 +83294,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th3 xx
 EndChar
 
 StartChar: th4xx
-Encoding: 66385 -1 1029
+Encoding: 66385 -1 1028
 Width: 1694
 GlyphClass: 3
 Flags: W
@@ -83366,7 +83351,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" th4 xx
 EndChar
 
 StartChar: n1xx
-Encoding: 66386 -1 1030
+Encoding: 66386 -1 1029
 Width: 1715
 GlyphClass: 3
 Flags: W
@@ -83422,7 +83407,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" n1 xx
 EndChar
 
 StartChar: p1xx
-Encoding: 66387 -1 1031
+Encoding: 66387 -1 1030
 Width: 1783
 GlyphClass: 3
 Flags: W
@@ -83470,7 +83455,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p1 xx
 EndChar
 
 StartChar: p2xx
-Encoding: 66388 -1 1032
+Encoding: 66388 -1 1031
 Width: 2155
 GlyphClass: 3
 Flags: W
@@ -83529,7 +83514,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p2 xx
 EndChar
 
 StartChar: p3xx
-Encoding: 66389 -1 1033
+Encoding: 66389 -1 1032
 Width: 2282
 GlyphClass: 3
 Flags: W
@@ -83605,7 +83590,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p3 xx
 EndChar
 
 StartChar: p4xx
-Encoding: 66390 -1 1034
+Encoding: 66390 -1 1033
 Width: 1212
 GlyphClass: 3
 Flags: W
@@ -83676,7 +83661,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" p4 xx
 EndChar
 
 StartChar: m1xx
-Encoding: 66391 -1 1035
+Encoding: 66391 -1 1034
 Width: 1232
 GlyphClass: 3
 Flags: W
@@ -83730,7 +83715,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" m1 xx
 EndChar
 
 StartChar: y1xx
-Encoding: 66392 -1 1036
+Encoding: 66392 -1 1035
 Width: 1810
 GlyphClass: 3
 Flags: W
@@ -83797,7 +83782,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" y1 xx
 EndChar
 
 StartChar: r3xx
-Encoding: 66393 -1 1037
+Encoding: 66393 -1 1036
 Width: 1264
 GlyphClass: 3
 Flags: W
@@ -83849,7 +83834,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" r3 xx
 EndChar
 
 StartChar: rhxx
-Encoding: 66394 -1 1038
+Encoding: 66394 -1 1037
 Width: 1234
 GlyphClass: 3
 Flags: W
@@ -83896,7 +83881,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" rh xx
 EndChar
 
 StartChar: l3xx
-Encoding: 66395 -1 1039
+Encoding: 66395 -1 1038
 Width: 1644
 GlyphClass: 3
 Flags: W
@@ -83947,7 +83932,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" l3 xx
 EndChar
 
 StartChar: lhxx
-Encoding: 66396 -1 1040
+Encoding: 66396 -1 1039
 Width: 1318
 GlyphClass: 3
 Flags: W
@@ -84027,7 +84012,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" lh xx
 EndChar
 
 StartChar: zhxx
-Encoding: 66397 -1 1041
+Encoding: 66397 -1 1040
 Width: 1244
 GlyphClass: 3
 Flags: W
@@ -84088,7 +84073,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" zh xx
 EndChar
 
 StartChar: v1xx
-Encoding: 66398 -1 1042
+Encoding: 66398 -1 1041
 Width: 1652
 GlyphClass: 3
 Flags: W
@@ -84138,7 +84123,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" v1 xx
 EndChar
 
 StartChar: z1xx
-Encoding: 66399 -1 1043
+Encoding: 66399 -1 1042
 Width: 1793
 GlyphClass: 3
 Flags: W
@@ -84203,7 +84188,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" z1 xx
 EndChar
 
 StartChar: shxx
-Encoding: 66400 -1 1044
+Encoding: 66400 -1 1043
 Width: 2072
 GlyphClass: 3
 Flags: W
@@ -84276,7 +84261,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" sh xx
 EndChar
 
 StartChar: s1xx
-Encoding: 66401 -1 1045
+Encoding: 66401 -1 1044
 Width: 2186
 GlyphClass: 3
 Flags: W
@@ -84341,7 +84326,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" s1 xx
 EndChar
 
 StartChar: h1xx
-Encoding: 66402 -1 1046
+Encoding: 66402 -1 1045
 Width: 2185
 GlyphClass: 3
 Flags: W
@@ -84405,7 +84390,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" h1 xx
 EndChar
 
 StartChar: uni20B9
-Encoding: 8377 8377 1047
+Encoding: 8377 8377 1046
 Width: 1101
 VWidth: 0
 Flags: W
@@ -84447,6 +84432,23 @@ SplineSet
  1079.85 1370.31 l 1,38,-1
  1027.06 1250.31 l 1,39,-1
  787.51 1250.31 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni0D4E
+Encoding: 3406 3406 1047
+Width: 184
+Flags: WO
+LayerCount: 2
+Fore
+SplineSet
+-75 1231 m 5,0,1
+ -30 1275 -30 1275 2 1275 c 132,-1,2
+ 34 1275 34 1275 82 1231 c 5,3,-1
+ 82 1177 l 5,4,5
+ 51 1084 51 1084 4 1084 c 4,6,7
+ -40 1084 -40 1084 -75 1177 c 5,8,-1
+ -75 1231 l 5,0,1
 EndSplineSet
 EndChar
 EndChars
