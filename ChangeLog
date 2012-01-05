@@ -1,5 +1,3 @@
-4.5.1:
-* Fixed Bug bugs.debian.org/609728 -ttf-malayalam-fonts: Dyuthi3.ttf has a spurious Font Subfamily field containing just \n
 4.5:
 * Added License files
 4.4:
