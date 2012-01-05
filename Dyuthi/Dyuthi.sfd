@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1272649281
+ModificationTime: 1325772536
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -60,6 +60,7 @@ Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4"  {"'pre
 Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 6"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 PUSHW_1
@@ -317,15 +318,17 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "+AAoA" "FontForge;Dyuthi_01;15-02-2008" "" "1.0" "" "" "" "Hiran Venugopalan, Hussain KH and Suresh P for Sawthanthra Malayalam Computing (SMC)" "" "" "hiran.v@gmail.com+AAoA-hussain@rachanamalayalam.org; hussain@kfri.org+AAoA-suresh@ippimail.com+AAoA-http://groups.google.com/group/smc-discuss" "Dyuthi OpenType font+AA0ACgAA    Copyright (C) 2007,Hiran Venugopalan, Hussain K.H,Suresh P,Swathanthra Malayalam Computing(http://savannah.nongnu.org/projects/smc)+AAoADQAK    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoACgAA---------------+AAoA-Font Exception+AAoA---------------+AAoACgAA    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version. +AAoA" "" "" "Dyuthi" "Regular" "Dyuthi" 
-GaspTable: 1 65535 2
+LangName: 1033 "" "" "" "FontForge;Dyuthi_01;15-02-2008" "" "1.0" "" "" "" "Hiran Venugopalan, Hussain KH and Suresh P for Sawthanthra Malayalam Computing (SMC)" "" "" "hiran.v@gmail.com+AAoA-hussain@rachanamalayalam.org; hussain@kfri.org+AAoA-suresh@ippimail.com+AAoA-http://groups.google.com/group/smc-discuss" "Dyuthi OpenType font+AA0ACgAA    Copyright (C) 2007,Hiran Venugopalan, Hussain K.H,Suresh P,Swathanthra Malayalam Computing(http://savannah.nongnu.org/projects/smc)+AAoADQAK    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoACgAA---------------+AAoA-Font Exception+AAoA---------------+AAoACgAA    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version. +AAoA" "" "" "Dyuthi" "Regular" "Dyuthi" 
+GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3312 12 6
+WinInfo: 3302 13 5
+BeginPrivate: 0
+EndPrivate
 BeginChars: 66057 703
 
 StartChar: .notdef
@@ -6623,7 +6626,7 @@ StartChar: u2
 Encoding: 3394 3394 155
 Width: 339
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -49451,7 +49454,6 @@ StartChar: uni0D0C
 Encoding: 3340 3340 702
 Width: 1024
 VWidth: 0
-Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -49508,7 +49510,7 @@ SplineSet
  232.5 73.5 232.5 73.5 252.5 93.5 c 128,-1,76
  272.5 113.5 272.5 113.5 272.5 143 c 0,65,66
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 EndChars
 EndSplineFont
