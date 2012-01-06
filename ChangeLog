@@ -1,3 +1,5 @@
+4.5.2:
+* Fixed Bug https://savannah.nongnu.org/bugs/?35098 Remove wrong glyphs from Dyuthi font.
 4.5.1:
 * Fixed Bug bugs.debian.org/609728 -ttf-malayalam-fonts: Dyuthi3.ttf has a spurious Font Subfamily field containing just \n
 4.5:
