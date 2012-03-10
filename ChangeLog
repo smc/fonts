@@ -1,5 +1,6 @@
 5.0.1
 * Fixed the LSB and dot reph mapping gusb tables.
+* Fix https://bugzilla.redhat.com/show_bug.cgi?id=616324 [ml_IN] 0D4D (unicode) Character is cut if it present at End of Word in Label
 5.0
 * Atomic chillu characters mapped in Meera and Rachana fonts
 * Wrong glyphs removed from Meera and Rachana
