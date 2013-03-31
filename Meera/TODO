@@ -1,0 +1,7 @@
+* There are lot of ligatures without any rules mapped. Make sure that every ligauture from the font is actually usable
+* Pres rules are incorrectly used in many ligatures. Review the Pres rules, especially for ്ര cases and clean up
+* Dot repha seems to create extra space left to ligature. Investigate and fix.
+* There is a chillu form of യ in the font. Can we map this to യ + ് + zwj and make it usable for rare cases?
+* U0D73 Malayalam fraction one quarter has possibly wrong vertical alignment. Fix.
+* U0D72 Malayalam digit one thousand has imperfect glyph - the right side round is not perfect.
+* Investigate if Dot repha can be done for undefined ligatures using GPOS rules. See how Lohit Malayalam is doing this.
