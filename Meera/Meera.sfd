@@ -77093,6 +77093,7 @@ SplineSet
  1047 -195 1047 -195 1047 -332 c 0,41,42
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx k3
 EndChar
 
 StartChar: NameMe.66391
@@ -77156,6 +77157,7 @@ SplineSet
  1040 -179 1040 -179 1040 -309 c 0,41,42
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx n1
 EndChar
 
 StartChar: NameMe.66392
@@ -77228,6 +77230,7 @@ SplineSet
  342 -352 342 -352 276 -351 c 0,81,82
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx p3
 EndChar
 
 StartChar: NameMe.66393
@@ -77285,6 +77288,7 @@ SplineSet
  701 -373 701 -373 701 -216 c 0,55,56
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx m1
 EndChar
 
 StartChar: NameMe.66394
@@ -77355,6 +77359,7 @@ SplineSet
  441 -421 441 -421 441 -359 c 0,76,77
 EndSplineSet
 Validated: 1
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" th3 l4
 EndChar
 
 StartChar: NameMe.66395
