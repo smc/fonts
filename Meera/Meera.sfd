@@ -72,7 +72,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 42 14
+WinInfo: 588 42 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 66508 1170
@@ -76988,6 +76988,7 @@ SplineSet
  849 -325 849 -325 939 -325 c 0,36,37
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" th2 r1
 EndChar
 
 StartChar: NameMe.66389
@@ -77029,6 +77030,7 @@ SplineSet
  1564 115 l 1,29,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th2 r4
 EndChar
 
 StartChar: NameMe.66390
