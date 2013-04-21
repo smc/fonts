@@ -59141,7 +59141,7 @@ SplineSet
  386 -588 386 -588 406 -548 c 0,136,137
  426 -510 426 -510 426 -462 c 2,128,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k1k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k1 xx k1
 EndChar
 
 StartChar: l3k1k1u1
@@ -60310,7 +60310,7 @@ SplineSet
  542 -576 542 -576 572 -530 c 128,-1,126
  602 -484 602 -484 602 -400 c 0,118,119
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1 xx th1
 EndChar
 
 StartChar: l3th1th1u1
@@ -68922,7 +68922,7 @@ SplineSet
  960 566 960 566 1024 504 c 128,-1,94
  1088 442 1088 442 1180 434 c 1,86,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" shxx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx p1
 EndChar
 
 StartChar: shp1u1
@@ -71268,7 +71268,7 @@ SplineSet
  912 -588 912 -588 930 -550 c 1,180,181
  950 -512 950 -512 950 -462 c 2,171,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
@@ -76880,7 +76880,7 @@ SplineSet
  1144 -46 1144 -46 1228 -124 c 1,117,118
  1310 -204 1310 -204 1310 -352 c 0,91,92
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rhrh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
@@ -79688,7 +79688,7 @@ SplineSet
  294 -568 294 -568 316 -528 c 0,170,171
  336 -490 336 -490 336 -442 c 2,160,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhk1k1u1
@@ -80575,7 +80575,7 @@ SplineSet
  414 -524 414 -524 436 -484 c 0,157,158
  458 -442 458 -442 458 -368 c 0,148,149
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1 xx th1
 EndChar
 
 StartChar: zhth1th1u1
@@ -81139,7 +81139,7 @@ SplineSet
  846 360 846 360 908 438 c 128,-1,112
  970 516 970 516 970 610 c 0,100,101
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1 xx n1
 EndChar
 
 StartChar: zhn1n1u1
