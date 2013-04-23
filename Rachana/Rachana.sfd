@@ -754,12 +754,13 @@ EndShort
 LangName: 1033 "" "" "Regular" "FontForge;Rachana_05;15-1-2012" "" "Rachana:05;Revision:0.100" "" "" "Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose )" "Hussain KH" "Rachana Akshara Vedi, Thiruvananthapuram, Kerala, India+AA0ACgANAAoA-Rachana is a language campaign forum for the Original script of Malayalam in the digital computing. It started in 1999 under the leadership of R. Chitrajakumar (Malayalam Lexicon, Kerala University, Palayalm,Thiruvananthapuram). Hussain KH (KFRI, Kerala Forest Research Institute, Peechi, Thrissur) is the project coordinator who designed the font.  Other Members are:  Gangadharan N (Malayalam Lexicon) who assisted Chitrajakumar in compiling the exhaustive character set of Malayalam; Dr. P Vijayakumaran Nair (KFRI) who assisted in programming the Rachana text editor which was used by many from 1999 to 2005 to typeset Books and journal articles in the old Lipi; Subash Kuriakose (KFRI) who gave advice to Hussain in the many aspects of Malayalam calligraphy. Later in 2004 Rajeev J Sebastian joined the Rachana team, whose mastery in Linux and untiring work is elevating the campaign to materialize its highest dream that to embed the original script in the OS enabling it in the whole field of digital applications. Dr. Mammen Chundamannil (KFRI) is an ardent supporter and well wisher of Rachana whose article 'For our language, our script' has spread the vision and objectives of Rachana to the whole world.+AA0ACgANAAoA-The fonts RACHANA_W01.TTF and RACHANA_W01.OTF are the first set of Unicode compliant Open type fonts that contains the exhaustive character set of Malayalam compiled so far by Rachana team.+AA0ACgANAAoA-Your valuable suggestions and comments are always welcome.+AA0ACgANAAoA-Please visit our site+AA0ACgAA                                                   www.rachanamalayalam.org" "http://smc.org.in" "hussain.rachana@gmail.com" "   Rachana Medium OpenType font+AA0ACgAA    Copyright (C) 1999-2012,  Rachana Akshara Vedi+AA0ACgANAAoA    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoA   (Please look in the COPYING file included in the archive to see the full  text of the GNU GPL license or visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)+AA0ACgANAAoACgAA" "" "" "Rachana" "Regular" "Rachana" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3200 32 12
+WinInfo: 675 27 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 66403 1066
@@ -56373,7 +56374,7 @@ SplineSet
  1148 -490 1148 -490 1186 -454 c 1,145,146
  1222 -418 1222 -418 1222 -348 c 0,135,136
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1 xx u1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1th1 u1
 EndChar
 
 StartChar: y1th1u2
@@ -86080,7 +86081,7 @@ EndChar
 StartChar: uni0D3A
 Encoding: 3386 3386 1064
 Width: 1496
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
