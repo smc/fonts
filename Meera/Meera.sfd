@@ -53454,7 +53454,7 @@ SplineSet
  718 -453 718 -453 713 -343 c 1,81,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k1
 EndChar
 
 StartChar: l3k1u1
@@ -54328,7 +54328,7 @@ SplineSet
  858 428 l 1,44,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3xx ch1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx ch1
 EndChar
 
 StartChar: l3ch1u1
@@ -54878,7 +54878,7 @@ SplineSet
  601 -230 601 -230 505 -151 c 1,103,104
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1 xx th1
 EndChar
 
 StartChar: l3th1th1u1
@@ -64761,7 +64761,7 @@ SplineSet
  1151 -537 1151 -537 1151 -454 c 1,115,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1k1u1
@@ -69811,7 +69811,7 @@ SplineSet
  1401 -192 1401 -192 1401 -333 c 0,71,72
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rhrh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
@@ -72438,7 +72438,7 @@ SplineSet
  292 -541 292 -541 292 -453 c 1,114,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1 xx k1
 EndChar
 
 StartChar: zhk1k1u1
@@ -73253,7 +73253,7 @@ SplineSet
  510 -566 510 -566 510 -412 c 0,130,131
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx th1 xx th1
 EndChar
 
 StartChar: zhth1th1u1
@@ -73799,7 +73799,7 @@ SplineSet
  1185 -183 1185 -183 1185 -312 c 0,51,52
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx n1 xx n1
 EndChar
 
 StartChar: zhn1n1u1
