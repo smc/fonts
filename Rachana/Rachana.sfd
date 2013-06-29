@@ -759,7 +759,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 684 36 12
+WinInfo: 0 42 14
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1113 1113
@@ -63444,6 +63444,7 @@ SplineSet
  1298 -330 l 1,40,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" v1 xx v1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" v1 v2
 EndChar
 
