@@ -80355,7 +80355,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D4E ch3 u1
 EndChar
 
-StartChar: dotrephnh1
+StartChar: dotrephch3ch3
 Encoding: 1093 -1 1082
 Width: 2753
 GlyphClass: 3
@@ -80470,7 +80470,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D4E ch3 xx ch3
 EndChar
 
-StartChar: dotrephch3ch3
+StartChar: dotrephch3ch3u1
 Encoding: 1094 -1 1083
 Width: 2972
 GlyphClass: 3
@@ -80597,10 +80597,10 @@ SplineSet
  1360 1180 l 1,170,171
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D4E ch3 xx ch3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D4E ch3 xx ch3 u1
 EndChar
 
-StartChar: dotrephanh1nh1
+StartChar: dotrephnh
 Encoding: 1095 -1 1084
 Width: 2232
 GlyphClass: 2
