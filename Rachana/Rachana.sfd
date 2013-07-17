@@ -759,7 +759,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 546 42 14
+WinInfo: 684 36 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114 1114
@@ -90073,6 +90073,7 @@ SplineSet
  804 70 804 70 844 82 c 1,79,80
 EndSplineSet
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephy1 y2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph y1 xx y1
 EndChar
 
 StartChar: dotrephl3l3
@@ -90203,6 +90204,7 @@ SplineSet
  888 -328 888 -328 886 -330 c 1,57,-1
  1298 -330 l 1,49,-1
 EndSplineSet
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph v1 xx v1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephv1 v2
 EndChar
 

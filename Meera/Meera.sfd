@@ -82500,6 +82500,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D4E v1 xx v1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephv1 v2
 EndChar
 
 StartChar: dotrephz1
