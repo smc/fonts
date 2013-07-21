@@ -89406,7 +89406,8 @@ SplineSet
  1208 340 1208 340 1266 250 c 128,-1,65
  1324 160 1324 160 1324 44 c 0,9,10
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph th3 xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" dotrephth3 xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" dotrephth3 r4
 EndChar
 
 StartChar: dotrephn1n1
@@ -90803,6 +90804,53 @@ SplineSet
  2080 110 2080 110 2080 354 c 0,95,96
 EndSplineSet
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephn1n1 u2
+EndChar
+
+StartChar: dotrephth3
+Encoding: 1115 -1 1115
+Width: 994
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+541 1178 m 5,0,1
+ 586 1222 586 1222 618 1222 c 132,-1,2
+ 650 1222 650 1222 698 1178 c 5,3,-1
+ 698 1124 l 5,4,5
+ 667 1031 667 1031 620 1031 c 4,6,7
+ 576 1031 576 1031 541 1124 c 5,8,-1
+ 541 1178 l 5,0,1
+992 254 m 0,9,10
+ 992 144 992 144 890 56 c 1,11,12
+ 790 -32 790 -32 624 -32 c 0,13,14
+ 556 -32 556 -32 484 -4 c 1,15,-1
+ 472 108 l 1,16,17
+ 520 66 520 66 612 66 c 0,18,19
+ 718 66 718 66 776 110 c 1,20,21
+ 832 154 832 154 832 218 c 0,22,23
+ 832 290 832 290 764 346 c 1,24,25
+ 698 402 698 402 582 402 c 2,26,-1
+ 492 402 l 1,27,-1
+ 492 492 l 1,28,-1
+ 578 492 l 2,29,30
+ 690 492 690 492 750 536 c 1,31,32
+ 812 580 812 580 812 644 c 0,33,34
+ 812 712 812 712 748 764 c 1,35,36
+ 686 816 686 816 582 816 c 0,37,38
+ 444 816 444 816 338 702 c 1,39,40
+ 234 588 234 588 234 358 c 0,41,42
+ 234 206 234 206 294 0 c 1,43,-1
+ 212 -20 l 1,44,45
+ 158 208 158 208 158 368 c 0,46,47
+ 158 644 158 644 298 780 c 1,48,49
+ 438 918 438 918 626 918 c 0,50,51
+ 784 918 784 918 884 838 c 128,-1,52
+ 984 758 984 758 984 656 c 0,53,54
+ 984 526 984 526 828 464 c 1,55,56
+ 910 436 910 436 950 378 c 1,57,58
+ 992 322 992 322 992 254 c 0,9,10
+EndSplineSet
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph th3
 EndChar
 EndChars
 EndSplineFont
