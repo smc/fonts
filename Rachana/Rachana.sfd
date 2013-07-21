@@ -88592,7 +88592,7 @@ SplineSet
  878 108 878 108 928 192 c 1,97,98
  978 274 978 274 978 374 c 0,87,88
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph th1 r1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephth1 r1
 EndChar
 
 StartChar: dotrephth1th1
@@ -88977,7 +88977,7 @@ SplineSet
  870 106 870 106 922 196 c 1,136,137
  968 270 968 270 968 372 c 0,126,127
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotrephth1th1 r1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" dotrephth1th1 r1
 EndChar
 
 StartChar: dotrephth1th2
