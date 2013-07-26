@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1374833356
+ModificationTime: 1374834182
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,8 @@ Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam2 lookup 0"  {"'akhn' Akhand in Ma
 Lookup: 4 0 0 "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1"  {"'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms in Malay+AQEA-lam lookup 1"  {"'half' Half Forms in Malay+AQEA-lam lookup 1 subtable"  } ['half' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2"  {"'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3"  {"'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"  } ['blws' ('mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2"  {"'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2 subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3"  {"'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable"  } ['blws' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable"  } ['pres' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) ]
@@ -762,7 +763,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 684 36 12
+WinInfo: 0 36 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1116 1116
@@ -13503,8 +13504,8 @@ SplineSet
  864 -574 864 -574 902 -530 c 1,151,152
  938 -486 938 -486 938 -424 c 0,139,140
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" k1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" k1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k1 l4
 EndChar
 
 StartChar: k1l3u1
@@ -18769,8 +18770,8 @@ SplineSet
  700 -574 700 -574 738 -530 c 1,112,113
  774 -486 774 -486 774 -424 c 0,101,102
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" k3xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" k3 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k3xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" k3 l4
 EndChar
 
 StartChar: k3l3u1
@@ -34352,8 +34353,8 @@ SplineSet
  864 -566 864 -566 902 -522 c 1,123,124
  938 -478 938 -478 938 -416 c 0,111,112
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" th1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" th1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" th1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" th1 l4
 EndChar
 
 StartChar: th1l3u1
@@ -46147,8 +46148,8 @@ SplineSet
  916 -566 916 -566 952 -522 c 128,-1,88
  988 -478 988 -478 988 -416 c 0,76,77
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p1 l4
 EndChar
 
 StartChar: p1l3u1
@@ -49058,8 +49059,8 @@ SplineSet
  1294 -566 1294 -566 1332 -522 c 1,109,110
  1368 -478 1368 -478 1368 -416 c 0,97,98
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p2xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p2 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p2xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p2 l4
 EndChar
 
 StartChar: p2l3u1
@@ -53142,8 +53143,8 @@ SplineSet
  456 96 456 96 492 146 c 1,132,133
  528 194 528 194 528 262 c 0,118,119
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p3xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p3 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p3xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" p3 l4
 EndChar
 
 StartChar: p3l3u1
@@ -55508,8 +55509,8 @@ SplineSet
  414 -566 414 -566 446 -522 c 1,96,97
  480 -478 480 -478 480 -416 c 0,84,85
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" m1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" m1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" m1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" m1 l4
 EndChar
 
 StartChar: m1l3u1
@@ -62733,7 +62734,7 @@ SplineSet
  782 -566 782 -566 820 -522 c 1,95,96
  856 -478 856 -478 856 -416 c 0,83,84
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" l3 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" l3 l4
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx l3
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx l3
 EndChar
@@ -63366,8 +63367,8 @@ SplineSet
  782 -566 782 -566 820 -522 c 1,96,97
  856 -478 856 -478 856 -416 c 0,84,85
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" v1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" v1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" v1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" v1 l4
 EndChar
 
 StartChar: v1l3u1
@@ -65776,8 +65777,8 @@ SplineSet
  884 -566 884 -566 922 -522 c 1,122,123
  958 -478 958 -478 958 -416 c 0,111,112
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" z1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" z1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" z1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" z1 l4
 EndChar
 
 StartChar: z1l3u1
@@ -76937,8 +76938,8 @@ SplineSet
  1294 -566 1294 -566 1332 -522 c 1,125,126
  1368 -478 1368 -478 1368 -416 c 0,113,114
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" s1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" s1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" s1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" s1 l4
 EndChar
 
 StartChar: s1l3u1
@@ -79497,8 +79498,8 @@ SplineSet
  1274 -566 1274 -566 1310 -522 c 1,116,117
  1348 -478 1348 -478 1348 -416 c 0,106,107
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" h1xx l3
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" h1 l4
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" h1xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable" h1 l4
 EndChar
 
 StartChar: h1l3u1
@@ -83892,6 +83893,7 @@ SplineSet
  -634 -486 -634 -486 -634 -424 c 0,46,47
 EndSplineSet
 Validated: 1
+Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2 subtable" xx l3
 Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
