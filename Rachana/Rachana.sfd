@@ -759,10 +759,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 684 36 12
+WinInfo: 0 36 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114 1114
+BeginChars: 1117 1117
 
 StartChar: .notdef
 Encoding: 200 -1 0
@@ -86760,7 +86760,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D44
+StartChar: r2
 Encoding: 159 3396 1058
 Width: 786
 Flags: W
