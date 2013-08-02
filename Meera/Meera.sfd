@@ -71,10 +71,10 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 288 36 12
+WinInfo: 576 36 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1171 1171
+BeginChars: 1172 1172
 
 StartChar: .notdef
 Encoding: 198 -1 0
@@ -41364,7 +41364,6 @@ StartChar: p1l3
 Encoding: 618 -1 607
 Width: 1453
 GlyphClass: 3
-LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
@@ -41422,10 +41421,8 @@ SplineSet
  813 -427 813 -427 813 -369 c 0,64,65
 EndSplineSet
 Validated: 1
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p1xx l3
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p1 l4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx l3
-LCarets2: 1 -139 
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" p1xx l3
 EndChar
 
 StartChar: p1l3u1
@@ -50125,7 +50122,7 @@ SplineSet
  893 -456 893 -456 887 -343 c 1,113,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx k1
 EndChar
 
 StartChar: y1k1u1
@@ -50536,7 +50533,7 @@ SplineSet
  662 -532 662 -532 662 -449 c 1,122,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx k1 xx k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx k1k1
 EndChar
 
 StartChar: y1k1k1u1
@@ -50835,7 +50832,7 @@ SplineSet
  1649 -471 l 1,56,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx ch1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx ch1
 EndChar
 
 StartChar: y1ch1u1
@@ -51100,7 +51097,7 @@ SplineSet
  1190 -442 1190 -442 1190 -375 c 0,97,98
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx th1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx th1
 EndChar
 
 StartChar: y1th1u1
@@ -51491,7 +51488,7 @@ SplineSet
  723 -443 723 -443 723 -376 c 0,136,137
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx th1 xx th1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx th1th1
 EndChar
 
 StartChar: y1th1th1u1
@@ -51919,7 +51916,7 @@ SplineSet
  1487 -182 1487 -182 1487 -309 c 0,56,57
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx n1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx n1
 EndChar
 
 StartChar: y1n1u1
@@ -52167,7 +52164,7 @@ SplineSet
  1625 -496 l 1,56,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx p1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx p1
 EndChar
 
 StartChar: y1p1u1
@@ -52497,7 +52494,7 @@ SplineSet
  1143 -367 1143 -367 1143 -215 c 0,71,72
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx m1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx m1
 EndChar
 
 StartChar: y1m1u1
@@ -53401,7 +53398,7 @@ SplineSet
  718 -453 718 -453 713 -343 c 1,81,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx k1
 EndChar
 
 StartChar: l3k1u1
@@ -53749,7 +53746,7 @@ SplineSet
  511 -532 511 -532 511 -449 c 1,89,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k1 xx k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx k1k1
 EndChar
 
 StartChar: l3k1k1u1
@@ -54002,7 +53999,7 @@ SplineSet
  858 428 l 1,49,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx k3
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx k3
 EndChar
 
 StartChar: l3k3u1
@@ -54275,7 +54272,7 @@ SplineSet
  858 428 l 1,44,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx ch1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx ch1
 EndChar
 
 StartChar: l3ch1u1
@@ -54494,7 +54491,7 @@ SplineSet
  1027 -442 1027 -442 1027 -375 c 0,64,65
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx th1
 EndChar
 
 StartChar: l3th1u1
@@ -54825,7 +54822,7 @@ SplineSet
  601 -230 601 -230 505 -151 c 1,103,104
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx th1 xx th1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx th1th1
 EndChar
 
 StartChar: l3th1th1u1
@@ -55086,7 +55083,7 @@ SplineSet
  858 428 l 1,42,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx p1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx p1
 EndChar
 
 StartChar: l3p1u1
@@ -55530,7 +55527,7 @@ SplineSet
  1334 -528 l 1,56,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx p2
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx p2
 EndChar
 
 StartChar: l3p2u1
@@ -55770,7 +55767,7 @@ SplineSet
  381 -532 381 -532 462 -532 c 256,66,67
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx p3
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx p3
 EndChar
 
 StartChar: l3p3u1
@@ -56000,7 +55997,7 @@ SplineSet
  1044 -372 1044 -372 1044 -215 c 0,39,40
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx m1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx m1
 EndChar
 
 StartChar: l3m1u1
