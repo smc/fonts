@@ -74,7 +74,7 @@ FitToEm: 1
 WinInfo: 576 36 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1172 1172
+BeginChars: 1173 1173
 
 StartChar: .notdef
 Encoding: 198 -1 0
@@ -53746,7 +53746,7 @@ SplineSet
  511 -532 511 -532 511 -449 c 1,89,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx k1k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" l3xx k1k1
 EndChar
 
 StartChar: l3k1k1u1
