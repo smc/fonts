@@ -91314,6 +91314,7 @@ SplineSet
  406 496 406 496 406 602 c 0,144,145
 EndSplineSet
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ch3 xx m1
 EndChar
 EndChars
 EndSplineFont
