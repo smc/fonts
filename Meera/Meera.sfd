@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1376074854
+ModificationTime: 1376241146
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,10 +55,12 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800003.00002000.00000000.00000000
 Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam lookup 0"  {"'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable"  } ['akhn' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam2 lookup 0"  {"'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable"  } ['akhn' ('mlm2' <'dflt' > ) ]
+Lookup: 4 0 0 "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1"  {"'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'half' Half Forms in Malay+AQEA-lam lookup 1"  {"'half' Half Forms in Malay+AQEA-lam lookup 1 subtable"  } ['half' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2"  {"'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3"  {"'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable"  } ['blws' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable"  } ['pres' ('mlym' <'dflt' > ) ]
+Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 6"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
@@ -7217,6 +7219,7 @@ SplineSet
  565 -110 565 -110 659 -63 c 1,0,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtable" xx r3
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable" r3 xx
 LCarets2: 1 -67 
 EndChar
@@ -8624,6 +8627,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1k1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k1k1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1k1 xx r3
 LCarets2: 1 -204 
 EndChar
@@ -9221,6 +9225,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1t1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k1t1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1t1 xx r3
 LCarets2: 1 -147 
 EndChar
@@ -10399,6 +10404,7 @@ SplineSet
  2541 273 2541 273 2541 379 c 0,109,110
 EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1th1 xx r3
 LCarets2: 1 -269 
 EndChar
@@ -11307,6 +11313,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k1
 LCarets2: 1 -169 
 EndChar
 
@@ -15526,6 +15533,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k3th3th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k3th3th4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k3th3th4 xx r3
 LCarets2: 1 -247 
 EndChar
@@ -16136,6 +16144,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k3xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k3
 LCarets2: 1 -165 
 EndChar
 
@@ -17148,6 +17157,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k4xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 k4
 LCarets2: 1 -223 
 EndChar
 
@@ -18879,6 +18889,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch1ch2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 ch1ch2
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch1ch2 xx r3
 LCarets2: 1 -140 
 EndChar
@@ -19409,6 +19420,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch2xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 ch2
 LCarets2: 1 -230 
 EndChar
 
@@ -20910,6 +20922,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch3xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 ch3
 LCarets2: 1 -174 
 EndChar
 
@@ -21534,6 +21547,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch4xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" ch4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 ch4
 LCarets2: 1 -251 
 EndChar
 
@@ -23837,6 +23851,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 t1
 LCarets2: 1 -122 
 EndChar
 
@@ -25228,6 +25243,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t3xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 t3
 LCarets2: 1 -217 
 EndChar
 
@@ -25701,6 +25717,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t4xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" t4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 t4
 LCarets2: 1 -222 
 EndChar
 
@@ -26402,6 +26419,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" nht1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 nht1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" nht1 xx r3
 LCarets2: 1 -226 
 EndChar
@@ -27161,6 +27179,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" nht3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 nht3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" nht3 xx r3
 LCarets2: 1 -324 
 EndChar
@@ -29162,6 +29181,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1th1 xx r3
 LCarets2: 1 -263 
 EndChar
@@ -30474,6 +30494,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th1
 LCarets2: 1 -169 
 EndChar
 
@@ -32483,6 +32504,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1s1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th1s1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th1s1 xx r3
 LCarets2: 1 -266 
 EndChar
@@ -34903,6 +34925,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th3th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th3th4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th3th4 xx r3
 LCarets2: 1 -205 
 EndChar
@@ -35133,6 +35156,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th3xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th3
 LCarets2: 1 -124 
 EndChar
 
@@ -36068,6 +36092,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th4xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th4
 LCarets2: 1 -164 
 EndChar
 
@@ -36857,6 +36882,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th1 xx r3
 LCarets2: 1 -215 
 EndChar
@@ -37723,6 +37749,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1th3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th3 xx r3
 LCarets2: 1 -173 
 EndChar
@@ -38167,6 +38194,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1th4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1th4 xx r3
 LCarets2: 1 -268 
 EndChar
@@ -38652,6 +38680,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1n1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1n1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1n1 xx r3
 LCarets2: 1 -217 
 EndChar
@@ -39112,6 +39141,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1m1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1m1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1m1 xx r3
 LCarets2: 1 -177 
 EndChar
@@ -39319,6 +39349,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" n1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 n1
 LCarets2: 1 -168 
 EndChar
 
@@ -41301,6 +41332,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p1
 LCarets2: 1 -154 
 EndChar
 
@@ -42036,6 +42068,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p1s1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p1s1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p1s1 xx r3
 LCarets2: 1 -139 
 EndChar
@@ -43990,6 +44023,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p2xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p2
 EndChar
 
 StartChar: p2r3u1
@@ -47522,6 +47556,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p3
 EndChar
 
 StartChar: p3r3u1
@@ -48273,6 +48308,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p4xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p4
 LCarets2: 1 -124 
 EndChar
 
@@ -49120,6 +49156,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m1p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 m1p1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m1p1 xx r3
 EndChar
 
@@ -49567,6 +49604,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" m1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 m1
 EndChar
 
 StartChar: m1r3u1
@@ -55407,6 +55445,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 l3p1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3p1 xx r3
 EndChar
 
@@ -56698,6 +56737,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" v1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" v1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 v1
 EndChar
 
 StartChar: v1r3u1
@@ -58804,6 +58844,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 z1
 EndChar
 
 StartChar: z1r3u1
@@ -59737,6 +59778,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z1z1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 z1z1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" z1z1 xx r3
 EndChar
 
@@ -61163,6 +61205,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" shk1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 shk1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" shk1 xx r3
 EndChar
 
@@ -61900,6 +61943,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" sht1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 sht1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" sht1 xx r3
 EndChar
 
@@ -63092,6 +63136,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" shp1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 shp1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" shp1 xx r3
 EndChar
 
@@ -63913,6 +63958,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" shxx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" sh r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 sh
 EndChar
 
 StartChar: shm1r3u1
@@ -65255,6 +65301,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1k1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1k1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1k1 xx r3
 EndChar
 
@@ -66050,6 +66097,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1t1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1t1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1t1 xx r3
 EndChar
 
@@ -66762,6 +66810,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1th1 xx r3
 EndChar
 
@@ -67929,6 +67978,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1p1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1p1 xx r3
 EndChar
 
@@ -68759,6 +68809,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1
 EndChar
 
 StartChar: s1r3u1
@@ -69614,6 +69665,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1s1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1s1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1s1 xx r3
 EndChar
 
@@ -70176,6 +70228,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1rhrh r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 s1rhrh
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" s1rhrh xx r3
 EndChar
 
@@ -71071,6 +71124,7 @@ EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" h1xx r3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" h1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 h1
 EndChar
 
 StartChar: h1r3u1
@@ -77131,6 +77185,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 th2
 EndChar
 
 StartChar: NameMe.66390
