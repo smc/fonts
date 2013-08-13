@@ -86300,7 +86300,6 @@ SplineSet
  359 124 359 124 431 124 c 0,105,94
  501 124 501 124 542 171.5 c 128,-1,95
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p3k3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p3k3 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p3k3 xx r3
 EndChar
