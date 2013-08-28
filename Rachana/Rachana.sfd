@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1377693444
+ModificationTime: 1377694394
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,7 @@ OS2StrikeYPos: 512
 OS2Vendor: 'PfEd'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002000.00000000.00000000
-Lookup: 1 0 0 "'onum' Oldstyle Figures"  {"'onum' Oldstyle subtable" ("old" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures"  {"'onum' Oldstyle subtable" ("old" ) } ['onum' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam lookup 0"  {"'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable"  } ['akhn' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam2 lookup 0"  {"'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable"  } ['akhn' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1"  {"'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
@@ -768,7 +768,7 @@ FitToEm: 1
 WinInfo: 720 36 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1136 1136
+BeginChars: 1136 1135
 
 StartChar: .notdef
 Encoding: 200 -1 0
@@ -91356,7 +91356,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" 
 EndChar
 
 StartChar: quotesingleleft
-Encoding: 1119 8216 1119
+Encoding: 1119 8216 1118
 Width: 512
 Flags: W
 LayerCount: 2
@@ -91380,7 +91380,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingleright
-Encoding: 1120 8217 1120
+Encoding: 1120 8217 1119
 Width: 512
 Flags: W
 LayerCount: 2
@@ -91404,7 +91404,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedoubleleft
-Encoding: 1121 8220 1121
+Encoding: 1121 8220 1120
 Width: 854
 Flags: W
 LayerCount: 2
@@ -91442,7 +91442,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedoubleright
-Encoding: 1122 8221 1122
+Encoding: 1122 8221 1121
 Width: 854
 Flags: W
 LayerCount: 2
@@ -91480,7 +91480,7 @@ EndSplineSet
 EndChar
 
 StartChar: endash
-Encoding: 1123 8211 1123
+Encoding: 1123 8211 1122
 Width: 1000
 Flags: W
 LayerCount: 2
@@ -91495,7 +91495,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash
-Encoding: 1124 8212 1124
+Encoding: 1124 8212 1123
 Width: 1520
 Flags: W
 LayerCount: 2
@@ -91510,7 +91510,7 @@ EndSplineSet
 EndChar
 
 StartChar: bullet
-Encoding: 1125 8226 1125
+Encoding: 1125 8226 1124
 Width: 1024
 Flags: W
 LayerCount: 2
@@ -91529,7 +91529,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.old
-Encoding: 1126 -1 1126
+Encoding: 1126 -1 1125
 Width: 1160
 Flags: W
 LayerCount: 2
@@ -91556,7 +91556,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.old
-Encoding: 1127 -1 1127
+Encoding: 1127 -1 1126
 Width: 832
 Flags: W
 LayerCount: 2
@@ -91581,7 +91581,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.old
-Encoding: 1130 -1 1128
+Encoding: 1130 -1 1127
 Width: 1046
 Flags: W
 LayerCount: 2
@@ -91607,7 +91607,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.old
-Encoding: 1131 -1 1129
+Encoding: 1131 -1 1128
 Width: 949
 Flags: W
 LayerCount: 2
@@ -91642,7 +91642,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.old
-Encoding: 1132 -1 1130
+Encoding: 1132 -1 1129
 Width: 946
 Flags: W
 LayerCount: 2
@@ -91677,7 +91677,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.old
-Encoding: 1133 -1 1131
+Encoding: 1133 -1 1130
 Width: 914
 Flags: W
 LayerCount: 2
@@ -91698,7 +91698,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.old
-Encoding: 1134 -1 1132
+Encoding: 1134 -1 1131
 Width: 903
 Flags: W
 LayerCount: 2
@@ -91744,7 +91744,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.old
-Encoding: 1135 -1 1133
+Encoding: 1135 -1 1132
 Width: 946
 Flags: W
 LayerCount: 2
@@ -91778,7 +91778,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.old
-Encoding: 1128 -1 1134
+Encoding: 1128 -1 1133
 Width: 1110
 Flags: W
 LayerCount: 2
@@ -91810,7 +91810,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.old
-Encoding: 1129 -1 1135
+Encoding: 1129 -1 1134
 Width: 886
 Flags: W
 LayerCount: 2
