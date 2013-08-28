@@ -91375,7 +91375,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 311 -1 S 0.5994 0 0 0.5994 531.492 -539.052 2
-Refer: 143 3378 N 1 0 0 1 0 0 2
+Refer: 143 3375 N 1 0 0 1 0 0 2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx ch1 xx ch1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx ch1ch1
 EndChar
@@ -91387,7 +91387,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 311 -1 S 0.5985 0 0 0.5985 131.23 -521.829 2
-Refer: 145 3380 N 1 0 0 1 0 0 2
+Refer: 145 3375 N 1 0 0 1 0 0 2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx ch1 xx ch1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx ch1 xx ch1
 EndChar
