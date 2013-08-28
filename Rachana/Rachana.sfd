@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1377702263
+ModificationTime: 1377706385
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -91362,8 +91362,9 @@ Width: 1624
 Flags: W
 LayerCount: 2
 Fore
-Refer: 311 -1 N 0.624 0 0 0.624 677.32 -540.128 2
+Refer: 311 -1 N 0.624 0 0 0.624 692.32 -408.128 2
 Refer: 140 3375 N 1 0 0 1 0 0 2
+LCarets2: 4 0 0 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y1xx ch1ch1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx ch1 xx ch1
 EndChar
@@ -91374,8 +91375,9 @@ Width: 1462
 Flags: W
 LayerCount: 2
 Fore
-Refer: 311 -1 S 0.5994 0 0 0.5994 531.492 -539.052 2
-Refer: 143 3375 N 1 0 0 1 0 0 2
+Refer: 311 -1 N 0.5994 0 0 0.5994 566.492 -413.052 2
+Refer: 143 3378 N 1 0 0 1 0 0 2
+LCarets2: 4 0 0 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx ch1 xx ch1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx ch1ch1
 EndChar
@@ -91383,11 +91385,12 @@ EndChar
 StartChar: zhch1ch1
 Encoding: 1121 -1 1120
 Width: 1058
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
-Refer: 311 -1 S 0.5985 0 0 0.5985 131.23 -521.829 2
-Refer: 145 3375 N 1 0 0 1 0 0 2
+Refer: 311 -1 N 0.5985 0 0 0.5985 170.23 -410.829 2
+Refer: 145 3380 N 1 0 0 1 0 0 2
+LCarets2: 4 0 0 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx ch1 xx ch1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx ch1 xx ch1
 EndChar
