@@ -4270,7 +4270,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D02
+StartChar: anuswara
 Encoding: 98 3330 99
 Width: 856
 GlyphClass: 2
@@ -4300,7 +4300,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D03
+StartChar: visarga
 Encoding: 99 3331 100
 Width: 454
 GlyphClass: 2
@@ -4348,7 +4348,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D05
+StartChar: ml_a
 Encoding: 100 3333 101
 Width: 2162
 GlyphClass: 2
@@ -4424,7 +4424,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D06
+StartChar: ml_aa
 Encoding: 101 3334 102
 Width: 2448
 GlyphClass: 2
@@ -4512,7 +4512,7 @@ EndSplineSet
 Validated: 9
 EndChar
 
-StartChar: uni0D07
+StartChar: ml_i
 Encoding: 102 3335 103
 Width: 1624
 GlyphClass: 2
@@ -4577,7 +4577,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D08
+StartChar: ml_ii
 Encoding: 103 3336 104
 Width: 3006
 GlyphClass: 2
@@ -4678,7 +4678,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D09
+StartChar: ml_u
 Encoding: 104 3337 105
 Width: 1166
 GlyphClass: 2
@@ -4733,7 +4733,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D0A
+StartChar: ml_uu
 Encoding: 105 3338 106
 Width: 2546
 GlyphClass: 2
@@ -4825,7 +4825,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D0B
+StartChar: ml_r
 Encoding: 106 3339 107
 Width: 1386
 GlyphClass: 2
@@ -4909,7 +4909,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: l1
+StartChar: ml_l
 Encoding: 107 3340 108
 Width: 1838
 GlyphClass: 2
@@ -4963,7 +4963,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D0E
+StartChar: ml_e
 Encoding: 108 3342 109
 Width: 2066
 GlyphClass: 2
@@ -5022,7 +5022,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D0F
+StartChar: ml_ee
 Encoding: 109 3343 110
 Width: 2058
 GlyphClass: 2
@@ -5097,7 +5097,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D10
+StartChar: ml_ai
 Encoding: 110 3344 111
 Width: 3150
 GlyphClass: 2
@@ -5186,7 +5186,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D12
+StartChar: ml_o
 Encoding: 111 3346 112
 Width: 1200
 GlyphClass: 2
@@ -5241,7 +5241,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D13
+StartChar: ml_oo
 Encoding: 112 3347 113
 Width: 2010
 GlyphClass: 2
@@ -5320,7 +5320,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D14
+StartChar: ml_au
 Encoding: 113 3348 114
 Width: 2570
 GlyphClass: 2
@@ -7169,7 +7169,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D3D
+StartChar: avagraha
 Encoding: 152 3389 151
 Width: 770
 GlyphClass: 2
@@ -7213,7 +7213,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni0D3E
+StartChar: a2
 Encoding: 153 3390 152
 Width: 826
 GlyphClass: 2
@@ -7249,7 +7249,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D3F
+StartChar: i1
 Encoding: 154 3391 153
 Width: 580
 GlyphClass: 2
@@ -7274,7 +7274,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D40
+StartChar: i2
 Encoding: 155 3392 154
 Width: 662
 GlyphClass: 2
@@ -7428,7 +7428,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D46
+StartChar: e1
 Encoding: 160 3398 158
 Width: 1112
 GlyphClass: 2
@@ -7470,7 +7470,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D47
+StartChar: e2
 Encoding: 161 3399 159
 Width: 980
 GlyphClass: 2
@@ -7524,7 +7524,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D48
+StartChar: ai1
 Encoding: 162 3400 160
 Width: 2190
 GlyphClass: 2
@@ -7596,7 +7596,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D4A
+StartChar: o1
 Encoding: 163 3402 161
 Width: 2310
 GlyphClass: 2
@@ -7691,7 +7691,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D4B
+StartChar: o2
 Encoding: 164 3403 162
 Width: 2126
 GlyphClass: 2
@@ -7794,7 +7794,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D4C
+StartChar: au1
 Encoding: 165 3404 163
 Width: 1386
 GlyphClass: 2
@@ -7870,7 +7870,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D57
+StartChar: au2
 Encoding: 168 3415 165
 Width: 1386
 GlyphClass: 2
@@ -7918,7 +7918,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0d60
+StartChar: ml_rr
 Encoding: 169 3424 166
 Width: 1386
 GlyphClass: 2
@@ -8030,7 +8030,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: l2
+StartChar: ml_ll
 Encoding: 170 3425 167
 Width: 2062
 GlyphClass: 2
@@ -8095,7 +8095,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D66
+StartChar: ml_0
 Encoding: 173 3430 168
 Width: 900
 GlyphClass: 2
@@ -8125,7 +8125,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D67
+StartChar: ml_1
 Encoding: 174 3431 169
 Width: 1350
 GlyphClass: 2
@@ -8165,7 +8165,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D68
+StartChar: ml_2
 Encoding: 175 3432 170
 Width: 1382
 GlyphClass: 2
@@ -8196,7 +8196,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D69
+StartChar: ml_3
 Encoding: 176 3433 171
 Width: 1912
 GlyphClass: 2
@@ -8238,7 +8238,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D6A
+StartChar: ml_4
 Encoding: 177 3434 172
 Width: 1376
 GlyphClass: 2
@@ -8279,7 +8279,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D6B
+StartChar: ml_5
 Encoding: 178 3435 173
 Width: 1432
 GlyphClass: 2
@@ -8342,7 +8342,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6C
+StartChar: ml_6
 Encoding: 179 3436 174
 Width: 1440
 GlyphClass: 2
@@ -8393,7 +8393,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D6D
+StartChar: ml_7
 Encoding: 180 3437 175
 Width: 1410
 GlyphClass: 2
@@ -8440,7 +8440,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D6E
+StartChar: ml_8
 Encoding: 181 3438 176
 Width: 1388
 GlyphClass: 2
@@ -8486,7 +8486,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D6F
+StartChar: ml_9
 Encoding: 182 3439 177
 Width: 1402
 GlyphClass: 2
@@ -9823,7 +9823,7 @@ SplineSet
  606 -192 606 -192 606 -132 c 0,140,141
 EndSplineSet
 Validated: 5
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 l1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 ml_l
 EndChar
 
 StartChar: k1k1
@@ -86022,7 +86022,7 @@ EndSplineSet
 Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" h1 xx
 EndChar
 
-StartChar: uni20B9
+StartChar: rupee
 Encoding: 198 8377 1046
 Width: 1101
 VWidth: 0
@@ -86069,7 +86069,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D7A
+StartChar: nhcil2
 Encoding: 190 3450 1047
 Width: 2334
 Flags: MW
@@ -86150,7 +86150,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D7B
+StartChar: n1cil2
 Encoding: 191 3451 1048
 Width: 1596
 Flags: MW
@@ -86206,7 +86206,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D7C
+StartChar: r3cil2
 Encoding: 192 3452 1049
 Width: 1092
 Flags: MW
@@ -86252,7 +86252,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D7D
+StartChar: l3cil2
 Encoding: 193 3453 1050
 Width: 1756
 Flags: MW
@@ -86324,7 +86324,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D7E
+StartChar: lhcil2
 Encoding: 194 3454 1051
 Width: 1608
 Flags: MW
@@ -86389,7 +86389,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D7F
+StartChar: k1cil2
 Encoding: 195 3455 1052
 Width: 1780
 Flags: MW
@@ -86475,7 +86475,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D79
+StartChar: datemark
 Encoding: 189 3449 1053
 Width: 1770
 Flags: W
@@ -86526,7 +86526,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D72
+StartChar: ml_1000
 Encoding: 185 3442 1054
 Width: 2048
 VWidth: 0
@@ -86590,7 +86590,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D63
+StartChar: l2
 Encoding: 172 3427 1055
 Width: 2048
 Flags: W
@@ -86651,7 +86651,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D62
+StartChar: l1
 Encoding: 171 3426 1056
 Width: 2048
 Flags: W
@@ -86712,7 +86712,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D29
+StartChar: n2
 Encoding: 134 3369 1057
 Width: 1683
 Flags: W
@@ -86823,7 +86823,7 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: uni0D71
+StartChar: ml_100
 Encoding: 184 3441 1059
 Width: 1506
 Flags: W
@@ -86866,7 +86866,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D70
+StartChar: ml_10
 Encoding: 183 3440 1060
 Width: 2013
 Flags: W
@@ -86913,7 +86913,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D73
+StartChar: ml_quarter
 Encoding: 186 3443 1061
 Width: 1150
 Flags: W
@@ -86944,7 +86944,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D74
+StartChar: ml_half
 Encoding: 187 3444 1062
 Width: 1357
 Flags: W
@@ -87003,7 +87003,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D75
+StartChar: ml_3quarter
 Encoding: 188 3445 1063
 Width: 1738
 Flags: W
@@ -87069,7 +87069,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D3A
+StartChar: rh_half
 Encoding: 151 3386 1064
 Width: 1496
 Flags: W
@@ -90673,7 +90673,7 @@ SplineSet
  750 768 750 768 784 664 c 1,67,68
  820 560 820 560 820 444 c 0,29,30
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC uni0D3E uni0D02
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anuswara
 EndChar
 
 StartChar: dotrephy1
