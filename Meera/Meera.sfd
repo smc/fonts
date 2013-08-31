@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1377948406
+ModificationTime: 1377948989
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -77,7 +77,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 756 36 12
+WinInfo: 180 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
@@ -7222,10 +7222,10 @@ EndChar
 
 StartChar: r4
 Encoding: 201 -1 190
-Width: 599
+Width: 459
 GlyphClass: 2
 LigCaretCntFixed: 1
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
 SplineSet
@@ -7240,7 +7240,6 @@ SplineSet
  263 -110 263 -110 489 -110 c 0,13,14
  565 -110 565 -110 659 -63 c 1,0,-1
 EndSplineSet
-Validated: 1
 Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtable" xx r3
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable" r3 xx
 LCarets2: 1 -67 
