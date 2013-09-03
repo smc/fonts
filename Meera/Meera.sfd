@@ -75183,7 +75183,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" rhrh u2
 EndChar
 
-StartChar: NameMe.66369
+StartChar: k1ch1
 Encoding: 1026 -1 1015
 Width: 1605
 GlyphClass: 3
@@ -75265,9 +75265,10 @@ SplineSet
  547 252 547 252 539 412 c 1,84,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx ch1
 EndChar
 
-StartChar: NameMe.66370
+StartChar: k1p3
 Encoding: 1027 -1 1016
 Width: 1605
 GlyphClass: 3
@@ -75361,9 +75362,10 @@ SplineSet
  631 -552 631 -552 631 -448 c 256,111,112
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx p3
 EndChar
 
-StartChar: NameMe.66371
+StartChar: k1z1
 Encoding: 1028 -1 1017
 Width: 1605
 GlyphClass: 3
@@ -75457,9 +75459,11 @@ SplineSet
  547 251 547 251 539 411 c 1,107,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx z1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx z1
 EndChar
 
-StartChar: NameMe.66372
+StartChar: k1sht2
 Encoding: 1029 -1 1018
 Width: 2470
 GlyphClass: 2
@@ -75559,9 +75563,10 @@ SplineSet
  472 116 472 116 509 159.5 c 128,-1,107
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx t2
 EndChar
 
-StartChar: NameMe.66373
+StartChar: k1sht2u1
 Encoding: 1030 -1 1019
 Width: 2470
 GlyphClass: 2
@@ -75675,9 +75680,10 @@ SplineSet
  472 116 472 116 509 159 c 128,-1,130
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" k1sht2 u1
 EndChar
 
-StartChar: NameMe.66374
+StartChar: k1sht2u2
 Encoding: 1031 -1 1020
 Width: 2470
 GlyphClass: 2
@@ -75800,9 +75806,10 @@ SplineSet
  546 201 546 201 546 243 c 1,142,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" k1sht2 u2
 EndChar
 
-StartChar: NameMe.66375
+StartChar: k2p3
 Encoding: 1032 -1 1021
 Width: 1532
 GlyphClass: 2
@@ -75880,9 +75887,10 @@ SplineSet
  582 -542 582 -542 582 -438 c 256,90,91
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k2 xx p3
 EndChar
 
-StartChar: NameMe.66376
+StartChar: k2r3
 Encoding: 1033 -1 1022
 Width: 1776
 GlyphClass: 2
@@ -75936,9 +75944,10 @@ SplineSet
  855 195 855 195 855 265 c 0,55,56
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" k2 r4
 EndChar
 
-StartChar: NameMe.66377
+StartChar: k2r3u1
 Encoding: 1034 -1 1023
 Width: 1776
 GlyphClass: 2
@@ -76010,9 +76019,10 @@ SplineSet
  774 92 774 92 814 144 c 128,-1,81
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" k2r3 u1
 EndChar
 
-StartChar: NameMe.66378
+StartChar: k2r3u2
 Encoding: 1035 -1 1024
 Width: 1778
 GlyphClass: 2
@@ -76094,9 +76104,10 @@ SplineSet
  1562 -726 1562 -726 1618 -670 c 128,-1,89
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" k2r3 u2
 EndChar
 
-StartChar: NameMe.66379
+StartChar: k3p1
 Encoding: 1036 -1 1025
 Width: 1532
 GlyphClass: 2
@@ -76149,9 +76160,10 @@ SplineSet
  1416 -622 l 1,34,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx p1
 EndChar
 
-StartChar: NameMe.66380
+StartChar: k3p3
 Encoding: 1037 -1 1026
 Width: 1532
 GlyphClass: 2
@@ -76218,6 +76230,7 @@ SplineSet
  378 -544 378 -544 472 -545 c 1,76,77
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx p3
 EndChar
 
 StartChar: NameMe.66381
@@ -76412,7 +76425,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: NameMe.66383
+StartChar: nhp1
 Encoding: 1040 -1 1029
 Width: 2231
 GlyphClass: 2
@@ -76485,9 +76498,10 @@ SplineSet
  600 217 600 217 600 287 c 0,78,79
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx p1
 EndChar
 
-StartChar: NameMe.66384
+StartChar: th1th1p1
 Encoding: 1041 -1 1030
 Width: 2708
 GlyphClass: 2
@@ -76607,9 +76621,10 @@ SplineSet
  681 114 681 114 878 114 c 0,148,149
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1 xx p1
 EndChar
 
-StartChar: NameMe.66385
+StartChar: th1th1m1
 Encoding: 1042 -1 1031
 Width: 2708
 GlyphClass: 2
@@ -76699,9 +76714,10 @@ SplineSet
  2225 -386 2225 -386 2225 -229 c 0,110,111
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1 xx m1
 EndChar
 
-StartChar: NameMe.66386
+StartChar: th1th1z1
 Encoding: 1043 -1 1032
 Width: 2708
 GlyphClass: 2
@@ -76807,9 +76823,10 @@ SplineSet
  2462 -536 2462 -536 2462 -330 c 0,135,136
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1 xx z1
 EndChar
 
-StartChar: NameMe.66387
+StartChar: th1z1
 Encoding: 1044 -1 1033
 Width: 1609
 GlyphClass: 2
@@ -76888,9 +76905,10 @@ SplineSet
  1426 -564 1426 -564 1435 -419 c 0,93,94
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx z1
 EndChar
 
-StartChar: NameMe.66388
+StartChar: th2r1
 Encoding: 1045 -1 1034
 Width: 1387
 GlyphClass: 2
@@ -76940,7 +76958,7 @@ Validated: 1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" th2 r1
 EndChar
 
-StartChar: NameMe.66389
+StartChar: th2r3
 Encoding: 1046 -1 1035
 Width: 1697
 GlyphClass: 2
@@ -76982,7 +77000,7 @@ Validated: 1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" th2 r4
 EndChar
 
-StartChar: NameMe.66390
+StartChar: th3k3
 Encoding: 1047 -1 1036
 Width: 1038
 GlyphClass: 2
@@ -77045,7 +77063,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx k3
 EndChar
 
-StartChar: NameMe.66391
+StartChar: th3n1
 Encoding: 1048 -1 1037
 Width: 1038
 GlyphClass: 2
@@ -77109,7 +77127,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx n1
 EndChar
 
-StartChar: NameMe.66392
+StartChar: th3p3
 Encoding: 1049 -1 1038
 Width: 1047
 GlyphClass: 2
@@ -77182,7 +77200,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx p3
 EndChar
 
-StartChar: NameMe.66393
+StartChar: th3m1
 Encoding: 1050 -1 1039
 Width: 1038
 GlyphClass: 2
@@ -77240,7 +77258,7 @@ Validated: 1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx m1
 EndChar
 
-StartChar: NameMe.66394
+StartChar: th3l3
 Encoding: 1051 -1 1040
 Width: 1038
 GlyphClass: 2
@@ -77311,7 +77329,7 @@ Validated: 1
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam lookup 3 subtable" th3 l4
 EndChar
 
-StartChar: NameMe.66395
+StartChar: p2r1
 Encoding: 1052 -1 1041
 Width: 1924
 GlyphClass: 2
@@ -77371,9 +77389,10 @@ SplineSet
  1368 -311 1368 -311 1461 -311 c 0,59,60
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" p2 r1
 EndChar
 
-StartChar: NameMe.66396
+StartChar: p3th1
 Encoding: 1053 -1 1042
 Width: 2029
 GlyphClass: 2
@@ -77456,9 +77475,10 @@ SplineSet
  511 125 511 125 552 171.5 c 128,-1,97
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx th1
 EndChar
 
-StartChar: NameMe.66397
+StartChar: p3m1
 Encoding: 1054 -1 1043
 Width: 2023
 GlyphClass: 2
@@ -77528,9 +77548,10 @@ SplineSet
  1684 -372 1684 -372 1684 -215 c 0,73,74
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx m1
 EndChar
 
-StartChar: NameMe.66398
+StartChar: p3z1
 Encoding: 1055 -1 1044
 Width: 2023
 GlyphClass: 2
@@ -77616,9 +77637,10 @@ SplineSet
  1922 -530 1922 -530 1922 -331 c 0,98,99
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx z1
 EndChar
 
-StartChar: NameMe.66399
+StartChar: p3s1
 Encoding: 1056 -1 1045
 Width: 2031
 GlyphClass: 2
@@ -77698,9 +77720,10 @@ SplineSet
  2071 -87 2071 -87 2071 -307 c 0,58,59
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx s1
 EndChar
 
-StartChar: NameMe.66400
+StartChar: p3h1
 Encoding: 1057 -1 1046
 Width: 2031
 GlyphClass: 2
@@ -77784,9 +77807,10 @@ SplineSet
  2075 -185 2075 -185 2075 -319 c 0,58,59
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx h1
 EndChar
 
-StartChar: NameMe.66401
+StartChar: m1th1
 Encoding: 1058 -1 1047
 Width: 1050
 GlyphClass: 2
@@ -77846,9 +77870,10 @@ SplineSet
  703 -438 703 -438 703 -373 c 0,65,66
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx th1
 EndChar
 
-StartChar: NameMe.66402
+StartChar: y1v1
 Encoding: 1059 -1 1048
 Width: 1721
 GlyphClass: 2
@@ -77915,9 +77940,11 @@ SplineSet
  802 148 802 148 831 157 c 1,70,71
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" y1xx v1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx v1
 EndChar
 
-StartChar: NameMe.66403
+StartChar: y1v1u1
 Encoding: 1060 -1 1049
 Width: 1721
 GlyphClass: 2
@@ -78000,9 +78027,10 @@ SplineSet
  1546 -809 1546 -809 1546 -757 c 0,94,95
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1v1 u1
 EndChar
 
-StartChar: NameMe.66404
+StartChar: y1v1u2
 Encoding: 1061 -1 1050
 Width: 1721
 GlyphClass: 2
@@ -78094,9 +78122,10 @@ SplineSet
  1466 -926 1466 -926 1508 -882 c 1,103,104
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1v1 u2
 EndChar
 
-StartChar: NameMe.66405
+StartChar: l3th3
 Encoding: 1062 -1 1051
 Width: 1438
 GlyphClass: 2
@@ -78153,9 +78182,10 @@ SplineSet
  858 419 l 1,53,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx th3
 EndChar
 
-StartChar: NameMe.66406
+StartChar: l1n1
 Encoding: 1063 -1 1052
 Width: 1438
 GlyphClass: 2
@@ -78211,9 +78241,10 @@ SplineSet
  858 420 l 1,50,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx n1
 EndChar
 
-StartChar: NameMe.66407
+StartChar: l3v1
 Encoding: 1064 -1 1053
 Width: 1438
 GlyphClass: 2
@@ -78265,9 +78296,10 @@ SplineSet
  858 420 l 1,42,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" l3xx v1
 EndChar
 
-StartChar: NameMe.66408
+StartChar: v1n1
 Encoding: 1065 -1 1054
 Width: 1485
 GlyphClass: 2
@@ -78322,9 +78354,10 @@ SplineSet
  1527 -184 1527 -184 1527 -311 c 0,29,30
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" v1xx n1
 EndChar
 
-StartChar: NameMe.66409
+StartChar: v1z1
 Encoding: 1066 -1 1055
 Width: 1484
 GlyphClass: 2
@@ -78389,9 +78422,10 @@ SplineSet
  1419 -538 1419 -538 1419 -333 c 0,70,71
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" v1xx z1
 EndChar
 
-StartChar: NameMe.66410
+StartChar: z1k1
 Encoding: 1067 -1 1056
 Width: 1699
 GlyphClass: 2
@@ -78485,9 +78519,10 @@ SplineSet
  947 -457 947 -457 941 -341 c 1,110,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx k1
 EndChar
 
-StartChar: NameMe.66411
+StartChar: z1k1k1
 Encoding: 1068 -1 1057
 Width: 1699
 GlyphClass: 2
@@ -78584,9 +78619,10 @@ SplineSet
  708 -546 708 -546 708 -453 c 1,119,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx k1 xx k1
 EndChar
 
-StartChar: NameMe.66412
+StartChar: z1th3
 Encoding: 1069 -1 1058
 Width: 1699
 GlyphClass: 2
@@ -78657,9 +78693,10 @@ SplineSet
  1593 -339 1593 -339 1593 -452 c 0,54,55
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx th3
 EndChar
 
-StartChar: NameMe.66413
+StartChar: z1p1
 Encoding: 1070 -1 1059
 Width: 1699
 GlyphClass: 2
@@ -78725,9 +78762,10 @@ SplineSet
  1627 -621 l 1,54,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx p1
 EndChar
 
-StartChar: NameMe.66414
+StartChar: z1p3
 Encoding: 1071 -1 1060
 Width: 1699
 GlyphClass: 2
@@ -78807,9 +78845,10 @@ SplineSet
  514 -544 514 -544 607 -545 c 1,97,98
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx p3
 EndChar
 
-StartChar: NameMe.66415
+StartChar: s1k3
 Encoding: 1072 -1 1061
 Width: 2168
 GlyphClass: 2
@@ -78876,9 +78915,10 @@ SplineSet
  2035 -193 2035 -193 2035 -330 c 0,49,50
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k3
 EndChar
 
-StartChar: NameMe.66416
+StartChar: s1p3
 Encoding: 1073 -1 1062
 Width: 2168
 GlyphClass: 2
@@ -78956,9 +78996,10 @@ SplineSet
  959 -547 959 -547 1053 -547 c 0,91,92
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx p3
 EndChar
 
-StartChar: NameMe.66417
+StartChar: s1h1
 Encoding: 1074 -1 1063
 Width: 2168
 GlyphClass: 2
@@ -79034,9 +79075,10 @@ SplineSet
  2085 -189 2085 -189 2085 -323 c 0,49,50
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx h1
 EndChar
 
-StartChar: NameMe.66418
+StartChar: h1th1
 Encoding: 1075 -1 1064
 Width: 1933
 GlyphClass: 2
@@ -79109,9 +79151,10 @@ SplineSet
  1550 -437 1550 -437 1550 -372 c 0,89,90
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx th1
 EndChar
 
-StartChar: NameMe.66419
+StartChar: h1th3
 Encoding: 1076 -1 1065
 Width: 1933
 GlyphClass: 2
@@ -79177,9 +79220,10 @@ SplineSet
  1735 -344 1735 -344 1735 -454 c 0,47,48
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx th3
 EndChar
 
-StartChar: NameMe.66420
+StartChar: h1p3
 Encoding: 1077 -1 1066
 Width: 1933
 GlyphClass: 2
@@ -79255,9 +79299,10 @@ SplineSet
  752 -546 752 -546 846 -547 c 1,91,92
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx p3
 EndChar
 
-StartChar: NameMe.66421
+StartChar: h1s1
 Encoding: 1078 -1 1067
 Width: 1933
 GlyphClass: 2
@@ -79327,9 +79372,10 @@ SplineSet
  1887 -91 1887 -91 1887 -310 c 0,48,49
 EndSplineSet
 Validated: 1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx s1
 EndChar
 
-StartChar: NameMe.66422
+StartChar: rhrhr3
 Encoding: 1079 -1 1068
 Width: 2425
 GlyphClass: 2
@@ -79382,9 +79428,10 @@ SplineSet
  1377 653 1377 653 1377 437 c 0,36,37
 EndSplineSet
 Validated: 1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" rhrh r4
 EndChar
 
-StartChar: NameMe.66423
+StartChar: rhrhr3u1
 Encoding: 1080 -1 1069
 Width: 2360
 GlyphClass: 2
@@ -79453,9 +79500,10 @@ SplineSet
  2105 -545 2105 -545 2152 -497 c 128,-1,74
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" rhrhr3 u1
 EndChar
 
-StartChar: NameMe.66424
+StartChar: rhrhr3u2
 Encoding: 1081 -1 1070
 Width: 2356
 GlyphClass: 2
@@ -79535,6 +79583,7 @@ SplineSet
  2110 -600 2110 -600 2166.5 -543 c 128,-1,89
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable" rhrhr3 u2
 EndChar
 
 StartChar: NameMe.66425
