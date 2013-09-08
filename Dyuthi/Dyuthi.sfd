@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1377953580
+ModificationTime: 1378643405
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -326,7 +326,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 54 27 10
+WinInfo: 494 26 9
 BeginPrivate: 0
 EndPrivate
 BeginChars: 708 708
@@ -3752,7 +3752,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D02
+StartChar: anusvara
 Encoding: 98 3330 99
 Width: 344
 GlyphClass: 2
@@ -3778,7 +3778,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D03
+StartChar: visarga
 Encoding: 99 3331 100
 Width: 193
 GlyphClass: 2
@@ -3818,7 +3818,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D05
+StartChar: ml_a
 Encoding: 100 3333 101
 Width: 939
 GlyphClass: 2
@@ -3889,7 +3889,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D06
+StartChar: ml_aa
 Encoding: 101 3334 102
 Width: 1069
 GlyphClass: 2
@@ -3973,7 +3973,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D07
+StartChar: ml_i
 Encoding: 102 3335 103
 Width: 645
 GlyphClass: 2
@@ -4040,7 +4040,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D08
+StartChar: ml_ii
 Encoding: 103 3336 104
 Width: 1107
 GlyphClass: 2
@@ -4136,7 +4136,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D09
+StartChar: ml_u
 Encoding: 104 3337 105
 Width: 519
 GlyphClass: 2
@@ -4185,7 +4185,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D0A
+StartChar: ml_uu
 Encoding: 105 3338 106
 Width: 980
 GlyphClass: 2
@@ -4265,7 +4265,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D0B
+StartChar: ml_r
 Encoding: 106 3339 107
 Width: 640
 GlyphClass: 2
@@ -4327,7 +4327,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D0E
+StartChar: ml_e
 Encoding: 108 3342 108
 Width: 852
 GlyphClass: 2
@@ -4389,7 +4389,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D0F
+StartChar: ml_ee
 Encoding: 109 3343 109
 Width: 854
 GlyphClass: 2
@@ -4466,7 +4466,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D10
+StartChar: ml_ai
 Encoding: 110 3344 110
 Width: 1339
 GlyphClass: 2
@@ -4551,7 +4551,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D12
+StartChar: ml_o
 Encoding: 111 3346 111
 Width: 547
 GlyphClass: 2
@@ -4602,7 +4602,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D13
+StartChar: ml_oo
 Encoding: 112 3347 112
 Width: 899
 GlyphClass: 2
@@ -4669,7 +4669,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D14
+StartChar: ml_au
 Encoding: 113 3348 113
 Width: 1005
 GlyphClass: 2
@@ -6457,7 +6457,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D3D
+StartChar: avagraha
 Encoding: 150 3389 150
 Width: 624
 GlyphClass: 2
@@ -6492,7 +6492,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D3E
+StartChar: a2
 Encoding: 151 3390 151
 Width: 359
 GlyphClass: 2
@@ -6520,7 +6520,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D3F
+StartChar: i1
 Encoding: 152 3391 152
 Width: 184
 GlyphClass: 2
@@ -6549,7 +6549,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D40
+StartChar: i2
 Encoding: 153 3392 153
 Width: 194
 GlyphClass: 2
@@ -6708,7 +6708,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D46
+StartChar: e1
 Encoding: 157 3398 157
 Width: 491
 GlyphClass: 2
@@ -6744,7 +6744,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D47
+StartChar: e2
 Encoding: 158 3399 158
 Width: 410
 GlyphClass: 2
@@ -6788,7 +6788,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D48
+StartChar: ai1
 Encoding: 159 3400 159
 Width: 972
 GlyphClass: 2
@@ -6848,7 +6848,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D4A
+StartChar: o1
 Encoding: 160 3402 160
 Width: 1156
 GlyphClass: 2
@@ -6937,7 +6937,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D4B
+StartChar: o2
 Encoding: 161 3403 161
 Width: 1064
 GlyphClass: 2
@@ -7029,7 +7029,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D4C
+StartChar: au1
 Encoding: 162 3404 162
 Width: 465
 GlyphClass: 2
@@ -7098,7 +7098,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D57
+StartChar: au2
 Encoding: 164 3415 164
 Width: 465
 GlyphClass: 2
@@ -7140,7 +7140,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0d60
+StartChar: ml_rr
 Encoding: 165 3424 165
 Width: 607
 GlyphClass: 2
@@ -7230,7 +7230,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: l2
+StartChar: ml_ll
 Encoding: 166 3425 166
 Width: 854
 GlyphClass: 2
@@ -7301,7 +7301,7 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uni0D66
+StartChar: ml_0
 Encoding: 167 3430 167
 Width: 582
 GlyphClass: 2
@@ -7353,7 +7353,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D67
+StartChar: ml_1
 Encoding: 168 3431 168
 Width: 649
 GlyphClass: 2
@@ -7391,7 +7391,7 @@ EndSplineSet
 Validated: 41
 EndChar
 
-StartChar: uni0D68
+StartChar: ml_2
 Encoding: 169 3432 169
 Width: 553
 GlyphClass: 2
@@ -7426,7 +7426,7 @@ EndSplineSet
 Validated: 9
 EndChar
 
-StartChar: uni0D69
+StartChar: ml_3
 Encoding: 170 3433 170
 Width: 672
 GlyphClass: 2
@@ -7470,7 +7470,7 @@ EndSplineSet
 Validated: 9
 EndChar
 
-StartChar: uni0D6A
+StartChar: ml_4
 Encoding: 171 3434 171
 Width: 525
 GlyphClass: 2
@@ -7516,7 +7516,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6B
+StartChar: ml_5
 Encoding: 172 3435 172
 Width: 761
 GlyphClass: 2
@@ -7602,7 +7602,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6C
+StartChar: ml_6
 Encoding: 173 3436 173
 Width: 796
 GlyphClass: 2
@@ -7659,7 +7659,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6D
+StartChar: ml_7
 Encoding: 174 3437 174
 Width: 569
 GlyphClass: 2
@@ -7716,7 +7716,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6E
+StartChar: ml_8
 Encoding: 175 3438 175
 Width: 585
 GlyphClass: 2
@@ -7764,7 +7764,7 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: uni0D6F
+StartChar: ml_9
 Encoding: 176 3439 176
 Width: 712
 GlyphClass: 2
@@ -49325,7 +49325,7 @@ Validated: 33
 Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 1 subtable" h1 xx
 EndChar
 
-StartChar: uni0D0C
+StartChar: ml_l
 Encoding: 107 3340 699
 Width: 1024
 VWidth: 0
@@ -49385,10 +49385,9 @@ SplineSet
  232.5 73.5 232.5 73.5 252.5 93.5 c 128,-1,76
  272.5 113.5 272.5 113.5 272.5 143 c 0,65,66
 EndSplineSet
-Validated: 33
 EndChar
 
-StartChar: uni0D79
+StartChar: datemark
 Encoding: 177 3449 700
 Width: 845
 Flags: W
@@ -49452,7 +49451,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7A
+StartChar: nhcil2
 Encoding: 178 3450 701
 Width: 1054
 Flags: W
@@ -49530,7 +49529,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7B
+StartChar: n1cil2
 Encoding: 179 3451 702
 Width: 712
 Flags: W
@@ -49586,7 +49585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7C
+StartChar: r3cil2
 Encoding: 180 3452 703
 Width: 525
 Flags: W
@@ -49632,7 +49631,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7D
+StartChar: l3cil2
 Encoding: 181 3453 704
 Width: 770
 Flags: W
@@ -49696,7 +49695,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7E
+StartChar: lhcil2
 Encoding: 182 3454 705
 Width: 700
 Flags: W
@@ -49749,7 +49748,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7F
+StartChar: k1cil2
 Encoding: 183 3455 706
 Width: 770
 Flags: W
@@ -49821,12 +49820,13 @@ EndChar
 StartChar: aam
 Encoding: 707 -1 707
 Width: 691
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 Refer: 99 3330 N 1 0 0 1 348 -10 2
 Refer: 151 3390 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC uni0D3E uni0D02
+LCarets2: 2 0 0 
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anusvara
 EndChar
 EndChars
 EndSplineFont
