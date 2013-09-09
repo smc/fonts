@@ -73,7 +73,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 36 12
+WinInfo: 68 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam lookup 0-1" 
@@ -2691,7 +2691,7 @@ Flags: MW
 LayerCount: 2
 EndChar
 
-StartChar: anuswara
+StartChar: anusvara
 Encoding: 96 3330 99
 Width: 685
 GlyphClass: 2
@@ -82303,7 +82303,7 @@ SplineSet
  279 688 279 688 279 589 c 1,47,-1
  145 589 l 1,24,25
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anuswara
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anusvara
 EndChar
 
 StartChar: s1p1l3
