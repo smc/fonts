@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1378643405
+ModificationTime: 1379266925
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -326,10 +326,10 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 494 26 9
+WinInfo: 459 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 708 708
+BeginChars: 709 709
 
 StartChar: .notdef
 Encoding: 187 -1 0
@@ -49827,6 +49827,27 @@ Refer: 99 3330 N 1 0 0 1 348 -10 2
 Refer: 151 3390 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anusvara
+EndChar
+
+StartChar: dotreph
+Encoding: 708 3406 708
+Width: 0
+Flags: WO
+LayerCount: 2
+Fore
+SplineSet
+-300 503.6 m 2,0,-1
+ -300 516.6 l 2,1,2
+ -300 552.6 -300 552.6 -281 572.6 c 1,3,4
+ -266 591.6 -266 591.6 -242 591.6 c 128,-1,5
+ -218 591.6 -218 591.6 -202 572.6 c 1,6,7
+ -183 552.6 -183 552.6 -183 516.6 c 2,8,-1
+ -183 503.6 l 2,9,10
+ -183 472.6 -183 472.6 -201 454.6 c 1,11,12
+ -220 437.6 -220 437.6 -242 437.6 c 0,13,14
+ -266 437.6 -266 437.6 -281 453.6 c 0,15,16
+ -300 472.6 -300 472.6 -300 503.6 c 2,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
