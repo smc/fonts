@@ -761,7 +761,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 34 12
+WinInfo: 34 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam lookup 0 subtable" 
@@ -6187,7 +6187,7 @@ Encoding: 129 3363 129
 Width: 2258
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1200 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10146,7 +10146,7 @@ Encoding: 202 -1 202
 Width: 2472
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1230 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10248,7 +10248,7 @@ Encoding: 203 -1 203
 Width: 2472
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1230 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10366,7 +10366,7 @@ Encoding: 204 -1 204
 Width: 2472
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1230 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11524,7 +11524,7 @@ Encoding: 214 -1 214
 Width: 2430
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11607,7 +11607,7 @@ Encoding: 215 -1 215
 Width: 2366
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11706,7 +11706,7 @@ Encoding: 216 -1 216
 Width: 2378
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17729,7 +17729,7 @@ Encoding: 275 -1 275
 Width: 2346
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17812,7 +17812,7 @@ Encoding: 276 -1 276
 Width: 2346
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17912,7 +17912,7 @@ Encoding: 277 -1 277
 Width: 2346
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1080 1080 basechar 0
+AnchorPoint: "dotreph" 1280 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21627,7 +21627,7 @@ Encoding: 321 -1 321
 Width: 2362
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 1080 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21709,7 +21709,7 @@ Encoding: 322 -1 322
 Width: 2596
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 1080 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21799,7 +21799,7 @@ Encoding: 323 -1 323
 Width: 2194
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 920 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21876,7 +21876,7 @@ Encoding: 324 -1 324
 Width: 2344
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 1080 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21959,7 +21959,7 @@ Encoding: 325 -1 325
 Width: 2344
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 1080 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22057,7 +22057,7 @@ Encoding: 326 -1 326
 Width: 2344
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 860 1080 basechar 0
+AnchorPoint: "dotreph" 1080 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -25305,7 +25305,7 @@ Encoding: 355 -1 355
 Width: 3260
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1680 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -25430,7 +25430,7 @@ Encoding: 356 -1 356
 Width: 3256
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1680 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -25565,7 +25565,7 @@ Encoding: 357 -1 357
 Width: 3038
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1680 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33013,7 +33013,7 @@ Encoding: 436 -1 436
 Width: 2534
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1400 1080 basechar 0
+AnchorPoint: "dotreph" 1420 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33078,7 +33078,7 @@ Encoding: 437 -1 437
 Width: 2534
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1400 1080 basechar 0
+AnchorPoint: "dotreph" 1420 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33160,7 +33160,7 @@ Encoding: 438 -1 438
 Width: 2534
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1400 1080 basechar 0
+AnchorPoint: "dotreph" 1420 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33259,7 +33259,7 @@ Encoding: 439 -1 439
 Width: 2534
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1400 1080 basechar 0
+AnchorPoint: "dotreph" 1420 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41574,7 +41574,7 @@ Encoding: 536 -1 536
 Width: 2546
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41631,7 +41631,7 @@ Encoding: 537 -1 537
 Width: 2546
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41704,7 +41704,7 @@ Encoding: 538 -1 538
 Width: 2546
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41789,7 +41789,7 @@ Encoding: 539 -1 539
 Width: 2604
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41856,7 +41856,7 @@ Encoding: 540 -1 540
 Width: 2546
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 1280 1080 basechar 0
+AnchorPoint: "dotreph" 1480 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59732,7 +59732,7 @@ Encoding: 746 -1 746
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59787,7 +59787,7 @@ Encoding: 747 -1 747
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59854,7 +59854,7 @@ Encoding: 748 -1 748
 Width: 1554
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59908,7 +59908,7 @@ Encoding: 749 -1 749
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59999,7 +59999,7 @@ Encoding: 750 -1 750
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60094,7 +60094,7 @@ Encoding: 751 -1 751
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60194,7 +60194,7 @@ Encoding: 752 -1 752
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60288,7 +60288,7 @@ Encoding: 753 -1 753
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60399,7 +60399,7 @@ Encoding: 754 -1 754
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60517,7 +60517,7 @@ Encoding: 755 -1 755
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60644,7 +60644,7 @@ Encoding: 756 -1 756
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60712,7 +60712,7 @@ Encoding: 757 -1 757
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60794,7 +60794,7 @@ Encoding: 758 -1 758
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60886,7 +60886,7 @@ Encoding: 759 -1 759
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60964,7 +60964,7 @@ Encoding: 760 -1 760
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61021,7 +61021,7 @@ Encoding: 761 -1 761
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61094,7 +61094,7 @@ Encoding: 762 -1 762
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61179,7 +61179,7 @@ Encoding: 763 -1 763
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61251,7 +61251,7 @@ Encoding: 764 -1 764
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61337,7 +61337,7 @@ Encoding: 765 -1 765
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61430,7 +61430,7 @@ Encoding: 766 -1 766
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61513,7 +61513,7 @@ Encoding: 767 -1 767
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61610,7 +61610,7 @@ Encoding: 768 -1 768
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61721,7 +61721,7 @@ Encoding: 769 -1 769
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61840,7 +61840,7 @@ Encoding: 770 -1 770
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61895,7 +61895,7 @@ Encoding: 771 -1 771
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -61967,7 +61967,7 @@ Encoding: 772 -1 772
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62051,7 +62051,7 @@ Encoding: 773 -1 773
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62120,7 +62120,7 @@ Encoding: 774 -1 774
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62207,7 +62207,7 @@ Encoding: 775 -1 775
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62307,7 +62307,7 @@ Encoding: 776 -1 776
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62376,7 +62376,7 @@ Encoding: 777 -1 777
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62461,7 +62461,7 @@ Encoding: 778 -1 778
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62558,7 +62558,7 @@ Encoding: 779 -1 779
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62641,7 +62641,7 @@ Encoding: 780 -1 780
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62740,7 +62740,7 @@ Encoding: 781 -1 781
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62856,7 +62856,7 @@ Encoding: 782 -1 782
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -62922,7 +62922,7 @@ Encoding: 783 -1 783
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63005,7 +63005,7 @@ Encoding: 784 -1 784
 Width: 1456
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63106,7 +63106,7 @@ Encoding: 785 -1 785
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63182,7 +63182,7 @@ Encoding: 786 -1 786
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63275,7 +63275,7 @@ Encoding: 787 -1 787
 Width: 1462
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 585 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63383,7 +63383,7 @@ Encoding: 788 -1 788
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63435,7 +63435,7 @@ Encoding: 789 -1 789
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63501,7 +63501,7 @@ Encoding: 790 -1 790
 Width: 1464
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63755,7 +63755,7 @@ Encoding: 794 -1 794
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63828,7 +63828,7 @@ Encoding: 795 -1 795
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -63916,7 +63916,7 @@ Encoding: 796 -1 796
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -64017,7 +64017,7 @@ Encoding: 797 -1 797
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -64067,7 +64067,7 @@ Encoding: 798 -1 798
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -64133,7 +64133,7 @@ Encoding: 799 -1 799
 Width: 1466
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 600 1080 basechar 0
+AnchorPoint: "dotreph" 840 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
