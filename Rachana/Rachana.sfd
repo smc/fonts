@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1380717562
+ModificationTime: 1380968646
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -766,7 +766,7 @@ WinInfo: 748 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam lookup 0 subtable" 
-BeginChars: 1130 1090
+BeginChars: 1130 1092
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -6678,7 +6678,6 @@ Encoding: 140 3375 140
 Width: 1624
 GlyphClass: 2
 Flags: MW
-AnchorPoint: "dotreph" 720 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8747,6 +8746,7 @@ SplineSet
  788 -46 788 -46 788 -204 c 0,0,1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0 
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 8 subtable" y1 xx
 EndChar
 
@@ -59288,7 +59288,6 @@ Encoding: 740 -1 740
 Width: 1624
 GlyphClass: 3
 Flags: MW
-AnchorPoint: "dotreph" 720 1080 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -59346,7 +59345,6 @@ SplineSet
  490 70 490 70 724 70 c 0,86,87
  804 70 804 70 844 82 c 1,70,71
 EndSplineSet
-Validated: 1
 LCarets2: 2 0 0 
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 6 subtable" y1 y2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" y1 xx y1
@@ -87941,7 +87939,7 @@ EndChar
 StartChar: dotreph
 Encoding: 1064 3406 1064
 Width: 0
-Flags: WO
+Flags: W
 AnchorPoint: "dotreph" -806 1080 mark 0
 LayerCount: 2
 Fore
@@ -88324,6 +88322,7 @@ LayerCount: 2
 Fore
 Refer: 311 -1 N 0.624 0 0 0.624 692.32 -408.128 2
 Refer: 140 3375 N 1 0 0 1 0 0 2
+LCarets2: 3 0 0 0 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5 subtable" y1xx ch1 xx ch1
 EndChar
 
@@ -88932,6 +88931,29 @@ Validated: 1
 Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 7 subtable" k1 xx ZWJ
 Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 2 subtable" k1 xx ZWJ
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" k1 xx ZWJ
+EndChar
+
+StartChar: dotrephy1y1
+Encoding: 1089 -1 1090
+Width: 1624
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1064 3406 N 1 0 0 1 1556 0 2
+Refer: 740 -1 N 1 0 0 1 0 0 2
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 6 subtable" dotrephy1 y2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" dotreph y1 xx y1
+EndChar
+
+StartChar: dotrephy1
+Encoding: 1090 -1 1091
+Width: 1624
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1064 3406 S 1 0 0 1 1543 0 2
+Refer: 140 3375 N 1 0 0 1 0 0 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" dotreph y1
 EndChar
 EndChars
 EndSplineFont
