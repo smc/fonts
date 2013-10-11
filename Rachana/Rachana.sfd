@@ -59526,6 +59526,7 @@ SplineSet
  804 70 804 70 844 82 c 1,70,71
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable" y1 y2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx y1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" y1 xx y1
 EndChar
@@ -64247,6 +64248,7 @@ SplineSet
  1298 -330 l 1,40,-1
 EndSplineSet
 Validated: 1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable" v1 v2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" v1 xx v1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" v1 xx v1
 EndChar
