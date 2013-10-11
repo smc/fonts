@@ -79,7 +79,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 36 12
+WinInfo: 720 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
@@ -52930,9 +52930,8 @@ SplineSet
  801 102 801 102 829 111 c 1,52,53
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx y1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx y1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" y1 xx y1
 EndChar
 
 StartChar: y1y1u1
@@ -53008,7 +53007,7 @@ SplineSet
  1310 -682 1310 -682 1356.5 -635 c 128,-1,77
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2 u1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1y1 u1
 EndChar
 
 StartChar: y1y1u2
@@ -53095,7 +53094,7 @@ SplineSet
  1289 -739 1289 -739 1346 -682.5 c 128,-1,89
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2 u2
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1y1 u2
 EndChar
 
 StartChar: r3u1
@@ -57119,9 +57118,8 @@ SplineSet
  1347 -237 l 1,30,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" v1 xx v1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" v1 xx v1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 v2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" v1 xx v1
 EndChar
 
 StartChar: v1v1u1
@@ -57178,14 +57176,13 @@ SplineSet
  1368 -593 1368 -593 1368 -525 c 256,45,46
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 v2 u1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1v1 u1
 EndChar
 
 StartChar: v1v1u2
 Encoding: 817 -1 806
 Width: 1478
 GlyphClass: 3
-LigCaretCntFixed: 1
 Flags: MW
 LayerCount: 2
 Fore
@@ -57247,8 +57244,7 @@ SplineSet
  1258 -745 1258 -745 1314 -688 c 128,-1,59
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1 v2 u2
-LCarets2: 2 -136 -136 
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" v1v1 u2
 EndChar
 
 StartChar: z1u1
