@@ -10117,8 +10117,9 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.842346 1432 54 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D32
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D32
 Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D32 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D32
 EndChar
 
 StartChar: uni0D32_uni0D2A
@@ -10130,6 +10131,7 @@ LayerCount: 2
 Fore
 Refer: 82 3370 N 0.860901 0 0 0.504028 90 -491 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D2A
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D2A
 EndChar
 
@@ -10142,6 +10144,7 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 0.765869 0 0 0.491821 82 -492 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D15
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D15
 EndChar
 
@@ -10154,6 +10157,7 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1 0 0 0.498474 164 -498 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D2E
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D2E
 EndChar
 
