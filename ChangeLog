@@ -1,3 +1,17 @@
+6.0
+* Combined mlym, mlm2 Opentype script specification support in Meera, Rachana
+and RaghuMalayalamSans (6.0 only)
+* Full support to Harfbuzz and Uniscribe shaping engines
+* Cleaned up and updated lookup tables
+* Meaningful names to glyphs to help with Lookup tables reusability
+* Old Figures and other Typographical glyphs such as double quotes to Rachana
+* Dotreph positioning using GPOS 'abvm' lookup
+* Unicode 6.1 Malayalam glyphset for many fonts
+* Improved Latin glyphs and kerning for Meera
+* Experimental usage of reference glyphs for some conjunct glyphs
+* Removed hinting instructions, reduced TTF file size
+* Several bugfixes, lookup corrections, glyph improvements
+* Many test cases added
 5.1
 * Atomic chillu characters mapped in Dyuthi font
 5.0.1
