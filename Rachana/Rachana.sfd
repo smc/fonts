@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1381939754
+ModificationTime: 1381956021
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,12 +63,13 @@ Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 3"  {"'blwf' Be
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4"  {"'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable"  } ['blws' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['pres' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 5"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 5 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
-Lookup: 4 8 0 "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6"  {"'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
+Lookup: 4 256 0 "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6"  {"'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 7"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 7 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 8"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 8 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 8"  {"'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 8 subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
 Lookup: 260 0 0 "'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0"  {"'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0 subtable"  } ['abvm' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-MarkAttachClasses: 1
+MarkAttachClasses: 2
+"nomark" 0 
 DEI: 91125
 TtTable: prep
 PUSHW_1
@@ -767,7 +768,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 36 12
+WinInfo: 36 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0 subtable" 
