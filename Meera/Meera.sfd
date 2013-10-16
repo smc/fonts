@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1381561657
+ModificationTime: 1381940670
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,7 +62,7 @@ Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2"  {"'blwf' Be
 Lookup: 4 0 0 "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3"  {"'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 3 subtable"  } ['blws' ('mlym' <'dflt' > ) 'blws' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable"  } ['pres' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4"  {"'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) 'psts' ('mlm2' <'dflt' > ) ]
+Lookup: 4 8 0 "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) 'psts' ('mlm2' <'dflt' > ) ]
 Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 6"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
 Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 7 subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
@@ -79,7 +79,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 533 41 14
+WinInfo: 144 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
