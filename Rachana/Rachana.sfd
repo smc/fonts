@@ -768,7 +768,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 36 36 12
+WinInfo: 684 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0 subtable" 
@@ -88176,6 +88176,7 @@ EndChar
 StartChar: dotreph
 Encoding: 1064 3406 1064
 Width: 0
+GlyphClass: 4
 AnchorPoint: "dotreph" -806 1080 mark 0
 LayerCount: 2
 Fore

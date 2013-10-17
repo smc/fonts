@@ -5991,7 +5991,7 @@ EndChar
 StartChar: dotreph
 Encoding: 165 3406 165
 Width: 0
-GlyphClass: 2
+GlyphClass: 4
 Flags: MW
 AnchorPoint: "dotreph" -591.5 1084.5 mark 0
 LayerCount: 2
