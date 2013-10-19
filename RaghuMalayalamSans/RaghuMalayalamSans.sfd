@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1136575263
-ModificationTime: 1381571623
+ModificationTime: 1382174612
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -298,20 +298,20 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "C-DAC Mumbai (formerly NCST): RaghuMalayalam: Original Version 1.00 (FontersNCST)" "" " Version 2.00 (2008)" "" "RaghuMalayalam - Trademark of Centre for Development of Advanced Computing (C-DAC) Mumbai (formerly NCST). " "Centre for Development of Advanced Computing (C-DAC) Mumbai, (formerly NCST)." "Prof. R.K.Joshi and Rajith Kumar K. M." "RaghuMalayalam is the name of a digital font - a typeface in Malayalam Script to be used for composing text in Malayalam language. It has been designed in Open Type Format with Unicode standards and reordering as well as combining characters according to the visual syllable standard of IndiX Compugraphy. +AA0ACgANAAoA-This first Version called RaghuMalayalam font Original Version 1.00 (2005) is a non-hinted text face, to be used for continuous text in Malayalm language. And is recommended to be used in minimum 14pt. size on screen and 10pt. size on paper (see the README file). The designed letterforms of RaghuMalayalam font in Malayalam script, have elegant structures of thick and thin strokes. Vertical strokes contain a slight curvature and scooped ends.+AA0ACgANAAoA-RaghuMalayalam font Original Version 1.00 (2005) has been designed and developed, by Prof. R. K. Joshi (TypeFont Design Director, Visiting Design Specialist at C-DAC Mumbai) in association with Mr. Rajith Kumar K. M. (TypeFont Designer), assisted by Mr. Nirmal Biswas, Ms. Jui Mhatre and Ms. Supriya Kharkar at C-DAC Mumbai (formerly NCST).+AAoACgAA-This is Version 2 after modification of opentype tables and addtion of glyphs by suresh p.<suresh@ippimail.com>" "http://www.cdacmumbai.in/projects/indix" "http://staff.cdacmumbai.in/rkjoshi" "1. RaghuMalayalam font Original Version 1.00 (2005) +AKkA Centre for Development of Advanced Computing, Mumbai.+AA0ACgANAAoA-2. RaghuMalayalam font Original Version 1.00 (2005) has been designed and developed, by Prof. R. K. Joshi (TypeFont Design Director, Visiting Design Specialist at C-DAC Mumbai) in association with Mr. Rajith Kumar K. M. (TypeFont Designer), assisted by Mr. Nirmal Biswas, Ms. Jui Mhatre and Ms. Supriya Kharkar at C-DAC Mumbai (formerly NCST) under IndiX2, Project funded by TDIL Programme, Department of Information Technology, Ministry of Communications and Information Technology, Govt. of India.+AA0ACgANAAoA-3. RaghuMalayalam font Original Version 1.00 (2005) has been released under GNU GPL Version 2 (see the COPYING file)." "http://www.cdacmumbai.in/projects/indix" 
 GaspTable: 1 65535 2 0
-Encoding: UnicodeBmp
+Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 81 27 10
+WinInfo: 0 32 12
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65730 333
+BeginChars: 334 334
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 139 -1 0
 Width: 1024
 Flags: W
 LayerCount: 2
@@ -331,21 +331,21 @@ EndSplineSet
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 1
+Encoding: 140 -1 1
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 65538 -1 2
+Encoding: 141 -1 2
 Width: 682
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 32 32 3
+Encoding: 0 32 3
 Width: 778
 GlyphClass: 2
 Flags: W
@@ -353,7 +353,7 @@ LayerCount: 2
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 4
+Encoding: 1 33 4
 Width: 522
 GlyphClass: 2
 Flags: W
@@ -383,7 +383,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 2 34 5
 Width: 561
 GlyphClass: 2
 Flags: W
@@ -404,7 +404,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 3 35 6
 Width: 1061
 GlyphClass: 2
 Flags: W
@@ -452,7 +452,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 36 36 7
+Encoding: 4 36 7
 Width: 972
 GlyphClass: 2
 Flags: W
@@ -506,7 +506,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 37 37 8
+Encoding: 5 37 8
 Width: 1181
 GlyphClass: 2
 Flags: W
@@ -556,7 +556,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 38 38 9
+Encoding: 6 38 9
 Width: 1073
 GlyphClass: 2
 Flags: W
@@ -605,7 +605,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 39 39 10
+Encoding: 7 39 10
 Width: 332
 GlyphClass: 2
 Flags: W
@@ -621,7 +621,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 8 40 11
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -643,7 +643,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 12
+Encoding: 9 41 12
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -665,7 +665,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 10 42 13
 Width: 743
 GlyphClass: 2
 Flags: W
@@ -696,7 +696,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 43 43 14
+Encoding: 11 43 14
 Width: 940
 GlyphClass: 2
 Flags: W
@@ -720,7 +720,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 12 44 15
 Width: 394
 GlyphClass: 2
 Flags: W
@@ -737,7 +737,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 45 45 16
+Encoding: 13 45 16
 Width: 915
 GlyphClass: 2
 Flags: W
@@ -755,7 +755,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 46 46 17
+Encoding: 14 46 17
 Width: 408
 GlyphClass: 2
 Flags: W
@@ -775,7 +775,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 47 47 18
+Encoding: 15 47 18
 Width: 772
 GlyphClass: 2
 Flags: W
@@ -793,7 +793,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 48 48 19
+Encoding: 16 48 19
 Width: 971
 GlyphClass: 2
 Flags: W
@@ -822,7 +822,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 49 49 20
+Encoding: 17 49 20
 Width: 590
 GlyphClass: 2
 Flags: W
@@ -845,7 +845,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 50 50 21
+Encoding: 18 50 21
 Width: 877
 GlyphClass: 2
 Flags: W
@@ -877,7 +877,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 51 51 22
+Encoding: 19 51 22
 Width: 846
 GlyphClass: 2
 Flags: W
@@ -919,7 +919,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 52 52 23
+Encoding: 20 52 23
 Width: 909
 GlyphClass: 2
 Flags: W
@@ -949,7 +949,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 53 53 24
+Encoding: 21 53 24
 Width: 848
 GlyphClass: 2
 Flags: W
@@ -987,7 +987,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 54 54 25
+Encoding: 22 54 25
 Width: 907
 GlyphClass: 2
 Flags: W
@@ -1025,7 +1025,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 55 55 26
+Encoding: 23 55 26
 Width: 801
 GlyphClass: 2
 Flags: W
@@ -1045,7 +1045,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 56 56 27
+Encoding: 24 56 27
 Width: 877
 GlyphClass: 2
 Flags: W
@@ -1092,7 +1092,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 57 57 28
+Encoding: 25 57 28
 Width: 908
 GlyphClass: 2
 Flags: W
@@ -1130,7 +1130,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 58 58 29
+Encoding: 26 58 29
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -1159,7 +1159,7 @@ EndSplineSet
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 30
+Encoding: 27 59 30
 Width: 489
 GlyphClass: 2
 Flags: W
@@ -1192,7 +1192,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 60 60 31
+Encoding: 28 60 31
 Width: 1270
 GlyphClass: 2
 Flags: W
@@ -1211,7 +1211,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 61 61 32
+Encoding: 29 61 32
 Width: 1034
 GlyphClass: 2
 Flags: W
@@ -1235,7 +1235,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 62 62 33
+Encoding: 30 62 33
 Width: 1270
 GlyphClass: 2
 Flags: W
@@ -1254,7 +1254,7 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 63 63 34
+Encoding: 31 63 34
 Width: 854
 GlyphClass: 2
 Flags: W
@@ -1297,7 +1297,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 64 64 35
+Encoding: 32 64 35
 Width: 1499
 GlyphClass: 2
 Flags: W
@@ -1360,7 +1360,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 36
+Encoding: 33 91 36
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -1380,7 +1380,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 37
+Encoding: 34 92 37
 Width: 715
 GlyphClass: 2
 Flags: W
@@ -1398,7 +1398,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 38
+Encoding: 35 93 38
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -1418,7 +1418,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 94 94 39
+Encoding: 36 94 39
 Width: 1219
 GlyphClass: 2
 Flags: W
@@ -1437,7 +1437,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 40
+Encoding: 37 95 40
 Width: 1198
 GlyphClass: 2
 Flags: W
@@ -1456,7 +1456,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 96 96 41
+Encoding: 38 96 41
 Width: 610
 GlyphClass: 2
 Flags: W
@@ -1474,7 +1474,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 42
+Encoding: 39 123 42
 Width: 662
 GlyphClass: 2
 Flags: W
@@ -1513,7 +1513,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 124 124 43
+Encoding: 40 124 43
 Width: 487
 GlyphClass: 2
 Flags: W
@@ -1529,7 +1529,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 44
+Encoding: 41 125 44
 Width: 653
 GlyphClass: 2
 Flags: W
@@ -1568,7 +1568,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 126 126 45
+Encoding: 42 126 45
 Width: 1270
 GlyphClass: 2
 Flags: W
@@ -1591,7 +1591,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D02
-Encoding: 3330 3330 46
+Encoding: 43 3330 46
 Width: 751
 GlyphClass: 2
 Flags: W
@@ -1617,7 +1617,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D03
-Encoding: 3331 3331 47
+Encoding: 44 3331 47
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -1658,7 +1658,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D05
-Encoding: 3333 3333 48
+Encoding: 45 3333 48
 Width: 2497
 GlyphClass: 2
 Flags: W
@@ -1743,7 +1743,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D06
-Encoding: 3334 3334 49
+Encoding: 46 3334 49
 Width: 2701
 GlyphClass: 2
 Flags: W
@@ -1841,7 +1841,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D07
-Encoding: 3335 3335 50
+Encoding: 47 3335 50
 Width: 1796
 GlyphClass: 2
 Flags: W
@@ -1907,7 +1907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D08
-Encoding: 3336 3336 51
+Encoding: 48 3336 51
 Width: 3107
 GlyphClass: 2
 Flags: W
@@ -2003,7 +2003,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D09
-Encoding: 3337 3337 52
+Encoding: 49 3337 52
 Width: 1197
 GlyphClass: 2
 Flags: W
@@ -2056,7 +2056,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D0A
-Encoding: 3338 3338 53
+Encoding: 50 3338 53
 Width: 2512
 GlyphClass: 2
 Flags: W
@@ -2139,7 +2139,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D0B
-Encoding: 3339 3339 54
+Encoding: 51 3339 54
 Width: 1329
 GlyphClass: 2
 Flags: W
@@ -2209,7 +2209,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D0C
-Encoding: 3340 3340 55
+Encoding: 52 3340 55
 Width: 2085
 GlyphClass: 2
 Flags: W
@@ -2278,7 +2278,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D0E
-Encoding: 3342 3342 56
+Encoding: 53 3342 56
 Width: 2278
 GlyphClass: 2
 Flags: W
@@ -2337,7 +2337,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D0F
-Encoding: 3343 3343 57
+Encoding: 54 3343 57
 Width: 2279
 GlyphClass: 2
 Flags: W
@@ -2412,7 +2412,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D10
-Encoding: 3344 3344 58
+Encoding: 55 3344 58
 Width: 3509
 GlyphClass: 2
 Flags: W
@@ -2500,7 +2500,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D12
-Encoding: 3346 3346 59
+Encoding: 56 3346 59
 Width: 1243
 GlyphClass: 2
 Flags: W
@@ -2552,7 +2552,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D13
-Encoding: 3347 3347 60
+Encoding: 57 3347 60
 Width: 2186
 GlyphClass: 2
 Flags: W
@@ -2622,7 +2622,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D14
-Encoding: 3348 3348 61
+Encoding: 58 3348 61
 Width: 2523
 GlyphClass: 2
 Flags: W
@@ -2705,7 +2705,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D15
-Encoding: 3349 3349 62
+Encoding: 59 3349 62
 Width: 1752
 GlyphClass: 2
 Flags: W
@@ -2764,7 +2764,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D16
-Encoding: 3350 3350 63
+Encoding: 60 3350 63
 Width: 1672
 GlyphClass: 2
 Flags: W
@@ -2814,7 +2814,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D17
-Encoding: 3351 3351 64
+Encoding: 61 3351 64
 Width: 1678
 GlyphClass: 2
 Flags: W
@@ -2853,7 +2853,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D18
-Encoding: 3352 3352 65
+Encoding: 62 3352 65
 Width: 2275
 GlyphClass: 2
 Flags: W
@@ -2910,7 +2910,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D19
-Encoding: 3353 3353 66
+Encoding: 63 3353 66
 Width: 1939
 GlyphClass: 2
 Flags: W
@@ -2978,7 +2978,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1A
-Encoding: 3354 3354 67
+Encoding: 64 3354 67
 Width: 1786
 GlyphClass: 2
 Flags: W
@@ -3014,7 +3014,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1B
-Encoding: 3355 3355 68
+Encoding: 65 3355 68
 Width: 2456
 GlyphClass: 2
 Flags: W
@@ -3075,7 +3075,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1C
-Encoding: 3356 3356 69
+Encoding: 66 3356 69
 Width: 1603
 GlyphClass: 2
 Flags: W
@@ -3147,7 +3147,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1D
-Encoding: 3357 3357 70
+Encoding: 67 3357 70
 Width: 3081
 GlyphClass: 2
 Flags: W
@@ -3214,7 +3214,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1E
-Encoding: 3358 3358 71
+Encoding: 68 3358 71
 Width: 2659
 GlyphClass: 2
 Flags: W
@@ -3289,7 +3289,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D1F
-Encoding: 3359 3359 72
+Encoding: 69 3359 72
 Width: 894
 GlyphClass: 2
 Flags: W
@@ -3324,7 +3324,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D20
-Encoding: 3360 3360 73
+Encoding: 70 3360 73
 Width: 1214
 GlyphClass: 2
 Flags: W
@@ -3353,7 +3353,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D21
-Encoding: 3361 3361 74
+Encoding: 71 3361 74
 Width: 2258
 GlyphClass: 2
 Flags: W
@@ -3408,7 +3408,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D22
-Encoding: 3362 3362 75
+Encoding: 72 3362 75
 Width: 2284
 GlyphClass: 2
 Flags: W
@@ -3472,7 +3472,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D23
-Encoding: 3363 3363 76
+Encoding: 73 3363 76
 Width: 2551
 GlyphClass: 2
 Flags: W
@@ -3539,7 +3539,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D24
-Encoding: 3364 3364 77
+Encoding: 74 3364 77
 Width: 1884
 GlyphClass: 2
 Flags: W
@@ -3584,7 +3584,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D25
-Encoding: 3365 3365 78
+Encoding: 75 3365 78
 Width: 1587
 GlyphClass: 2
 Flags: W
@@ -3618,7 +3618,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D26
-Encoding: 3366 3366 79
+Encoding: 76 3366 79
 Width: 1239
 GlyphClass: 2
 Flags: W
@@ -3661,7 +3661,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D27
-Encoding: 3367 3367 80
+Encoding: 77 3367 80
 Width: 1792
 GlyphClass: 2
 Flags: W
@@ -3702,7 +3702,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D28
-Encoding: 3368 3368 81
+Encoding: 78 3368 81
 Width: 1792
 GlyphClass: 2
 Flags: W
@@ -3743,7 +3743,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2A
-Encoding: 3370 3370 82
+Encoding: 80 3370 82
 Width: 1583
 GlyphClass: 2
 Flags: W
@@ -3780,7 +3780,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2B
-Encoding: 3371 3371 83
+Encoding: 81 3371 83
 Width: 1978
 GlyphClass: 2
 Flags: W
@@ -3826,7 +3826,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2C
-Encoding: 3372 3372 84
+Encoding: 82 3372 84
 Width: 2471
 GlyphClass: 2
 Flags: W
@@ -3888,7 +3888,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2D
-Encoding: 3373 3373 85
+Encoding: 83 3373 85
 Width: 1243
 GlyphClass: 2
 Flags: W
@@ -3942,7 +3942,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2E
-Encoding: 3374 3374 86
+Encoding: 84 3374 86
 Width: 1233
 GlyphClass: 2
 Flags: W
@@ -3984,7 +3984,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D2F
-Encoding: 3375 3375 87
+Encoding: 85 3375 87
 Width: 1834
 GlyphClass: 2
 Flags: W
@@ -4036,7 +4036,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D30
-Encoding: 3376 3376 88
+Encoding: 86 3376 88
 Width: 1281
 GlyphClass: 2
 Flags: W
@@ -4075,7 +4075,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D31
-Encoding: 3377 3377 89
+Encoding: 87 3377 89
 Width: 1204
 GlyphClass: 2
 Flags: W
@@ -4105,7 +4105,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D32
-Encoding: 3378 3378 90
+Encoding: 88 3378 90
 Width: 1470
 GlyphClass: 2
 Flags: W
@@ -4141,7 +4141,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D33
-Encoding: 3379 3379 91
+Encoding: 89 3379 91
 Width: 1227
 GlyphClass: 2
 Flags: W
@@ -4206,7 +4206,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D34
-Encoding: 3380 3380 92
+Encoding: 90 3380 92
 Width: 1373
 GlyphClass: 2
 Flags: W
@@ -4272,7 +4272,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D35
-Encoding: 3381 3381 93
+Encoding: 91 3381 93
 Width: 1634
 GlyphClass: 2
 Flags: W
@@ -4307,7 +4307,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D36
-Encoding: 3382 3382 94
+Encoding: 92 3382 94
 Width: 1791
 GlyphClass: 2
 Flags: W
@@ -4358,7 +4358,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D37
-Encoding: 3383 3383 95
+Encoding: 93 3383 95
 Width: 1835
 GlyphClass: 2
 Flags: W
@@ -4420,7 +4420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D38
-Encoding: 3384 3384 96
+Encoding: 94 3384 96
 Width: 2258
 GlyphClass: 2
 Flags: W
@@ -4474,7 +4474,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D39
-Encoding: 3385 3385 97
+Encoding: 95 3385 97
 Width: 2136
 GlyphClass: 2
 Flags: W
@@ -4522,7 +4522,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D3E
-Encoding: 3390 3390 98
+Encoding: 97 3390 98
 Width: 976
 GlyphClass: 2
 Flags: W
@@ -4551,7 +4551,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D3F
-Encoding: 3391 3391 99
+Encoding: 98 3391 99
 Width: 395
 GlyphClass: 2
 Flags: W
@@ -4580,7 +4580,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D40
-Encoding: 3392 3392 100
+Encoding: 99 3392 100
 Width: 344
 GlyphClass: 2
 Flags: W
@@ -4617,7 +4617,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D41
-Encoding: 3393 3393 101
+Encoding: 100 3393 101
 Width: 611
 GlyphClass: 2
 Flags: W
@@ -4650,7 +4650,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D42
-Encoding: 3394 3394 102
+Encoding: 101 3394 102
 Width: 682
 GlyphClass: 2
 Flags: W
@@ -4693,7 +4693,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D43
-Encoding: 3395 3395 103
+Encoding: 102 3395 103
 Width: 495
 GlyphClass: 2
 Flags: W
@@ -4729,7 +4729,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D46
-Encoding: 3398 3398 104
+Encoding: 103 3398 104
 Width: 1243
 GlyphClass: 2
 Flags: W
@@ -4771,7 +4771,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D47
-Encoding: 3399 3399 105
+Encoding: 104 3399 105
 Width: 980
 GlyphClass: 2
 Flags: W
@@ -4823,7 +4823,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D48
-Encoding: 3400 3400 106
+Encoding: 105 3400 106
 Width: 2455
 GlyphClass: 2
 Flags: W
@@ -4896,7 +4896,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D4A
-Encoding: 3402 3402 107
+Encoding: 106 3402 107
 Width: 3416
 GlyphClass: 2
 Flags: W
@@ -4956,7 +4956,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D4B
-Encoding: 3403 3403 108
+Encoding: 107 3403 108
 Width: 3151
 GlyphClass: 2
 Flags: W
@@ -5026,7 +5026,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D4C
-Encoding: 3404 3404 109
+Encoding: 108 3404 109
 Width: 1312
 GlyphClass: 2
 Flags: W
@@ -5067,7 +5067,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D4D
-Encoding: 3405 3405 110
+Encoding: 109 3405 110
 Width: 147
 GlyphClass: 2
 Flags: W
@@ -5087,7 +5087,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D57
-Encoding: 3415 3415 111
+Encoding: 110 3415 111
 Width: 1316
 GlyphClass: 2
 Flags: W
@@ -5128,7 +5128,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D60
-Encoding: 3424 3424 112
+Encoding: 111 3424 112
 Width: 1329
 GlyphClass: 2
 Flags: W
@@ -5216,7 +5216,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D61
-Encoding: 3425 3425 113
+Encoding: 112 3425 113
 Width: 2278
 GlyphClass: 2
 Flags: W
@@ -5296,7 +5296,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D66
-Encoding: 3430 3430 114
+Encoding: 113 3430 114
 Width: 1541
 GlyphClass: 2
 Flags: W
@@ -5343,7 +5343,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D67
-Encoding: 3431 3431 115
+Encoding: 114 3431 115
 Width: 1563
 GlyphClass: 2
 Flags: W
@@ -5383,7 +5383,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D68
-Encoding: 3432 3432 116
+Encoding: 115 3432 116
 Width: 1522
 GlyphClass: 2
 Flags: W
@@ -5417,7 +5417,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D69
-Encoding: 3433 3433 117
+Encoding: 116 3433 117
 Width: 2317
 GlyphClass: 2
 Flags: W
@@ -5462,7 +5462,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6A
-Encoding: 3434 3434 118
+Encoding: 117 3434 118
 Width: 1279
 GlyphClass: 2
 Flags: W
@@ -5507,7 +5507,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6B
-Encoding: 3435 3435 119
+Encoding: 118 3435 119
 Width: 1932
 GlyphClass: 2
 Flags: W
@@ -5562,7 +5562,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6C
-Encoding: 3436 3436 120
+Encoding: 119 3436 120
 Width: 2413
 GlyphClass: 2
 Flags: W
@@ -5616,7 +5616,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6D
-Encoding: 3437 3437 121
+Encoding: 120 3437 121
 Width: 1338
 GlyphClass: 2
 Flags: W
@@ -5661,7 +5661,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6E
-Encoding: 3438 3438 122
+Encoding: 121 3438 122
 Width: 1634
 GlyphClass: 2
 Flags: W
@@ -5703,7 +5703,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D6F
-Encoding: 3439 3439 123
+Encoding: 122 3439 123
 Width: 1934
 GlyphClass: 2
 Flags: W
@@ -5762,7 +5762,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni200B
-Encoding: 8203 8203 124
+Encoding: 131 8203 124
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -5770,7 +5770,7 @@ LayerCount: 2
 EndChar
 
 StartChar: ZWNJ
-Encoding: 8204 8204 125
+Encoding: 132 8204 125
 Width: 168
 GlyphClass: 2
 Flags: W
@@ -5786,7 +5786,7 @@ EndSplineSet
 EndChar
 
 StartChar: ZWJ
-Encoding: 8205 8205 126
+Encoding: 133 8205 126
 Width: 290
 GlyphClass: 2
 Flags: W
@@ -5813,7 +5813,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteleft
-Encoding: 8216 8216 127
+Encoding: 134 8216 127
 Width: 338
 GlyphClass: 2
 Flags: W
@@ -5830,7 +5830,7 @@ EndSplineSet
 EndChar
 
 StartChar: quoteright
-Encoding: 8217 8217 128
+Encoding: 135 8217 128
 Width: 338
 GlyphClass: 2
 Flags: W
@@ -5847,7 +5847,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblleft
-Encoding: 8220 8220 129
+Encoding: 136 8220 129
 Width: 608
 GlyphClass: 2
 Flags: W
@@ -5870,7 +5870,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedblright
-Encoding: 8221 8221 130
+Encoding: 137 8221 130
 Width: 600
 GlyphClass: 2
 Flags: W
@@ -5893,7 +5893,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25CC
-Encoding: 9676 9676 131
+Encoding: 138 9676 131
 Width: 1246
 GlyphClass: 2
 Flags: W
@@ -5944,7 +5944,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D15.cil
-Encoding: 65539 -1 132
+Encoding: 142 -1 132
 Width: 1939
 GlyphClass: 3
 Flags: W
@@ -6024,7 +6024,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: uni0D23.cil
-Encoding: 65540 -1 133
+Encoding: 143 -1 133
 Width: 2701
 GlyphClass: 3
 Flags: W
@@ -6114,7 +6114,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: uni0D28.cil
-Encoding: 65541 -1 134
+Encoding: 144 -1 134
 Width: 1934
 GlyphClass: 3
 Flags: W
@@ -6177,7 +6177,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: uni0D30.cil
-Encoding: 65542 -1 135
+Encoding: 145 -1 135
 Width: 1280
 GlyphClass: 3
 Flags: W
@@ -6226,7 +6226,7 @@ Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D30 uni
 EndChar
 
 StartChar: uni0D32.cil
-Encoding: 65543 -1 136
+Encoding: 146 -1 136
 Width: 2137
 GlyphClass: 3
 Flags: W
@@ -6295,7 +6295,7 @@ Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D32 uni
 EndChar
 
 StartChar: uni0D33.cil
-Encoding: 65544 -1 137
+Encoding: 147 -1 137
 Width: 1885
 GlyphClass: 3
 Flags: W
@@ -6358,7 +6358,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D33 uni0D4D 
 EndChar
 
 StartChar: glyph133
-Encoding: 65545 -1 138
+Encoding: 148 -1 138
 Width: 1495
 GlyphClass: 2
 Flags: W
@@ -6380,7 +6380,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph134
-Encoding: 65546 -1 139
+Encoding: 149 -1 139
 Width: 1345
 GlyphClass: 2
 Flags: W
@@ -6447,7 +6447,7 @@ EndSplineSet
 EndChar
 
 StartChar: glyph135
-Encoding: 65547 -1 140
+Encoding: 150 -1 140
 Width: 1462
 GlyphClass: 2
 Flags: W
@@ -6522,7 +6522,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D32.bb
-Encoding: 65548 -1 141
+Encoding: 151 -1 141
 Width: 0
 GlyphClass: 3
 Flags: W
@@ -6572,7 +6572,7 @@ Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2 subtable" uni0D4
 EndChar
 
 StartChar: uni0D2F.pb
-Encoding: 65549 -1 142
+Encoding: 152 -1 142
 Width: 505
 GlyphClass: 3
 Flags: W
@@ -6604,7 +6604,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" uni0D4D
 EndChar
 
 StartChar: uni0D30.pb
-Encoding: 65550 -1 143
+Encoding: 153 -1 143
 Width: 432
 GlyphClass: 3
 Flags: W
@@ -6630,7 +6630,7 @@ Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtatble" uni0D4D
 EndChar
 
 StartChar: uni0D35.pb
-Encoding: 65551 -1 144
+Encoding: 154 -1 144
 Width: 518
 GlyphClass: 3
 Flags: W
@@ -6657,7 +6657,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" uni0D4D
 EndChar
 
 StartChar: glyph142
-Encoding: 65552 -1 145
+Encoding: 155 -1 145
 Width: 2782
 GlyphClass: 3
 Flags: W
@@ -6750,7 +6750,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: glyph143
-Encoding: 65553 -1 146
+Encoding: 156 -1 146
 Width: 4103
 GlyphClass: 3
 Flags: W
@@ -6875,7 +6875,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1C uni0D4D 
 EndChar
 
 StartChar: glyph144
-Encoding: 65554 -1 147
+Encoding: 157 -1 147
 Width: 2506
 GlyphClass: 3
 Flags: W
@@ -6953,7 +6953,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: glyph145
-Encoding: 65555 -1 148
+Encoding: 158 -1 148
 Width: 1752
 GlyphClass: 3
 Flags: W
@@ -7024,7 +7024,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D19 uni0D4D 
 EndChar
 
 StartChar: glyph146
-Encoding: 65556 -1 149
+Encoding: 159 -1 149
 Width: 950
 GlyphClass: 3
 Flags: W
@@ -7071,7 +7071,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1F uni0D4D 
 EndChar
 
 StartChar: glyph147
-Encoding: 65557 -1 150
+Encoding: 160 -1 150
 Width: 1240
 GlyphClass: 3
 Flags: W
@@ -7125,7 +7125,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D26 uni0D4D 
 EndChar
 
 StartChar: glyph148
-Encoding: 65558 -1 151
+Encoding: 161 -1 151
 Width: 2583
 GlyphClass: 3
 Flags: W
@@ -7227,7 +7227,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D19 uni0D4D 
 EndChar
 
 StartChar: glyph149
-Encoding: 65559 -1 152
+Encoding: 162 -1 152
 Width: 3145
 GlyphClass: 3
 Flags: W
@@ -7314,7 +7314,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: glyph150
-Encoding: 65560 -1 153
+Encoding: 163 -1 153
 Width: 2579
 GlyphClass: 3
 Flags: W
@@ -7380,7 +7380,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D 
 EndChar
 
 StartChar: glyph151
-Encoding: 65561 -1 154
+Encoding: 164 -1 154
 Width: 2872
 GlyphClass: 3
 Flags: W
@@ -7463,7 +7463,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D 
 EndChar
 
 StartChar: glyph152
-Encoding: 65562 -1 155
+Encoding: 165 -1 155
 Width: 2427
 GlyphClass: 3
 Flags: W
@@ -7518,7 +7518,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D 
 EndChar
 
 StartChar: glyph153
-Encoding: 65563 -1 156
+Encoding: 166 -1 156
 Width: 3093
 GlyphClass: 3
 Flags: W
@@ -7644,7 +7644,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1C uni0D4D 
 EndChar
 
 StartChar: glyph154
-Encoding: 65564 -1 157
+Encoding: 167 -1 157
 Width: 2939
 GlyphClass: 3
 Flags: W
@@ -7751,7 +7751,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D 
 EndChar
 
 StartChar: glyph155
-Encoding: 65565 -1 158
+Encoding: 168 -1 158
 Width: 3853
 GlyphClass: 3
 Flags: W
@@ -7866,7 +7866,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D 
 EndChar
 
 StartChar: glyph156
-Encoding: 65566 -1 159
+Encoding: 169 -1 159
 Width: 2870
 GlyphClass: 3
 Flags: W
@@ -7956,7 +7956,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D 
 EndChar
 
 StartChar: glyph157
-Encoding: 65567 -1 160
+Encoding: 170 -1 160
 Width: 3627
 GlyphClass: 3
 Flags: W
@@ -8066,7 +8066,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D 
 EndChar
 
 StartChar: glyph158
-Encoding: 65568 -1 161
+Encoding: 171 -1 161
 Width: 2736
 GlyphClass: 3
 Flags: W
@@ -8149,7 +8149,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: glyph159
-Encoding: 65569 -1 162
+Encoding: 172 -1 162
 Width: 3728
 GlyphClass: 3
 Flags: W
@@ -8242,7 +8242,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: glyph160
-Encoding: 65570 -1 163
+Encoding: 173 -1 163
 Width: 2578
 GlyphClass: 3
 Flags: W
@@ -8331,7 +8331,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: glyph161
-Encoding: 65571 -1 164
+Encoding: 174 -1 164
 Width: 3141
 GlyphClass: 3
 Flags: W
@@ -8412,7 +8412,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph162
-Encoding: 65572 -1 165
+Encoding: 175 -1 165
 Width: 2972
 GlyphClass: 3
 Flags: W
@@ -8487,7 +8487,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph163
-Encoding: 65573 -1 166
+Encoding: 176 -1 166
 Width: 2916
 GlyphClass: 3
 Flags: W
@@ -8553,7 +8553,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph164
-Encoding: 65574 -1 167
+Encoding: 177 -1 167
 Width: 2679
 GlyphClass: 3
 Flags: W
@@ -8625,7 +8625,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph165
-Encoding: 65575 -1 168
+Encoding: 178 -1 168
 Width: 2531
 GlyphClass: 3
 Flags: W
@@ -8703,7 +8703,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph166
-Encoding: 65576 -1 169
+Encoding: 179 -1 169
 Width: 2497
 GlyphClass: 3
 Flags: W
@@ -8763,7 +8763,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D 
 EndChar
 
 StartChar: glyph167
-Encoding: 65577 -1 170
+Encoding: 180 -1 170
 Width: 2290
 GlyphClass: 3
 Flags: W
@@ -8833,7 +8833,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D26 uni0D4D 
 EndChar
 
 StartChar: glyph168
-Encoding: 65578 -1 171
+Encoding: 181 -1 171
 Width: 2416
 GlyphClass: 3
 Flags: W
@@ -8890,7 +8890,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph169
-Encoding: 65579 -1 172
+Encoding: 182 -1 172
 Width: 1843
 GlyphClass: 3
 Flags: W
@@ -8946,7 +8946,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph170
-Encoding: 65580 -1 173
+Encoding: 183 -1 173
 Width: 2497
 GlyphClass: 3
 Flags: W
@@ -9008,7 +9008,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph171
-Encoding: 65581 -1 174
+Encoding: 184 -1 174
 Width: 2962
 GlyphClass: 3
 Flags: W
@@ -9074,7 +9074,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph172
-Encoding: 65582 -1 175
+Encoding: 185 -1 175
 Width: 1963
 GlyphClass: 3
 Flags: W
@@ -9124,7 +9124,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph173
-Encoding: 65583 -1 176
+Encoding: 186 -1 176
 Width: 2821
 GlyphClass: 3
 Flags: W
@@ -9184,7 +9184,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: glyph174
-Encoding: 65584 -1 177
+Encoding: 187 -1 177
 Width: 2140
 GlyphClass: 3
 Flags: W
@@ -9251,7 +9251,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D 
 EndChar
 
 StartChar: glyph175
-Encoding: 65585 -1 178
+Encoding: 188 -1 178
 Width: 2315
 GlyphClass: 3
 Flags: W
@@ -9298,7 +9298,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D 
 EndChar
 
 StartChar: glyph176
-Encoding: 65586 -1 179
+Encoding: 189 -1 179
 Width: 2480
 GlyphClass: 3
 Flags: W
@@ -9370,7 +9370,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D 
 EndChar
 
 StartChar: glyph177
-Encoding: 65587 -1 180
+Encoding: 190 -1 180
 Width: 3289
 GlyphClass: 3
 Flags: W
@@ -9444,7 +9444,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: glyph178
-Encoding: 65588 -1 181
+Encoding: 191 -1 181
 Width: 2732
 GlyphClass: 3
 Flags: W
@@ -9505,7 +9505,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D39 uni0D4D 
 EndChar
 
 StartChar: glyph179
-Encoding: 65589 -1 182
+Encoding: 192 -1 182
 Width: 2155
 GlyphClass: 3
 Flags: W
@@ -9564,7 +9564,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D39 uni0D4D 
 EndChar
 
 StartChar: uni0D33_uni0D33
-Encoding: 65590 -1 183
+Encoding: 193 -1 183
 Width: 2267
 GlyphClass: 3
 Flags: W
@@ -9577,7 +9577,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D33 uni0D4D 
 EndChar
 
 StartChar: uni0D15_uni0D32.bb
-Encoding: 65591 -1 184
+Encoding: 194 -1 184
 Width: 1752
 GlyphClass: 3
 Flags: W
@@ -9590,7 +9590,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D15_uni0D38
-Encoding: 65592 -1 185
+Encoding: 195 -1 185
 Width: 1752
 GlyphClass: 3
 Flags: W
@@ -9603,7 +9603,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: uni0D15_uni0D1F
-Encoding: 65593 -1 186
+Encoding: 196 -1 186
 Width: 1752
 GlyphClass: 3
 Flags: W
@@ -9616,7 +9616,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D 
 EndChar
 
 StartChar: uni0D18_uni0D28
-Encoding: 65594 -1 187
+Encoding: 197 -1 187
 Width: 2275
 GlyphClass: 3
 Flags: W
@@ -9629,7 +9629,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D18 uni0D4D 
 EndChar
 
 StartChar: uni0D17_uni0D17
-Encoding: 65595 -1 188
+Encoding: 198 -1 188
 Width: 1678
 GlyphClass: 3
 Flags: W
@@ -9642,7 +9642,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D 
 EndChar
 
 StartChar: uni0D17_uni0D32.bb
-Encoding: 65596 -1 189
+Encoding: 199 -1 189
 Width: 1678
 GlyphClass: 3
 Flags: W
@@ -9655,7 +9655,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: glyph142_uni0D2E
-Encoding: 65597 -1 190
+Encoding: 200 -1 190
 Width: 2782
 GlyphClass: 3
 Flags: W
@@ -9668,7 +9668,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" glyph142 uni0D4D
 EndChar
 
 StartChar: uni0D1A_glyph133
-Encoding: 65598 -1 191
+Encoding: 201 -1 191
 Width: 1786
 GlyphClass: 3
 Flags: W
@@ -9681,7 +9681,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1A uni0D4D 
 EndChar
 
 StartChar: uni0D1A_uni0D1B
-Encoding: 65599 -1 192
+Encoding: 202 -1 192
 Width: 1786
 GlyphClass: 3
 Flags: W
@@ -9694,7 +9694,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1A uni0D4D 
 EndChar
 
 StartChar: uni0D21_uni0D21
-Encoding: 65600 -1 193
+Encoding: 203 -1 193
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -9707,7 +9707,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D 
 EndChar
 
 StartChar: uni0D21_uni0D22
-Encoding: 65601 -1 194
+Encoding: 204 -1 194
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -9720,7 +9720,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D 
 EndChar
 
 StartChar: uni0D21_uni0D1C
-Encoding: 65602 -1 195
+Encoding: 205 -1 195
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -9733,7 +9733,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D 
 EndChar
 
 StartChar: uni0D23_uni0D23
-Encoding: 65603 -1 196
+Encoding: 206 -1 196
 Width: 2551
 GlyphClass: 3
 Flags: W
@@ -9746,7 +9746,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: uni0D23_uni0D20
-Encoding: 65604 -1 197
+Encoding: 207 -1 197
 Width: 2551
 GlyphClass: 3
 Flags: W
@@ -9759,7 +9759,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D 
 EndChar
 
 StartChar: uni0D24_uni0D32.bb
-Encoding: 65605 -1 198
+Encoding: 208 -1 198
 Width: 1884
 GlyphClass: 3
 Flags: W
@@ -9772,7 +9772,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: glyph196
-Encoding: 65606 -1 199
+Encoding: 209 -1 199
 Width: 1677
 GlyphClass: 3
 Flags: W
@@ -9823,7 +9823,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D 
 EndChar
 
 StartChar: uni0D2A_uni0D28
-Encoding: 65607 -1 200
+Encoding: 210 -1 200
 Width: 1583
 GlyphClass: 3
 Flags: W
@@ -9836,7 +9836,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D 
 EndChar
 
 StartChar: uni0D2A_uni0D32.bb
-Encoding: 65608 -1 201
+Encoding: 211 -1 201
 Width: 1583
 GlyphClass: 3
 Flags: W
@@ -9849,7 +9849,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D2A_uni0D38
-Encoding: 65609 -1 202
+Encoding: 212 -1 202
 Width: 1583
 GlyphClass: 3
 Flags: W
@@ -9862,7 +9862,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D 
 EndChar
 
 StartChar: uni0D2A_uni0D24
-Encoding: 65610 -1 203
+Encoding: 213 -1 203
 Width: 1583
 GlyphClass: 3
 Flags: W
@@ -9875,7 +9875,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D 
 EndChar
 
 StartChar: uni0D2C_glyph133
-Encoding: 65611 -1 204
+Encoding: 214 -1 204
 Width: 2471
 GlyphClass: 3
 Flags: W
@@ -9888,7 +9888,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D 
 EndChar
 
 StartChar: uni0D2C_uni0D32.bb
-Encoding: 65612 -1 205
+Encoding: 215 -1 205
 Width: 2471
 GlyphClass: 3
 Flags: W
@@ -9901,7 +9901,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D2C_uni0D26
-Encoding: 65613 -1 206
+Encoding: 216 -1 206
 Width: 2471
 GlyphClass: 3
 Flags: W
@@ -9914,7 +9914,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D 
 EndChar
 
 StartChar: uni0D2C_uni0D27
-Encoding: 65614 -1 207
+Encoding: 217 -1 207
 Width: 2471
 GlyphClass: 3
 Flags: W
@@ -9927,7 +9927,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D 
 EndChar
 
 StartChar: uni0D2C_uni0D15
-Encoding: 65615 -1 208
+Encoding: 218 -1 208
 Width: 2471
 GlyphClass: 3
 Flags: W
@@ -9940,7 +9940,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D 
 EndChar
 
 StartChar: uni0D2B_uni0D32.bb
-Encoding: 65616 -1 209
+Encoding: 219 -1 209
 Width: 1978
 GlyphClass: 3
 Flags: W
@@ -9953,7 +9953,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D2B_uni0D15
-Encoding: 65617 -1 210
+Encoding: 220 -1 210
 Width: 1978
 GlyphClass: 3
 Flags: W
@@ -9966,7 +9966,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2B uni0D4D 
 EndChar
 
 StartChar: uni0D2B_uni0D24
-Encoding: 65618 -1 211
+Encoding: 221 -1 211
 Width: 1978
 GlyphClass: 3
 Flags: W
@@ -9979,7 +9979,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2B uni0D4D 
 EndChar
 
 StartChar: uni0D2E_uni0D32.bb
-Encoding: 65619 -1 212
+Encoding: 222 -1 212
 Width: 1233
 GlyphClass: 3
 Flags: W
@@ -9992,7 +9992,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D2E_uni0D28
-Encoding: 65620 -1 213
+Encoding: 223 -1 213
 Width: 1233
 GlyphClass: 3
 Flags: W
@@ -10005,7 +10005,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D 
 EndChar
 
 StartChar: uni0D2F_glyph133
-Encoding: 65621 -1 214
+Encoding: 224 -1 214
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10018,7 +10018,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" 
 EndChar
 
 StartChar: uni0D2F_uni0D2E
-Encoding: 65622 -1 215
+Encoding: 225 -1 215
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10031,7 +10031,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D2F_uni0D2A
-Encoding: 65623 -1 216
+Encoding: 226 -1 216
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10044,7 +10044,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D2F_uni0D15
-Encoding: 65624 -1 217
+Encoding: 227 -1 217
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10057,7 +10057,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D2F_glyph144
-Encoding: 65625 -1 218
+Encoding: 228 -1 218
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10070,7 +10070,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D2F_uni0D24
-Encoding: 65626 -1 219
+Encoding: 229 -1 219
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10083,7 +10083,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D2F_glyph161
-Encoding: 65627 -1 220
+Encoding: 230 -1 220
 Width: 1834
 GlyphClass: 3
 Flags: W
@@ -10096,7 +10096,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D 
 EndChar
 
 StartChar: uni0D31_uni0D31
-Encoding: 65628 -1 221
+Encoding: 231 -1 221
 Width: 1204
 GlyphClass: 3
 Flags: W
@@ -10109,7 +10109,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D31 uni0D4D 
 EndChar
 
 StartChar: uni0D32_uni0D32.bb
-Encoding: 65629 -1 222
+Encoding: 232 -1 222
 Width: 1470
 GlyphClass: 3
 Flags: W
@@ -10123,7 +10123,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D32_uni0D2A
-Encoding: 65630 -1 223
+Encoding: 233 -1 223
 Width: 1470
 GlyphClass: 3
 Flags: W
@@ -10136,7 +10136,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D32_uni0D15
-Encoding: 65631 -1 224
+Encoding: 234 -1 224
 Width: 1470
 GlyphClass: 3
 Flags: W
@@ -10149,7 +10149,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D32_uni0D2E
-Encoding: 65632 -1 225
+Encoding: 235 -1 225
 Width: 1470
 GlyphClass: 3
 Flags: W
@@ -10162,7 +10162,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D35_glyph133
-Encoding: 65633 -1 226
+Encoding: 236 -1 226
 Width: 1634
 GlyphClass: 3
 Flags: W
@@ -10175,7 +10175,7 @@ Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" 
 EndChar
 
 StartChar: uni0D35_uni0D32.bb
-Encoding: 65634 -1 227
+Encoding: 237 -1 227
 Width: 1634
 GlyphClass: 3
 Flags: W
@@ -10188,7 +10188,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D36_uni0D36
-Encoding: 65635 -1 228
+Encoding: 238 -1 228
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -10201,7 +10201,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D 
 EndChar
 
 StartChar: uni0D36_uni0D32.bb
-Encoding: 65636 -1 229
+Encoding: 239 -1 229
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -10214,7 +10214,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D36_uni0D28
-Encoding: 65637 -1 230
+Encoding: 240 -1 230
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -10227,7 +10227,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D 
 EndChar
 
 StartChar: uni0D36_uni0D2E
-Encoding: 65638 -1 231
+Encoding: 241 -1 231
 Width: 1791
 GlyphClass: 3
 Flags: W
@@ -10240,7 +10240,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D2A
-Encoding: 65639 -1 232
+Encoding: 242 -1 232
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10253,7 +10253,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D15
-Encoding: 65640 -1 233
+Encoding: 243 -1 233
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10266,7 +10266,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D23
-Encoding: 65641 -1 234
+Encoding: 244 -1 234
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10279,7 +10279,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D1F
-Encoding: 65642 -1 235
+Encoding: 245 -1 235
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10292,7 +10292,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D20
-Encoding: 65643 -1 236
+Encoding: 246 -1 236
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10305,7 +10305,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D2E
-Encoding: 65644 -1 237
+Encoding: 247 -1 237
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10318,7 +10318,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D2B
-Encoding: 65645 -1 238
+Encoding: 248 -1 238
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10331,7 +10331,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D24
-Encoding: 65646 -1 239
+Encoding: 249 -1 239
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10344,7 +10344,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D37_uni0D28
-Encoding: 65647 -1 240
+Encoding: 250 -1 240
 Width: 1835
 GlyphClass: 3
 Flags: W
@@ -10357,7 +10357,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D38
-Encoding: 65648 -1 241
+Encoding: 251 -1 241
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10370,7 +10370,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D32.bb
-Encoding: 65649 -1 242
+Encoding: 252 -1 242
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10383,7 +10383,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D38_uni0D31_uni0D31
-Encoding: 65650 -1 243
+Encoding: 253 -1 243
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10397,7 +10397,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D2A
-Encoding: 65651 -1 244
+Encoding: 254 -1 244
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10410,7 +10410,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D24
-Encoding: 65652 -1 245
+Encoding: 255 -1 245
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10423,7 +10423,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D15
-Encoding: 65653 -1 246
+Encoding: 256 -1 246
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10436,7 +10436,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D28
-Encoding: 65654 -1 247
+Encoding: 257 -1 247
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10449,7 +10449,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D38_uni0D2E
-Encoding: 65655 -1 248
+Encoding: 258 -1 248
 Width: 2258
 GlyphClass: 3
 Flags: W
@@ -10462,7 +10462,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D 
 EndChar
 
 StartChar: uni0D39_uni0D32.bb
-Encoding: 65656 -1 249
+Encoding: 259 -1 249
 Width: 2136
 GlyphClass: 3
 Flags: W
@@ -10475,7 +10475,7 @@ Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lo
 EndChar
 
 StartChar: uni0D34_uni0D24
-Encoding: 65657 -1 250
+Encoding: 260 -1 250
 Width: 1373
 GlyphClass: 3
 Flags: W
@@ -10488,7 +10488,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D 
 EndChar
 
 StartChar: uni0D34_uni0D15
-Encoding: 65658 -1 251
+Encoding: 261 -1 251
 Width: 1373
 GlyphClass: 3
 Flags: W
@@ -10501,7 +10501,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D 
 EndChar
 
 StartChar: uni0D34_glyph161
-Encoding: 65659 -1 252
+Encoding: 262 -1 252
 Width: 1373
 GlyphClass: 2
 Flags: W
@@ -10512,7 +10512,7 @@ Refer: 164 -1 N 0.424561 0 0 0.482056 78 -482 2
 EndChar
 
 StartChar: uni0D34_uni0D2E
-Encoding: 65660 -1 253
+Encoding: 263 -1 253
 Width: 1373
 GlyphClass: 3
 Flags: W
@@ -10525,7 +10525,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D 
 EndChar
 
 StartChar: uni0D28.cil_uni0D31
-Encoding: 65661 -1 254
+Encoding: 264 -1 254
 Width: 1934
 GlyphClass: 3
 Flags: W
@@ -10538,7 +10538,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D 
 EndChar
 
 StartChar: uni0D30.pb_uni0D15
-Encoding: 65662 -1 255
+Encoding: 265 -1 255
 Width: 2109
 GlyphClass: 3
 Flags: W
@@ -10552,7 +10552,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D17
-Encoding: 65663 -1 256
+Encoding: 266 -1 256
 Width: 2025
 GlyphClass: 3
 Flags: W
@@ -10566,7 +10566,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D18
-Encoding: 65664 -1 257
+Encoding: 267 -1 257
 Width: 2581
 GlyphClass: 3
 Flags: W
@@ -10580,7 +10580,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D1B
-Encoding: 65665 -1 258
+Encoding: 268 -1 258
 Width: 2803
 GlyphClass: 3
 Flags: W
@@ -10594,7 +10594,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D1C
-Encoding: 65666 -1 259
+Encoding: 269 -1 259
 Width: 1950
 GlyphClass: 3
 Flags: W
@@ -10608,7 +10608,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D1D
-Encoding: 65667 -1 260
+Encoding: 270 -1 260
 Width: 3428
 GlyphClass: 3
 Flags: W
@@ -10622,7 +10622,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D1F
-Encoding: 65668 -1 261
+Encoding: 271 -1 261
 Width: 1241
 GlyphClass: 3
 Flags: W
@@ -10636,7 +10636,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D21
-Encoding: 65669 -1 262
+Encoding: 272 -1 262
 Width: 2605
 GlyphClass: 3
 Flags: W
@@ -10650,7 +10650,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D22
-Encoding: 65670 -1 263
+Encoding: 273 -1 263
 Width: 2633
 GlyphClass: 3
 Flags: W
@@ -10664,7 +10664,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D24
-Encoding: 65671 -1 264
+Encoding: 274 -1 264
 Width: 2231
 GlyphClass: 3
 Flags: W
@@ -10678,7 +10678,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D26
-Encoding: 65672 -1 265
+Encoding: 275 -1 265
 Width: 1586
 GlyphClass: 3
 Flags: W
@@ -10692,7 +10692,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D27
-Encoding: 65673 -1 266
+Encoding: 276 -1 266
 Width: 2139
 GlyphClass: 3
 Flags: W
@@ -10706,7 +10706,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D28
-Encoding: 65674 -1 267
+Encoding: 277 -1 267
 Width: 2139
 GlyphClass: 3
 Flags: W
@@ -10720,7 +10720,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D2A
-Encoding: 65675 -1 268
+Encoding: 278 -1 268
 Width: 1889
 GlyphClass: 3
 Flags: W
@@ -10734,7 +10734,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D30.pb_uni0D2B
-Encoding: 65676 -1 269
+Encoding: 279 -1 269
 Width: 2284
 GlyphClass: 3
 Flags: W
@@ -10748,7 +10748,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D2C
-Encoding: 65677 -1 270
+Encoding: 280 -1 270
 Width: 2777
 GlyphClass: 3
 Flags: W
@@ -10762,7 +10762,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D2D
-Encoding: 65678 -1 271
+Encoding: 281 -1 271
 Width: 1590
 GlyphClass: 3
 Flags: W
@@ -10776,7 +10776,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D2E
-Encoding: 65679 -1 272
+Encoding: 282 -1 272
 Width: 1559
 GlyphClass: 3
 Flags: W
@@ -10790,7 +10790,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D35
-Encoding: 65680 -1 273
+Encoding: 283 -1 273
 Width: 1941
 GlyphClass: 3
 Flags: W
@@ -10804,7 +10804,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D36
-Encoding: 65681 -1 274
+Encoding: 284 -1 274
 Width: 2138
 GlyphClass: 3
 Flags: W
@@ -10818,7 +10818,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" u
 EndChar
 
 StartChar: uni0D30.pb_uni0D37
-Encoding: 65682 -1 275
+Encoding: 285 -1 275
 Width: 2141
 GlyphClass: 3
 Flags: W
@@ -10832,7 +10832,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D38
-Encoding: 65683 -1 276
+Encoding: 286 -1 276
 Width: 2605
 GlyphClass: 3
 Flags: W
@@ -10846,7 +10846,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_uni0D39
-Encoding: 65684 -1 277
+Encoding: 287 -1 277
 Width: 2483
 GlyphClass: 3
 Flags: W
@@ -10860,7 +10860,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_glyph218
-Encoding: 65685 -1 278
+Encoding: 288 -1 278
 Width: 1698
 GlyphClass: 3
 Flags: W
@@ -10874,7 +10874,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 EndChar
 
 StartChar: uni0D30.pb_glyph159
-Encoding: 65686 -1 279
+Encoding: 289 -1 279
 Width: 4175
 GlyphClass: 3
 Flags: W
@@ -10888,7 +10888,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D30.pb_glyph160
-Encoding: 65687 -1 280
+Encoding: 290 -1 280
 Width: 3025
 GlyphClass: 3
 Flags: W
@@ -10902,7 +10902,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D30.pb_glyph169
-Encoding: 65688 -1 281
+Encoding: 291 -1 281
 Width: 2290
 GlyphClass: 3
 Flags: W
@@ -10916,7 +10916,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D30.pb_glyph170
-Encoding: 65689 -1 282
+Encoding: 292 -1 282
 Width: 2951
 GlyphClass: 3
 Flags: W
@@ -10930,7 +10930,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D30.pb_glyph175
-Encoding: 65690 -1 283
+Encoding: 293 -1 283
 Width: 2721
 GlyphClass: 3
 Flags: W
@@ -10944,7 +10944,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D15_uni0D4D
-Encoding: 65691 -1 284
+Encoding: 294 -1 284
 Width: 1892
 GlyphClass: 3
 Flags: W
@@ -10956,7 +10956,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D15 uni0D
 EndChar
 
 StartChar: uni0D16_uni0D4D
-Encoding: 65692 -1 285
+Encoding: 295 -1 285
 Width: 1812
 GlyphClass: 3
 Flags: W
@@ -10968,7 +10968,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D16 uni0D
 EndChar
 
 StartChar: uni0D17_uni0D4D
-Encoding: 65693 -1 286
+Encoding: 296 -1 286
 Width: 1818
 GlyphClass: 3
 Flags: W
@@ -10980,7 +10980,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D17 uni0D
 EndChar
 
 StartChar: uni0D18_uni0D4D
-Encoding: 65694 -1 287
+Encoding: 297 -1 287
 Width: 2415
 GlyphClass: 3
 Flags: W
@@ -10992,7 +10992,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D18 uni0D
 EndChar
 
 StartChar: uni0D19_uni0D4D
-Encoding: 65695 -1 288
+Encoding: 298 -1 288
 Width: 2079
 GlyphClass: 3
 Flags: W
@@ -11004,7 +11004,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D19 uni0D
 EndChar
 
 StartChar: uni0D1A_uni0D4D
-Encoding: 65696 -1 289
+Encoding: 299 -1 289
 Width: 1926
 GlyphClass: 3
 Flags: W
@@ -11016,7 +11016,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1A uni0D
 EndChar
 
 StartChar: uni0D1B_uni0D4D
-Encoding: 65697 -1 290
+Encoding: 300 -1 290
 Width: 2596
 GlyphClass: 3
 Flags: W
@@ -11028,7 +11028,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1B uni0D
 EndChar
 
 StartChar: uni0D1C_uni0D4D
-Encoding: 65698 -1 291
+Encoding: 301 -1 291
 Width: 1743
 GlyphClass: 3
 Flags: W
@@ -11040,7 +11040,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1C uni0D
 EndChar
 
 StartChar: uni0D1D_uni0D4D
-Encoding: 65699 -1 292
+Encoding: 302 -1 292
 Width: 3221
 GlyphClass: 3
 Flags: W
@@ -11052,7 +11052,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1D uni0D
 EndChar
 
 StartChar: uni0D1E_uni0D4D
-Encoding: 65700 -1 293
+Encoding: 303 -1 293
 Width: 2799
 GlyphClass: 3
 Flags: W
@@ -11064,7 +11064,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1E uni0D
 EndChar
 
 StartChar: uni0D1F_uni0D4D
-Encoding: 65701 -1 294
+Encoding: 304 -1 294
 Width: 1034
 GlyphClass: 3
 Flags: W
@@ -11076,7 +11076,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1F uni0D
 EndChar
 
 StartChar: uni0D20_uni0D4D
-Encoding: 65702 -1 295
+Encoding: 305 -1 295
 Width: 1354
 GlyphClass: 3
 Flags: W
@@ -11088,7 +11088,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D20 uni0D
 EndChar
 
 StartChar: uni0D21_uni0D4D
-Encoding: 65703 -1 296
+Encoding: 306 -1 296
 Width: 2398
 GlyphClass: 3
 Flags: W
@@ -11100,7 +11100,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D21 uni0D
 EndChar
 
 StartChar: uni0D22_uni0D4D
-Encoding: 65704 -1 297
+Encoding: 307 -1 297
 Width: 2424
 GlyphClass: 3
 Flags: W
@@ -11112,7 +11112,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D22 uni0D
 EndChar
 
 StartChar: uni0D23_uni0D4D
-Encoding: 65705 -1 298
+Encoding: 308 -1 298
 Width: 2691
 GlyphClass: 3
 Flags: W
@@ -11124,7 +11124,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D23 uni0D
 EndChar
 
 StartChar: uni0D24_uni0D4D
-Encoding: 65706 -1 299
+Encoding: 309 -1 299
 Width: 2024
 GlyphClass: 3
 Flags: W
@@ -11136,7 +11136,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D24 uni0D
 EndChar
 
 StartChar: uni0D25_uni0D4D
-Encoding: 65707 -1 300
+Encoding: 310 -1 300
 Width: 1727
 GlyphClass: 3
 Flags: W
@@ -11148,7 +11148,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D25 uni0D
 EndChar
 
 StartChar: uni0D26_uni0D4D
-Encoding: 65708 -1 301
+Encoding: 311 -1 301
 Width: 1379
 GlyphClass: 3
 Flags: W
@@ -11160,7 +11160,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D26 uni0D
 EndChar
 
 StartChar: uni0D27_uni0D4D
-Encoding: 65709 -1 302
+Encoding: 312 -1 302
 Width: 1932
 GlyphClass: 3
 Flags: W
@@ -11172,7 +11172,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D27 uni0D
 EndChar
 
 StartChar: uni0D28_uni0D4D
-Encoding: 65710 -1 303
+Encoding: 313 -1 303
 Width: 1932
 GlyphClass: 3
 Flags: W
@@ -11184,7 +11184,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D28 uni0D
 EndChar
 
 StartChar: uni0D2A_uni0D4D
-Encoding: 65711 -1 304
+Encoding: 314 -1 304
 Width: 1723
 GlyphClass: 3
 Flags: W
@@ -11196,7 +11196,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2A uni0D
 EndChar
 
 StartChar: uni0D2B_uni0D4D
-Encoding: 65712 -1 305
+Encoding: 315 -1 305
 Width: 2118
 GlyphClass: 3
 Flags: W
@@ -11208,7 +11208,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2B uni0D
 EndChar
 
 StartChar: uni0D2C_uni0D4D
-Encoding: 65713 -1 306
+Encoding: 316 -1 306
 Width: 2611
 GlyphClass: 3
 Flags: W
@@ -11220,7 +11220,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2C uni0D
 EndChar
 
 StartChar: uni0D2D_uni0D4D
-Encoding: 65714 -1 307
+Encoding: 317 -1 307
 Width: 1383
 GlyphClass: 3
 Flags: W
@@ -11232,7 +11232,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2D uni0D
 EndChar
 
 StartChar: uni0D2E_uni0D4D
-Encoding: 65715 -1 308
+Encoding: 318 -1 308
 Width: 1373
 GlyphClass: 3
 Flags: W
@@ -11244,7 +11244,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2E uni0D
 EndChar
 
 StartChar: uni0D2F_uni0D4D
-Encoding: 65716 -1 309
+Encoding: 319 -1 309
 Width: 1974
 GlyphClass: 3
 Flags: W
@@ -11256,7 +11256,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2F uni0D
 EndChar
 
 StartChar: uni0D30_uni0D4D
-Encoding: 65717 -1 310
+Encoding: 320 -1 310
 Width: 1421
 GlyphClass: 3
 Flags: W
@@ -11268,7 +11268,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D30 uni0D
 EndChar
 
 StartChar: uni0D31_uni0D4D
-Encoding: 65718 -1 311
+Encoding: 321 -1 311
 Width: 1344
 GlyphClass: 3
 Flags: W
@@ -11280,7 +11280,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D31 uni0D
 EndChar
 
 StartChar: uni0D32_uni0D4D
-Encoding: 65719 -1 312
+Encoding: 322 -1 312
 Width: 1610
 GlyphClass: 3
 Flags: W
@@ -11292,7 +11292,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D32 uni0D
 EndChar
 
 StartChar: uni0D33_uni0D4D
-Encoding: 65720 -1 313
+Encoding: 323 -1 313
 Width: 1367
 GlyphClass: 3
 Flags: W
@@ -11304,7 +11304,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D33 uni0D
 EndChar
 
 StartChar: uni0D34_uni0D4D
-Encoding: 65721 -1 314
+Encoding: 324 -1 314
 Width: 1513
 GlyphClass: 3
 Flags: W
@@ -11316,7 +11316,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D34 uni0D
 EndChar
 
 StartChar: uni0D35_uni0D4D
-Encoding: 65722 -1 315
+Encoding: 325 -1 315
 Width: 1774
 GlyphClass: 3
 Flags: W
@@ -11328,7 +11328,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D35 uni0D
 EndChar
 
 StartChar: uni0D36_uni0D4D
-Encoding: 65723 -1 316
+Encoding: 326 -1 316
 Width: 1931
 GlyphClass: 3
 Flags: W
@@ -11340,7 +11340,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D36 uni0D
 EndChar
 
 StartChar: uni0D37_uni0D4D
-Encoding: 65724 -1 317
+Encoding: 327 -1 317
 Width: 1975
 GlyphClass: 3
 Flags: W
@@ -11352,7 +11352,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D37 uni0D
 EndChar
 
 StartChar: uni0D38_uni0D4D
-Encoding: 65725 -1 318
+Encoding: 328 -1 318
 Width: 2398
 GlyphClass: 3
 Flags: W
@@ -11364,7 +11364,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D38 uni0D
 EndChar
 
 StartChar: uni0D39_uni0D4D
-Encoding: 65726 -1 319
+Encoding: 329 -1 319
 Width: 2276
 GlyphClass: 3
 Flags: W
@@ -11376,7 +11376,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D39 uni0D
 EndChar
 
 StartChar: uni0D31_uni0D31_uni0D4D
-Encoding: 65727 -1 320
+Encoding: 330 -1 320
 Width: 1344
 GlyphClass: 3
 Flags: W
@@ -11388,7 +11388,7 @@ Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D31_uni0D
 EndChar
 
 StartChar: uni0D30.pb_glyph171
-Encoding: 65728 -1 321
+Encoding: 331 -1 321
 Width: 3409
 GlyphClass: 3
 Flags: W
@@ -11402,7 +11402,7 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" g
 EndChar
 
 StartChar: uni0D41_uni0D4D
-Encoding: 65729 -1 322
+Encoding: 332 -1 322
 Width: 133
 GlyphClass: 3
 Flags: W
@@ -11432,7 +11432,7 @@ Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" uni0D41 
 EndChar
 
 StartChar: uni0D7A
-Encoding: 3450 3450 323
+Encoding: 125 3450 323
 Width: 2701
 Flags: W
 LayerCount: 2
@@ -11517,7 +11517,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7B
-Encoding: 3451 3451 324
+Encoding: 126 3451 324
 Width: 1934
 Flags: W
 LayerCount: 2
@@ -11575,7 +11575,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7C
-Encoding: 3452 3452 325
+Encoding: 127 3452 325
 Width: 1280
 Flags: W
 LayerCount: 2
@@ -11619,7 +11619,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7D
-Encoding: 3453 3453 326
+Encoding: 128 3453 326
 Width: 2137
 Flags: W
 LayerCount: 2
@@ -11683,7 +11683,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7E
-Encoding: 3454 3454 327
+Encoding: 129 3454 327
 Width: 1885
 Flags: W
 LayerCount: 2
@@ -11741,7 +11741,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7F
-Encoding: 3455 3455 328
+Encoding: 130 3455 328
 Width: 1939
 Flags: W
 LayerCount: 2
@@ -11816,7 +11816,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D79
-Encoding: 3449 3449 329
+Encoding: 124 3449 329
 Width: 2278
 Flags: W
 LayerCount: 2
@@ -11874,7 +11874,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D3A
-Encoding: 3386 3386 330
+Encoding: 96 3386 330
 Width: 909
 Flags: W
 LayerCount: 2
@@ -11897,7 +11897,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D29
-Encoding: 3369 3369 331
+Encoding: 79 3369 331
 Width: 2551
 Flags: W
 LayerCount: 2
@@ -11951,7 +11951,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D71
-Encoding: 3441 3441 332
+Encoding: 123 3441 332
 Width: 2413
 Flags: W
 LayerCount: 2
@@ -11989,6 +11989,18 @@ SplineSet
  1771 705 1771 705 1648.5 851.5 c 128,-1,49
  1526 998 1526 998 1308 998 c 0,0,1
 EndSplineSet
+EndChar
+
+StartChar: aam
+Encoding: 333 -1 333
+Width: 1676
+Flags: W
+LayerCount: 2
+Fore
+Refer: 46 3330 N 1 0 0 1 925 14 2
+Refer: 98 3390 N 1 0 0 1 0 0 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni25CC uni0D3E uni0D02
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC uni0D3E uni0D02
 EndChar
 EndChars
 EndSplineFont
