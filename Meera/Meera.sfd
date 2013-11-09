@@ -80,7 +80,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 42 15
+WinInfo: 684 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
@@ -79446,25 +79446,25 @@ SplineSet
  857 822 857 822 802 735.5 c 128,-1,55
  747 649 747 649 747 526 c 0,56,57
  747 235 747 235 970 163 c 1,47,48
-1383 -233 m 1,59,-1
- 1383 1 l 1,60,-1
- 1253 -18 l 1,61,-1
- 958 -233 l 1,62,-1
- 1383 -233 l 1,59,-1
-829 111 m 1,63,64
- 744 146 744 146 680 259 c 128,-1,65
- 616 372 616 372 616 538 c 0,66,67
- 616 823 616 823 451 823 c 0,68,69
- 377 823 377 823 328.5 734 c 128,-1,70
- 280 645 280 645 280 538 c 0,71,72
- 280 334 280 334 397.5 218 c 128,-1,73
- 515 102 515 102 726 102 c 0,74,75
- 801 102 801 102 829 111 c 1,63,64
+1383 -233 m 1,58,-1
+ 1383 1 l 1,59,-1
+ 1253 -18 l 1,60,-1
+ 958 -233 l 1,61,-1
+ 1383 -233 l 1,58,-1
+829 111 m 1,62,63
+ 744 146 744 146 680 259 c 128,-1,64
+ 616 372 616 372 616 538 c 0,65,66
+ 616 823 616 823 451 823 c 0,67,68
+ 377 823 377 823 328.5 734 c 128,-1,69
+ 280 645 280 645 280 538 c 0,70,71
+ 280 334 280 334 397.5 218 c 128,-1,72
+ 515 102 515 102 726 102 c 0,73,74
+ 801 102 801 102 829 111 c 1,62,63
 EndSplineSet
 Validated: 1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" y1 y2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" dotreph y1 xx y1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph y1 xx y1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" dotreph y1 xx y1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" dotreph y1 y2
 EndChar
 
 StartChar: dotrephl3l3
@@ -79586,9 +79586,9 @@ SplineSet
  1347 -237 l 1,40,-1
 EndSplineSet
 Validated: 1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph v1 xx v1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" dotreph v1 v2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" dotreph v1 xx v1
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 5 subtable" dotrephv1 v2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" dotreph v1 xx v1
 EndChar
 
 StartChar: l4
