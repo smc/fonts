@@ -1,5 +1,6 @@
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts="AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma"
+art_fonts="Meera Rachana Suruma"
 default: clean compile
 all: clean compile test webfonts
 compile:
@@ -47,6 +48,12 @@ test: compile
 	do \
 		echo "Testing font $${font}";\
 		hb-view $${font}/$${font}.ttf --debug --text-file tests/tests.txt --output-file tests/$${font}.pdf; \
+	done
+# Test using automated rendering testing framework
+	@for font in `echo ${art_fonts}`; \
+	do \
+		echo "Testing font $${font}";\
+		./Automated-Rendering-Testing/rendering_test.py Automated-Rendering-Testing/ml-test-data/$${font}-test-data/$${font}.ini; \
 	done
 
 webfonts: compile
