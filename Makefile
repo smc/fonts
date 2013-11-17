@@ -1,4 +1,4 @@
-fontpath=/usr/share/fonts/truetype/malayalam_fonts
+fontpath=/usr/share/fonts/truetype/malayalam
 fonts="AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma"
 art_fonts="Meera Rachana Suruma"
 default: clean compile
