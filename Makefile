@@ -61,7 +61,7 @@ clean:
 			rm -f $${font}/$${font}.ttf;\
 		fi \
 	done;
-	@rm -rf tests/*.pdf webfonts;
+	@rm -rf tests/*.pdf webfonts sdist ignore-file;
 
 test: compile
 	# Test the fonts
