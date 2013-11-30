@@ -81,3 +81,9 @@ webfonts: compile
 		 webfonts/$${font}/$${font}.eot; \
 		echo "Webfonts generated for $${font}"; \
 	done
+sdist: $(fonts) ChangeLog Makefile generate.pe malayalam-fonts.conf
+	echo ".git\nignore-file" > ignore-file
+	tar --owner root --group root --mode a+rX \
+		-X ignore-file -cvf - . | xz -9 >\
+		 ../malayalam-fonts-$(version).tar.xz
+	touch "$@"
