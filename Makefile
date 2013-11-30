@@ -12,7 +12,7 @@ compile:
 		./generate.pe $${font}/$${font}.sfd; \
 	done;
 
-install: */*.ttf
+install: compile
 	# copy ttf files to system font directory
 	for font in `echo ${fonts}`;do \
 		install -D -m 0644  $${font}/$${font}.ttf \
