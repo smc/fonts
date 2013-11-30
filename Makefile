@@ -3,6 +3,8 @@
 fontpath=/usr/share/fonts/truetype/malayalam
 fonts=AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma
 
+version = 6.0
+
 default: clean compile
 all: clean compile test webfonts
 
