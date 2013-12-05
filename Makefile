@@ -9,20 +9,20 @@ default: clean compile
 all: clean compile test webfonts
 
 compile:
-	# generate ttf files from sfd files
-	for font in `echo ${fonts}`;do \
+# generate ttf files from sfd files
+	@for font in `echo ${fonts}`;do \
 		./generate.pe $${font}/$${font}.sfd; \
 	done;
 
 install: compile
-	# copy ttf files to system font directory
-	for font in `echo ${fonts}`;do \
+# copy ttf files to system font directory
+	@for font in `echo ${fonts}`;do \
 		install -D -m 0644  $${font}/$${font}.ttf \
 			${DESTDIR}/${fontpath}/$${font}.ttf;\
 	done;
 
-	# copy fontconfig configuration files to system fontconfig
-	# configuration directory
+# copy fontconfig configuration files to system fontconfig
+# configuration directory
 	install -D -m 0644 malayalam-fonts.conf\
 	 	${DESTDIR}/etc/fonts/conf.avail/67-malayalam-fonts.conf
 	if [ ! -d ${DESTDIR}/etc/fonts/conf.d ]; then\
@@ -33,15 +33,15 @@ install: compile
 		${DESTDIR}/etc/fonts/conf.d/67-malayalam-fonts.conf
 
 uninstall:
-	# remove fonts from system font directories
+# remove fonts from system font directories
 	@for font in `echo ${fonts}`;do \
 		if [ -f ${DESTDIR}/${fontpath}/$${font}.ttf ]; then\
 			rm -f ${DESTDIR}/${fontpath}/$${font}.ttf;\
 		fi \
 	done;
 
-	# remove fontconfig configuration files from system fontconfig
-	# configuration directory
+# remove fontconfig configuration files from system fontconfig
+# configuration directory
 	if [ -f ${DESTDIR}/etc/fonts/conf.d/67-malayalam-fonts.conf ]; then \
 	rm ${DESTDIR}/etc/fonts/conf.d/67-malayalam-fonts.conf; fi
 
@@ -55,8 +55,8 @@ uninstall:
 	fi
 
 clean:
-	# remove ttf fonts
-	for font in `echo ${fonts}`;do \
+# remove ttf fonts
+	@for font in `echo ${fonts}`;do \
 		if [ -f $${font}/$${font}.ttf ];then\
 			rm -f $${font}/$${font}.ttf;\
 		fi \
@@ -64,16 +64,16 @@ clean:
 	@rm -rf tests/*.pdf webfonts sdist ignore-file;
 
 test: compile
-	# Test the fonts
-	for font in `echo ${fonts}`;do \
+# Test the fonts
+	@for font in `echo ${fonts}`;do \
 		echo "Testing font $${font}";\
 		hb-view $${font}/$${font}.ttf --debug\
 		 --text-file tests/tests.txt --output-file tests/$${font}.pdf; \
 	done
 
 webfonts: compile
-	# generate webfonts
-	for font in `echo ${fonts}`;do \
+	@echo "Generating webfonts"
+	@for font in `echo ${fonts}`;do \
 		mkdir -p webfonts/$${font}; \
 		sfntly -w $${font}/$${font}.ttf\
 			webfonts/$${font}/$${font}.woff; \
