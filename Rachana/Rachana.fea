@@ -1,0 +1,1531 @@
+# GDEF Mark Attachment Classes
+@nomark=[];
+
+
+# GSUB 
+
+
+lookup onumOldstyleFigureslookup0 {
+  lookupflag 0;
+    sub \zero by \zero.old ;
+    sub \one by \one.old ;
+    sub \two by \two.old ;
+    sub \three by \three.old ;
+    sub \four by \four.old ;
+    sub \five by \five.old ;
+    sub \six by \six.old ;
+    sub \seven by \seven.old ;
+    sub \eight by \eight.old ;
+    sub \nine by \nine.old ;
+} onumOldstyleFigureslookup0;
+
+lookup akhnAkhandinMalaylamlookup1 {
+  lookupflag 0;
+    sub \k1 \xx \ZWJ  by \k1cil;
+    sub \nh \xx \ZWJ  by \nhcil;
+    sub \n1 \xx \ZWJ  by \n1cil;
+    sub \l3 \xx \ZWJ  by \l3cil;
+    sub \lh \xx \ZWJ  by \lhcil;
+    sub \r3 \xx \ZWJ  by \r3cil;
+    sub \k1 \ml_l  by \k1l1;
+    sub \k1 \xx \k1  by \k1k1;
+    sub \k1 \xx \t1  by \k1t1;
+    sub \k1 \xx \nh  by \k1nh;
+    sub \k1 \xx \th1  by \k1th1;
+    sub \k1 \xx \n1  by \k1n1;
+    sub \k1 \xx \m1  by \k1m1;
+    sub \k1 \xx \sh  by \k1sh;
+    sub \k1 \xx \sh \xx \nh  by \k1shnh;
+    sub \k1 \xx \sh \xx \m1  by \k1shm1;
+    sub \k1 \xx \s1  by \k1s1;
+    sub \k1 \xx \rh \xx \rh  by \k1rhrh;
+    sub \k3 \xx \k3  by \k3k3;
+    sub \k3 \xx \k4  by \k3k4;
+    sub \k3 \xx \th3  by \k3th3;
+    sub \k3 \xx \th3 \xx \th4  by \k3th3th4;
+    sub \k3 \xx \n1  by \k3n1;
+    sub \k3 \xx \m1  by \k3m1;
+    sub \k4 \xx \n1  by \k4n1;
+    sub \ng \xx \k1  by \ngk1;
+    sub \ng \xx \ng  by \ngng;
+    sub \ch1 \xx \ch1  by \ch1ch1;
+    sub \ch1 \xx \ch2  by \ch1ch2;
+    sub \ch3 \xx \ch3  by \ch3ch3;
+    sub \ch3 \xx \nj  by \ch3nj;
+    sub \nj \xx \ch1  by \njch1;
+    sub \nj \xx \ch2  by \njch2;
+    sub \nj \xx \ch3  by \njch3;
+    sub \nj \xx \nj  by \njnj;
+    sub \t1 \xx \t1  by \t1t1;
+    sub \t3 \xx \t3  by \t3t3;
+    sub \t3 \xx \t4  by \t3t4;
+    sub \t3 \xx \m1  by \t3m1;
+    sub \nh \xx \t1  by \nht1;
+    sub \nh \xx \t2  by \nht2;
+    sub \nh \xx \t3  by \nht3;
+    sub \nh \xx \t4  by \nht4;
+    sub \nh \xx \nh  by \nhnh;
+    sub \nh \xx \m1  by \nhm1;
+    sub \th1 \xx \th1  by \th1th1;
+    sub \th1 \xx \th2  by \th1th2;
+    sub \th1 \xx \n1  by \th1n1;
+    sub \th1 \xx \p4  by \th1p4;
+    sub \th1 \xx \m1  by \th1m1;
+    sub \th1 \xx \s1  by \th1s1;
+    sub \th1 \xx \s1 \xx \th2  by \th1s1th2;
+    sub \th1 \xx \s1 \xx \n1  by \th1s1n1;
+    sub \th1 \xx \s1 \xx \m1  by \th1s1m1;
+    sub \th2 \xx \n1  by \th2n1;
+    sub \th2 \xx \m1  by \th2m1;
+    sub \th3 \xx \th3  by \th3th3;
+    sub \th3 \xx \th4  by \th3th4;
+    sub \th3 \xx \th4 \xx \n1  by \th3th4n1;
+    sub \th3 \xx \th4 \xx \m1  by \th3th4m1;
+    sub \th4 \xx \n1  by \th4n1;
+    sub \th4 \xx \m1  by \th4m1;
+    sub \n1 \xx \th1  by \n1th1;
+    sub \n1 \xx \th2  by \n1th2;
+    sub \n1 \xx \th3  by \n1th3;
+    sub \n1 \xx \th4  by \n1th4;
+    sub \n1 \xx \n1  by \n1n1;
+    sub \n1 \xx \m1  by \n1m1;
+    sub \n1 \xx \rh  by \n1rh;
+    sub \p1 \xx \t1  by \p1t1;
+    sub \p1 \xx \th1  by \p1th1;
+    sub \p1 \xx \n1  by \p1n1;
+    sub \p1 \xx \p1  by \p1p1;
+    sub \p1 \xx \p2  by \p1p2;
+    sub \p1 \xx \s1  by \p1s1;
+    sub \p2 \xx \k1  by \p2k1;
+    sub \p2 \xx \t1  by \p2t1;
+    sub \p2 \xx \th1  by \p2th1;
+    sub \p2 \xx \n1  by \p2n1;
+    sub \p2 \xx \p1  by \p2p1;
+    sub \p2 \xx \m1  by \p2m1;
+    sub \p2 \xx \s1  by \p2s1;
+    sub \p2 \xx \rh \xx \rh  by \p2rhrh;
+    sub \p3 \xx \k3  by \p3k3;
+    sub \p3 \xx \ch3  by \p3ch3;
+    sub \p3 \xx \th3  by \p3th3;
+    sub \p3 \xx \th4  by \p3th4;
+    sub \p3 \xx \n1  by \p3n1;
+    sub \p3 \xx \p3  by \p3p3;
+    sub \p3 \xx \p4  by \p3p4;
+    sub \m1 \xx \n1  by \m1n1;
+    sub \m1 \xx \p1  by \m1p1;
+    sub \m1 \xx \m1  by \m1m1;
+    sub \z1 \xx \ch1  by \z1ch1;
+    sub \z1 \xx \ch2  by \z1ch2;
+    sub \z1 \xx \n1  by \z1n1;
+    sub \z1 \xx \m1  by \z1m1;
+    sub \z1 \xx \z1  by \z1z1;
+    sub \sh \xx \k1  by \shk1;
+    sub \sh \xx \k1 \xx \k1  by \shk1k1;
+    sub \sh \xx \t1  by \sht1;
+    sub \sh \xx \t2  by \sht2;
+    sub \sh \xx \nh  by \shnh;
+    sub \sh \xx \p1  by \shp1;
+    sub \sh \xx \p2  by \shp2;
+    sub \sh \xx \m1  by \shm1;
+    sub \s1 \xx \k1  by \s1k1;
+    sub \s1 \xx \k1 \xx \k1  by \s1k1k1;
+    sub \s1 \xx \k2  by \s1k2;
+    sub \s1 \xx \t1  by \s1t1;
+    sub \s1 \xx \th1  by \s1th1;
+    sub \s1 \xx \th2  by \s1th2;
+    sub \s1 \xx \n1  by \s1n1;
+    sub \s1 \xx \p1  by \s1p1;
+    sub \s1 \xx \p2  by \s1p2;
+    sub \s1 \xx \m1  by \s1m1;
+    sub \s1 \xx \s1  by \s1s1;
+    sub \s1 \xx \rh \xx \rh  by \s1rhrh;
+    sub \h1 \xx \n1  by \h1n1;
+    sub \h1 \xx \m1  by \h1m1;
+    sub \lh \xx \lh  by \lhlh;
+    sub \zh \xx \k1  by \zhk1;
+    sub \zh \xx \k1 \xx \k1  by \zhk1k1;
+    sub \zh \xx \ch1  by \zhch1;
+    sub \zh \xx \th1  by \zhth1;
+    sub \zh \xx \th1 \xx \th1  by \zhth1th1;
+    sub \zh \xx \n1  by \zhn1;
+    sub \zh \xx \n1 \xx \n1  by \zhn1n1;
+    sub \zh \xx \p1  by \zhp1;
+    sub \zh \xx \m1  by \zhm1;
+    sub \zh \xx \v1  by \zhv1;
+    sub \zh \xx \s1  by \zhs1;
+    sub \rh \xx \rh  by \rhrh;
+    sub \uni25CC \a2 \anusvara  by \aam;
+    sub \ch3 \xx \m1  by \ch3m1;
+    sub \zh \xx \ch1 \xx \ch1  by \zhch1ch1;
+} akhnAkhandinMalaylamlookup1;
+
+lookup akhnAkhandinMalaylam2lookup1 {
+  lookupflag 0;
+    sub \k1 \xx \ZWJ  by \k1cil;
+    sub \nh \xx \ZWJ  by \nhcil;
+    sub \n1 \xx \ZWJ  by \n1cil;
+    sub \l3 \xx \ZWJ  by \l3cil;
+    sub \lh \xx \ZWJ  by \lhcil;
+    sub \r3 \xx \ZWJ  by \r3cil;
+    sub \k1 \ml_l  by \k1l1;
+    sub \k1 \xx \k1  by \k1k1;
+    sub \k1 \xx \t1  by \k1t1;
+    sub \k1 \xx \nh  by \k1nh;
+    sub \k1 \xx \th1  by \k1th1;
+    sub \k1 \xx \n1  by \k1n1;
+    sub \k1 \xx \m1  by \k1m1;
+    sub \k1 \xx \sh  by \k1sh;
+    sub \k1 \xx \sh \xx \nh  by \k1shnh;
+    sub \k1 \xx \sh \xx \m1  by \k1shm1;
+    sub \k1 \xx \s1  by \k1s1;
+    sub \k1 \xx \rh \xx \rh  by \k1rhrh;
+    sub \k3 \xx \k3  by \k3k3;
+    sub \k3 \xx \k4  by \k3k4;
+    sub \k3 \xx \th3  by \k3th3;
+    sub \k3 \xx \th3 \xx \th4  by \k3th3th4;
+    sub \k3 \xx \n1  by \k3n1;
+    sub \k3 \xx \m1  by \k3m1;
+    sub \k4 \xx \n1  by \k4n1;
+    sub \ng \xx \k1  by \ngk1;
+    sub \ng \xx \ng  by \ngng;
+    sub \ch1 \xx \ch1  by \ch1ch1;
+    sub \ch1 \xx \ch2  by \ch1ch2;
+    sub \ch3 \xx \ch3  by \ch3ch3;
+    sub \ch3 \xx \nj  by \ch3nj;
+    sub \nj \xx \ch1  by \njch1;
+    sub \nj \xx \ch2  by \njch2;
+    sub \nj \xx \ch3  by \njch3;
+    sub \nj \xx \nj  by \njnj;
+    sub \t1 \xx \t1  by \t1t1;
+    sub \t3 \xx \t3  by \t3t3;
+    sub \t3 \xx \t4  by \t3t4;
+    sub \t3 \xx \m1  by \t3m1;
+    sub \nh \xx \t1  by \nht1;
+    sub \nh \xx \t2  by \nht2;
+    sub \nh \xx \t3  by \nht3;
+    sub \nh \xx \t4  by \nht4;
+    sub \nh \xx \nh  by \nhnh;
+    sub \nh \xx \m1  by \nhm1;
+    sub \th1 \xx \th1  by \th1th1;
+    sub \th1 \xx \th2  by \th1th2;
+    sub \th1 \xx \n1  by \th1n1;
+    sub \th1 \xx \p4  by \th1p4;
+    sub \th1 \xx \m1  by \th1m1;
+    sub \th1 \xx \s1  by \th1s1;
+    sub \th1 \xx \s1 \xx \th2  by \th1s1th2;
+    sub \th1 \xx \s1 \xx \n1  by \th1s1n1;
+    sub \th1 \xx \s1 \xx \m1  by \th1s1m1;
+    sub \th2 \xx \n1  by \th2n1;
+    sub \th2 \xx \m1  by \th2m1;
+    sub \th3 \xx \th3  by \th3th3;
+    sub \th3 \xx \th4  by \th3th4;
+    sub \th3 \xx \th4 \xx \n1  by \th3th4n1;
+    sub \th3 \xx \th4 \xx \m1  by \th3th4m1;
+    sub \th4 \xx \n1  by \th4n1;
+    sub \th4 \xx \m1  by \th4m1;
+    sub \n1 \xx \th1  by \n1th1;
+    sub \n1 \xx \th2  by \n1th2;
+    sub \n1 \xx \th3  by \n1th3;
+    sub \n1 \xx \th4  by \n1th4;
+    sub \n1 \xx \n1  by \n1n1;
+    sub \n1 \xx \m1  by \n1m1;
+    sub \n1 \xx \rh  by \n1rh;
+    sub \p1 \xx \t1  by \p1t1;
+    sub \p1 \xx \th1  by \p1th1;
+    sub \p1 \xx \n1  by \p1n1;
+    sub \p1 \xx \p1  by \p1p1;
+    sub \p1 \xx \p2  by \p1p2;
+    sub \p1 \xx \s1  by \p1s1;
+    sub \p2 \xx \k1  by \p2k1;
+    sub \p2 \xx \t1  by \p2t1;
+    sub \p2 \xx \th1  by \p2th1;
+    sub \p2 \xx \n1  by \p2n1;
+    sub \p2 \xx \p1  by \p2p1;
+    sub \p2 \xx \m1  by \p2m1;
+    sub \p2 \xx \s1  by \p2s1;
+    sub \p2 \xx \rh \xx \rh  by \p2rhrh;
+    sub \p3 \xx \k3  by \p3k3;
+    sub \p3 \xx \ch3  by \p3ch3;
+    sub \p3 \xx \th3  by \p3th3;
+    sub \p3 \xx \th4  by \p3th4;
+    sub \p3 \xx \n1  by \p3n1;
+    sub \p3 \xx \p3  by \p3p3;
+    sub \p3 \xx \p4  by \p3p4;
+    sub \m1 \xx \n1  by \m1n1;
+    sub \m1 \xx \p1  by \m1p1;
+    sub \m1 \xx \m1  by \m1m1;
+    sub \y1 \xx \k1  by \y1k1;
+    sub \y1 \xx \k1 \xx \k1  by \y1k1k1;
+    sub \y1 \xx \ch1  by \y1ch1;
+    sub \y1 \xx \th1  by \y1th1;
+    sub \y1 \xx \th1 \xx \th1  by \y1th1th1;
+    sub \y1 \xx \n1  by \y1n1;
+    sub \y1 \xx \p1  by \y1p1;
+    sub \y1 \xx \m1  by \y1m1;
+    sub \y1 \xx \y1  by \y1y1;
+    sub \l3 \xx \k1  by \l3k1;
+    sub \l3 \xx \k1 \xx \k1  by \l3k1k1;
+    sub \l3 \xx \k3  by \l3k3;
+    sub \l3 \xx \ch1  by \l3ch1;
+    sub \l3 \xx \th1  by \l3th1;
+    sub \l3 \xx \th1 \xx \th1  by \l3th1th1;
+    sub \l3 \xx \p1  by \l3p1;
+    sub \l3 \xx \p2  by \l3p2;
+    sub \l3 \xx \p3  by \l3p3;
+    sub \l3 \xx \m1  by \l3m1;
+    sub \l3 \xx \l3  by \l3l3;
+    sub \v1 \xx \v1  by \v1v1;
+    sub \z1 \xx \ch1  by \z1ch1;
+    sub \z1 \xx \ch2  by \z1ch2;
+    sub \z1 \xx \n1  by \z1n1;
+    sub \z1 \xx \m1  by \z1m1;
+    sub \z1 \xx \z1  by \z1z1;
+    sub \sh \xx \k1  by \shk1;
+    sub \sh \xx \k1 \xx \k1  by \shk1k1;
+    sub \sh \xx \t1  by \sht1;
+    sub \sh \xx \t2  by \sht2;
+    sub \sh \xx \nh  by \shnh;
+    sub \sh \xx \p1  by \shp1;
+    sub \sh \xx \p2  by \shp2;
+    sub \sh \xx \m1  by \shm1;
+    sub \s1 \xx \k1  by \s1k1;
+    sub \s1 \xx \k1 \xx \k1  by \s1k1k1;
+    sub \s1 \xx \k2  by \s1k2;
+    sub \s1 \xx \t1  by \s1t1;
+    sub \s1 \xx \th1  by \s1th1;
+    sub \s1 \xx \th2  by \s1th2;
+    sub \s1 \xx \n1  by \s1n1;
+    sub \s1 \xx \p1  by \s1p1;
+    sub \s1 \xx \p2  by \s1p2;
+    sub \s1 \xx \m1  by \s1m1;
+    sub \s1 \xx \s1  by \s1s1;
+    sub \s1 \xx \rh \xx \rh  by \s1rhrh;
+    sub \h1 \xx \n1  by \h1n1;
+    sub \h1 \xx \m1  by \h1m1;
+    sub \lh \xx \lh  by \lhlh;
+    sub \zh \xx \k1  by \zhk1;
+    sub \zh \xx \k1 \xx \k1  by \zhk1k1;
+    sub \zh \xx \ch1  by \zhch1;
+    sub \zh \xx \th1  by \zhth1;
+    sub \zh \xx \th1 \xx \th1  by \zhth1th1;
+    sub \zh \xx \n1  by \zhn1;
+    sub \zh \xx \n1 \xx \n1  by \zhn1n1;
+    sub \zh \xx \p1  by \zhp1;
+    sub \zh \xx \m1  by \zhm1;
+    sub \zh \xx \v1  by \zhv1;
+    sub \zh \xx \s1  by \zhs1;
+    sub \rh \xx \rh  by \rhrh;
+    sub \uni25CC \a2 \anusvara  by \aam;
+    sub \ch3 \xx \m1  by \ch3m1;
+    sub \y1 \xx \ch1 \xx \ch1  by \y1ch1ch1;
+    sub \l3 \xx \ch1 \xx \ch1  by \l3ch1ch1;
+    sub \zh \xx \ch1 \xx \ch1  by \zhch1ch1;
+} akhnAkhandinMalaylam2lookup1;
+
+lookup prefPreBaseFormsinMalaylam2look {
+  lookupflag 0;
+    sub \xx \r3  by \r4;
+} prefPreBaseFormsinMalaylam2look;
+
+lookup halfHalfFormsinMalaylamlookup2 {
+  lookupflag 0;
+    sub \k1 \xx \ZWJ  by \k1cil;
+    sub \nh \xx \ZWJ  by \nhcil;
+    sub \n1 \xx \ZWJ  by \n1cil;
+    sub \l3 \xx \ZWJ  by \l3cil;
+    sub \lh \xx \ZWJ  by \lhcil;
+    sub \r3 \xx \ZWJ  by \r3cil;
+    sub \k1 \xx  by \k1xx;
+    sub \k2 \xx  by \k2xx;
+    sub \k3 \xx  by \k3xx;
+    sub \k4 \xx  by \k4xx;
+    sub \ng \xx  by \ngxx;
+    sub \ch1 \xx  by \ch1xx;
+    sub \ch2 \xx  by \ch2xx;
+    sub \ch3 \xx  by \ch3xx;
+    sub \ch4 \xx  by \ch4xx;
+    sub \nj \xx  by \njxx;
+    sub \t1 \xx  by \t1xx;
+    sub \t2 \xx  by \t2xx;
+    sub \t3 \xx  by \t3xx;
+    sub \t4 \xx  by \t4xx;
+    sub \nh \xx  by \nhxx;
+    sub \th1 \xx  by \th1xx;
+    sub \th2 \xx  by \th2xx;
+    sub \th3 \xx  by \th3xx;
+    sub \th4 \xx  by \th4xx;
+    sub \n1 \xx  by \n1xx;
+    sub \p1 \xx  by \p1xx;
+    sub \p2 \xx  by \p2xx;
+    sub \p3 \xx  by \p3xx;
+    sub \p4 \xx  by \p4xx;
+    sub \m1 \xx  by \m1xx;
+    sub \y1 \xx  by \y1xx;
+    sub \r3 \xx  by \r3xx;
+    sub \rh \xx  by \rhxx;
+    sub \l3 \xx  by \l3xx;
+    sub \lh \xx  by \lhxx;
+    sub \zh \xx  by \zhxx;
+    sub \v1 \xx  by \v1xx;
+    sub \z1 \xx  by \z1xx;
+    sub \sh \xx  by \shxx;
+    sub \s1 \xx  by \s1xx;
+    sub \h1 \xx  by \h1xx;
+} halfHalfFormsinMalaylamlookup2;
+
+lookup blwfBelowBaseFormsinMalaylamloo {
+  lookupflag 0;
+    sub \l3 \xx  by \l4;
+} blwfBelowBaseFormsinMalaylamloo;
+
+lookup blwfBelowBaseFormsinMalaylam2lo {
+  lookupflag 0;
+    sub \xx \l3  by \l4;
+} blwfBelowBaseFormsinMalaylam2lo;
+
+lookup blwsBelowBaseSubstitutionsinMal {
+  lookupflag 0;
+    sub \k1xx \l3  by \k1l3;
+    sub \k1 \l4  by \k1l3;
+    sub \k3xx \l3  by \k3l3;
+    sub \k3 \l4  by \k3l3;
+    sub \th1xx \l3  by \th1l3;
+    sub \th1 \l4  by \th1l3;
+    sub \p1xx \l3  by \p1l3;
+    sub \p1 \l4  by \p1l3;
+    sub \p2xx \l3  by \p2l3;
+    sub \p2 \l4  by \p2l3;
+    sub \p3xx \l3  by \p3l3;
+    sub \p3 \l4  by \p3l3;
+    sub \m1xx \l3  by \m1l3;
+    sub \m1 \l4  by \m1l3;
+    sub \l3 \l4  by \l3l3;
+    sub \v1xx \l3  by \v1l3;
+    sub \v1 \l4  by \v1l3;
+    sub \z1xx \l3  by \z1l3;
+    sub \z1 \l4  by \z1l3;
+    sub \s1xx \l3  by \s1l3;
+    sub \s1 \l4  by \s1l3;
+    sub \h1xx \l3  by \h1l3;
+    sub \h1 \l4  by \h1l3;
+    sub \s1p1 \xx \l3  by \s1p1l3;
+    sub \s1p1 \l4  by \s1p1l3;
+} blwsBelowBaseSubstitutionsinMal;
+
+lookup presPreBaseSubstitutionsinMalay {
+  lookupflag 0;
+    sub \k1k1 \r4  by \k1k1r3;
+    sub \k1k1 \xx \r3  by \k1k1r3;
+    sub \k1t1 \r4  by \k1t1r3;
+    sub \k1t1 \xx \r3  by \k1t1r3;
+    sub \k1th1 \r4  by \k1th1r3;
+    sub \k1th1 \xx \r3  by \k1th1r3;
+    sub \k1xx \r3  by \k1r3;
+    sub \k1 \r4  by \k1r3;
+    sub \k3th3th4 \r4  by \k3th3th4r3;
+    sub \k3th3th4 \xx \r3  by \k3th3th4r3;
+    sub \k3xx \r3  by \k3r3;
+    sub \k3 \r4  by \k3r3;
+    sub \k4xx \r3  by \k4r3;
+    sub \k4 \r4  by \k4r3;
+    sub \ch1ch2 \r4  by \ch1ch2r3;
+    sub \ch1ch2 \xx \r3  by \ch1ch2r3;
+    sub \ch2xx \r3  by \ch2r3;
+    sub \ch2 \r4  by \ch2r3;
+    sub \ch3xx \r3  by \ch3r3;
+    sub \ch3 \r4  by \ch3r3;
+    sub \ch4xx \r3  by \ch4r3;
+    sub \ch4 \r4  by \ch4r3;
+    sub \t1xx \r3  by \t1r3;
+    sub \t1 \r4  by \t1r3;
+    sub \t3xx \r3  by \t3r3;
+    sub \t3 \r4  by \t3r3;
+    sub \t4xx \r3  by \t4r3;
+    sub \t4 \r4  by \t4r3;
+    sub \nht1 \r4  by \nht1r3;
+    sub \nht1 \xx \r3  by \nht1r3;
+    sub \nht3 \r4  by \nht3r3;
+    sub \nht3 \xx \r3  by \nht3r3;
+    sub \th1th1 \r4  by \th1th1r3;
+    sub \th1th1 \xx \r3  by \th1th1r3;
+    sub \th1xx \r3  by \th1r3;
+    sub \th1 \r4  by \th1r3;
+    sub \th1s1 \r4  by \th1s1r3;
+    sub \th1s1 \xx \r3  by \th1s1r3;
+    sub \th3th4 \r4  by \th3th4r3;
+    sub \th3th4 \xx \r3  by \th3th4r3;
+    sub \th3xx \r3  by \th3r3;
+    sub \th3 \r4  by \th3r3;
+    sub \th4xx \r3  by \th4r3;
+    sub \th4 \r4  by \th4r3;
+    sub \n1th1 \r4  by \n1th1r3;
+    sub \n1th1 \xx \r3  by \n1th1r3;
+    sub \n1th3 \r4  by \n1th3r3;
+    sub \n1th3 \xx \r3  by \n1th3r3;
+    sub \n1th4 \r4  by \n1th4r3;
+    sub \n1th4 \xx \r3  by \n1th4r3;
+    sub \n1n1 \r4  by \n1n1r3;
+    sub \n1n1 \xx \r3  by \n1n1r3;
+    sub \n1m1 \r4  by \n1m1r3;
+    sub \n1m1 \xx \r3  by \n1m1r3;
+    sub \n1xx \r3  by \n1r3;
+    sub \n1 \r4  by \n1r3;
+    sub \p1xx \r3  by \p1r3;
+    sub \p1 \r4  by \p1r3;
+    sub \p1s1 \r4  by \p1s1r3;
+    sub \p1s1 \xx \r3  by \p1s1r3;
+    sub \p2xx \r3  by \p2r3;
+    sub \p2 \r4  by \p2r3;
+    sub \p3xx \r3  by \p3r3;
+    sub \p3 \r4  by \p3r3;
+    sub \p4xx \r3  by \p4r3;
+    sub \p4 \r4  by \p4r3;
+    sub \m1p1 \r4  by \m1p1r3;
+    sub \m1p1 \xx \r3  by \m1p1r3;
+    sub \m1xx \r3  by \m1r3;
+    sub \m1 \r4  by \m1r3;
+    sub \y1xx \k1  by \y1k1;
+    sub \y1xx \k1k1  by \y1k1k1;
+    sub \y1xx \ch1  by \y1ch1;
+    sub \y1xx \th1  by \y1th1;
+    sub \y1xx \th1th1  by \y1th1th1;
+    sub \y1xx \n1  by \y1n1;
+    sub \y1xx \p1  by \y1p1;
+    sub \y1xx \m1  by \y1m1;
+    sub \l3xx \k1  by \l3k1;
+    sub \l3xx \k1k1  by \l3k1k1;
+    sub \l3xx \k3  by \l3k3;
+    sub \l3xx \ch1  by \l3ch1;
+    sub \l3xx \th1  by \l3th1;
+    sub \l3xx \th1th1  by \l3th1th1;
+    sub \l3xx \p1  by \l3p1;
+    sub \l3p1 \r4  by \l3p1r3;
+    sub \l3p1 \xx \r3  by \l3p1r3;
+    sub \l3xx \p2  by \l3p2;
+    sub \l3xx \p3  by \l3p3;
+    sub \l3xx \m1  by \l3m1;
+    sub \l3xx \l3  by \l3l3;
+    sub \v1xx \r3  by \v1r3;
+    sub \v1 \r4  by \v1r3;
+    sub \z1xx \r3  by \z1r3;
+    sub \z1 \r4  by \z1r3;
+    sub \z1z1 \r4  by \z1z1r3;
+    sub \z1z1 \xx \r3  by \z1z1r3;
+    sub \shk1 \r4  by \shk1r3;
+    sub \shk1 \xx \r3  by \shk1r3;
+    sub \sht1 \r4  by \sht1r3;
+    sub \sht1 \xx \r3  by \sht1r3;
+    sub \shp1 \r4  by \shp1r3;
+    sub \shp1 \xx \r3  by \shp1r3;
+    sub \shxx \r3  by \shm1r3;
+    sub \sh \r4  by \shm1r3;
+    sub \s1k1 \r4  by \s1k1r3;
+    sub \s1k1 \xx \r3  by \s1k1r3;
+    sub \s1t1 \r4  by \s1t1r3;
+    sub \s1t1 \xx \r3  by \s1t1r3;
+    sub \s1th1 \r4  by \s1th1r3;
+    sub \s1th1 \xx \r3  by \s1th1r3;
+    sub \s1p1 \r4  by \s1p1r3;
+    sub \s1p1 \xx \r3  by \s1p1r3;
+    sub \s1xx \r3  by \s1r3;
+    sub \s1 \r4  by \s1r3;
+    sub \s1s1 \r4  by \s1s1r3;
+    sub \s1s1 \xx \r3  by \s1s1r3;
+    sub \s1rhrh \r4  by \s1rhrhr3;
+    sub \s1rhrh \xx \r3  by \s1rhrhr3;
+    sub \h1xx \r3  by \h1r3;
+    sub \h1 \r4  by \h1r3;
+    sub \p3k3 \r4  by \b3k3r3;
+    sub \y1xx \ch1 \xx \ch1  by \y1ch1ch1;
+    sub \l3xx \ch1ch1  by \l3ch1ch1;
+} presPreBaseSubstitutionsinMalay;
+
+lookup sub_ligature_presmlm2_0 {
+  lookupflag 0;
+    sub \r4 \k1k1  by \k1k1r3;
+    sub \r4 \k1t1  by \k1t1r3;
+    sub \r4 \k1th1  by \k1th1r3;
+    sub \r4 \k1  by \k1r3;
+    sub \r4 \k3th3th4  by \k3th3th4r3;
+    sub \r4 \k3  by \k3r3;
+    sub \r4 \k4  by \k4r3;
+    sub \r4 \ch1ch2  by \ch1ch2r3;
+    sub \r4 \ch2  by \ch2r3;
+    sub \r4 \ch3  by \ch3r3;
+    sub \r4 \ch4  by \ch4r3;
+    sub \r4 \t1  by \t1r3;
+    sub \r4 \t3  by \t3r3;
+    sub \r4 \t4  by \t4r3;
+    sub \r4 \nht1  by \nht1r3;
+    sub \r4 \nht3  by \nht3r3;
+    sub \r4 \th1th1  by \th1th1r3;
+    sub \r4 \th1  by \th1r3;
+    sub \r4 \th1s1  by \th1s1r3;
+    sub \r4 \th3th4  by \th3th4r3;
+    sub \r4 \th3  by \th3r3;
+    sub \r4 \th4  by \th4r3;
+    sub \r4 \n1th1  by \n1th1r3;
+    sub \r4 \n1th3  by \n1th3r3;
+    sub \r4 \n1th4  by \n1th4r3;
+    sub \r4 \n1n1  by \n1n1r3;
+    sub \r4 \n1m1  by \n1m1r3;
+    sub \r4 \n1  by \n1r3;
+    sub \r4 \p1  by \p1r3;
+    sub \r4 \p1s1  by \p1s1r3;
+    sub \r4 \p2  by \p2r3;
+    sub \r4 \p3  by \p3r3;
+    sub \r4 \p4  by \p4r3;
+    sub \r4 \m1p1  by \m1p1r3;
+    sub \r4 \m1  by \m1r3;
+    sub \r4 \l3p1  by \l3p1r3;
+    sub \r4 \v1  by \v1r3;
+    sub \r4 \z1  by \z1r3;
+    sub \r4 \z1z1  by \z1z1r3;
+    sub \r4 \shk1  by \shk1r3;
+    sub \r4 \sht1  by \sht1r3;
+    sub \r4 \shp1  by \shp1r3;
+    sub \r4 \sh  by \shm1r3;
+    sub \r4 \s1k1  by \s1k1r3;
+    sub \r4 \s1t1  by \s1t1r3;
+    sub \r4 \s1th1  by \s1th1r3;
+    sub \r4 \s1p1  by \s1p1r3;
+    sub \r4 \s1  by \s1r3;
+    sub \r4 \s1s1  by \s1s1r3;
+    sub \r4 \s1rhrh  by \s1rhrhr3;
+    sub \r4 \h1  by \h1r3;
+    sub \r4 \p3k3  by \b3k3r3;
+} sub_ligature_presmlm2_0;
+
+lookup pstsPostBaseSubstitutionsinMala {
+  lookupflag MarkAttachmentType @nomark;
+    sub \y2 \u1  by \y2u1;
+    sub \y2 \u2  by \y2u2;
+    sub \k1 \u1  by \k1u1;
+    sub \k1 \u2  by \k1u2;
+    sub \k1 \r1  by \k1r1;
+    sub \k1 \r2  by \k1r2;
+    sub \k1k1 \u1  by \k1k1u1;
+    sub \k1k1 \u2  by \k1k1u2;
+    sub \k1k1 \r1  by \k1k1r1;
+    sub \k1k1r3 \u1  by \k1k1r3u1;
+    sub \k1k1r3 \u2  by \k1k1r3u2;
+    sub \k1t1 \u1  by \k1t1u1;
+    sub \k1t1 \u2  by \k1t1u2;
+    sub \k1t1r3 \u1  by \k1t1r3u1;
+    sub \k1t1r3 \u2  by \k1t1r3u2;
+    sub \k1nh \u1  by \k1nhu1;
+    sub \k1nh \u2  by \k1nhu2;
+    sub \k1th1 \u1  by \k1th1u1;
+    sub \k1th1 \u2  by \k1th1u2;
+    sub \k1th1 \r1  by \k1th1r1;
+    sub \k1th1 \r2  by \k1th1r2;
+    sub \k1th1r3 \u1  by \k1th1r3u1;
+    sub \k1th1r3 \u2  by \k1th1r3u2;
+    sub \k1n1 \u1  by \k1n1u1;
+    sub \k1n1 \u2  by \k1n1u2;
+    sub \k1m1 \u1  by \k1m1u1;
+    sub \k1m1 \u2  by \k1m1u2;
+    sub \k1r3 \u1  by \k1r3u1;
+    sub \k1r3 \u2  by \k1r3u2;
+    sub \k1l3 \u1  by \k1l3u1;
+    sub \k1l3 \u2  by \k1l3u2;
+    sub \k1sh \u1  by \k1shu1;
+    sub \k1sh \u2  by \k1shu2;
+    sub \k1sh \r1  by \k1shr1;
+    sub \k1shnh \u1  by \k1shnhu1;
+    sub \k1shnh \u2  by \k1shnhu2;
+    sub \k1shm1 \u1  by \k1shm1u1;
+    sub \k1shm1 \u2  by \k1shm1u2;
+    sub \k1shm1 \r1  by \k1shm1r1;
+    sub \k1s1 \u1  by \k1s1u1;
+    sub \k1s1 \u2  by \k1s1u2;
+    sub \k1s1 \r1  by \k1s1r1;
+    sub \k1rhrh \u1  by \k1rhrhu1;
+    sub \k1rhrh \u2  by \k1rhrhu2;
+    sub \k2 \u1  by \k2u1;
+    sub \k2 \u2  by \k2u2;
+    sub \k2 \r1  by \k2r1;
+    sub \k3 \u1  by \k3u1;
+    sub \k3 \u2  by \k3u2;
+    sub \k3 \r1  by \k3r1;
+    sub \k3 \r2  by \k3r2;
+    sub \k3k3 \u1  by \k3k3u1;
+    sub \k3k3 \u2  by \k3k3u2;
+    sub \k3k3 \r1  by \k3k3r1;
+    sub \k3k4 \u1  by \k3k4u1;
+    sub \k3k4 \u2  by \k3k4u2;
+    sub \k3k4 \r1  by \k3k4r1;
+    sub \k3th3 \u1  by \k3th3u1;
+    sub \k3th3 \u2  by \k3th3u2;
+    sub \k3th3 \r1  by \k3th3r1;
+    sub \k3th3th4 \u1  by \k3th3th4u1;
+    sub \k3th3th4 \u2  by \k3th3th4u2;
+    sub \k3th3th4 \r1  by \k3th3th4r1;
+    sub \k3th3th4r3 \u1  by \k3th3th4r3u1;
+    sub \k3th3th4r3 \u2  by \k3th3th4r3u2;
+    sub \k3n1 \u1  by \k3n1u1;
+    sub \k3n1 \u2  by \k3n1u2;
+    sub \k3m1 \u1  by \k3m1u1;
+    sub \k3m1 \u2  by \k3m1u2;
+    sub \k3r3 \u1  by \k3r3u1;
+    sub \k3r3 \u2  by \k3r3u2;
+    sub \k3l3 \u1  by \k3l3u1;
+    sub \k3l3 \u2  by \k3l3u2;
+    sub \k4 \u1  by \k4u1;
+    sub \k4 \u2  by \k4u2;
+    sub \k4 \r1  by \k4r1;
+    sub \k4 \r2  by \k4r2;
+    sub \k4n1 \u1  by \k4n1u1;
+    sub \k4n1 \u2  by \k4n1u2;
+    sub \k4r3 \u1  by \k4r3u1;
+    sub \k4r3 \u2  by \k4r3u2;
+    sub \ng \u1  by \ngu1;
+    sub \ng \u2  by \ngu2;
+    sub \ngk1 \u1  by \ngk1u1;
+    sub \ngk1 \u2  by \ngk1u2;
+    sub \ngk1 \r1  by \ngk1r1;
+    sub \ngng \u1  by \ngngu1;
+    sub \ngng \u2  by \ngngu2;
+    sub \ch1 \u1  by \ch1u1;
+    sub \ch1 \u2  by \ch1u2;
+    sub \ch1ch1 \u1  by \ch1ch1u1;
+    sub \ch1ch1 \u2  by \ch1ch1u2;
+    sub \ch1ch2 \u1  by \ch1ch2u1;
+    sub \ch1ch2 \u2  by \ch1ch2u2;
+    sub \ch1ch2 \r1  by \ch1ch2r1;
+    sub \ch1ch2r3 \u1  by \ch1ch2r3u1;
+    sub \ch1ch2r3 \u2  by \ch1ch2r3u2;
+    sub \ch2 \u1  by \ch2u1;
+    sub \ch2 \u2  by \ch2u2;
+    sub \ch2 \r1  by \ch2r1;
+    sub \ch2r3 \u1  by \ch2r3u1;
+    sub \ch2r3 \u2  by \ch2r3u2;
+    sub \ch3 \u1  by \ch3u1;
+    sub \ch3 \u2  by \ch3u2;
+    sub \ch3 \r1  by \ch3r1;
+    sub \ch3 \r2  by \ch3r2;
+    sub \ch3ch3 \u1  by \ch3ch3u1;
+    sub \ch3ch3 \u2  by \ch3ch3u2;
+    sub \ch3ch3 \r1  by \ch3ch3r1;
+    sub \ch3nj \u1  by \ch3nju1;
+    sub \ch3nj \u2  by \ch3nju2;
+    sub \ch3r3 \u1  by \ch3r3u1;
+    sub \ch3r3 \u2  by \ch3r3u2;
+    sub \ch4 \u1  by \ch4u1;
+    sub \ch4 \u2  by \ch4u2;
+    sub \ch4 \r1  by \ch4r1;
+    sub \ch4 \r2  by \ch4r2;
+    sub \ch4r3 \u1  by \ch4r3u1;
+    sub \ch4r3 \u2  by \ch4r3u2;
+    sub \nj \u1  by \nju1;
+    sub \nj \u2  by \nju2;
+    sub \njch1 \u1  by \njch1u1;
+    sub \njch1 \u2  by \njch1u2;
+    sub \njch1 \r1  by \njch1r1;
+    sub \njch2 \u1  by \njch2u1;
+    sub \njch2 \u2  by \njch2u2;
+    sub \njch2 \r1  by \njch2r1;
+    sub \njch3 \u1  by \njch3u1;
+    sub \njch3 \u2  by \njch3u2;
+    sub \njnj \u1  by \njnju1;
+    sub \njnj \u2  by \njnju2;
+    sub \t1 \u1  by \t1u1;
+    sub \t1 \u2  by \t1u2;
+    sub \t1 \r1  by \t1r1;
+    sub \t1 \r2  by \t1r2;
+    sub \t1t1 \u1  by \t1t1u1;
+    sub \t1t1 \u2  by \t1t1u2;
+    sub \t1r3 \u1  by \t1r3u1;
+    sub \t1r3 \u2  by \t1r3u2;
+    sub \t2 \u1  by \t2u1;
+    sub \t2 \u2  by \t2u2;
+    sub \t3 \u1  by \t3u1;
+    sub \t3 \u2  by \t3u2;
+    sub \t3 \r1  by \t3r1;
+    sub \t3t3 \u1  by \t3t3u1;
+    sub \t3t3 \u2  by \t3t3u2;
+    sub \t3t4 \u1  by \t3t4u1;
+    sub \t3t4 \u2  by \t3t4u2;
+    sub \t3m1 \u1  by \t3m1u1;
+    sub \t3m1 \u2  by \t3m1u2;
+    sub \t3m1 \r1  by \t3m1r1;
+    sub \t3r3 \u1  by \t3r3u1;
+    sub \t3r3 \u2  by \t3r3u2;
+    sub \t4 \u1  by \t4u1;
+    sub \t4 \u2  by \t4u2;
+    sub \t4 \r1  by \t4r1;
+    sub \t4r3 \u1  by \t4r3u1;
+    sub \t4r3 \u2  by \t4r3u2;
+    sub \nh \u1  by \nhu1;
+    sub \nh \u2  by \nhu2;
+    sub \nht1 \u1  by \nht1u1;
+    sub \nht1 \u2  by \nht1u2;
+    sub \nht1r3 \u1  by \nht1r3u1;
+    sub \nht1r3 \u2  by \nht1r3u2;
+    sub \nht3 \u1  by \nht3u1;
+    sub \nht3 \u2  by \nht3u2;
+    sub \nht3 \r1  by \nht3r1;
+    sub \nht3r3 \u1  by \nht3r3u1;
+    sub \nht3r3 \u2  by \nht3r3u2;
+    sub \nht4 \u1  by \nht4u1;
+    sub \nht4 \u2  by \nht4u2;
+    sub \nht4 \r1  by \nht4r1;
+    sub \nhnh \u1  by \nhnhu1;
+    sub \nhnh \u2  by \nhnhu2;
+    sub \nhm1 \u1  by \nhm1u1;
+    sub \nhm1 \u2  by \nhm1u2;
+    sub \th1 \u1  by \th1u1;
+    sub \th1 \u2  by \th1u2;
+    sub \th1 \r1  by \th1r1;
+    sub \th1 \r2  by \th1r2;
+    sub \th1th1 \u1  by \th1th1u1;
+    sub \th1th1 \u2  by \th1th1u2;
+    sub \th1th1 \r1  by \th1th1r1;
+    sub \th1th1 \r2  by \th1th1r2;
+    sub \th1th1r3 \u1  by \th1th1r3u1;
+    sub \th1th1r3 \u2  by \th1th1r3u2;
+    sub \th1th2 \u1  by \th1th2u1;
+    sub \th1th2 \u2  by \th1th2u2;
+    sub \th1th2 \r1  by \th1th2r1;
+    sub \th1p4 \u1  by \th1p4u1;
+    sub \th1p4 \u2  by \th1p4u2;
+    sub \th1p4 \r1  by \th1p4r1;
+    sub \th1m1 \u1  by \th1m1u1;
+    sub \th1m1 \u2  by \th1m1u2;
+    sub \th1m1 \r1  by \th1m1r1;
+    sub \th1r3 \u1  by \th1r3u1;
+    sub \th1r3 \u2  by \th1r3u2;
+    sub \th1l3 \u1  by \th1l3u1;
+    sub \th1l3 \u2  by \th1l3u2;
+    sub \th1s1 \u1  by \th1s1u1;
+    sub \th1s1 \u2  by \th1s1u2;
+    sub \th1s1 \r1  by \th1s1r1;
+    sub \th1s1 \r2  by \th1s1r2;
+    sub \th1s1th2 \u1  by \th1s1th2u1;
+    sub \th1s1th2 \u2  by \th1s1th2u2;
+    sub \th1s1th2 \r1  by \th1s1th2r1;
+    sub \th1s1n1 \u1  by \th1s1n1u1;
+    sub \th1s1n1 \u2  by \th1s1n1u2;
+    sub \th1s1m1 \u1  by \th1s1m1u1;
+    sub \th1s1m1 \u2  by \th1s1m1u2;
+    sub \th1s1m1 \r1  by \th1s1m1r1;
+    sub \th1s1r3 \u1  by \th1s1r3u1;
+    sub \th1s1r3 \u2  by \th1s1r3u2;
+    sub \th2 \u1  by \th2u1;
+    sub \th2 \u2  by \th2u2;
+    sub \th2n1 \u1  by \th2n1u1;
+    sub \th2n1 \u2  by \th2n1u2;
+    sub \th2m1 \u1  by \th2m1u1;
+    sub \th2m1 \u2  by \th2m1u2;
+    sub \th2m1 \r1  by \th2m1r1;
+    sub \th3 \u1  by \th3u1;
+    sub \th3 \u2  by \th3u2;
+    sub \th3 \r1  by \th3r1;
+    sub \th3 \r2  by \th3r2;
+    sub \th3th3 \u1  by \th3th3u1;
+    sub \th3th3 \u2  by \th3th3u2;
+    sub \th3th3 \r1  by \th3th3r1;
+    sub \th3th3 \r2  by \th3th3r2;
+    sub \th3th4 \u1  by \th3th4u1;
+    sub \th3th4 \u2  by \th3th4u2;
+    sub \th3th4 \r1  by \th3th4r1;
+    sub \th3th4 \r2  by \th3th4r2;
+    sub \th3th4n1 \u1  by \th3th4n1u1;
+    sub \th3th4n1 \u2  by \th3th4n1u2;
+    sub \th3th4m1 \u1  by \th3th4m1u1;
+    sub \th3th4m1 \u2  by \th3th4m1u2;
+    sub \th3th4m1 \r1  by \th3th4m1r1;
+    sub \th3th4r3 \u1  by \th3th4r3u1;
+    sub \th3th4r3 \u2  by \th3th4r3u2;
+    sub \th3r3 \u1  by \th3r3u1;
+    sub \th3r3 \u2  by \th3r3u2;
+    sub \th4 \u1  by \th4u1;
+    sub \th4 \u2  by \th4u2;
+    sub \th4 \r1  by \th4r1;
+    sub \th4 \r2  by \th4r2;
+    sub \th4n1 \u1  by \th4n1u1;
+    sub \th4n1 \u2  by \th4n1u2;
+    sub \th4m1 \u1  by \th4m1u1;
+    sub \th4m1 \u2  by \th4m1u2;
+    sub \th4m1 \r1  by \th4m1r1;
+    sub \th4r3 \u1  by \th4r3u1;
+    sub \th4r3 \u2  by \th4r3u2;
+    sub \n1 \u1  by \n1u1;
+    sub \n1 \u2  by \n1u2;
+    sub \n1 \r1  by \n1r1;
+    sub \n1 \r2  by \n1r2;
+    sub \n1th1 \u1  by \n1th1u1;
+    sub \n1th1 \u2  by \n1th1u2;
+    sub \n1th1 \r1  by \n1th1r1;
+    sub \n1th1 \r2  by \n1th1r2;
+    sub \n1th1r3 \u1  by \n1th1r3u1;
+    sub \n1th1r3 \u2  by \n1th1r3u2;
+    sub \n1th2 \u1  by \n1th2u1;
+    sub \n1th2 \u2  by \n1th2u2;
+    sub \n1th2 \r1  by \n1th2r1;
+    sub \n1th2 \r2  by \n1th2r2;
+    sub \n1th3 \u1  by \n1th3u1;
+    sub \n1th3 \u2  by \n1th3u2;
+    sub \n1th3 \r1  by \n1th3r1;
+    sub \n1th3r3 \u1  by \n1th3r3u1;
+    sub \n1th3r3 \u2  by \n1th3r3u2;
+    sub \n1th4 \u1  by \n1th4u1;
+    sub \n1th4 \u2  by \n1th4u2;
+    sub \n1th4 \r1  by \n1th4r1;
+    sub \n1th4r3 \u1  by \n1th4r3u1;
+    sub \n1th4r3 \u2  by \n1th4r3u2;
+    sub \n1n1 \u1  by \n1n1u1;
+    sub \n1n1 \u2  by \n1n1u2;
+    sub \n1n1 \r1  by \n1n1r1;
+    sub \n1n1r3 \u1  by \n1n1r3u1;
+    sub \n1n1r3 \u2  by \n1n1r3u2;
+    sub \n1m1 \u1  by \n1m1u1;
+    sub \n1m1 \u2  by \n1m1u2;
+    sub \n1m1 \r1  by \n1m1r1;
+    sub \n1m1r3 \u1  by \n1m1r3u1;
+    sub \n1m1r3 \u2  by \n1m1r3u2;
+    sub \n1r3 \u1  by \n1r3u1;
+    sub \n1r3 \u2  by \n1r3u2;
+    sub \n1rh \u1  by \n1rhu1;
+    sub \n1rh \u2  by \n1rhu2;
+    sub \p1 \u1  by \p1u1;
+    sub \p1 \u2  by \p1u2;
+    sub \p1 \r1  by \p1r1;
+    sub \p1 \r2  by \p1r2;
+    sub \p1t1 \u1  by \p1t1u1;
+    sub \p1t1 \u2  by \p1t1u2;
+    sub \p1th1 \u1  by \p1th1u1;
+    sub \p1th1 \u2  by \p1th1u2;
+    sub \p1th1 \r1  by \p1th1r1;
+    sub \p1th1 \r2  by \p1th1r2;
+    sub \p1n1 \u1  by \p1n1u1;
+    sub \p1n1 \u2  by \p1n1u2;
+    sub \p1p1 \u1  by \p1p1u1;
+    sub \p1p1 \u2  by \p1p1u2;
+    sub \p1p1 \r1  by \p1p1r1;
+    sub \p1p2 \u1  by \p1p2u1;
+    sub \p1p2 \u2  by \p1p2u2;
+    sub \p1r3 \u1  by \p1r3u1;
+    sub \p1r3 \u2  by \p1r3u2;
+    sub \p1l3 \u1  by \p1l3u1;
+    sub \p1l3 \u2  by \p1l3u2;
+    sub \p1s1 \u1  by \p1s1u1;
+    sub \p1s1 \u2  by \p1s1u2;
+    sub \p1s1 \r1  by \p1s1r1;
+    sub \p1s1r3 \u1  by \p1s1r3u1;
+    sub \p1s1r3 \u2  by \p1s1r3u2;
+    sub \p2 \u1  by \p2u1;
+    sub \p2 \u2  by \p2u2;
+    sub \p2k1 \u1  by \p2k1u1;
+    sub \p2k1 \u2  by \p2k1u2;
+    sub \p2t1 \u1  by \p2t1u1;
+    sub \p2t1 \u2  by \p2t1u2;
+    sub \p2th1 \u1  by \p2th1u1;
+    sub \p2th1 \u2  by \p2th1u2;
+    sub \p2th1 \r1  by \p2th1r1;
+    sub \p2n1 \u1  by \p2n1u1;
+    sub \p2n1 \u2  by \p2n1u2;
+    sub \p2p1 \u1  by \p2p1u1;
+    sub \p2p1 \u2  by \p2p1u2;
+    sub \p2m1 \u1  by \p2m1u1;
+    sub \p2m1 \u2  by \p2m1u2;
+    sub \p2r3 \u1  by \p2r3u1;
+    sub \p2r3 \u2  by \p2r3u2;
+    sub \p2l3 \u1  by \p2l3u1;
+    sub \p2l3 \u2  by \p2l3u2;
+    sub \p2s1 \u1  by \p2s1u1;
+    sub \p2s1 \u2  by \p2s1u2;
+    sub \p2s1 \r1  by \p2s1r1;
+    sub \p2rhrh \u1  by \p2rhrhu1;
+    sub \p2rhrh \u2  by \p2rhrhu2;
+    sub \p3 \u1  by \p3u1;
+    sub \p3 \u2  by \p3u2;
+    sub \p3 \r1  by \p3r1;
+    sub \p3k3 \u1  by \p3k3u1;
+    sub \p3k3 \u2  by \p3k3u2;
+    sub \p3k3 \r1  by \p3k3r1;
+    sub \p3ch3 \u1  by \p3ch3u1;
+    sub \p3ch3 \u2  by \p3ch3u2;
+    sub \p3ch3 \r1  by \p3ch3r1;
+    sub \p3th3 \u1  by \p3th3u1;
+    sub \p3th3 \u2  by \p3th3u2;
+    sub \p3th3 \r1  by \p3th3r1;
+    sub \p3th4 \u1  by \p3th4u1;
+    sub \p3th4 \u2  by \p3th4u2;
+    sub \p3th4 \r1  by \p3th4r1;
+    sub \p3th4 \r2  by \p3th4r2;
+    sub \p3n1 \u1  by \p3n1u1;
+    sub \p3n1 \u2  by \p3n1u2;
+    sub \p3p3 \u1  by \p3p3u1;
+    sub \p3p3 \u2  by \p3p3u2;
+    sub \p3r3 \u1  by \p3r3u1;
+    sub \p3r3 \u2  by \p3r3u2;
+    sub \p3l3 \u1  by \p3l3u1;
+    sub \p3l3 \u2  by \p3l3u2;
+    sub \p4 \u1  by \p4u1;
+    sub \p4 \u2  by \p4u2;
+    sub \p4 \r1  by \p4r1;
+    sub \p4 \r2  by \p4r2;
+    sub \p4r3 \u1  by \p4r3u1;
+    sub \p4r3 \u2  by \p4r3u2;
+    sub \m1 \u1  by \m1u1;
+    sub \m1 \u2  by \m1u2;
+    sub \m1 \r1  by \m1r1;
+    sub \m1 \r2  by \m1r2;
+    sub \m1n1 \u1  by \m1n1u1;
+    sub \m1n1 \u2  by \m1n1u2;
+    sub \m1p1 \u1  by \m1p1u1;
+    sub \m1p1 \u2  by \m1p1u2;
+    sub \m1p1 \r1  by \m1p1r1;
+    sub \m1p1r3 \u1  by \m1p1r3u1;
+    sub \m1p1r3 \u2  by \m1p1r3u2;
+    sub \m1m1 \u1  by \m1m1u1;
+    sub \m1m1 \u2  by \m1m1u2;
+    sub \m1m1 \r1  by \m1m1r1;
+    sub \m1r3 \u1  by \m1r3u1;
+    sub \m1r3 \u2  by \m1r3u2;
+    sub \m1l3 \u1  by \m1l3u1;
+    sub \m1l3 \u2  by \m1l3u2;
+    sub \y1 \u1  by \y1u1;
+    sub \y1 \u2  by \y1u2;
+    sub \y1 \r1  by \y1r1;
+    sub \y1k1 \u1  by \y1k1u1;
+    sub \y1k1 \u2  by \y1k1u2;
+    sub \y1k1 \r1  by \y1k1r1;
+    sub \y1k1k1 \u1  by \y1k1k1u1;
+    sub \y1k1k1 \u2  by \y1k1k1u2;
+    sub \y1ch1 \u1  by \y1ch1u1;
+    sub \y1ch1 \u2  by \y1ch1u2;
+    sub \y1th1 \u1  by \y1th1u1;
+    sub \y1th1 \u2  by \y1th1u2;
+    sub \y1th1 \r1  by \y1th1r1;
+    sub \y1th1th1 \u1  by \y1th1th1u1;
+    sub \y1th1th1 \u2  by \y1th1th1u2;
+    sub \y1th1th1 \r1  by \y1th1th1r1;
+    sub \y1n1 \u1  by \y1n1u1;
+    sub \y1n1 \u2  by \y1n1u2;
+    sub \y1p1 \u1  by \y1p1u1;
+    sub \y1p1 \u2  by \y1p1u2;
+    sub \y1p1 \r1  by \y1p1r1;
+    sub \y1m1 \u1  by \y1m1u1;
+    sub \y1m1 \u2  by \y1m1u2;
+    sub \y1m1 \r1  by \y1m1r1;
+    sub \y1 \y2  by \y1y1;
+    sub \y1 \y2 \u1  by \y1y1u1;
+    sub \y1y1 \u1  by \y1y1u1;
+    sub \y1 \y2 \u2  by \y1y1u2;
+    sub \y1y1 \u2  by \y1y1u2;
+    sub \r3 \u1  by \r3u1;
+    sub \r3 \u2  by \r3u2;
+    sub \r3 \r1  by \r3r1;
+    sub \l3 \u1  by \l3u1;
+    sub \l3 \u2  by \l3u2;
+    sub \l3 \r1  by \l3r1;
+    sub \l3k1 \u1  by \l3k1u1;
+    sub \l3k1 \u2  by \l3k1u2;
+    sub \l3k1 \r1  by \l3k1r1;
+    sub \l3k1k1 \u1  by \l3k1k1u1;
+    sub \l3k1k1 \u2  by \l3k1k1u2;
+    sub \l3k3 \u1  by \l3k3u1;
+    sub \l3k3 \u2  by \l3k3u2;
+    sub \l3k3 \r1  by \l3k3r1;
+    sub \l3ch1 \u1  by \l3ch1u1;
+    sub \l3ch1 \u2  by \l3ch1u2;
+    sub \l3th1 \u1  by \l3th1u1;
+    sub \l3th1 \u2  by \l3th1u2;
+    sub \l3th1 \r1  by \l3th1r1;
+    sub \l3th1th1 \u1  by \l3th1th1u1;
+    sub \l3th1th1 \u2  by \l3th1th1u2;
+    sub \l3p1 \u1  by \l3p1u1;
+    sub \l3p1 \u2  by \l3p1u2;
+    sub \l3p1r3 \u1  by \l3p1r3u1;
+    sub \l3p1r3 \u2  by \l3p1r3u2;
+    sub \l3p2 \u1  by \l3p2u1;
+    sub \l3p2 \u2  by \l3p2u2;
+    sub \l3p3 \u1  by \l3p3u1;
+    sub \l3p3 \u2  by \l3p3u2;
+    sub \l3m1 \u1  by \l3m1u1;
+    sub \l3m1 \u2  by \l3m1u2;
+    sub \l3 \l4 \u1  by \l3l3u1;
+    sub \l3l3 \u1  by \l3l3u1;
+    sub \l3 \l4 \u2  by \l3l3u2;
+    sub \l3l3 \u2  by \l3l3u2;
+    sub \v1 \u1  by \v1u1;
+    sub \v1 \u2  by \v1u2;
+    sub \v1 \r1  by \v1r1;
+    sub \v1r3 \u1  by \v1r3u1;
+    sub \v1r3 \u2  by \v1r3u2;
+    sub \v1l3 \u1  by \v1l3u1;
+    sub \v1l3 \u2  by \v1l3u2;
+    sub \v1 \v2  by \v1v1;
+    sub \v1 \v2 \u1  by \v1v1u1;
+    sub \v1v1 \u1  by \v1v1u1;
+    sub \v1 \v2 \u2  by \v1v1u2;
+    sub \v1v1 \u2  by \v1v1u2;
+    sub \z1 \u1  by \z1u1;
+    sub \z1 \u2  by \z1u2;
+    sub \z1 \r1  by \z1r1;
+    sub \z1ch1 \u1  by \z1ch1u1;
+    sub \z1ch1 \u2  by \z1ch1u2;
+    sub \z1ch1 \r1  by \z1ch1r1;
+    sub \z1ch2 \u1  by \z1ch2u1;
+    sub \z1ch2 \u2  by \z1ch2u2;
+    sub \z1ch2 \r1  by \z1ch2r1;
+    sub \z1n1 \u1  by \z1n1u1;
+    sub \z1n1 \u2  by \z1n1u2;
+    sub \z1m1 \u1  by \z1m1u1;
+    sub \z1m1 \u2  by \z1m1u2;
+    sub \z1m1 \r1  by \z1m1r1;
+    sub \z1r3 \u1  by \z1r3u1;
+    sub \z1r3 \u2  by \z1r3u2;
+    sub \z1l3 \u1  by \z1l3u1;
+    sub \z1l3 \u2  by \z1l3u2;
+    sub \z1z1 \u1  by \z1z1u1;
+    sub \z1z1 \u2  by \z1z1u2;
+    sub \z1z1 \r1  by \z1z1r1;
+    sub \z1z1r3 \u1  by \z1z1r3u1;
+    sub \z1z1r3 \u2  by \z1z1r3u2;
+    sub \sh \u1  by \shu1;
+    sub \sh \u2  by \shu2;
+    sub \sh \r1  by \shr1;
+    sub \shk1 \u1  by \shk1u1;
+    sub \shk1 \u2  by \shk1u2;
+    sub \shk1 \r1  by \shk1r1;
+    sub \shk1k1 \u1  by \shk1k1u1;
+    sub \shk1k1 \u2  by \shk1k1u2;
+    sub \shk1k1 \r1  by \shk1k1r1;
+    sub \shk1r3 \u1  by \shk1r3u1;
+    sub \shk1r3 \u2  by \shk1r3u2;
+    sub \sht1 \u1  by \sht1u1;
+    sub \sht1 \u2  by \sht1u2;
+    sub \sht1 \r1  by \sht1r1;
+    sub \sht1 \r2  by \sht1r2;
+    sub \sht1r3 \u1  by \sht1r3u1;
+    sub \sht1r3 \u2  by \sht1r3u2;
+    sub \sht2 \u1  by \sht2u1;
+    sub \sht2 \u2  by \sht2u2;
+    sub \shnh \u1  by \shnhu1;
+    sub \shnh \u2  by \shnhu2;
+    sub \shp1 \u1  by \shp1u1;
+    sub \shp1 \u2  by \shp1u2;
+    sub \shp1 \r1  by \shp1r1;
+    sub \shp1r3 \u1  by \shp1r3u1;
+    sub \shp1r3 \u2  by \shp1r3u2;
+    sub \shp2 \u1  by \shp2u1;
+    sub \shp2 \u2  by \shp2u2;
+    sub \shm1 \u1  by \shm1u1;
+    sub \shm1 \u2  by \shm1u2;
+    sub \shm1r3 \u1  by \shm1r3u1;
+    sub \shm1r3 \u2  by \shm1r3u2;
+    sub \s1 \u1  by \s1u1;
+    sub \s1 \u2  by \s1u2;
+    sub \s1 \r1  by \s1r1;
+    sub \s1 \r2  by \s1r2;
+    sub \s1k1 \u1  by \s1k1u1;
+    sub \s1k1 \u2  by \s1k1u2;
+    sub \s1k1 \r1  by \s1k1r1;
+    sub \s1k1k1 \u1  by \s1k1k1u1;
+    sub \s1k1k1 \u2  by \s1k1k1u2;
+    sub \s1k1k1 \r1  by \s1k1k1r1;
+    sub \s1k1r3 \u1  by \s1k1r3u1;
+    sub \s1k1r3 \u2  by \s1k1r3u2;
+    sub \s1k2 \u1  by \s1k2u1;
+    sub \s1k2 \u2  by \s1k2u2;
+    sub \s1t1 \u1  by \s1t1u1;
+    sub \s1t1 \u2  by \s1t1u2;
+    sub \s1t1r3 \u1  by \s1t1r3u1;
+    sub \s1t1r3 \u2  by \s1t1r3u2;
+    sub \s1th1 \u1  by \s1th1u1;
+    sub \s1th1 \u2  by \s1th1u2;
+    sub \s1th1 \r1  by \s1th1r1;
+    sub \s1th1 \r2  by \s1th1r2;
+    sub \s1th1r3 \u1  by \s1th1r3u1;
+    sub \s1th1r3 \u2  by \s1th1r3u2;
+    sub \s1th2 \u1  by \s1th2u1;
+    sub \s1th2 \u2  by \s1th2u2;
+    sub \s1th2 \r1  by \s1th2r1;
+    sub \s1n1 \u1  by \s1n1u1;
+    sub \s1n1 \u2  by \s1n1u2;
+    sub \s1p1 \u1  by \s1p1u1;
+    sub \s1p1 \u2  by \s1p1u2;
+    sub \s1p1 \r1  by \s1p1r1;
+    sub \s1p1r3 \u1  by \s1p1r3u1;
+    sub \s1p1r3 \u2  by \s1p1r3u2;
+    sub \s1p2 \u1  by \s1p2u1;
+    sub \s1p2 \u2  by \s1p2u2;
+    sub \s1m1 \u1  by \s1m1u1;
+    sub \s1m1 \u2  by \s1m1u2;
+    sub \s1m1 \r1  by \s1m1r1;
+    sub \s1r3 \u1  by \s1r3u1;
+    sub \s1r3 \u2  by \s1r3u2;
+    sub \s1l3 \u1  by \s1l3u1;
+    sub \s1l3 \u2  by \s1l3u2;
+    sub \s1s1 \u1  by \s1s1u1;
+    sub \s1s1 \u2  by \s1s1u2;
+    sub \s1s1 \r1  by \s1s1r1;
+    sub \s1s1r3 \u1  by \s1s1r3u1;
+    sub \s1s1r3 \u2  by \s1s1r3u2;
+    sub \s1rhrh \u1  by \s1rhrhu1;
+    sub \s1rhrh \u2  by \s1rhrhu2;
+    sub \s1rhrhr3 \u1  by \s1rhrhr3u1;
+    sub \s1rhrhr3 \u2  by \s1rhrhr3u3;
+    sub \h1 \u1  by \h1u1;
+    sub \h1 \u2  by \h1u2;
+    sub \h1 \r1  by \h1r1;
+    sub \h1n1 \u1  by \h1n1u1;
+    sub \h1n1 \u2  by \h1n1u2;
+    sub \h1m1 \u1  by \h1m1u1;
+    sub \h1m1 \u2  by \h1m1u2;
+    sub \h1m1 \r1  by \h1m1r1;
+    sub \h1r3 \u1  by \h1r3u1;
+    sub \h1r3 \u2  by \h1r3u2;
+    sub \h1l3 \u1  by \h1l3u1;
+    sub \h1l3 \u2  by \h1l3u2;
+    sub \lh \u1  by \lhu1;
+    sub \lh \u2  by \lhu2;
+    sub \lhlh \u1  by \lhlhu1;
+    sub \lhlh \u2  by \lhlhu2;
+    sub \zh \u1  by \zhu1;
+    sub \zh \u2  by \zhu2;
+    sub \zhk1 \u1  by \zhk1u1;
+    sub \zhk1 \u2  by \zhk1u2;
+    sub \zhk1k1 \u1  by \zhk1k1u1;
+    sub \zhk1k1 \u2  by \zhk1k1u2;
+    sub \zhch1 \u1  by \zhch1u1;
+    sub \zhch1 \u2  by \zhch1u2;
+    sub \zhth1 \u1  by \zhth1u1;
+    sub \zhth1 \u2  by \zhth1u2;
+    sub \zhth1th1 \u1  by \zhth1th1u1;
+    sub \zhth1th1 \u2  by \zhth1th1u2;
+    sub \zhn1 \u1  by \zhn1u1;
+    sub \zhn1 \u2  by \zhn1u2;
+    sub \zhn1n1 \u1  by \zhn1n1u1;
+    sub \zhn1n1 \u2  by \zhn1n1u2;
+    sub \zhp1 \u1  by \zhp1u1;
+    sub \zhp1 \u2  by \zhp1u2;
+    sub \zhm1 \u1  by \zhm1u1;
+    sub \zhm1 \u2  by \zhm1u2;
+    sub \zh \v2  by \zhv1;
+    sub \zh \v2 \u1  by \zhv1u1;
+    sub \zh \v2 \u2  by \zhv1u2;
+    sub \zhs1 \u1  by \zhs1u1;
+    sub \zhs1 \u2  by \zhs1u2;
+    sub \rh \u1  by \rhu1;
+    sub \rh \u2  by \rhu2;
+    sub \rhrh \u1  by \rhrhu1;
+    sub \rhrh \u2  by \rhrhu2;
+} pstsPostBaseSubstitutionsinMala;
+
+lookup halnHalantFormsinMalaylamlookup {
+  lookupflag 0;
+    sub \k1 \xx \ZWJ  by \k1cil;
+    sub \nh \xx \ZWJ  by \nhcil;
+    sub \n1 \xx \ZWJ  by \n1cil;
+    sub \l3 \xx \ZWJ  by \l3cil;
+    sub \lh \xx \ZWJ  by \lhcil;
+    sub \r3 \xx \ZWJ  by \r3cil;
+} halnHalantFormsinMalaylamlookup;
+
+lookup pstfPostBaseFormsinMalaylamlook {
+  lookupflag 0;
+    sub \r3 \xx  by \r4;
+    sub \y1 \xx  by \y2;
+    sub \v1 \xx  by \v2;
+} pstfPostBaseFormsinMalaylamlook;
+
+lookup pstfPostBaseFormsinMalaylam2loo {
+  lookupflag 0;
+    sub \xx \y1  by \y2;
+    sub \xx \v1  by \v2;
+} pstfPostBaseFormsinMalaylam2loo;
+
+feature onum {
+
+  script DFLT;
+     language dflt ;
+      lookup onumOldstyleFigureslookup0;
+
+  script latn;
+     language dflt ;
+      lookup onumOldstyleFigureslookup0;
+
+  script mlm2;
+     language dflt ;
+      lookup onumOldstyleFigureslookup0;
+
+  script mlym;
+     language dflt ;
+      lookup onumOldstyleFigureslookup0;
+} onum;
+
+feature akhn {
+
+  script mlm2;
+     language dflt ;
+      lookup akhnAkhandinMalaylam2lookup1;
+
+  script mlym;
+     language dflt ;
+      lookup akhnAkhandinMalaylamlookup1;
+} akhn;
+
+feature pref {
+
+  script mlm2;
+     language dflt ;
+      lookup prefPreBaseFormsinMalaylam2look;
+} pref;
+
+feature half {
+
+  script mlym;
+     language dflt ;
+      lookup halfHalfFormsinMalaylamlookup2;
+} half;
+
+feature blwf {
+
+  script mlm2;
+     language dflt ;
+      lookup blwfBelowBaseFormsinMalaylam2lo;
+
+  script mlym;
+     language dflt ;
+      lookup blwfBelowBaseFormsinMalaylamloo;
+} blwf;
+
+feature blws {
+
+  script mlm2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinMal;
+
+  script mlym;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinMal;
+} blws;
+
+feature pres {
+
+  script mlm2;
+     language dflt ;
+      lookup sub_ligature_presmlm2_0;
+
+  script mlym;
+     language dflt ;
+      lookup presPreBaseSubstitutionsinMalay;
+} pres;
+
+feature psts {
+
+  script mlm2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinMala;
+
+  script mlym;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinMala;
+} psts;
+
+feature haln {
+
+  script mlym;
+     language dflt ;
+      lookup halnHalantFormsinMalaylamlookup;
+} haln;
+
+feature pstf {
+
+  script mlm2;
+     language dflt ;
+      lookup pstfPostBaseFormsinMalaylam2loo;
+
+  script mlym;
+     language dflt ;
+      lookup pstfPostBaseFormsinMalaylamlook;
+} pstf;
+
+# GPOS 
+
+
+lookup abvmAboveBaseMarkinMalaylamMala {
+  lookupflag 0;
+  markClass [\dotreph ] <anchor -806 1080> @dotreph;
+  pos base [\k1 \ch1 \th2 \th4 \p1 \p2 \s1 \k1t1 \k1t1u1 \k1t1u2 \k1t1r3 \k1t1r3u1 \k1t1r3u2 \k1nh \k1nhu1 \k1nhu2 \ch1u1 \ch1u2 \ch1ch1 \ch1ch1u1 \ch1ch1u2 \ch1ch2 \ch1ch2u1 \ch1ch2u2 \ch1ch2r1 \ch1ch2r3 \ch1ch2r3u1 \ch1ch2r3u2 \ch3r1 \th2u1 \th2u2 \th2n1 \th2n1u1 \th2n1u2 \th2m1 \th2m1u1 \th2m1u2 \th3r3 \th3r3u1 \th3r3u2 \th4u1 \th4u2 \th4r1 \th4r2 \th4n1 \th4n1u1 \th4n1u2 \th4m1 \th4m1u1 \th4m1u2 \p4u2 \p4r3 \p4r3u1 \p4r3u2 \z1n1 \z1n1u1 \z1n1u2 \z1m1 \z1m1u1 \z1m1u2 \z1m1r1 \rh_half ] <anchor 860 1080> mark @dotreph;
+  pos base [\k2 \m1r3 \m1r3u1 \m1r3u2 ] <anchor 900 1080> mark @dotreph;
+  pos base [\k3 \ch3 \n1 \l3 \v1 \z1 \n1u1 \n1u2 \n1r1 \n1r2 \n1th3 \n1th3u1 \n1th3u2 \n1th3r1 \m1p1 \m1p1u1 \m1p1u2 \m1p1r1 \z1l3 \z1l3u1 \z1l3u2 \z1z1 \z1z1u1 \z1z1u2 \z1z1r1 \z1z1r3 \z1z1r3u1 \z1z1r3u2 \s1u1 \s1u2 \s1r1 \s1r2 \s1k1 \s1k1u1 \s1k1u2 \s1k1r1 \s1k1k1 \s1k1k1u1 \s1k1k1u2 \s1k1k1r1 \s1k1r3 \s1k1r3u1 \s1k1r3u2 \s1k2 \s1k2u1 \s1k2u2 \s1t1 \s1t1u1 \s1t1u2 \s1t1r3 \s1t1r3u1 \s1t1r3u2 \s1th1 \s1th1u1 \s1th1u2 \s1th1r1 \s1th1r2 \s1th1r3 \s1th1r3u1 \s1n1 \s1n1u1 \s1n1u2 \s1p1 \s1p1u1 \s1p1u2 \s1p1r1 \s1p1r3 \s1p1r3u1 \s1p1r3u2 \s1p2 \s1p2u1 \s1p2u2 \s1m1 \s1m1u1 \s1m1u2 \s1m1r1 \s1l3 \s1l3u1 \s1l3u2 \s1s1 \s1s1u1 \s1s1u2 \s1s1r1 \s1s1r3 \s1s1r3u1 \s1s1r3u2 \s1rhrh \s1rhrhu1 \s1rhrhu2 \s1rhrhr3 \s1rhrhr3u1 \s1rhrhr3u3 ] <anchor 820 1080> mark @dotreph;
+  pos base [\k4 \nj \t3 \t4 \sh \k3th3th4u1 \k3th3th4u2 \k3th3th4r1 \k3n1 \k3n1u1 \ch2u1 \ch2u2 \ch2r3 \ch2r3u1 \ch2r3u2 \ch3u2 \t3u1 \t3u2 \t3r1 \t3t3 \t3t3u1 \t3t3u2 \t3t4 \t3t4u1 \t3t4u2 \t3m1 \t4u1 \t4u2 \t4r1 \th1n1 \th1p4 \th1p4u1 \th1p4u2 \th1m1 \th1m1u1 \th1m1u2 \th1r3 \th1r3u1 \th1r3u2 \th3th4 \th3th4u1 \th3th4u2 \th3th4r1 \th3th4r2 \th3th4n1 \th3th4n1u1 \th3th4n1u2 \th3th4m1 \th3th4m1u1 \th3th4m1u2 \n1th1 \n1th1u1 \n1th1u2 \n1th1r1 \n1th1r2 \n1th3r3 \n1th3r3u1 \n1th3r3u2 \z1r3 \z1r3u1 \z1r3u2 \shu1 \shu2 \shr1 \shk1 \shk1u1 \shk1u2 \shk1r1 \shk1k1 \shk1k1u1 \shk1k1u2 \shk1k1r1 \shk1r3 \shk1r3u1 \shk1r3u2 \sht1 \sht1u1 \sht1u2 \sht1r1 \sht1r2 \sht1r3 \sht1r3u1 \sht1r3u2 \sht2 \sht2u1 \sht2u2 \shnh \shnhu1 \shnhu2 \shp1 \shp1u1 \shp1u2 \shp1r1 \shp1r3 \shp1r3u1 \shp1r3u2 \shp2 \shp2u1 \shp2u2 \shm1 \shm1u1 \shm1u2 \shm1r3 \shm1r3u1 \shm1r3u2 ] <anchor 1080 1080> mark @dotreph;
+  pos base [\ng \ch2 \h1 \h1u1 \h1u2 \h1r1 \h1n1 \h1n1u1 \h1n1u2 \h1m1 \h1m1u1 \h1m1u2 \h1m1r1 ] <anchor 980 1080> mark @dotreph;
+  pos base [\ch4 \njch3 \njch3u1 \njch3u2 ] <anchor 1460 1080> mark @dotreph;
+  pos base [\t1 \th3 \p4 \m1 \r3 \rh \t1u1 \t1u2 \t1r1 \t1t1 \t1t1u1 \t1t1u2 ] <anchor 545 1080> mark @dotreph;
+  pos base [\t2 \t2u1 \t2u2 ] <anchor 600 1080> mark @dotreph;
+  pos base [\nh \p2r3 \p2r3u1 \p2r3u2 ] <anchor 1200 1080> mark @dotreph;
+  pos base [\th1 ] <anchor 836 1080> mark @dotreph;
+  pos base [\p3 \ch2r1 \v1r3 \v1r3u1 \v1r3u2 ] <anchor 920 1080> mark @dotreph;
+  pos base [\y1 \t1r3 \t1r3u1 \t1r3u2 \y1u1 \y1u2 \y1r1 \y1k1 \y1k1u1 \y1k1u2 \y1k1r1 \y1k1k1 \y1k1k1u1 \y1k1k1u2 \y1ch1 \y1ch1u1 \y1ch1u2 \y1th1 \y1th1u1 \y1th1u2 \y1th1r1 \y1th1th1 \y1th1th1u1 \y1th1th1u2 \y1th1th1r1 \y1n1 \y1n1u1 \y1n1u2 \y1p1 \y1p1u1 \y1p1u2 \y1p1r1 \y1m1 \y1m1u1 \y1m1u2 \y1m1r1 \y1y1 \y1y1u1 \y1y1u2 ] <anchor 720 1080> mark @dotreph;
+  pos base [\lh \p4r1 \p4r2 ] <anchor 640 1080> mark @dotreph;
+  pos base [\zh \m1u1 \m1u2 \m1r1 \m1r2 \m1n1 \m1n1u1 \m1n1u2 ] <anchor 580 1080> mark @dotreph;
+  pos base [\k1k1 \k1k1u1 \k1k1u2 \k1k1r1 \njch1 ] <anchor 1230 1080> mark @dotreph;
+  pos base [\k1k1r3 \k1k1r3u1 \k1k1r3u2 \ch4u1 \ch4u2 \ch4r1 \ch4r3 \ch4r3u1 \ch4r3u2 \n1th2 \n1th2u1 \n1th2u2 \n1th2r1 \n1th2r2 ] <anchor 1480 1080> mark @dotreph;
+  pos base [\k1th1 \k1th1u1 \k1th1u2 \k1sh \k1shu1 \k1shu2 \k1shr1 \k1shnh \k1shnhu1 \k1shnhu2 \k1shm1 \k1shm1u1 \k1shm1u2 \k3th3th4r3 \k3th3th4r3u1 \k3th3th4r3u2 \ngng \ngngu1 \ngngu2 \njch2 \t3r3 \t3r3u1 \t3r3u2 \t4r3 \nhu1 \nhu2 \nht1 \nht1u1 \nht1u2 \th3th4r3 \th3th4r3u1 \th3th4r3u2 \n1th1r3 \n1th1r3u1 \n1th1r3u2 ] <anchor 1280 1080> mark @dotreph;
+  pos base [\k3k3 \k3k3u1 \k3k3u2 \lhu1 \lhu2 ] <anchor 680 1080> mark @dotreph;
+  pos base [\k3th3th4 ] <anchor 1090 1080> mark @dotreph;
+  pos base [\ch3u1 \l3u1 \l3u2 \l3r1 \l3k1 \l3k1u1 \l3k1u2 \l3k1r1 \l3k1k1 \l3k1k1u1 \l3k1k1u2 \l3k3 \l3k3u1 \l3k3u2 \l3k3r1 \l3ch1 \l3ch1u1 \l3ch1u2 \l3th1 \l3th1u1 \l3th1u2 \l3th1r1 \l3th1th1 \l3th1th1u1 \l3th1th1u2 \l3p1 \l3p1u1 \l3p1u2 \l3p1r3 \l3p1r3u1 \l3p1r3u2 \l3p2 \l3p2u1 \l3p2u2 \l3p3 \l3p3u1 \l3p3u2 \l3m1 \l3m1u1 \l3m1u2 \l3l3 \l3l3u1 \l3l3u2 \v1u1 \v1u2 \v1r1 \v1l3 \v1l3u1 \v1l3u2 \v1v1 \v1v1u1 \v1v1u2 ] <anchor 840 1080> mark @dotreph;
+  pos base [\ch3ch3 \ch3ch3u1 \ch3ch3u2 \ch3ch3r1 ] <anchor 1500 1080> mark @dotreph;
+  pos base [\ch3nj ] <anchor 2048 1080> mark @dotreph;
+  pos base [\ch3nju1 \ch3nju2 ] <anchor 1780 1080> mark @dotreph;
+  pos base [\ch3r3 \ch3r3u1 \ch3r3u2 ] <anchor 1160 1080> mark @dotreph;
+  pos base [\njch1u1 \njch1u2 \njch1r1 \h1r3 \h1r3u1 \h1r3u2 ] <anchor 1220 1080> mark @dotreph;
+  pos base [\njch2u1 \njch2u2 \njch2r1 ] <anchor 1680 1080> mark @dotreph;
+  pos base [\njnj \njnju1 \njnju2 ] <anchor 1740 1080> mark @dotreph;
+  pos base [\t4r3u1 \t4r3u2 \n1n1r3 \n1n1r3u1 \n1n1r3u2 ] <anchor 1360 1080> mark @dotreph;
+  pos base [\nht1r3 \nht1r3u1 \nht1r3u2 ] <anchor 1560 1080> mark @dotreph;
+  pos base [\nht2 \nhnh \nhnhu1 \nhnhu2 \nhm1 ] <anchor 1260 1080> mark @dotreph;
+  pos base [\nht3 \nht3u1 \nht3u2 \nht3r1 \nht4 \nht4u1 \nht4u2 \nht4r1 ] <anchor 1620 1080> mark @dotreph;
+  pos base [\nht3r3 \nht3r3u1 \nht3r3u2 ] <anchor 1720 1080> mark @dotreph;
+  pos base [\th1u1 \th1u2 \th1r1 \th1r2 ] <anchor 800 1080> mark @dotreph;
+  pos base [\th1th1 \th1th1u1 \th1th1u2 \th1th1r1 \th1th1r2 \th1th1r3 \th1th1r3u1 \th1th1r3u2 \th1s1 \th1s1u1 \th1s1u2 \th1s1th2 \th1s1th2u1 \th1s1th2u2 \th1s1n1 \th1s1n1u1 \th1s1n1u2 \th1s1m1 \th1s1m1u1 \th1s1m1u2 \th1s1m1r1 \n1th4 \n1th4u1 \n1th4u2 \n1th4r1 \n1th4r3 \n1th4r3u1 \n1th4r3u2 ] <anchor 1400 1080> mark @dotreph;
+  pos base [\th1th2 \th1th2u1 \th1th2u2 \th1th2r1 ] <anchor 1420 1080> mark @dotreph;
+  pos base [\th1s1r3 \th1s1r3u1 \th1s1r3u2 ] <anchor 1520 1080> mark @dotreph;
+  pos base [\th3u1 \th3u2 \th3r1 \th3r2 \th3th3 \th3th3u1 \th3th3u2 \th3th3r1 \th3th3r2 \p4u1 ] <anchor 620 1080> mark @dotreph;
+  pos base [\th4r3 \th4r3u1 \th4r3u2 ] <anchor 1040 1080> mark @dotreph;
+  pos base [\n1n1 \n1n1u1 \n1n1u2 \n1n1r1 \s1r3 \s1r3u1 \s1r3u2 ] <anchor 1120 1080> mark @dotreph;
+  pos base [\p1u1 \p1u2 \p1r1 \p1r2 \p1t1 \p1t1u1 \p1t1u2 \p1th1 \p1th1u1 \p1th1u2 \p1th1r1 \p1th1r2 \p1n1 \p1n1u1 \p1n1u2 \p1p1 \p1p1u1 \p1p1u2 \p1p1r1 \p1p2 \p1p2u1 \p1p2u2 \p1r3 \p1r3u1 \p1r3u2 \p1l3 \p1l3u1 \p1l3u2 \p1s1 \p1s1u1 \p1s1u2 \p1s1r1 \p1s1r3 \p1s1r3u1 \p1s1r3u2 \p2u1 \p2u2 \p2k1 \p2k1u1 \p2k1u2 \p2t1 \p2t1u1 \p2t1u2 \p2th1 \p2th1u1 \p2th1u2 \p2th1r1 \p2n1 \p2n1u1 \p2n1u2 \p2p1 \p2p1u1 \p2p1u2 \p2m1 \p2m1u1 \p2m1u2 \h1l3 \h1l3u1 \h1l3u2 \n2 ] <anchor 940 1080> mark @dotreph;
+  pos base [\p2l3 \p2l3u1 \p2l3u2 \p2s1 \p2s1u1 \p2s1u2 \p2s1r1 \p2rhrh \p2rhrhu1 \p2rhrhu2 \p3u1 \p3u2 \p3r1 \p3k3 \p3k3u1 \p3k3u2 \p3k3r1 \p3ch3 \p3ch3u1 \p3ch3u2 \p3ch3r1 \p3th3 \p3th3u1 \p3th3u2 \p3th3r1 \p3th4 \p3th4u1 \p3th4u2 \p3th4r1 \p3th4r2 \p3n1 \p3n1u1 \p3n1u2 \p3p3 \p3p3u1 \p3p3u2 \p3p4 \p3l3 \p3l3u1 \p3l3u2 ] <anchor 960 1080> mark @dotreph;
+  pos base [\p3r3 \p3r3u1 \p3r3u2 \lhlh \lhlhu1 \lhlhu2 ] <anchor 1240 1080> mark @dotreph;
+  pos base [\m1p1r3 \m1p1r3u1 \m1p1r3u2 ] <anchor 1130 1080> mark @dotreph;
+  pos base [\m1m1 \m1m1u1 \m1m1u2 \m1m1r1 ] <anchor 1010 1080> mark @dotreph;
+  pos base [\m1l3 \m1l3u1 \m1l3u2 ] <anchor 590 1080> mark @dotreph;
+  pos base [\r3u1 ] <anchor 828 1080> mark @dotreph;
+  pos base [\r3u2 ] <anchor 1140 1080> mark @dotreph;
+  pos base [\z1u1 \z1u2 \z1r1 ] <anchor 1100 1080> mark @dotreph;
+  pos base [\z1ch1 \z1ch1u1 \z1ch1u2 \z1ch1r1 \z1ch2 \z1ch2u1 \z1ch2u2 \z1ch2r1 ] <anchor 1270 1080> mark @dotreph;
+  pos base [\s1th1r3u2 ] <anchor 819 1080> mark @dotreph;
+  pos base [\s1th2 \s1th2u1 \s1th2u2 \s1th2r1 ] <anchor 1600 1080> mark @dotreph;
+} abvmAboveBaseMarkinMalaylamMala;
+
+feature abvm {
+
+  script mlm2;
+     language dflt ;
+      lookup abvmAboveBaseMarkinMalaylamMala;
+
+  script mlym;
+     language dflt ;
+      lookup abvmAboveBaseMarkinMalaylamMala;
+} abvm;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+@nomark = [  ];
+
+@GDEF_Simple = [\.notdef \.null \nonmarkingreturn \CR \space \exclam \quotedbl 
+	\numbersign \dollar \percent \ampersand \quotesingle \parenleft \parenright 
+	\asterisk \plus \comma \hyphen \period \slash \zero \one \two \three \four \five 
+	\six \seven \eight \nine \colon \semicolon \less \equal \greater \question \at \A \B 
+	\C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash 
+	\bracketright \asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o 
+	\p \q \r \s \t \u \v \w \x \y \z \braceleft \bar \braceright \asciitilde \anusvara 
+	\visarga \ml_a \ml_aa \ml_i \ml_ii \ml_u \ml_uu \ml_r \ml_l \ml_e \ml_ee \ml_ai 
+	\ml_o \ml_oo \ml_au \k1 \k2 \k3 \k4 \ng \ch1 \ch2 \ch3 \ch4 \nj \t1 \t2 \t3 \t4 \nh \th1 
+	\th2 \th3 \th4 \n1 \p1 \p2 \p3 \p4 \m1 \y1 \r3 \rh \l3 \lh \zh \v1 \z1 \sh \s1 \h1 \avagraha 
+	\a2 \i1 \i2 \u1 \u2 \r1 \e1 \e2 \ai1 \o1 \o2 \au1 \xx \au2 \ml_rr \ml_ll \ml_0 \ml_1 \ml_2 
+	\ml_3 \ml_4 \ml_5 \ml_6 \ml_7 \ml_8 \ml_9 \ZWNJ \ZWJ \uni25CC \NULL \rupee \nhcil2 
+	\n1cil2 \r3cil2 \l3cil2 \lhcil2 \k1cil2 \datemark \ml_1000 \l2 \l1 \n2 \r2 \ml_100 
+	\ml_10 \ml_quarter \ml_half \ml_3quarter \rh_half \singlequoteleft 
+	\singlequoteright \doublequoteleft \doublequoteright \endash \emdash \bullet 
+	\zero.old \one.old \two.old \three.old \four.old \five.old \six.old \seven.old 
+	\eight.old \nine.old ];
+@GDEF_Ligature = [\r4 \y2 \y2u1 \y2u2 \v2 \k1cil \nhcil \n1cil \l3cil \lhcil \r3cil 
+	\k1u1 \k1u2 \k1r1 \k1r2 \k1l1 \k1k1 \k1k1u1 \k1k1u2 \k1k1r1 \k1k1r3 \k1k1r3u1 
+	\k1k1r3u2 \k1t1 \k1t1u1 \k1t1u2 \k1t1r3 \k1t1r3u1 \k1t1r3u2 \k1nh \k1nhu1 \k1nhu2 
+	\k1th1 \k1th1u1 \k1th1u2 \k1th1r1 \k1th1r2 \k1th1r3 \k1th1r3u1 \k1th1r3u2 \k1n1 
+	\k1n1u1 \k1n1u2 \k1m1 \k1m1u1 \k1m1u2 \k1r3 \k1r3u1 \k1r3u2 \k1l3 \k1l3u1 \k1l3u2 
+	\k1sh \k1shu1 \k1shu2 \k1shr1 \k1shnh \k1shnhu1 \k1shnhu2 \k1shm1 \k1shm1u1 
+	\k1shm1u2 \k1shm1r1 \k1s1 \k1s1u1 \k1s1u2 \k1s1r1 \k1rhrh \k1rhrhu1 \k1rhrhu2 
+	\k2u1 \k2u2 \k2r1 \k3u1 \k3u2 \k3r1 \k3r2 \k3k3 \k3k3u1 \k3k3u2 \k3k3r1 \k3k4 
+	\k3k4u1 \k3k4u2 \k3k4r1 \k3th3 \k3th3u1 \k3th3u2 \k3th3r1 \k3th3th4 \k3th3th4u1 
+	\k3th3th4u2 \k3th3th4r1 \k3th3th4r3 \k3th3th4r3u1 \k3th3th4r3u2 \k3n1 \k3n1u1 
+	\k3n1u2 \k3m1 \k3m1u1 \k3m1u2 \k3r3 \k3r3u1 \k3r3u2 \k3l3 \k3l3u1 \k3l3u2 \k4u1 
+	\k4u2 \k4r1 \k4r2 \k4n1 \k4n1u1 \k4n1u2 \k4r3 \k4r3u1 \k4r3u2 \ngu1 \ngu2 \ngk1 
+	\ngk1u1 \ngk1u2 \ngk1r1 \ngng \ngngu1 \ngngu2 \ch1u1 \ch1u2 \ch1ch1 \ch1ch1u1 
+	\ch1ch1u2 \ch1ch2 \ch1ch2u1 \ch1ch2u2 \ch1ch2r1 \ch1ch2r3 \ch1ch2r3u1 
+	\ch1ch2r3u2 \ch2u1 \ch2u2 \ch2r1 \ch2r3 \ch2r3u1 \ch2r3u2 \ch3u1 \ch3u2 \ch3r1 
+	\ch3r2 \ch3ch3 \ch3ch3u1 \ch3ch3u2 \ch3ch3r1 \ch3nj \ch3nju1 \ch3nju2 \ch3r3 
+	\ch3r3u1 \ch3r3u2 \ch4u1 \ch4u2 \ch4r1 \ch4r2 \ch4r3 \ch4r3u1 \ch4r3u2 \nju1 \nju2 
+	\njch1 \njch1u1 \njch1u2 \njch1r1 \njch2 \njch2u1 \njch2u2 \njch2r1 \njch3 
+	\njch3u1 \njch3u2 \njnj \njnju1 \njnju2 \t1u1 \t1u2 \t1r1 \t1r2 \t1t1 \t1t1u1 
+	\t1t1u2 \t1r3 \t1r3u1 \t1r3u2 \t2u1 \t2u2 \t3u1 \t3u2 \t3r1 \t3t3 \t3t3u1 \t3t3u2 
+	\t3t4 \t3t4u1 \t3t4u2 \t3m1 \t3m1u1 \t3m1u2 \t3m1r1 \t3r3 \t3r3u1 \t3r3u2 \t4u1 
+	\t4u2 \t4r1 \t4r3 \t4r3u1 \t4r3u2 \nhu1 \nhu2 \nht1 \nht1u1 \nht1u2 \nht1r3 
+	\nht1r3u1 \nht1r3u2 \nht2 \nht3 \nht3u1 \nht3u2 \nht3r1 \nht3r3 \nht3r3u1 
+	\nht3r3u2 \nht4 \nht4u1 \nht4u2 \nht4r1 \nhnh \nhnhu1 \nhnhu2 \nhm1 \nhm1u1 
+	\nhm1u2 \th1u1 \th1u2 \th1r1 \th1r2 \th1th1 \th1th1u1 \th1th1u2 \th1th1r1 
+	\th1th1r2 \th1th1r3 \th1th1r3u1 \th1th1r3u2 \th1th2 \th1th2u1 \th1th2u2 
+	\th1th2r1 \th1n1 \th1p4 \th1p4u1 \th1p4u2 \th1p4r1 \th1m1 \th1m1u1 \th1m1u2 
+	\th1m1r1 \th1r3 \th1r3u1 \th1r3u2 \th1l3 \th1l3u1 \th1l3u2 \th1s1 \th1s1u1 
+	\th1s1u2 \th1s1r1 \th1s1r2 \th1s1th2 \th1s1th2u1 \th1s1th2u2 \th1s1th2r1 
+	\th1s1n1 \th1s1n1u1 \th1s1n1u2 \th1s1m1 \th1s1m1u1 \th1s1m1u2 \th1s1m1r1 
+	\th1s1r3 \th1s1r3u1 \th1s1r3u2 \th2u1 \th2u2 \th2n1 \th2n1u1 \th2n1u2 \th2m1 
+	\th2m1u1 \th2m1u2 \th2m1r1 \th3u1 \th3u2 \th3r1 \th3r2 \th3th3 \th3th3u1 
+	\th3th3u2 \th3th3r1 \th3th3r2 \th3th4 \th3th4u1 \th3th4u2 \th3th4r1 \th3th4r2 
+	\th3th4n1 \th3th4n1u1 \th3th4n1u2 \th3th4m1 \th3th4m1u1 \th3th4m1u2 
+	\th3th4m1r1 \th3th4r3 \th3th4r3u1 \th3th4r3u2 \th3r3 \th3r3u1 \th3r3u2 \th4u1 
+	\th4u2 \th4r1 \th4r2 \th4n1 \th4n1u1 \th4n1u2 \th4m1 \th4m1u1 \th4m1u2 \th4m1r1 
+	\th4r3 \th4r3u1 \th4r3u2 \n1u1 \n1u2 \n1r1 \n1r2 \n1th1 \n1th1u1 \n1th1u2 \n1th1r1 
+	\n1th1r2 \n1th1r3 \n1th1r3u1 \n1th1r3u2 \n1th2 \n1th2u1 \n1th2u2 \n1th2r1 
+	\n1th2r2 \n1th3 \n1th3u1 \n1th3u2 \n1th3r1 \n1th3r3 \n1th3r3u1 \n1th3r3u2 \n1th4 
+	\n1th4u1 \n1th4u2 \n1th4r1 \n1th4r3 \n1th4r3u1 \n1th4r3u2 \n1n1 \n1n1u1 \n1n1u2 
+	\n1n1r1 \n1n1r3 \n1n1r3u1 \n1n1r3u2 \n1m1 \n1m1u1 \n1m1u2 \n1m1r1 \n1m1r3 
+	\n1m1r3u1 \n1m1r3u2 \n1r3 \n1r3u1 \n1r3u2 \n1rh \n1rhu1 \n1rhu2 \p1u1 \p1u2 \p1r1 
+	\p1r2 \p1t1 \p1t1u1 \p1t1u2 \p1th1 \p1th1u1 \p1th1u2 \p1th1r1 \p1th1r2 \p1n1 
+	\p1n1u1 \p1n1u2 \p1p1 \p1p1u1 \p1p1u2 \p1p1r1 \p1p2 \p1p2u1 \p1p2u2 \p1r3 \p1r3u1 
+	\p1r3u2 \p1l3 \p1l3u1 \p1l3u2 \p1s1 \p1s1u1 \p1s1u2 \p1s1r1 \p1s1r3 \p1s1r3u1 
+	\p1s1r3u2 \p2u1 \p2u2 \p2k1 \p2k1u1 \p2k1u2 \p2t1 \p2t1u1 \p2t1u2 \p2th1 \p2th1u1 
+	\p2th1u2 \p2th1r1 \p2n1 \p2n1u1 \p2n1u2 \p2p1 \p2p1u1 \p2p1u2 \p2m1 \p2m1u1 
+	\p2m1u2 \p2r3 \p2r3u1 \p2r3u2 \p2l3 \p2l3u1 \p2l3u2 \p2s1 \p2s1u1 \p2s1u2 \p2s1r1 
+	\p2rhrh \p2rhrhu1 \p2rhrhu2 \p3u1 \p3u2 \p3r1 \p3k3 \p3k3u1 \p3k3u2 \p3k3r1 \p3ch3 
+	\p3ch3u1 \p3ch3u2 \p3ch3r1 \p3th3 \p3th3u1 \p3th3u2 \p3th3r1 \p3th4 \p3th4u1 
+	\p3th4u2 \p3th4r1 \p3th4r2 \p3n1 \p3n1u1 \p3n1u2 \p3p3 \p3p3u1 \p3p3u2 \p3p4 \p3r3 
+	\p3r3u1 \p3r3u2 \p3l3 \p3l3u1 \p3l3u2 \p4u1 \p4u2 \p4r1 \p4r2 \p4r3 \p4r3u1 \p4r3u2 
+	\m1u1 \m1u2 \m1r1 \m1r2 \m1n1 \m1n1u1 \m1n1u2 \m1p1 \m1p1u1 \m1p1u2 \m1p1r1 \m1p1r3 
+	\m1p1r3u1 \m1p1r3u2 \m1m1 \m1m1u1 \m1m1u2 \m1m1r1 \m1r3 \m1r3u1 \m1r3u2 \m1l3 
+	\m1l3u1 \m1l3u2 \y1u1 \y1u2 \y1r1 \y1k1 \y1k1u1 \y1k1u2 \y1k1r1 \y1k1k1 \y1k1k1u1 
+	\y1k1k1u2 \y1ch1 \y1ch1u1 \y1ch1u2 \y1th1 \y1th1u1 \y1th1u2 \y1th1r1 \y1th1th1 
+	\y1th1th1u1 \y1th1th1u2 \y1th1th1r1 \y1n1 \y1n1u1 \y1n1u2 \y1p1 \y1p1u1 \y1p1u2 
+	\y1p1r1 \y1m1 \y1m1u1 \y1m1u2 \y1m1r1 \y1y1 \y1y1u1 \y1y1u2 \r3u1 \r3u2 \r3r1 \l3u1 
+	\l3u2 \l3r1 \l3k1 \l3k1u1 \l3k1u2 \l3k1r1 \l3k1k1 \l3k1k1u1 \l3k1k1u2 \l3k3 
+	\l3k3u1 \l3k3u2 \l3k3r1 \l3ch1 \l3ch1u1 \l3ch1u2 \l3th1 \l3th1u1 \l3th1u2 
+	\l3th1r1 \l3th1th1 \l3th1th1u1 \l3th1th1u2 \l3p1 \l3p1u1 \l3p1u2 \l3p1r3 
+	\l3p1r3u1 \l3p1r3u2 \l3p2 \l3p2u1 \l3p2u2 \l3p3 \l3p3u1 \l3p3u2 \l3m1 \l3m1u1 
+	\l3m1u2 \l3l3 \l3l3u1 \l3l3u2 \v1u1 \v1u2 \v1r1 \v1r3 \v1r3u1 \v1r3u2 \v1l3 \v1l3u1 
+	\v1l3u2 \v1v1 \v1v1u1 \v1v1u2 \z1u1 \z1u2 \z1r1 \z1ch1 \z1ch1u1 \z1ch1u2 \z1ch1r1 
+	\z1ch2 \z1ch2u1 \z1ch2u2 \z1ch2r1 \z1n1 \z1n1u1 \z1n1u2 \z1m1 \z1m1u1 \z1m1u2 
+	\z1m1r1 \z1r3 \z1r3u1 \z1r3u2 \z1l3 \z1l3u1 \z1l3u2 \z1z1 \z1z1u1 \z1z1u2 \z1z1r1 
+	\z1z1r3 \z1z1r3u1 \z1z1r3u2 \shu1 \shu2 \shr1 \shk1 \shk1u1 \shk1u2 \shk1r1 
+	\shk1k1 \shk1k1u1 \shk1k1u2 \shk1k1r1 \shk1r3 \shk1r3u1 \shk1r3u2 \sht1 \sht1u1 
+	\sht1u2 \sht1r1 \sht1r2 \sht1r3 \sht1r3u1 \sht1r3u2 \sht2 \sht2u1 \sht2u2 \shnh 
+	\shnhu1 \shnhu2 \shp1 \shp1u1 \shp1u2 \shp1r1 \shp1r3 \shp1r3u1 \shp1r3u2 \shp2 
+	\shp2u1 \shp2u2 \shm1 \shm1u1 \shm1u2 \shm1r3 \shm1r3u1 \shm1r3u2 \s1u1 \s1u2 
+	\s1r1 \s1r2 \s1k1 \s1k1u1 \s1k1u2 \s1k1r1 \s1k1k1 \s1k1k1u1 \s1k1k1u2 \s1k1k1r1 
+	\s1k1r3 \s1k1r3u1 \s1k1r3u2 \s1k2 \s1k2u1 \s1k2u2 \s1t1 \s1t1u1 \s1t1u2 \s1t1r3 
+	\s1t1r3u1 \s1t1r3u2 \s1th1 \s1th1u1 \s1th1u2 \s1th1r1 \s1th1r2 \s1th1r3 
+	\s1th1r3u1 \s1th1r3u2 \s1th2 \s1th2u1 \s1th2u2 \s1th2r1 \s1n1 \s1n1u1 \s1n1u2 
+	\s1p1 \s1p1u1 \s1p1u2 \s1p1r1 \s1p1r3 \s1p1r3u1 \s1p1r3u2 \s1p2 \s1p2u1 \s1p2u2 
+	\s1m1 \s1m1u1 \s1m1u2 \s1m1r1 \s1r3 \s1r3u1 \s1r3u2 \s1l3 \s1l3u1 \s1l3u2 \s1s1 
+	\s1s1u1 \s1s1u2 \s1s1r1 \s1s1r3 \s1s1r3u1 \s1s1r3u2 \s1rhrh \s1rhrhu1 \s1rhrhu2 
+	\s1rhrhr3 \s1rhrhr3u1 \s1rhrhr3u3 \h1u1 \h1u2 \h1r1 \h1n1 \h1n1u1 \h1n1u2 \h1m1 
+	\h1m1u1 \h1m1u2 \h1m1r1 \h1r3 \h1r3u1 \h1r3u2 \h1l3 \h1l3u1 \h1l3u2 \lhu1 \lhu2 
+	\lhlh \lhlhu1 \lhlhu2 \zhu1 \zhu2 \zhk1 \zhk1u1 \zhk1u2 \zhk1k1 \zhk1k1u1 
+	\zhk1k1u2 \zhch1 \zhch1u1 \zhch1u2 \zhth1 \zhth1u1 \zhth1u2 \zhth1th1 
+	\zhth1th1u1 \zhth1th1u2 \zhn1 \zhn1u1 \zhn1u2 \zhn1n1 \zhn1n1u1 \zhn1n1u2 \zhp1 
+	\zhp1u1 \zhp1u2 \zhm1 \zhm1u1 \zhm1u2 \zhv1 \zhv1u1 \zhv1u2 \zhs1 \zhs1u1 \zhs1u2 
+	\rhu1 \rhu2 \rhrh \rhrhu1 \rhrhu2 \l4 \k1xx \k2xx \k3xx \k4xx \ngxx \ch1xx \ch2xx 
+	\ch3xx \ch4xx \njxx \t1xx \t2xx \t3xx \t4xx \nhxx \th1xx \th2xx \th3xx \th4xx \n1xx 
+	\p1xx \p2xx \p3xx \p4xx \m1xx \y1xx \r3xx \rhxx \l3xx \lhxx \zhxx \v1xx \z1xx \shxx 
+	\s1xx \h1xx \aam \s1p1l3 \ch3m1 \b3k3r3 \y1ch1ch1 \l3ch1ch1 \zhch1ch1 ];
+@GDEF_Mark = [\dotreph ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+

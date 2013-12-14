@@ -11,6 +11,7 @@ all: clean compile test webfonts
 compile:
 # generate ttf files from sfd files
 	@for font in `echo ${fonts}`;do \
+		tools/apply_featurefile.py  $${font}/$${font}.sfd  $${font}/$${font}.fea;\
 		./generate.pe $${font}/$${font}.sfd; \
 	done;
 

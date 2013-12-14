@@ -1,0 +1,589 @@
+
+# GSUB 
+
+
+lookup akhnAkhandinMalaylamlookup0 {
+  lookupflag 0;
+    sub \uni0D15 \uni0D4D \ZWJ  by \uni0D15.cil;
+    sub \uni0D23 \uni0D4D \ZWJ  by \uni0D23.cil;
+    sub \uni0D28 \uni0D4D \ZWJ  by \uni0D28.cil;
+    sub \uni0D30 \uni0D4D \ZWJ  by \uni0D30.cil;
+    sub \uni0D32 \uni0D4D \ZWJ  by \uni0D32.cil;
+    sub \uni0D33 \uni0D4D \ZWJ  by \uni0D33.cil;
+    sub \uni0D15 \uni0D4D \uni0D37  by \glyph142;
+    sub \uni0D1C \uni0D4D \uni0D1E  by \glyph143;
+    sub \uni0D15 \uni0D4D \uni0D15  by \glyph144;
+    sub \uni0D19 \uni0D4D \uni0D15  by \glyph145;
+    sub \uni0D1F \uni0D4D \uni0D1F  by \glyph146;
+    sub \uni0D26 \uni0D4D \uni0D26  by \glyph147;
+    sub \uni0D19 \uni0D4D \uni0D19  by \glyph148;
+    sub \uni0D1E \uni0D4D \uni0D1E  by \glyph155;
+    sub \uni0D1E \uni0D4D \uni0D1A  by \glyph156;
+    sub \uni0D1E \uni0D4D \uni0D1B  by \glyph157;
+    sub \uni0D23 \uni0D4D \uni0D21  by \glyph159;
+    sub \uni0D23 \uni0D4D \uni0D1F  by \glyph160;
+    sub \uni0D24 \uni0D4D \uni0D24  by \glyph161;
+    sub \uni0D24 \uni0D4D \uni0D38  by \glyph162;
+    sub \uni0D24 \uni0D4D \uni0D25  by \glyph163;
+    sub \uni0D24 \uni0D4D \uni0D2E  by \glyph164;
+    sub \uni0D24 \uni0D4D \uni0D2D  by \glyph165;
+    sub \uni0D24 \uni0D4D \uni0D28  by \glyph166;
+    sub \uni0D26 \uni0D4D \uni0D27  by \glyph167;
+    sub \uni0D28 \uni0D4D \uni0D28  by \glyph168;
+    sub \uni0D28 \uni0D4D \uni0D26  by \glyph169;
+    sub \uni0D28 \uni0D4D \uni0D24  by \glyph170;
+    sub \uni0D28 \uni0D4D \uni0D27  by \glyph171;
+    sub \uni0D28 \uni0D4D \uni0D2E  by \glyph172;
+    sub \uni0D28 \uni0D4D \uni0D25  by \glyph173;
+    sub \uni0D2E \uni0D4D \uni0D2E  by \glyph174;
+    sub \uni0D2E \uni0D4D \uni0D2A  by \glyph175;
+    sub \uni0D36 \uni0D4D \uni0D1A  by \glyph176;
+    sub \uni0D38 \uni0D4D \uni0D25  by \glyph177;
+    sub \uni0D39 \uni0D4D \uni0D28  by \glyph178;
+    sub \uni0D39 \uni0D4D \uni0D2E  by \glyph179;
+    sub \uni0D33 \uni0D4D \uni0D33  by \uni0D33_uni0D33;
+    sub \uni0D18 \uni0D4D \uni0D28  by \uni0D18_uni0D28;
+    sub \uni0D17 \uni0D4D \uni0D17  by \uni0D17_uni0D17;
+    sub \glyph142 \uni0D4D \uni0D2E  by \glyph142_uni0D2E;
+    sub \uni0D1A \uni0D4D \uni0D1A  by \uni0D1A_glyph133;
+    sub \uni0D1A \uni0D4D \uni0D1B  by \uni0D1A_uni0D1B;
+    sub \uni0D21 \uni0D4D \uni0D21  by \uni0D21_uni0D21;
+    sub \uni0D21 \uni0D4D \uni0D22  by \uni0D21_uni0D22;
+    sub \uni0D23 \uni0D4D \uni0D23  by \uni0D23_uni0D23;
+    sub \uni0D23 \uni0D4D \uni0D20  by \uni0D23_uni0D20;
+    sub \uni0D2A \uni0D4D \uni0D2A  by \glyph196;
+    sub \uni0D2C \uni0D4D \uni0D2C  by \uni0D2C_glyph133;
+    sub \uni0D31 \uni0D4D \uni0D31  by \uni0D31_uni0D31;
+    sub \uni0D36 \uni0D4D \uni0D36  by \uni0D36_uni0D36;
+    sub \uni0D28 \uni0D4D \uni0D31  by \uni0D28.cil_uni0D31;
+    sub \uni25CC \uni0D3E \uni0D02  by \aam;
+} akhnAkhandinMalaylamlookup0;
+
+lookup akhnAkhandinMalaylam2lookup0 {
+  lookupflag 0;
+    sub \uni0D15 \uni0D4D \ZWJ  by \uni0D15.cil;
+    sub \uni0D23 \uni0D4D \ZWJ  by \uni0D23.cil;
+    sub \uni0D28 \uni0D4D \ZWJ  by \uni0D28.cil;
+    sub \uni0D30 \uni0D4D \ZWJ  by \uni0D30.cil;
+    sub \uni0D32 \uni0D4D \ZWJ  by \uni0D32.cil;
+    sub \uni0D33 \uni0D4D \ZWJ  by \uni0D33.cil;
+    sub \uni0D15 \uni0D4D \uni0D37  by \glyph142;
+    sub \uni0D1C \uni0D4D \uni0D1E  by \glyph143;
+    sub \uni0D15 \uni0D4D \uni0D15  by \glyph144;
+    sub \uni0D19 \uni0D4D \uni0D15  by \glyph145;
+    sub \uni0D1F \uni0D4D \uni0D1F  by \glyph146;
+    sub \uni0D26 \uni0D4D \uni0D26  by \glyph147;
+    sub \uni0D19 \uni0D4D \uni0D19  by \glyph148;
+    sub \uni0D15 \uni0D4D \uni0D24  by \glyph149;
+    sub \uni0D17 \uni0D4D \uni0D2E  by \glyph150;
+    sub \uni0D17 \uni0D4D \glyph167  by \glyph151;
+    sub \uni0D17 \uni0D4D \uni0D28  by \glyph152;
+    sub \uni0D1C \uni0D4D \uni0D1C  by \glyph153;
+    sub \uni0D1E \uni0D4D \uni0D1C  by \glyph154;
+    sub \uni0D1E \uni0D4D \uni0D1E  by \glyph155;
+    sub \uni0D1E \uni0D4D \uni0D1A  by \glyph156;
+    sub \uni0D1E \uni0D4D \uni0D1B  by \glyph157;
+    sub \uni0D23 \uni0D4D \uni0D2E  by \glyph158;
+    sub \uni0D23 \uni0D4D \uni0D21  by \glyph159;
+    sub \uni0D23 \uni0D4D \uni0D1F  by \glyph160;
+    sub \uni0D24 \uni0D4D \uni0D24  by \glyph161;
+    sub \uni0D24 \uni0D4D \uni0D38  by \glyph162;
+    sub \uni0D24 \uni0D4D \uni0D25  by \glyph163;
+    sub \uni0D24 \uni0D4D \uni0D2E  by \glyph164;
+    sub \uni0D24 \uni0D4D \uni0D2D  by \glyph165;
+    sub \uni0D24 \uni0D4D \uni0D28  by \glyph166;
+    sub \uni0D26 \uni0D4D \uni0D27  by \glyph167;
+    sub \uni0D28 \uni0D4D \uni0D28  by \glyph168;
+    sub \uni0D28 \uni0D4D \uni0D26  by \glyph169;
+    sub \uni0D28 \uni0D4D \uni0D24  by \glyph170;
+    sub \uni0D28 \uni0D4D \uni0D27  by \glyph171;
+    sub \uni0D28 \uni0D4D \uni0D2E  by \glyph172;
+    sub \uni0D28 \uni0D4D \uni0D25  by \glyph173;
+    sub \uni0D2E \uni0D4D \uni0D2E  by \glyph174;
+    sub \uni0D2E \uni0D4D \uni0D2A  by \glyph175;
+    sub \uni0D36 \uni0D4D \uni0D1A  by \glyph176;
+    sub \uni0D38 \uni0D4D \uni0D25  by \glyph177;
+    sub \uni0D39 \uni0D4D \uni0D28  by \glyph178;
+    sub \uni0D39 \uni0D4D \uni0D2E  by \glyph179;
+    sub \uni0D33 \uni0D4D \uni0D33  by \uni0D33_uni0D33;
+    sub \uni0D15 \uni0D4D \uni0D38  by \uni0D15_uni0D38;
+    sub \uni0D15 \uni0D4D \uni0D1F  by \uni0D15_uni0D1F;
+    sub \uni0D18 \uni0D4D \uni0D28  by \uni0D18_uni0D28;
+    sub \uni0D17 \uni0D4D \uni0D17  by \uni0D17_uni0D17;
+    sub \glyph142 \uni0D4D \uni0D2E  by \glyph142_uni0D2E;
+    sub \uni0D1A \uni0D4D \uni0D1A  by \uni0D1A_glyph133;
+    sub \uni0D1A \uni0D4D \uni0D1B  by \uni0D1A_uni0D1B;
+    sub \uni0D21 \uni0D4D \uni0D21  by \uni0D21_uni0D21;
+    sub \uni0D21 \uni0D4D \uni0D22  by \uni0D21_uni0D22;
+    sub \uni0D21 \uni0D4D \uni0D1C  by \uni0D21_uni0D1C;
+    sub \uni0D23 \uni0D4D \uni0D23  by \uni0D23_uni0D23;
+    sub \uni0D23 \uni0D4D \uni0D20  by \uni0D23_uni0D20;
+    sub \uni0D2A \uni0D4D \uni0D2A  by \glyph196;
+    sub \uni0D2A \uni0D4D \uni0D28  by \uni0D2A_uni0D28;
+    sub \uni0D2A \uni0D4D \uni0D38  by \uni0D2A_uni0D38;
+    sub \uni0D2A \uni0D4D \uni0D24  by \uni0D2A_uni0D24;
+    sub \uni0D2C \uni0D4D \uni0D2C  by \uni0D2C_glyph133;
+    sub \uni0D2C \uni0D4D \uni0D26  by \uni0D2C_uni0D26;
+    sub \uni0D2C \uni0D4D \uni0D27  by \uni0D2C_uni0D27;
+    sub \uni0D2C \uni0D4D \uni0D15  by \uni0D2C_uni0D15;
+    sub \uni0D2B \uni0D4D \uni0D15  by \uni0D2B_uni0D15;
+    sub \uni0D2B \uni0D4D \uni0D24  by \uni0D2B_uni0D24;
+    sub \uni0D2E \uni0D4D \uni0D28  by \uni0D2E_uni0D28;
+    sub \uni0D2F \uni0D4D \uni0D2F  by \uni0D2F_glyph133;
+    sub \uni0D2F \uni0D4D \uni0D2E  by \uni0D2F_uni0D2E;
+    sub \uni0D2F \uni0D4D \uni0D2A  by \uni0D2F_uni0D2A;
+    sub \uni0D2F \uni0D4D \uni0D15  by \uni0D2F_uni0D15;
+    sub \uni0D2F \uni0D4D \glyph144  by \uni0D2F_glyph144;
+    sub \uni0D2F \uni0D4D \uni0D24  by \uni0D2F_uni0D24;
+    sub \uni0D2F \uni0D4D \glyph161  by \uni0D2F_glyph161;
+    sub \uni0D31 \uni0D4D \uni0D31  by \uni0D31_uni0D31;
+    sub \uni0D32 \uni0D4D \uni0D32  by \uni0D32_uni0D32.bb;
+    sub \uni0D32 \uni0D4D \uni0D2A  by \uni0D32_uni0D2A;
+    sub \uni0D32 \uni0D4D \uni0D15  by \uni0D32_uni0D15;
+    sub \uni0D32 \uni0D4D \uni0D2E  by \uni0D32_uni0D2E;
+    sub \uni0D35 \uni0D4D \uni0D35  by \uni0D35_glyph133;
+    sub \uni0D36 \uni0D4D \uni0D36  by \uni0D36_uni0D36;
+    sub \uni0D36 \uni0D4D \uni0D28  by \uni0D36_uni0D28;
+    sub \uni0D36 \uni0D4D \uni0D2E  by \uni0D36_uni0D2E;
+    sub \uni0D37 \uni0D4D \uni0D2A  by \uni0D37_uni0D2A;
+    sub \uni0D37 \uni0D4D \uni0D15  by \uni0D37_uni0D15;
+    sub \uni0D37 \uni0D4D \uni0D23  by \uni0D37_uni0D23;
+    sub \uni0D37 \uni0D4D \uni0D1F  by \uni0D37_uni0D1F;
+    sub \uni0D37 \uni0D4D \uni0D20  by \uni0D37_uni0D20;
+    sub \uni0D37 \uni0D4D \uni0D2E  by \uni0D37_uni0D2E;
+    sub \uni0D37 \uni0D4D \uni0D2B  by \uni0D37_uni0D2B;
+    sub \uni0D37 \uni0D4D \uni0D24  by \uni0D37_uni0D24;
+    sub \uni0D37 \uni0D4D \uni0D28  by \uni0D37_uni0D28;
+    sub \uni0D38 \uni0D4D \uni0D38  by \uni0D38_uni0D38;
+    sub \uni0D38 \uni0D4D \uni0D31_uni0D31  by \uni0D38_uni0D31_uni0D31;
+    sub \uni0D38 \uni0D4D \uni0D2A  by \uni0D38_uni0D2A;
+    sub \uni0D38 \uni0D4D \uni0D24  by \uni0D38_uni0D24;
+    sub \uni0D38 \uni0D4D \uni0D15  by \uni0D38_uni0D15;
+    sub \uni0D38 \uni0D4D \uni0D28  by \uni0D38_uni0D28;
+    sub \uni0D38 \uni0D4D \uni0D2E  by \uni0D38_uni0D2E;
+    sub \uni0D34 \uni0D4D \uni0D24  by \uni0D34_uni0D24;
+    sub \uni0D34 \uni0D4D \uni0D15  by \uni0D34_uni0D15;
+    sub \uni0D34 \uni0D4D \uni0D2E  by \uni0D34_uni0D2E;
+    sub \uni0D28 \uni0D4D \uni0D31  by \uni0D28.cil_uni0D31;
+    sub \uni25CC \uni0D3E \uni0D02  by \aam;
+} akhnAkhandinMalaylam2lookup0;
+
+lookup prefPreBaseFormsinMalaylam2look {
+  lookupflag 0;
+    sub \uni0D4D \uni0D30  by \uni0D30.pb;
+} prefPreBaseFormsinMalaylam2look;
+
+lookup blwfBelowBaseFormsinMalaylamloo {
+  lookupflag 0;
+    sub \uni0D32 \uni0D4D  by \uni0D32.bb;
+} blwfBelowBaseFormsinMalaylamloo;
+
+lookup blwfBelowBaseFormsinMalaylam2lo {
+  lookupflag 0;
+    sub \uni0D4D \uni0D32  by \uni0D32.bb;
+} blwfBelowBaseFormsinMalaylam2lo;
+
+lookup pstfPostBaseFormsinMalaylamlook {
+  lookupflag 0;
+    sub \uni0D2F \uni0D4D  by \uni0D2F.pb;
+    sub \uni0D30 \uni0D4D  by \uni0D30.pb;
+    sub \uni0D35 \uni0D4D  by \uni0D35.pb;
+    sub \uni0D41 \uni0D4D  by \uni0D41_uni0D4D;
+} pstfPostBaseFormsinMalaylamlook;
+
+lookup pstfPostBaseFormsinMalaylam2loo {
+  lookupflag 0;
+    sub \uni0D4D \uni0D2F  by \uni0D2F.pb;
+    sub \uni0D4D \uni0D35  by \uni0D35.pb;
+} pstfPostBaseFormsinMalaylam2loo;
+
+lookup blwsBelowBaseSubstitutionsinMal {
+  lookupflag 0;
+    sub \uni0D15 \uni0D32.bb  by \uni0D15_uni0D32.bb;
+    sub \uni0D17 \uni0D32.bb  by \uni0D17_uni0D32.bb;
+    sub \uni0D24 \uni0D32.bb  by \uni0D24_uni0D32.bb;
+    sub \uni0D2A \uni0D32.bb  by \uni0D2A_uni0D32.bb;
+    sub \uni0D2C \uni0D32.bb  by \uni0D2C_uni0D32.bb;
+    sub \uni0D2B \uni0D32.bb  by \uni0D2B_uni0D32.bb;
+    sub \uni0D2E \uni0D32.bb  by \uni0D2E_uni0D32.bb;
+    sub \uni0D32 \uni0D32.bb  by \uni0D32_uni0D32.bb;
+    sub \uni0D35 \uni0D32.bb  by \uni0D35_uni0D32.bb;
+    sub \uni0D36 \uni0D32.bb  by \uni0D36_uni0D32.bb;
+    sub \uni0D38 \uni0D32.bb  by \uni0D38_uni0D32.bb;
+    sub \uni0D39 \uni0D32.bb  by \uni0D39_uni0D32.bb;
+} blwsBelowBaseSubstitutionsinMal;
+
+lookup halfHalfFormsinMalaylamlookup5 {
+  lookupflag 0;
+    sub \uni0D15 \uni0D4D \ZWJ  by \uni0D15.cil;
+    sub \uni0D23 \uni0D4D \ZWJ  by \uni0D23.cil;
+    sub \uni0D28 \uni0D4D \ZWJ  by \uni0D28.cil;
+    sub \uni0D30 \uni0D4D \ZWJ  by \uni0D30.cil;
+    sub \uni0D32 \uni0D4D \ZWJ  by \uni0D32.cil;
+    sub \uni0D33 \uni0D4D \ZWJ  by \uni0D33.cil;
+    sub \uni0D15 \uni0D4D  by \uni0D15_uni0D4D;
+    sub \uni0D16 \uni0D4D  by \uni0D16_uni0D4D;
+    sub \uni0D17 \uni0D4D  by \uni0D17_uni0D4D;
+    sub \uni0D18 \uni0D4D  by \uni0D18_uni0D4D;
+    sub \uni0D19 \uni0D4D  by \uni0D19_uni0D4D;
+    sub \uni0D1A \uni0D4D  by \uni0D1A_uni0D4D;
+    sub \uni0D1B \uni0D4D  by \uni0D1B_uni0D4D;
+    sub \uni0D1C \uni0D4D  by \uni0D1C_uni0D4D;
+    sub \uni0D1D \uni0D4D  by \uni0D1D_uni0D4D;
+    sub \uni0D1E \uni0D4D  by \uni0D1E_uni0D4D;
+    sub \uni0D1F \uni0D4D  by \uni0D1F_uni0D4D;
+    sub \uni0D20 \uni0D4D  by \uni0D20_uni0D4D;
+    sub \uni0D21 \uni0D4D  by \uni0D21_uni0D4D;
+    sub \uni0D22 \uni0D4D  by \uni0D22_uni0D4D;
+    sub \uni0D23 \uni0D4D  by \uni0D23_uni0D4D;
+    sub \uni0D24 \uni0D4D  by \uni0D24_uni0D4D;
+    sub \uni0D25 \uni0D4D  by \uni0D25_uni0D4D;
+    sub \uni0D26 \uni0D4D  by \uni0D26_uni0D4D;
+    sub \uni0D27 \uni0D4D  by \uni0D27_uni0D4D;
+    sub \uni0D28 \uni0D4D  by \uni0D28_uni0D4D;
+    sub \uni0D2A \uni0D4D  by \uni0D2A_uni0D4D;
+    sub \uni0D2B \uni0D4D  by \uni0D2B_uni0D4D;
+    sub \uni0D2C \uni0D4D  by \uni0D2C_uni0D4D;
+    sub \uni0D2D \uni0D4D  by \uni0D2D_uni0D4D;
+    sub \uni0D2E \uni0D4D  by \uni0D2E_uni0D4D;
+    sub \uni0D2F \uni0D4D  by \uni0D2F_uni0D4D;
+    sub \uni0D30 \uni0D4D  by \uni0D30_uni0D4D;
+    sub \uni0D31 \uni0D4D  by \uni0D31_uni0D4D;
+    sub \uni0D32 \uni0D4D  by \uni0D32_uni0D4D;
+    sub \uni0D33 \uni0D4D  by \uni0D33_uni0D4D;
+    sub \uni0D34 \uni0D4D  by \uni0D34_uni0D4D;
+    sub \uni0D35 \uni0D4D  by \uni0D35_uni0D4D;
+    sub \uni0D36 \uni0D4D  by \uni0D36_uni0D4D;
+    sub \uni0D37 \uni0D4D  by \uni0D37_uni0D4D;
+    sub \uni0D38 \uni0D4D  by \uni0D38_uni0D4D;
+    sub \uni0D39 \uni0D4D  by \uni0D39_uni0D4D;
+    sub \uni0D31_uni0D31 \uni0D4D  by \uni0D31_uni0D31_uni0D4D;
+} halfHalfFormsinMalaylamlookup5;
+
+lookup halnHalantFormsinMalaylamlookup {
+  lookupflag 0;
+    sub \uni0D15 \uni0D4D \ZWJ  by \uni0D15.cil;
+    sub \uni0D23 \uni0D4D \ZWJ  by \uni0D23.cil;
+    sub \uni0D28 \uni0D4D \ZWJ  by \uni0D28.cil;
+    sub \uni0D30 \uni0D4D \ZWJ  by \uni0D30.cil;
+    sub \uni0D32 \uni0D4D \ZWJ  by \uni0D32.cil;
+    sub \uni0D33 \uni0D4D \ZWJ  by \uni0D33.cil;
+} halnHalantFormsinMalaylamlookup;
+
+lookup presPreBaseSubstitutionsinMalay {
+  lookupflag 0;
+    sub \uni0D15_uni0D4D \uni0D24  by \glyph149;
+    sub \uni0D17_uni0D4D \uni0D2E  by \glyph150;
+    sub \uni0D17_uni0D4D \glyph167  by \glyph151;
+    sub \uni0D17_uni0D4D \uni0D28  by \glyph152;
+    sub \uni0D1C_uni0D4D \uni0D1C  by \glyph153;
+    sub \uni0D1E_uni0D4D \uni0D1C  by \glyph154;
+    sub \uni0D23_uni0D4D \uni0D2E  by \glyph158;
+    sub \uni0D15_uni0D4D \uni0D32  by \uni0D15_uni0D32.bb;
+    sub \uni0D15_uni0D4D \uni0D38  by \uni0D15_uni0D38;
+    sub \uni0D15_uni0D4D \uni0D1F  by \uni0D15_uni0D1F;
+    sub \uni0D17_uni0D4D \uni0D32  by \uni0D17_uni0D32.bb;
+    sub \uni0D21_uni0D4D \uni0D1C  by \uni0D21_uni0D1C;
+    sub \uni0D24_uni0D4D \uni0D32  by \uni0D24_uni0D32.bb;
+    sub \uni0D2A_uni0D4D \uni0D28  by \uni0D2A_uni0D28;
+    sub \uni0D2A_uni0D4D \uni0D32  by \uni0D2A_uni0D32.bb;
+    sub \uni0D2A_uni0D4D \uni0D38  by \uni0D2A_uni0D38;
+    sub \uni0D2A_uni0D4D \uni0D24  by \uni0D2A_uni0D24;
+    sub \uni0D2C_uni0D4D \uni0D32  by \uni0D2C_uni0D32.bb;
+    sub \uni0D2C_uni0D4D \uni0D26  by \uni0D2C_uni0D26;
+    sub \uni0D2C_uni0D4D \uni0D27  by \uni0D2C_uni0D27;
+    sub \uni0D2C_uni0D4D \uni0D15  by \uni0D2C_uni0D15;
+    sub \uni0D2B_uni0D4D \uni0D32  by \uni0D2B_uni0D32.bb;
+    sub \uni0D2B_uni0D4D \uni0D15  by \uni0D2B_uni0D15;
+    sub \uni0D2B_uni0D4D \uni0D24  by \uni0D2B_uni0D24;
+    sub \uni0D2E_uni0D4D \uni0D32  by \uni0D2E_uni0D32.bb;
+    sub \uni0D2E_uni0D4D \uni0D28  by \uni0D2E_uni0D28;
+    sub \uni0D2F_uni0D4D \uni0D2E  by \uni0D2F_uni0D2E;
+    sub \uni0D2F_uni0D4D \uni0D2A  by \uni0D2F_uni0D2A;
+    sub \uni0D2F_uni0D4D \uni0D15  by \uni0D2F_uni0D15;
+    sub \uni0D2F_uni0D4D \glyph144  by \uni0D2F_glyph144;
+    sub \uni0D2F_uni0D4D \uni0D24  by \uni0D2F_uni0D24;
+    sub \uni0D2F_uni0D4D \glyph161  by \uni0D2F_glyph161;
+    sub \uni0D32_uni0D4D \uni0D32  by \uni0D32_uni0D32.bb;
+    sub \uni0D32_uni0D4D \uni0D2A  by \uni0D32_uni0D2A;
+    sub \uni0D32_uni0D4D \uni0D15  by \uni0D32_uni0D15;
+    sub \uni0D32_uni0D4D \uni0D2E  by \uni0D32_uni0D2E;
+    sub \uni0D35_uni0D4D \uni0D32  by \uni0D35_uni0D32.bb;
+    sub \uni0D36_uni0D4D \uni0D32  by \uni0D36_uni0D32.bb;
+    sub \uni0D36_uni0D4D \uni0D28  by \uni0D36_uni0D28;
+    sub \uni0D36_uni0D4D \uni0D2E  by \uni0D36_uni0D2E;
+    sub \uni0D37_uni0D4D \uni0D2A  by \uni0D37_uni0D2A;
+    sub \uni0D37_uni0D4D \uni0D15  by \uni0D37_uni0D15;
+    sub \uni0D37_uni0D4D \uni0D23  by \uni0D37_uni0D23;
+    sub \uni0D37_uni0D4D \uni0D1F  by \uni0D37_uni0D1F;
+    sub \uni0D37_uni0D4D \uni0D20  by \uni0D37_uni0D20;
+    sub \uni0D37_uni0D4D \uni0D2E  by \uni0D37_uni0D2E;
+    sub \uni0D37_uni0D4D \uni0D2B  by \uni0D37_uni0D2B;
+    sub \uni0D37_uni0D4D \uni0D24  by \uni0D37_uni0D24;
+    sub \uni0D37_uni0D4D \uni0D28  by \uni0D37_uni0D28;
+    sub \uni0D38_uni0D4D \uni0D38  by \uni0D38_uni0D38;
+    sub \uni0D38_uni0D4D \uni0D32  by \uni0D38_uni0D32.bb;
+    sub \uni0D38_uni0D4D \uni0D31_uni0D31  by \uni0D38_uni0D31_uni0D31;
+    sub \uni0D38_uni0D4D \uni0D2A  by \uni0D38_uni0D2A;
+    sub \uni0D38_uni0D4D \uni0D24  by \uni0D38_uni0D24;
+    sub \uni0D38_uni0D4D \uni0D15  by \uni0D38_uni0D15;
+    sub \uni0D38_uni0D4D \uni0D28  by \uni0D38_uni0D28;
+    sub \uni0D38_uni0D4D \uni0D2E  by \uni0D38_uni0D2E;
+    sub \uni0D39_uni0D4D \uni0D32  by \uni0D39_uni0D32.bb;
+    sub \uni0D34_uni0D4D \uni0D24  by \uni0D34_uni0D24;
+    sub \uni0D34_uni0D4D \uni0D15  by \uni0D34_uni0D15;
+    sub \uni0D34_uni0D4D \uni0D2E  by \uni0D34_uni0D2E;
+    sub \uni0D15_uni0D4D \uni0D30  by \uni0D30.pb_uni0D15;
+    sub \uni0D15 \uni0D30.pb  by \uni0D30.pb_uni0D15;
+    sub \uni0D17_uni0D4D \uni0D30  by \uni0D30.pb_uni0D17;
+    sub \uni0D17 \uni0D30.pb  by \uni0D30.pb_uni0D17;
+    sub \uni0D18_uni0D4D \uni0D30  by \uni0D30.pb_uni0D18;
+    sub \uni0D18 \uni0D30.pb  by \uni0D30.pb_uni0D18;
+    sub \uni0D1B_uni0D4D \uni0D30  by \uni0D30.pb_uni0D1B;
+    sub \uni0D1B \uni0D30.pb  by \uni0D30.pb_uni0D1B;
+    sub \uni0D1C_uni0D4D \uni0D30  by \uni0D30.pb_uni0D1C;
+    sub \uni0D1C \uni0D30.pb  by \uni0D30.pb_uni0D1C;
+    sub \uni0D1D_uni0D4D \uni0D30  by \uni0D30.pb_uni0D1D;
+    sub \uni0D1D \uni0D30.pb  by \uni0D30.pb_uni0D1D;
+    sub \uni0D1F_uni0D4D \uni0D30  by \uni0D30.pb_uni0D1F;
+    sub \uni0D1F \uni0D30.pb  by \uni0D30.pb_uni0D1F;
+    sub \uni0D21_uni0D4D \uni0D30  by \uni0D30.pb_uni0D21;
+    sub \uni0D21 \uni0D30.pb  by \uni0D30.pb_uni0D21;
+    sub \uni0D22_uni0D4D \uni0D30  by \uni0D30.pb_uni0D22;
+    sub \uni0D22 \uni0D30.pb  by \uni0D30.pb_uni0D22;
+    sub \uni0D24_uni0D4D \uni0D30  by \uni0D30.pb_uni0D24;
+    sub \uni0D24 \uni0D30.pb  by \uni0D30.pb_uni0D24;
+    sub \uni0D26_uni0D4D \uni0D30  by \uni0D30.pb_uni0D26;
+    sub \uni0D26 \uni0D30.pb  by \uni0D30.pb_uni0D26;
+    sub \uni0D27_uni0D4D \uni0D30  by \uni0D30.pb_uni0D27;
+    sub \uni0D27 \uni0D30.pb  by \uni0D30.pb_uni0D27;
+    sub \uni0D28_uni0D4D \uni0D30  by \uni0D30.pb_uni0D28;
+    sub \uni0D28 \uni0D30.pb  by \uni0D30.pb_uni0D28;
+    sub \uni0D2A \uni0D30.pb  by \uni0D30.pb_uni0D2A;
+    sub \uni0D2A_uni0D4D \uni0D30  by \uni0D30.pb_uni0D2A;
+    sub \uni0D2B_uni0D4D \uni0D30  by \uni0D30.pb_uni0D2B;
+    sub \uni0D2B \uni0D30.pb  by \uni0D30.pb_uni0D2B;
+    sub \uni0D2C_uni0D4D \uni0D30  by \uni0D30.pb_uni0D2C;
+    sub \uni0D2C \uni0D30.pb  by \uni0D30.pb_uni0D2C;
+    sub \uni0D2D_uni0D4D \uni0D30  by \uni0D30.pb_uni0D2D;
+    sub \uni0D2D \uni0D30.pb  by \uni0D30.pb_uni0D2D;
+    sub \uni0D2E_uni0D4D \uni0D30  by \uni0D30.pb_uni0D2E;
+    sub \uni0D2E \uni0D30.pb  by \uni0D30.pb_uni0D2E;
+    sub \uni0D35_uni0D4D \uni0D30  by \uni0D30.pb_uni0D35;
+    sub \uni0D35 \uni0D30.pb  by \uni0D30.pb_uni0D35;
+    sub \uni0D36 \uni0D30.pb  by \uni0D30.pb_uni0D36;
+    sub \uni0D36_uni0D4D \uni0D30  by \uni0D30.pb_uni0D36;
+    sub \uni0D37_uni0D4D \uni0D30  by \uni0D30.pb_uni0D37;
+    sub \uni0D37 \uni0D30.pb  by \uni0D30.pb_uni0D37;
+    sub \uni0D38_uni0D4D \uni0D30  by \uni0D30.pb_uni0D38;
+    sub \uni0D38 \uni0D30.pb  by \uni0D30.pb_uni0D38;
+    sub \uni0D39_uni0D4D \uni0D30  by \uni0D30.pb_uni0D39;
+    sub \uni0D39 \uni0D30.pb  by \uni0D30.pb_uni0D39;
+    sub \uni0D31_uni0D31_uni0D4D \uni0D30  by \uni0D30.pb_glyph218;
+    sub \uni0D31_uni0D31 \uni0D30.pb  by \uni0D30.pb_glyph218;
+    sub \glyph159 \uni0D30.pb  by \uni0D30.pb_glyph159;
+    sub \glyph159 \uni0D4D \uni0D30  by \uni0D30.pb_glyph159;
+    sub \glyph160 \uni0D30.pb  by \uni0D30.pb_glyph160;
+    sub \glyph160 \uni0D4D \uni0D30  by \uni0D30.pb_glyph160;
+    sub \glyph169 \uni0D30.pb  by \uni0D30.pb_glyph169;
+    sub \glyph169 \uni0D4D \uni0D30  by \uni0D30.pb_glyph169;
+    sub \glyph170 \uni0D30.pb  by \uni0D30.pb_glyph170;
+    sub \glyph170 \uni0D4D \uni0D30  by \uni0D30.pb_glyph170;
+    sub \glyph175 \uni0D30.pb  by \uni0D30.pb_glyph175;
+    sub \glyph175 \uni0D4D \uni0D30  by \uni0D30.pb_glyph175;
+    sub \glyph171 \uni0D30.pb  by \uni0D30.pb_glyph171;
+    sub \glyph171 \uni0D4D \uni0D30  by \uni0D30.pb_glyph171;
+} presPreBaseSubstitutionsinMalay;
+
+lookup sub_ligature_presmlm2_0 {
+  lookupflag 0;
+    sub \uni0D30.pb \uni0D15  by \uni0D30.pb_uni0D15;
+    sub \uni0D30.pb \uni0D17  by \uni0D30.pb_uni0D17;
+    sub \uni0D30.pb \uni0D18  by \uni0D30.pb_uni0D18;
+    sub \uni0D30.pb \uni0D1B  by \uni0D30.pb_uni0D1B;
+    sub \uni0D30.pb \uni0D1C  by \uni0D30.pb_uni0D1C;
+    sub \uni0D30.pb \uni0D1D  by \uni0D30.pb_uni0D1D;
+    sub \uni0D30.pb \uni0D1F  by \uni0D30.pb_uni0D1F;
+    sub \uni0D30.pb \uni0D21  by \uni0D30.pb_uni0D21;
+    sub \uni0D30.pb \uni0D22  by \uni0D30.pb_uni0D22;
+    sub \uni0D30.pb \uni0D24  by \uni0D30.pb_uni0D24;
+    sub \uni0D30.pb \uni0D26  by \uni0D30.pb_uni0D26;
+    sub \uni0D30.pb \uni0D27  by \uni0D30.pb_uni0D27;
+    sub \uni0D30.pb \uni0D28  by \uni0D30.pb_uni0D28;
+    sub \uni0D30.pb \uni0D2A  by \uni0D30.pb_uni0D2A;
+    sub \uni0D30.pb \uni0D2B  by \uni0D30.pb_uni0D2B;
+    sub \uni0D30.pb \uni0D2C  by \uni0D30.pb_uni0D2C;
+    sub \uni0D30.pb \uni0D2D  by \uni0D30.pb_uni0D2D;
+    sub \uni0D30.pb \uni0D2E  by \uni0D30.pb_uni0D2E;
+    sub \uni0D30.pb \uni0D35  by \uni0D30.pb_uni0D35;
+    sub \uni0D30.pb \uni0D36  by \uni0D30.pb_uni0D36;
+    sub \uni0D30.pb \uni0D37  by \uni0D30.pb_uni0D37;
+    sub \uni0D30.pb \uni0D38  by \uni0D30.pb_uni0D38;
+    sub \uni0D30.pb \uni0D39  by \uni0D30.pb_uni0D39;
+    sub \uni0D30.pb \uni0D31_uni0D31  by \uni0D30.pb_glyph218;
+    sub \uni0D30.pb \glyph159  by \uni0D30.pb_glyph159;
+    sub \uni0D30.pb \glyph160  by \uni0D30.pb_glyph160;
+    sub \uni0D30.pb \glyph169  by \uni0D30.pb_glyph169;
+    sub \uni0D30.pb \glyph170  by \uni0D30.pb_glyph170;
+    sub \uni0D30.pb \glyph175  by \uni0D30.pb_glyph175;
+    sub \uni0D30.pb \glyph171  by \uni0D30.pb_glyph171;
+} sub_ligature_presmlm2_0;
+
+lookup pstsPostBaseSubstitutionsinMala {
+  lookupflag 0;
+    sub \uni0D2F \uni0D2F.pb  by \uni0D2F_glyph133;
+    sub \uni0D35 \uni0D35.pb  by \uni0D35_glyph133;
+} pstsPostBaseSubstitutionsinMala;
+
+feature akhn {
+
+  script mlm2;
+     language dflt ;
+      lookup akhnAkhandinMalaylam2lookup0;
+
+  script mlym;
+     language dflt ;
+      lookup akhnAkhandinMalaylamlookup0;
+} akhn;
+
+feature pref {
+
+  script mlm2;
+     language dflt ;
+      lookup prefPreBaseFormsinMalaylam2look;
+} pref;
+
+feature blwf {
+
+  script mlm2;
+     language dflt ;
+      lookup blwfBelowBaseFormsinMalaylam2lo;
+
+  script mlym;
+     language dflt ;
+      lookup blwfBelowBaseFormsinMalaylamloo;
+} blwf;
+
+feature pstf {
+
+  script mlm2;
+     language dflt ;
+      lookup pstfPostBaseFormsinMalaylam2loo;
+
+  script mlym;
+     language dflt ;
+      lookup pstfPostBaseFormsinMalaylamlook;
+} pstf;
+
+feature blws {
+
+  script mlm2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinMal;
+
+  script mlym;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinMal;
+} blws;
+
+feature half {
+
+  script mlym;
+     language dflt ;
+      lookup halfHalfFormsinMalaylamlookup5;
+} half;
+
+feature haln {
+
+  script mlym;
+     language dflt ;
+      lookup halnHalantFormsinMalaylamlookup;
+} haln;
+
+feature pres {
+
+  script mlm2;
+     language dflt ;
+      lookup sub_ligature_presmlm2_0;
+
+  script mlym;
+     language dflt ;
+      lookup presPreBaseSubstitutionsinMalay;
+} pres;
+
+feature psts {
+
+  script mlym;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinMala;
+} psts;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
+	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
+	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
+	\nine \colon \semicolon \less \equal \greater \question \at \bracketleft 
+	\backslash \bracketright \asciicircum \underscore \grave \braceleft \bar 
+	\braceright \asciitilde \uni0D02 \uni0D03 \uni0D05 \uni0D06 \uni0D07 \uni0D08 
+	\uni0D09 \uni0D0A \uni0D0B \uni0D0C \uni0D0E \uni0D0F \uni0D10 \uni0D12 \uni0D13 
+	\uni0D14 \uni0D15 \uni0D16 \uni0D17 \uni0D18 \uni0D19 \uni0D1A \uni0D1B \uni0D1C 
+	\uni0D1D \uni0D1E \uni0D1F \uni0D20 \uni0D21 \uni0D22 \uni0D23 \uni0D24 \uni0D25 
+	\uni0D26 \uni0D27 \uni0D28 \uni0D2A \uni0D2B \uni0D2C \uni0D2D \uni0D2E \uni0D2F 
+	\uni0D30 \uni0D31 \uni0D32 \uni0D33 \uni0D34 \uni0D35 \uni0D36 \uni0D37 \uni0D38 
+	\uni0D39 \uni0D3E \uni0D3F \uni0D40 \uni0D41 \uni0D42 \uni0D43 \uni0D46 \uni0D47 
+	\uni0D48 \uni0D4A \uni0D4B \uni0D4C \uni0D4D \uni0D57 \uni0D60 \uni0D61 \uni0D66 
+	\uni0D67 \uni0D68 \uni0D69 \uni0D6A \uni0D6B \uni0D6C \uni0D6D \uni0D6E \uni0D6F 
+	\uni200B \ZWNJ \ZWJ \quoteleft \quoteright \quotedblleft \quotedblright 
+	\uni25CC \glyph133 \glyph134 \glyph135 \uni0D34_glyph161 \uni0D7A \uni0D7B 
+	\uni0D7C \uni0D7D \uni0D7E \uni0D7F \uni0D79 \uni0D3A \uni0D29 \uni0D71 ];
+@GDEF_Ligature = [\uni0D15.cil \uni0D23.cil \uni0D28.cil \uni0D30.cil 
+	\uni0D32.cil \uni0D33.cil \uni0D32.bb \uni0D2F.pb \uni0D30.pb \uni0D35.pb 
+	\glyph142 \glyph143 \glyph144 \glyph145 \glyph146 \glyph147 \glyph148 \glyph149 
+	\glyph150 \glyph151 \glyph152 \glyph153 \glyph154 \glyph155 \glyph156 \glyph157 
+	\glyph158 \glyph159 \glyph160 \glyph161 \glyph162 \glyph163 \glyph164 \glyph165 
+	\glyph166 \glyph167 \glyph168 \glyph169 \glyph170 \glyph171 \glyph172 \glyph173 
+	\glyph174 \glyph175 \glyph176 \glyph177 \glyph178 \glyph179 \uni0D33_uni0D33 
+	\uni0D15_uni0D32.bb \uni0D15_uni0D38 \uni0D15_uni0D1F \uni0D18_uni0D28 
+	\uni0D17_uni0D17 \uni0D17_uni0D32.bb \glyph142_uni0D2E \uni0D1A_glyph133 
+	\uni0D1A_uni0D1B \uni0D21_uni0D21 \uni0D21_uni0D22 \uni0D21_uni0D1C 
+	\uni0D23_uni0D23 \uni0D23_uni0D20 \uni0D24_uni0D32.bb \glyph196 
+	\uni0D2A_uni0D28 \uni0D2A_uni0D32.bb \uni0D2A_uni0D38 \uni0D2A_uni0D24 
+	\uni0D2C_glyph133 \uni0D2C_uni0D32.bb \uni0D2C_uni0D26 \uni0D2C_uni0D27 
+	\uni0D2C_uni0D15 \uni0D2B_uni0D32.bb \uni0D2B_uni0D15 \uni0D2B_uni0D24 
+	\uni0D2E_uni0D32.bb \uni0D2E_uni0D28 \uni0D2F_glyph133 \uni0D2F_uni0D2E 
+	\uni0D2F_uni0D2A \uni0D2F_uni0D15 \uni0D2F_glyph144 \uni0D2F_uni0D24 
+	\uni0D2F_glyph161 \uni0D31_uni0D31 \uni0D32_uni0D32.bb \uni0D32_uni0D2A 
+	\uni0D32_uni0D15 \uni0D32_uni0D2E \uni0D35_glyph133 \uni0D35_uni0D32.bb 
+	\uni0D36_uni0D36 \uni0D36_uni0D32.bb \uni0D36_uni0D28 \uni0D36_uni0D2E 
+	\uni0D37_uni0D2A \uni0D37_uni0D15 \uni0D37_uni0D23 \uni0D37_uni0D1F 
+	\uni0D37_uni0D20 \uni0D37_uni0D2E \uni0D37_uni0D2B \uni0D37_uni0D24 
+	\uni0D37_uni0D28 \uni0D38_uni0D38 \uni0D38_uni0D32.bb 
+	\uni0D38_uni0D31_uni0D31 \uni0D38_uni0D2A \uni0D38_uni0D24 \uni0D38_uni0D15 
+	\uni0D38_uni0D28 \uni0D38_uni0D2E \uni0D39_uni0D32.bb \uni0D34_uni0D24 
+	\uni0D34_uni0D15 \uni0D34_uni0D2E \uni0D28.cil_uni0D31 \uni0D30.pb_uni0D15 
+	\uni0D30.pb_uni0D17 \uni0D30.pb_uni0D18 \uni0D30.pb_uni0D1B 
+	\uni0D30.pb_uni0D1C \uni0D30.pb_uni0D1D \uni0D30.pb_uni0D1F 
+	\uni0D30.pb_uni0D21 \uni0D30.pb_uni0D22 \uni0D30.pb_uni0D24 
+	\uni0D30.pb_uni0D26 \uni0D30.pb_uni0D27 \uni0D30.pb_uni0D28 
+	\uni0D30.pb_uni0D2A \uni0D30.pb_uni0D2B \uni0D30.pb_uni0D2C 
+	\uni0D30.pb_uni0D2D \uni0D30.pb_uni0D2E \uni0D30.pb_uni0D35 
+	\uni0D30.pb_uni0D36 \uni0D30.pb_uni0D37 \uni0D30.pb_uni0D38 
+	\uni0D30.pb_uni0D39 \uni0D30.pb_glyph218 \uni0D30.pb_glyph159 
+	\uni0D30.pb_glyph160 \uni0D30.pb_glyph169 \uni0D30.pb_glyph170 
+	\uni0D30.pb_glyph175 \uni0D15_uni0D4D \uni0D16_uni0D4D \uni0D17_uni0D4D 
+	\uni0D18_uni0D4D \uni0D19_uni0D4D \uni0D1A_uni0D4D \uni0D1B_uni0D4D 
+	\uni0D1C_uni0D4D \uni0D1D_uni0D4D \uni0D1E_uni0D4D \uni0D1F_uni0D4D 
+	\uni0D20_uni0D4D \uni0D21_uni0D4D \uni0D22_uni0D4D \uni0D23_uni0D4D 
+	\uni0D24_uni0D4D \uni0D25_uni0D4D \uni0D26_uni0D4D \uni0D27_uni0D4D 
+	\uni0D28_uni0D4D \uni0D2A_uni0D4D \uni0D2B_uni0D4D \uni0D2C_uni0D4D 
+	\uni0D2D_uni0D4D \uni0D2E_uni0D4D \uni0D2F_uni0D4D \uni0D30_uni0D4D 
+	\uni0D31_uni0D4D \uni0D32_uni0D4D \uni0D33_uni0D4D \uni0D34_uni0D4D 
+	\uni0D35_uni0D4D \uni0D36_uni0D4D \uni0D37_uni0D4D \uni0D38_uni0D4D 
+	\uni0D39_uni0D4D \uni0D31_uni0D31_uni0D4D \uni0D30.pb_glyph171 
+	\uni0D41_uni0D4D \aam ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+
