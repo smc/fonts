@@ -11,7 +11,20 @@ all: clean compile test webfonts
 compile:
 # generate ttf files from sfd files
 	@for font in `echo ${fonts}`;do \
-		tools/apply_featurefile.py  $${font}/$${font}.sfd  $${font}/$${font}.fea;\
+		tools/generate_featurefile.py  $${font}/$${font}.sfd  $${font}/$${font}-sfd.fea; \
+		if cmp -s $${font}/$${font}-sfd.fea $${font}/$${font}.fea; then \
+			rm -rf $${font}/$${font}-sfd.fea;\
+		else\
+			echo "Feaures modified in SFD."; \
+			echo "1. Use feature file from SFD\n2. Use $${font}/$${font}.fea\n3. Exit";\
+			read -p "What do you want to do? " choice;\
+			case $$choice in\
+				[1] ) mv $${font}/$${font}-sfd.fea $${font}/$${font}.fea;;\
+				[2] ) rm $${font}/$${font}-sfd.fea;;\
+				* )  echo "Exiting"; exit 1;;\
+			esac;\
+			tools/apply_featurefile.py $${font}/$${font}.sfd $${font}/$${font}.fea; \
+		fi;\
 		./generate.pe $${font}/$${font}.sfd; \
 	done;
 
