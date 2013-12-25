@@ -301,6 +301,7 @@ EndShort
 LangName: 1033 "" "" "" "C-DAC Mumbai (formerly NCST): RaghuMalayalam: Original Version 1.00 (FontersNCST)" "" " Version 2.00 (2008)" "" "RaghuMalayalam - Trademark of Centre for Development of Advanced Computing (C-DAC) Mumbai (formerly NCST). " "Centre for Development of Advanced Computing (C-DAC) Mumbai, (formerly NCST)." "Prof. R.K.Joshi and Rajith Kumar K. M." "RaghuMalayalam is the name of a digital font - a typeface in Malayalam Script to be used for composing text in Malayalam language. It has been designed in Open Type Format with Unicode standards and reordering as well as combining characters according to the visual syllable standard of IndiX Compugraphy. +AA0ACgANAAoA-This first Version called RaghuMalayalam font Original Version 1.00 (2005) is a non-hinted text face, to be used for continuous text in Malayalm language. And is recommended to be used in minimum 14pt. size on screen and 10pt. size on paper (see the README file). The designed letterforms of RaghuMalayalam font in Malayalam script, have elegant structures of thick and thin strokes. Vertical strokes contain a slight curvature and scooped ends.+AA0ACgANAAoA-RaghuMalayalam font Original Version 1.00 (2005) has been designed and developed, by Prof. R. K. Joshi (TypeFont Design Director, Visiting Design Specialist at C-DAC Mumbai) in association with Mr. Rajith Kumar K. M. (TypeFont Designer), assisted by Mr. Nirmal Biswas, Ms. Jui Mhatre and Ms. Supriya Kharkar at C-DAC Mumbai (formerly NCST).+AAoACgAA-This is Version 2 after modification of opentype tables and addtion of glyphs by suresh p.<suresh@ippimail.com>" "http://www.cdacmumbai.in/projects/indix" "http://staff.cdacmumbai.in/rkjoshi" "1. RaghuMalayalam font Original Version 1.00 (2005) +AKkA Centre for Development of Advanced Computing, Mumbai.+AA0ACgANAAoA-2. RaghuMalayalam font Original Version 1.00 (2005) has been designed and developed, by Prof. R. K. Joshi (TypeFont Design Director, Visiting Design Specialist at C-DAC Mumbai) in association with Mr. Rajith Kumar K. M. (TypeFont Designer), assisted by Mr. Nirmal Biswas, Ms. Jui Mhatre and Ms. Supriya Kharkar at C-DAC Mumbai (formerly NCST) under IndiX2, Project funded by TDIL Programme, Department of Information Technology, Ministry of Communications and Information Technology, Govt. of India.+AA0ACgANAAoA-3. RaghuMalayalam font Original Version 1.00 (2005) has been released under GNU GPL Version 2 (see the COPYING file)." "http://www.cdacmumbai.in/projects/indix" 
 GaspTable: 1 65535 2 0
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
@@ -9647,8 +9648,8 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1.06604 0 0 0.498474 1432 -498 2
 Refer: 145 -1 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" glyph142 uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" glyph142 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D37 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D15 uni0D4D uni0D37 uni0D4D uni0D2E
 EndChar
 
 StartChar: uni0D1A_glyph133
@@ -10049,8 +10050,8 @@ LayerCount: 2
 Fore
 Refer: 147 -1 N 0.704773 0 0 0.485291 68 -487 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D glyph144
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D glyph144
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D15 uni0D4D uni0D15
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D2F_uni0D4D glyph144
 EndChar
 
 StartChar: uni0D2F_uni0D24
@@ -10075,8 +10076,8 @@ LayerCount: 2
 Fore
 Refer: 164 -1 N 0.550598 0 0 0.480591 105 -485 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D glyph161
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D glyph161
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D2F_uni0D4D glyph161
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D24 uni0D4D uni0D24
 EndChar
 
 StartChar: uni0D31_uni0D31
@@ -10376,8 +10377,8 @@ Fore
 Refer: 89 3377 N 0.779419 0 0 0.49115 469 -488 2
 Refer: 89 3377 N 0.724854 0 0 0.49408 1343 -491 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D31_uni0D31
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D31_uni0D31
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D31 uni0D4D uni0D31
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D38_uni0D4D uni0D31_uni0D31
 EndChar
 
 StartChar: uni0D38_uni0D2A
@@ -10493,6 +10494,7 @@ LayerCount: 2
 Fore
 Refer: 92 3380 N 1 0 0 1 0 0 2
 Refer: 164 -1 N 0.424561 0 0 0.482056 78 -482 2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D uni0D24 uni0D4D uni0D24
 EndChar
 
 StartChar: uni0D34_uni0D2E
