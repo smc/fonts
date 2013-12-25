@@ -310,7 +310,7 @@ WinInfo: 0 32 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark lookup 0-1" 
-BeginChars: 335 335
+BeginChars: 335 334
 
 StartChar: .notdef
 Encoding: 139 -1 0
@@ -5301,7 +5301,7 @@ StartChar: uni0D66
 Encoding: 113 3430 114
 Width: 1096
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -11385,38 +11385,8 @@ Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" 
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph171 uni0D4D uni0D30
 EndChar
 
-StartChar: uni0D41_uni0D4D
-Encoding: 332 -1 322
-Width: 133
-GlyphClass: 3
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-239 1222 m 1,0,1
- 160 1268 160 1268 158 1341 c 0,2,3
- 157 1370 157 1370 167 1389 c 0,4,5
- 217 1486 217 1486 334 1468 c 0,6,7
- 484 1445 484 1445 460 1320 c 1,8,9
- 452 1273 452 1273 404 1231 c 0,10,11
- 313 1150 313 1150 173 1149 c 128,-1,12
- 33 1148 33 1148 -59.5 1229 c 128,-1,13
- -152 1310 -152 1310 -133 1442 c 1,14,15
- -76 1420 -76 1420 -18 1442 c 1,16,17
- -31 1315 -31 1315 28 1250 c 0,18,19
- 132 1136 132 1136 316 1250 c 0,20,21
- 377 1288 377 1288 382 1340.5 c 128,-1,22
- 387 1393 387 1393 363 1410 c 0,23,24
- 307 1451 307 1451 246 1416 c 0,25,26
- 205 1392 205 1392 215 1338.5 c 128,-1,27
- 225 1285 225 1285 281 1272 c 1,28,-1
- 239 1222 l 1,0,1
-EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" uni0D41 uni0D4D
-EndChar
-
 StartChar: uni0D7A
-Encoding: 125 3450 323
+Encoding: 125 3450 322
 Width: 2701
 Flags: W
 LayerCount: 2
@@ -11501,7 +11471,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7B
-Encoding: 126 3451 324
+Encoding: 126 3451 323
 Width: 1934
 Flags: W
 LayerCount: 2
@@ -11559,7 +11529,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7C
-Encoding: 127 3452 325
+Encoding: 127 3452 324
 Width: 1280
 Flags: W
 LayerCount: 2
@@ -11603,7 +11573,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7D
-Encoding: 128 3453 326
+Encoding: 128 3453 325
 Width: 2137
 Flags: W
 LayerCount: 2
@@ -11667,7 +11637,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7E
-Encoding: 129 3454 327
+Encoding: 129 3454 326
 Width: 1885
 Flags: W
 LayerCount: 2
@@ -11725,7 +11695,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D7F
-Encoding: 130 3455 328
+Encoding: 130 3455 327
 Width: 1939
 Flags: W
 LayerCount: 2
@@ -11800,7 +11770,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D79
-Encoding: 124 3449 329
+Encoding: 124 3449 328
 Width: 2278
 Flags: W
 LayerCount: 2
@@ -11858,7 +11828,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D3A
-Encoding: 96 3386 330
+Encoding: 96 3386 329
 Width: 909
 Flags: W
 LayerCount: 2
@@ -11881,7 +11851,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D29
-Encoding: 79 3369 331
+Encoding: 79 3369 330
 Width: 2551
 Flags: W
 LayerCount: 2
@@ -11935,7 +11905,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0D71
-Encoding: 123 3441 332
+Encoding: 123 3441 331
 Width: 2413
 Flags: W
 LayerCount: 2
@@ -11976,7 +11946,7 @@ EndSplineSet
 EndChar
 
 StartChar: aam
-Encoding: 333 -1 333
+Encoding: 333 -1 332
 Width: 1676
 Flags: W
 LayerCount: 2
@@ -11988,7 +11958,7 @@ Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC uni0D3E u
 EndChar
 
 StartChar: uni0D4E
-Encoding: 334 3406 334
+Encoding: 334 3406 333
 Width: 0
 Flags: W
 AnchorPoint: "dotreph" -746 0 mark 0
