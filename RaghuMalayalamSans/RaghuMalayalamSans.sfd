@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1136575263
-ModificationTime: 1387888378
+ModificationTime: 1387946909
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -12008,16 +12008,16 @@ EndChar
 StartChar: uni0D4E
 Encoding: 334 3406 334
 Width: 0
-Flags: W
+Flags: WO
 AnchorPoint: "dotreph" -746 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--713 1031 m 1,0,1
- -745 1030 -745 1030 -777 1029 c 1,2,3
- -792 1178 -792 1178 -800 1391 c 1,4,5
+-710 1095 m 1,0,1
+ -743.5 1095 -743.5 1095 -777 1095 c 1,2,3
+ -790 1244 -790 1244 -800 1391 c 1,4,5
  -740 1377 -740 1377 -685 1391 c 1,6,7
- -684 1386 -684 1386 -713 1031 c 1,0,1
+ -684.995 1386 -684.995 1386 -710 1095 c 1,0,1
 EndSplineSet
 EndChar
 EndChars
