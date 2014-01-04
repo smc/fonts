@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1382692847
+ModificationTime: 1388821574
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -768,7 +768,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 714 34 12
+WinInfo: 68 34 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0 subtable" 
@@ -7849,9 +7849,9 @@ EndChar
 
 StartChar: xx
 Encoding: 164 3405 164
-Width: 184
+Width: 476
 GlyphClass: 2
-Flags: MW
+Flags: MWO
 LayerCount: 2
 Fore
 SplineSet
@@ -7872,7 +7872,6 @@ SplineSet
  468 1220 468 1220 472 1202 c 0,26,27
  476 1182 476 1182 476 1172 c 0,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: au2
