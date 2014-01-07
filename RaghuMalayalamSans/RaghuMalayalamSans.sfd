@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1136575263
-ModificationTime: 1388235438
+ModificationTime: 1388991879
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -303,10 +303,10 @@ GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -48
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 11
+WinInfo: 0 26 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark lookup 0-1" 
@@ -1592,7 +1592,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D02
+StartChar: anuswara
 Encoding: 43 3330 46
 Width: 751
 GlyphClass: 2
@@ -1618,7 +1618,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D03
+StartChar: visarga
 Encoding: 44 3331 47
 Width: 692
 GlyphClass: 2
@@ -1659,7 +1659,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D05
+StartChar: ml_a
 Encoding: 45 3333 48
 Width: 2497
 GlyphClass: 2
@@ -1744,7 +1744,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D06
+StartChar: ml_aa
 Encoding: 46 3334 49
 Width: 2701
 GlyphClass: 2
@@ -1842,7 +1842,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D07
+StartChar: ml_i
 Encoding: 47 3335 50
 Width: 1796
 GlyphClass: 2
@@ -1908,7 +1908,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D08
+StartChar: ml_ii
 Encoding: 48 3336 51
 Width: 3107
 GlyphClass: 2
@@ -2004,7 +2004,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D09
+StartChar: ml_u
 Encoding: 49 3337 52
 Width: 1197
 GlyphClass: 2
@@ -2057,7 +2057,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D0A
+StartChar: ml_uu
 Encoding: 50 3338 53
 Width: 2512
 GlyphClass: 2
@@ -2140,7 +2140,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D0B
+StartChar: ml_r
 Encoding: 51 3339 54
 Width: 1329
 GlyphClass: 2
@@ -2210,7 +2210,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D0C
+StartChar: ml_l
 Encoding: 52 3340 55
 Width: 2085
 GlyphClass: 2
@@ -2279,7 +2279,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D0E
+StartChar: ml_e
 Encoding: 53 3342 56
 Width: 2278
 GlyphClass: 2
@@ -2338,7 +2338,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D0F
+StartChar: ml_ee
 Encoding: 54 3343 57
 Width: 2279
 GlyphClass: 2
@@ -2413,7 +2413,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D10
+StartChar: ml_ai
 Encoding: 55 3344 58
 Width: 3509
 GlyphClass: 2
@@ -2501,7 +2501,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D12
+StartChar: ml_o
 Encoding: 56 3346 59
 Width: 1243
 GlyphClass: 2
@@ -2553,7 +2553,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D13
+StartChar: ml_oo
 Encoding: 57 3347 60
 Width: 2186
 GlyphClass: 2
@@ -2623,7 +2623,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D14
+StartChar: ml_au1
 Encoding: 58 3348 61
 Width: 2523
 GlyphClass: 2
@@ -2706,7 +2706,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D15
+StartChar: k1
 Encoding: 59 3349 62
 Width: 1752
 GlyphClass: 2
@@ -2765,7 +2765,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D16
+StartChar: k2
 Encoding: 60 3350 63
 Width: 1672
 GlyphClass: 2
@@ -2815,7 +2815,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D17
+StartChar: k3
 Encoding: 61 3351 64
 Width: 1678
 GlyphClass: 2
@@ -2854,7 +2854,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D18
+StartChar: k4
 Encoding: 62 3352 65
 Width: 2275
 GlyphClass: 2
@@ -2911,7 +2911,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D19
+StartChar: ng
 Encoding: 63 3353 66
 Width: 1939
 GlyphClass: 2
@@ -2979,7 +2979,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1A
+StartChar: ch1
 Encoding: 64 3354 67
 Width: 1786
 GlyphClass: 2
@@ -3015,7 +3015,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1B
+StartChar: ch2
 Encoding: 65 3355 68
 Width: 2456
 GlyphClass: 2
@@ -3076,7 +3076,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1C
+StartChar: ch3
 Encoding: 66 3356 69
 Width: 1603
 GlyphClass: 2
@@ -3148,7 +3148,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1D
+StartChar: ch4
 Encoding: 67 3357 70
 Width: 3081
 GlyphClass: 2
@@ -3215,7 +3215,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1E
+StartChar: nj
 Encoding: 68 3358 71
 Width: 2659
 GlyphClass: 2
@@ -3290,7 +3290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D1F
+StartChar: t1
 Encoding: 69 3359 72
 Width: 894
 GlyphClass: 2
@@ -3325,7 +3325,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D20
+StartChar: t2
 Encoding: 70 3360 73
 Width: 1214
 GlyphClass: 2
@@ -3354,7 +3354,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D21
+StartChar: t3
 Encoding: 71 3361 74
 Width: 2258
 GlyphClass: 2
@@ -3409,7 +3409,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D22
+StartChar: t4
 Encoding: 72 3362 75
 Width: 2284
 GlyphClass: 2
@@ -3473,7 +3473,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D23
+StartChar: nh
 Encoding: 73 3363 76
 Width: 2551
 GlyphClass: 2
@@ -3540,7 +3540,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D24
+StartChar: th1
 Encoding: 74 3364 77
 Width: 1884
 GlyphClass: 2
@@ -3585,7 +3585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D25
+StartChar: th2
 Encoding: 75 3365 78
 Width: 1587
 GlyphClass: 2
@@ -3619,7 +3619,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D26
+StartChar: th3
 Encoding: 76 3366 79
 Width: 1239
 GlyphClass: 2
@@ -3662,7 +3662,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D27
+StartChar: th4
 Encoding: 77 3367 80
 Width: 1792
 GlyphClass: 2
@@ -3703,7 +3703,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D28
+StartChar: n1
 Encoding: 78 3368 81
 Width: 1792
 GlyphClass: 2
@@ -3744,7 +3744,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2A
+StartChar: p1
 Encoding: 80 3370 82
 Width: 1583
 GlyphClass: 2
@@ -3781,7 +3781,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2B
+StartChar: p2
 Encoding: 81 3371 83
 Width: 1978
 GlyphClass: 2
@@ -3827,7 +3827,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2C
+StartChar: p3
 Encoding: 82 3372 84
 Width: 2471
 GlyphClass: 2
@@ -3889,7 +3889,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2D
+StartChar: p4
 Encoding: 83 3373 85
 Width: 1243
 GlyphClass: 2
@@ -3943,7 +3943,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2E
+StartChar: m1
 Encoding: 84 3374 86
 Width: 1233
 GlyphClass: 2
@@ -3985,7 +3985,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D2F
+StartChar: y1
 Encoding: 85 3375 87
 Width: 1834
 GlyphClass: 2
@@ -4037,7 +4037,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D30
+StartChar: r3
 Encoding: 86 3376 88
 Width: 1281
 GlyphClass: 2
@@ -4076,7 +4076,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D31
+StartChar: rh
 Encoding: 87 3377 89
 Width: 1204
 GlyphClass: 2
@@ -4106,7 +4106,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D32
+StartChar: l3
 Encoding: 88 3378 90
 Width: 1470
 GlyphClass: 2
@@ -4142,7 +4142,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D33
+StartChar: lh
 Encoding: 89 3379 91
 Width: 1227
 GlyphClass: 2
@@ -4207,7 +4207,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D34
+StartChar: zh
 Encoding: 90 3380 92
 Width: 1373
 GlyphClass: 2
@@ -4273,7 +4273,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D35
+StartChar: v1
 Encoding: 91 3381 93
 Width: 1634
 GlyphClass: 2
@@ -4308,7 +4308,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D36
+StartChar: z1
 Encoding: 92 3382 94
 Width: 1791
 GlyphClass: 2
@@ -4359,7 +4359,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D37
+StartChar: sh
 Encoding: 93 3383 95
 Width: 1835
 GlyphClass: 2
@@ -4421,7 +4421,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D38
+StartChar: s1
 Encoding: 94 3384 96
 Width: 2258
 GlyphClass: 2
@@ -4475,7 +4475,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D39
+StartChar: h1
 Encoding: 95 3385 97
 Width: 2136
 GlyphClass: 2
@@ -4523,7 +4523,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D3E
+StartChar: a2
 Encoding: 97 3390 98
 Width: 976
 GlyphClass: 2
@@ -4552,7 +4552,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D3F
+StartChar: i1
 Encoding: 98 3391 99
 Width: 395
 GlyphClass: 2
@@ -4581,7 +4581,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D40
+StartChar: i2
 Encoding: 99 3392 100
 Width: 344
 GlyphClass: 2
@@ -4618,7 +4618,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D41
+StartChar: u1
 Encoding: 100 3393 101
 Width: 611
 GlyphClass: 2
@@ -4651,7 +4651,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D42
+StartChar: u2
 Encoding: 101 3394 102
 Width: 682
 GlyphClass: 2
@@ -4694,7 +4694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D43
+StartChar: r1
 Encoding: 102 3395 103
 Width: 495
 GlyphClass: 2
@@ -4730,7 +4730,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D46
+StartChar: e1
 Encoding: 103 3398 104
 Width: 1243
 GlyphClass: 2
@@ -4772,7 +4772,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D47
+StartChar: e2
 Encoding: 104 3399 105
 Width: 980
 GlyphClass: 2
@@ -4824,7 +4824,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D48
+StartChar: ai1
 Encoding: 105 3400 106
 Width: 2455
 GlyphClass: 2
@@ -4897,7 +4897,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D4A
+StartChar: o1
 Encoding: 106 3402 107
 Width: 3416
 GlyphClass: 2
@@ -4957,7 +4957,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D4B
+StartChar: o2
 Encoding: 107 3403 108
 Width: 3151
 GlyphClass: 2
@@ -5027,7 +5027,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D4C
+StartChar: au1
 Encoding: 108 3404 109
 Width: 1312
 GlyphClass: 2
@@ -5068,7 +5068,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D4D
+StartChar: xx
 Encoding: 109 3405 110
 Width: 147
 GlyphClass: 2
@@ -5088,7 +5088,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D57
+StartChar: au2
 Encoding: 110 3415 111
 Width: 1316
 GlyphClass: 2
@@ -5129,7 +5129,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D60
+StartChar: ml_rr
 Encoding: 111 3424 112
 Width: 1329
 GlyphClass: 2
@@ -5217,7 +5217,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D61
+StartChar: ml_ll
 Encoding: 112 3425 113
 Width: 2278
 GlyphClass: 2
@@ -5297,7 +5297,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D66
+StartChar: ml_0
 Encoding: 113 3430 114
 Width: 1096
 GlyphClass: 2
@@ -5326,7 +5326,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D67
+StartChar: ml_1
 Encoding: 114 3431 115
 Width: 1563
 GlyphClass: 2
@@ -5366,7 +5366,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D68
+StartChar: ml_2
 Encoding: 115 3432 116
 Width: 1522
 GlyphClass: 2
@@ -5400,7 +5400,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D69
+StartChar: ml_3
 Encoding: 116 3433 117
 Width: 2317
 GlyphClass: 2
@@ -5445,7 +5445,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6A
+StartChar: ml_4
 Encoding: 117 3434 118
 Width: 1279
 GlyphClass: 2
@@ -5490,7 +5490,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6B
+StartChar: ml_5
 Encoding: 118 3435 119
 Width: 1932
 GlyphClass: 2
@@ -5545,7 +5545,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6C
+StartChar: ml_6
 Encoding: 119 3436 120
 Width: 2413
 GlyphClass: 2
@@ -5599,7 +5599,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6D
+StartChar: ml_7
 Encoding: 120 3437 121
 Width: 1338
 GlyphClass: 2
@@ -5644,7 +5644,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6E
+StartChar: ml_8
 Encoding: 121 3438 122
 Width: 1634
 GlyphClass: 2
@@ -5686,7 +5686,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D6F
+StartChar: ml_9
 Encoding: 122 3439 123
 Width: 1934
 GlyphClass: 2
@@ -5927,7 +5927,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D15.cil
+StartChar: k1.cil
 Encoding: 142 -1 132
 Width: 1939
 GlyphClass: 3
@@ -5936,13 +5936,13 @@ LayerCount: 2
 Fore
 Refer: 327 3455 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D15 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D15 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D15 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" k1 xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" k1 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx ZWJ
 EndChar
 
-StartChar: uni0D23.cil
+StartChar: nh.cil
 Encoding: 143 -1 133
 Width: 2701
 GlyphClass: 3
@@ -5951,13 +5951,13 @@ LayerCount: 2
 Fore
 Refer: 322 3450 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D23 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D23 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D23 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" nh xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" nh xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx ZWJ
 EndChar
 
-StartChar: uni0D28.cil
+StartChar: n1.cil
 Encoding: 144 -1 134
 Width: 1934
 GlyphClass: 3
@@ -5966,13 +5966,13 @@ LayerCount: 2
 Fore
 Refer: 323 3451 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D28 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D28 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" n1 xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" n1 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx ZWJ
 EndChar
 
-StartChar: uni0D30.cil
+StartChar: r3.cil
 Encoding: 145 -1 135
 Width: 1280
 GlyphClass: 3
@@ -5981,13 +5981,13 @@ LayerCount: 2
 Fore
 Refer: 324 3452 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D30 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D30 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D30 uni0D4D ZWJ
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D30 uni0D4D ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" r3 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" r3 xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" r3 xx ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" r3 xx ZWJ
 EndChar
 
-StartChar: uni0D32.cil
+StartChar: l3.cil
 Encoding: 146 -1 136
 Width: 2137
 GlyphClass: 3
@@ -5996,13 +5996,13 @@ LayerCount: 2
 Fore
 Refer: 325 3453 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D32 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D32 uni0D4D ZWJ
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D32 uni0D4D ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" l3 xx ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" l3 xx ZWJ
 EndChar
 
-StartChar: uni0D33.cil
+StartChar: lh.cil
 Encoding: 147 -1 137
 Width: 1885
 GlyphClass: 3
@@ -6011,10 +6011,10 @@ LayerCount: 2
 Fore
 Refer: 326 3454 S 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" uni0D33 uni0D4D ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D33 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D33 uni0D4D ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D33 uni0D4D ZWJ
+Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable" lh xx ZWJ
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" lh xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx ZWJ
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" lh xx ZWJ
 EndChar
 
 StartChar: glyph133
@@ -6039,7 +6039,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph134
+StartChar: l1
 Encoding: 149 -1 139
 Width: 1345
 GlyphClass: 2
@@ -6106,7 +6106,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph135
+StartChar: l2
 Encoding: 150 -1 140
 Width: 1462
 GlyphClass: 2
@@ -6181,7 +6181,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D32.bb
+StartChar: l3.bb
 Encoding: 151 -1 141
 Width: 0
 GlyphClass: 3
@@ -6227,11 +6227,11 @@ SplineSet
  -935 -502 -935 -502 -903 -555.5 c 128,-1,44
  -871 -609 -871 -609 -810 -609 c 0,37,38
 EndSplineSet
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" uni0D32 uni0D4D
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2 subtable" uni0D4D uni0D32
+Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 2 subtable" xx l3
+Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 2 subtable" l3 xx
 EndChar
 
-StartChar: uni0D2F.pb
+StartChar: y2
 Encoding: 152 -1 142
 Width: 505
 GlyphClass: 3
@@ -6259,11 +6259,11 @@ SplineSet
  287 364 287 364 430 154 c 0,25,26
  513 32 513 32 517 24 c 0,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" uni0D2F uni0D4D
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" uni0D4D uni0D2F
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" xx y1
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" y1 xx
 EndChar
 
-StartChar: uni0D30.pb
+StartChar: r4
 Encoding: 153 -1 143
 Width: 432
 GlyphClass: 3
@@ -6285,11 +6285,11 @@ SplineSet
  652 -161 652 -161 652 -195.5 c 128,-1,20
  652 -230 652 -230 674 -254 c 1,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" uni0D30 uni0D4D
-Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtatble" uni0D4D uni0D30
+Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 1 subtatble" xx r3
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" r3 xx
 EndChar
 
-StartChar: uni0D35.pb
+StartChar: v2
 Encoding: 154 -1 144
 Width: 518
 GlyphClass: 3
@@ -6312,8 +6312,8 @@ SplineSet
  467 106 l 2,19,20
  467 23 467 23 477 -262 c 1,0,1
 EndSplineSet
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" uni0D35 uni0D4D
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" uni0D4D uni0D35
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 3 subtable" xx v1
+Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 3 subtable" v1 xx
 EndChar
 
 StartChar: glyph142
@@ -6405,11 +6405,11 @@ SplineSet
  400 39 400 39 486 39 c 0,107,108
  656 39 656 39 656 221 c 1,100,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D15 uni0D4D uni0D37
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D37
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx sh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh
 EndChar
 
-StartChar: glyph143
+StartChar: ch3nj
 Encoding: 156 -1 146
 Width: 4103
 GlyphClass: 3
@@ -6530,11 +6530,11 @@ SplineSet
  306 518 306 518 336.5 471 c 128,-1,161
  367 424 367 424 429 424 c 0,154,155
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1C uni0D4D uni0D1E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1C uni0D4D uni0D1E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ch3 xx nj
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx nj
 EndChar
 
-StartChar: glyph144
+StartChar: k1k1
 Encoding: 157 -1 147
 Width: 2506
 GlyphClass: 3
@@ -6608,11 +6608,11 @@ SplineSet
  400 39 400 39 486 39 c 0,86,87
  656 39 656 39 656 221 c 1,79,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D15 uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx k1
 EndChar
 
-StartChar: glyph145
+StartChar: ngk1
 Encoding: 158 -1 148
 Width: 1752
 GlyphClass: 3
@@ -6679,11 +6679,11 @@ SplineSet
  400 39 400 39 486 39 c 0,77,78
  656 39 656 39 656 221 c 1,70,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D19 uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D19 uni0D4D uni0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ng xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx k1
 EndChar
 
-StartChar: glyph146
+StartChar: t1t1
 Encoding: 159 -1 149
 Width: 950
 GlyphClass: 3
@@ -6726,11 +6726,11 @@ SplineSet
  775 559 775 559 862.5 486 c 128,-1,52
  950 413 950 413 950 282 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1F uni0D4D uni0D1F
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1F uni0D4D uni0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" t1 xx t1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t1 xx t1
 EndChar
 
-StartChar: glyph147
+StartChar: th3th3
 Encoding: 160 -1 150
 Width: 1240
 GlyphClass: 3
@@ -6780,11 +6780,11 @@ SplineSet
  1213 85 1213 85 1072 37 c 1,63,64
  1240 -41 1240 -41 1240 -220 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D26 uni0D4D uni0D26
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D26 uni0D4D uni0D26
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th3 xx th3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th3
 EndChar
 
-StartChar: glyph148
+StartChar: ngng
 Encoding: 161 -1 151
 Width: 2583
 GlyphClass: 3
@@ -6882,11 +6882,11 @@ SplineSet
  423 26 423 26 510 26 c 0,129,130
  670 26 670 26 670 254 c 0,122,123
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D19 uni0D4D uni0D19
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D19 uni0D4D uni0D19
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ng xx ng
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx ng
 EndChar
 
-StartChar: glyph149
+StartChar: k1th1
 Encoding: 162 -1 152
 Width: 3145
 GlyphClass: 3
@@ -6969,11 +6969,11 @@ SplineSet
  400 39 400 39 486 39 c 0,111,112
  656 39 656 39 656 221 c 1,104,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx th1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1_xx th1
 EndChar
 
-StartChar: glyph150
+StartChar: k3m1
 Encoding: 163 -1 153
 Width: 2579
 GlyphClass: 3
@@ -7035,11 +7035,11 @@ SplineSet
  1658 272 1658 272 1661 49 c 1,77,-1
  1844 49 l 1,67,68
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k3 xx m1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3_xx m1
 EndChar
 
-StartChar: glyph151
+StartChar: k3th3th4
 Encoding: 164 -1 154
 Width: 2872
 GlyphClass: 3
@@ -7118,11 +7118,11 @@ SplineSet
  754 25 754 25 818 109.5 c 128,-1,113
  882 194 882 194 882 322 c 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17_uni0D4D glyph167
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D glyph167
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3_xx th3th4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k3 xx th3th4
 EndChar
 
-StartChar: glyph152
+StartChar: k3n1
 Encoding: 165 -1 155
 Width: 2427
 GlyphClass: 3
@@ -7173,11 +7173,11 @@ SplineSet
  754 25 754 25 818 109.5 c 128,-1,66
  882 194 882 194 882 322 c 1,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D uni0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k3 xx n1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3_xx n1
 EndChar
 
-StartChar: glyph153
+StartChar: ch3ch3
 Encoding: 166 -1 156
 Width: 3093
 GlyphClass: 3
@@ -7299,11 +7299,11 @@ SplineSet
  307 741 307 741 307 584 c 128,-1,162
  307 427 307 427 430 424 c 1,157,158
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1C_uni0D4D uni0D1C
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1C uni0D4D uni0D1C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ch3 xx ch3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch3_xx ch3
 EndChar
 
-StartChar: glyph154
+StartChar: njch3
 Encoding: 167 -1 157
 Width: 2939
 GlyphClass: 3
@@ -7406,11 +7406,11 @@ SplineSet
  451 32 451 32 562 32 c 128,-1,134
  673 32 673 32 732 131 c 0,126,127
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1E_uni0D4D uni0D1C
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D uni0D1C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nj xx ch3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nj_xx ch3
 EndChar
 
-StartChar: glyph155
+StartChar: njnj
 Encoding: 168 -1 158
 Width: 3853
 GlyphClass: 3
@@ -7521,11 +7521,11 @@ SplineSet
  451 32 451 32 562 32 c 128,-1,149
  673 32 673 32 732 131 c 0,141,142
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1E uni0D4D uni0D1E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D uni0D1E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nj xx nj
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx nj
 EndChar
 
-StartChar: glyph156
+StartChar: njch1
 Encoding: 169 -1 159
 Width: 2870
 GlyphClass: 3
@@ -7611,11 +7611,11 @@ SplineSet
  451 32 451 32 562 32 c 128,-1,107
  673 32 673 32 732 131 c 0,99,100
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1E uni0D4D uni0D1A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D uni0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nj xx ch1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch1
 EndChar
 
-StartChar: glyph157
+StartChar: njch2
 Encoding: 170 -1 160
 Width: 3627
 GlyphClass: 3
@@ -7721,11 +7721,11 @@ SplineSet
  451 32 451 32 562 32 c 128,-1,133
  673 32 673 32 732 131 c 0,125,126
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1E uni0D4D uni0D1B
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1E uni0D4D uni0D1B
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nj xx ch2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch2
 EndChar
 
-StartChar: glyph158
+StartChar: nhm1
 Encoding: 171 -1 161
 Width: 2736
 GlyphClass: 3
@@ -7804,11 +7804,11 @@ SplineSet
  327 203 327 203 386 117.5 c 128,-1,94
  445 32 445 32 554 32 c 256,86,87
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D23_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx m1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nh_xx m1
 EndChar
 
-StartChar: glyph159
+StartChar: nht3
 Encoding: 172 -1 162
 Width: 3728
 GlyphClass: 3
@@ -7897,11 +7897,11 @@ SplineSet
  327 203 327 203 386 117.5 c 128,-1,112
  445 32 445 32 554 32 c 256,104,105
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D23 uni0D4D uni0D21
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D uni0D21
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx t3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t3
 EndChar
 
-StartChar: glyph160
+StartChar: nht1
 Encoding: 173 -1 163
 Width: 2578
 GlyphClass: 3
@@ -7986,11 +7986,11 @@ SplineSet
  327 203 327 203 386.5 117.5 c 128,-1,108
  446 32 446 32 554 32 c 256,100,101
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D23 uni0D4D uni0D1F
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D uni0D1F
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx t1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t1
 EndChar
 
-StartChar: glyph161
+StartChar: th1th1
 Encoding: 174 -1 164
 Width: 3141
 GlyphClass: 3
@@ -8067,11 +8067,11 @@ SplineSet
  1177 29 1177 29 1240 181 c 0,106,107
  1285 292 1285 292 1285 449 c 0,94,95
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1
 EndChar
 
-StartChar: glyph162
+StartChar: th1s1
 Encoding: 175 -1 165
 Width: 2972
 GlyphClass: 3
@@ -8142,11 +8142,11 @@ SplineSet
  1177 29 1177 29 1240 181 c 0,94,95
  1285 292 1285 292 1285 449 c 0,82,83
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D38
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D38
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx s1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1
 EndChar
 
-StartChar: glyph163
+StartChar: th1th2
 Encoding: 176 -1 166
 Width: 2916
 GlyphClass: 3
@@ -8208,11 +8208,11 @@ SplineSet
  1178 29 1178 29 1240 182 c 0,81,82
  1284 291 1284 291 1285 449 c 0,69,70
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D25
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx th2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th2
 EndChar
 
-StartChar: glyph164
+StartChar: th1m1
 Encoding: 177 -1 167
 Width: 2679
 GlyphClass: 3
@@ -8280,11 +8280,11 @@ SplineSet
  1178 29 1178 29 1240 182 c 0,87,88
  1284 291 1284 291 1285 449 c 0,75,76
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx m1
 EndChar
 
-StartChar: glyph165
+StartChar: th1p4
 Encoding: 178 -1 168
 Width: 2531
 GlyphClass: 3
@@ -8358,11 +8358,11 @@ SplineSet
  1177 29 1177 29 1240 181 c 0,100,101
  1285 292 1285 292 1285 449 c 0,88,89
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D2D
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D2D
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx p4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx p4
 EndChar
 
-StartChar: glyph166
+StartChar: th1n1
 Encoding: 179 -1 169
 Width: 2497
 GlyphClass: 3
@@ -8418,11 +8418,11 @@ SplineSet
  1178 29 1178 29 1240 182 c 0,76,77
  1284 291 1284 291 1285 449 c 0,64,65
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D24 uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D24 uni0D4D uni0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th1 xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx n1
 EndChar
 
-StartChar: glyph167
+StartChar: th3th4
 Encoding: 180 -1 170
 Width: 2290
 GlyphClass: 3
@@ -8488,11 +8488,11 @@ SplineSet
  1210 259 1210 259 1141 201.5 c 128,-1,92
  1072 144 1072 144 956 144 c 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D26 uni0D4D uni0D27
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D26 uni0D4D uni0D27
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" th3 xx th4
 EndChar
 
-StartChar: glyph168
+StartChar: n1n1
 Encoding: 181 -1 171
 Width: 2416
 GlyphClass: 3
@@ -8545,11 +8545,11 @@ SplineSet
  2168 998 2168 998 2292 860 c 128,-1,64
  2416 722 2416 722 2416 502 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx n1
 EndChar
 
-StartChar: glyph169
+StartChar: n1th3
 Encoding: 182 -1 172
 Width: 1843
 GlyphClass: 3
@@ -8601,11 +8601,11 @@ SplineSet
  1750 456 1750 456 1796.5 388 c 128,-1,64
  1843 320 1843 320 1843 240 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D26
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D26
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th3
 EndChar
 
-StartChar: glyph170
+StartChar: n1th1
 Encoding: 183 -1 173
 Width: 2497
 GlyphClass: 3
@@ -8663,11 +8663,11 @@ SplineSet
  1797 29 1797 29 1859 182 c 0,75,76
  1903 291 1903 291 1905 449 c 0,63,64
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th1
 EndChar
 
-StartChar: glyph171
+StartChar: n1th4
 Encoding: 184 -1 174
 Width: 2962
 GlyphClass: 3
@@ -8729,11 +8729,11 @@ SplineSet
  1443 1004 1443 1004 1544 908.5 c 128,-1,79
  1645 813 1645 813 1645 655 c 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D27
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D27
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th4
 EndChar
 
-StartChar: glyph172
+StartChar: n1m1
 Encoding: 185 -1 175
 Width: 1963
 GlyphClass: 3
@@ -8779,11 +8779,11 @@ SplineSet
  1392 729 1392 729 1299 729 c 0,49,50
  1034 729 1034 729 1034 287 c 1,42,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx m1
 EndChar
 
-StartChar: glyph173
+StartChar: n1th2
 Encoding: 186 -1 176
 Width: 2821
 GlyphClass: 3
@@ -8839,11 +8839,11 @@ SplineSet
  2207 49 l 1,70,-1
  2698 49 l 1,61,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D25
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx th2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th2
 EndChar
 
-StartChar: glyph174
+StartChar: m1m1
 Encoding: 187 -1 177
 Width: 2140
 GlyphClass: 3
@@ -8906,11 +8906,11 @@ SplineSet
  312 272 312 272 315 49 c 1,71,-1
  498 49 l 1,61,62
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D2E uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" m1 xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx m1
 EndChar
 
-StartChar: glyph175
+StartChar: m1p1
 Encoding: 188 -1 178
 Width: 2315
 GlyphClass: 3
@@ -8953,11 +8953,11 @@ SplineSet
  2247 961 2247 961 2274 971 c 1,50,51
  2260 427 2260 427 2274 0 c 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D2E uni0D4D uni0D2A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D uni0D2A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" m1 xx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx p1
 EndChar
 
-StartChar: glyph176
+StartChar: z1ch1
 Encoding: 189 -1 179
 Width: 2480
 GlyphClass: 3
@@ -9025,11 +9025,11 @@ SplineSet
  1384 222 1384 222 1485.5 222 c 128,-1,83
  1587 222 1587 222 1647 327 c 1,73,74
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D36 uni0D4D uni0D1A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D uni0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx ch1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx ch1
 EndChar
 
-StartChar: glyph177
+StartChar: s1th2
 Encoding: 190 -1 180
 Width: 3289
 GlyphClass: 3
@@ -9099,11 +9099,11 @@ SplineSet
  2675 49 l 1,90,-1
  3167 49 l 1,81,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D38 uni0D4D uni0D25
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D25
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th2
 EndChar
 
-StartChar: glyph178
+StartChar: h1n1
 Encoding: 191 -1 181
 Width: 2732
 GlyphClass: 3
@@ -9160,11 +9160,11 @@ SplineSet
  2483 998 2483 998 2607.5 860 c 128,-1,70
  2732 722 2732 722 2732 502 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D39 uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D39 uni0D4D uni0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx n1
 EndChar
 
-StartChar: glyph179
+StartChar: h1m1
 Encoding: 192 -1 182
 Width: 2155
 GlyphClass: 3
@@ -9219,11 +9219,11 @@ SplineSet
  1232 436 1232 436 1237 49 c 1,59,-1
  1419 49 l 1,50,51
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D39 uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D39 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" h1 xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx m1
 EndChar
 
-StartChar: uni0D33_uni0D33
+StartChar: lh_lh
 Encoding: 193 -1 183
 Width: 2267
 GlyphClass: 3
@@ -9232,11 +9232,11 @@ LayerCount: 2
 Fore
 Refer: 91 3379 N 1 0 0 1 990 0 2
 Refer: 91 3379 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D33 uni0D4D uni0D33
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D33 uni0D4D uni0D33
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx lh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" lh xx lh
 EndChar
 
-StartChar: uni0D15_uni0D32.bb
+StartChar: k1_l3.bb
 Encoding: 194 -1 184
 Width: 1752
 GlyphClass: 3
@@ -9245,11 +9245,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.843201 1520 53 2
 Refer: 62 3349 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D15 uni0D32.bb
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" k1 l3.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1_xx l3
 EndChar
 
-StartChar: uni0D15_uni0D38
+StartChar: k1_s1
 Encoding: 195 -1 185
 Width: 1752
 GlyphClass: 3
@@ -9258,11 +9258,11 @@ LayerCount: 2
 Fore
 Refer: 96 3384 N 0.674866 0 0 0.492615 124 -494 2
 Refer: 62 3349 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15_uni0D4D uni0D38
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D38
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1_xx s1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx s1
 EndChar
 
-StartChar: uni0D15_uni0D1F
+StartChar: k1_t1
 Encoding: 196 -1 186
 Width: 1752
 GlyphClass: 3
@@ -9271,11 +9271,11 @@ LayerCount: 2
 Fore
 Refer: 72 3359 N 1.3114 0 0 0.486389 239 -484 2
 Refer: 62 3349 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15_uni0D4D uni0D1F
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D1F
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1_xx t1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx t1
 EndChar
 
-StartChar: uni0D18_uni0D28
+StartChar: k4_n1
 Encoding: 197 -1 187
 Width: 2275
 GlyphClass: 3
@@ -9284,11 +9284,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.754517 0 0 0.491638 880 -489 2
 Refer: 65 3352 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D18 uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D18 uni0D4D uni0D28
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k4 xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k4 xx n1
 EndChar
 
-StartChar: uni0D17_uni0D17
+StartChar: k3_k3
 Encoding: 198 -1 188
 Width: 1678
 GlyphClass: 3
@@ -9297,11 +9297,11 @@ LayerCount: 2
 Fore
 Refer: 64 3351 N 0.842407 0 0 0.47821 142 -483 2
 Refer: 64 3351 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D17 uni0D4D uni0D17
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D17 uni0D4D uni0D17
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx k3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k3 xx k3
 EndChar
 
-StartChar: uni0D17_uni0D32.bb
+StartChar: k3_l3.bb
 Encoding: 199 -1 189
 Width: 1678
 GlyphClass: 3
@@ -9310,11 +9310,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.835571 1620 52 2
 Refer: 64 3351 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D17 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" k3 l3.bb
 EndChar
 
-StartChar: glyph142_uni0D2E
+StartChar: k1shm1
 Encoding: 200 -1 190
 Width: 2782
 GlyphClass: 3
@@ -9323,11 +9323,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1.06604 0 0 0.498474 1432 -498 2
 Refer: 145 -1 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D15 uni0D4D uni0D37 uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D15 uni0D4D uni0D37 uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" k1 xx sh xx m1
 EndChar
 
-StartChar: uni0D1A_glyph133
+StartChar: ch1_glyph133
 Encoding: 201 -1 191
 Width: 1786
 GlyphClass: 3
@@ -9336,11 +9336,11 @@ LayerCount: 2
 Fore
 Refer: 138 -1 N 1 0 0 1 270 0 2
 Refer: 67 3354 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1A uni0D4D uni0D1A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1A uni0D4D uni0D1A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ch1 xx ch1
 EndChar
 
-StartChar: uni0D1A_uni0D1B
+StartChar: ch1_ch2
 Encoding: 202 -1 192
 Width: 1786
 GlyphClass: 3
@@ -9349,11 +9349,11 @@ LayerCount: 2
 Fore
 Refer: 68 3355 N 0.690552 0 0 0.496521 45 -492 2
 Refer: 67 3354 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D1A uni0D4D uni0D1B
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D1A uni0D4D uni0D1B
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ch1 xx ch2
 EndChar
 
-StartChar: uni0D21_uni0D21
+StartChar: t3_t3
 Encoding: 203 -1 193
 Width: 2258
 GlyphClass: 3
@@ -9362,11 +9362,11 @@ LayerCount: 2
 Fore
 Refer: 74 3361 N 1 0 0 0.487732 0 -488 2
 Refer: 74 3361 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D21 uni0D4D uni0D21
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D uni0D21
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" t3 xx t3
 EndChar
 
-StartChar: uni0D21_uni0D22
+StartChar: t3_t4
 Encoding: 204 -1 194
 Width: 2258
 GlyphClass: 3
@@ -9376,11 +9376,11 @@ Fore
 Refer: 75 3362 N 1 0 0 0.490173 0 -488 2
 Refer: 74 3361 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D21 uni0D4D uni0D22
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D uni0D22
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" t3 xx t4
 EndChar
 
-StartChar: uni0D21_uni0D1C
+StartChar: t3_ch3
 Encoding: 205 -1 195
 Width: 2258
 GlyphClass: 3
@@ -9389,11 +9389,11 @@ LayerCount: 2
 Fore
 Refer: 69 3356 N 1 0 0 0.460388 574 -459 2
 Refer: 74 3361 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D21_uni0D4D uni0D1C
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D21 uni0D4D uni0D1C
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t3_xx ch3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" t3 xx ch3
 EndChar
 
-StartChar: uni0D23_uni0D23
+StartChar: nh_nh
 Encoding: 206 -1 196
 Width: 2551
 GlyphClass: 3
@@ -9402,11 +9402,11 @@ LayerCount: 2
 Fore
 Refer: 76 3363 N 1 0 0 0.48877 0 -486 2
 Refer: 76 3363 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D23 uni0D4D uni0D23
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D uni0D23
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx nh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx nh
 EndChar
 
-StartChar: uni0D23_uni0D20
+StartChar: nh_t2
 Encoding: 207 -1 197
 Width: 2551
 GlyphClass: 3
@@ -9415,11 +9415,11 @@ LayerCount: 2
 Fore
 Refer: 73 3360 N 1 0 0 0.492554 1290 -494 2
 Refer: 76 3363 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D23 uni0D4D uni0D20
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D23 uni0D4D uni0D20
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" nh xx t2
 EndChar
 
-StartChar: uni0D24_uni0D32.bb
+StartChar: th1_l3.bb
 Encoding: 208 -1 198
 Width: 1884
 GlyphClass: 3
@@ -9428,11 +9428,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.840637 1814 53 2
 Refer: 77 3364 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D24_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D24 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" th1 l3.bb
 EndChar
 
-StartChar: glyph196
+StartChar: p1p1
 Encoding: 209 -1 199
 Width: 1677
 GlyphClass: 3
@@ -9479,11 +9479,11 @@ SplineSet
  1628 358 l 2,56,57
  1628 255 1628 255 1636 0 c 1,0,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D2A uni0D4D uni0D2A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D uni0D2A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p1 xx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx p1
 EndChar
 
-StartChar: uni0D2A_uni0D28
+StartChar: p1_n1
 Encoding: 210 -1 200
 Width: 1583
 GlyphClass: 3
@@ -9492,11 +9492,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.623169 0 0 0.487732 413 -489 2
 Refer: 82 3370 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1_xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p1 xx n1
 EndChar
 
-StartChar: uni0D2A_uni0D32.bb
+StartChar: p1_l3.bb
 Encoding: 211 -1 201
 Width: 1583
 GlyphClass: 3
@@ -9505,11 +9505,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 0.947876 0 0 0.840637 1540 53 2
 Refer: 82 3370 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D2A uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" p1 l3.bb
 EndChar
 
-StartChar: uni0D2A_uni0D38
+StartChar: p1_s1
 Encoding: 212 -1 202
 Width: 1583
 GlyphClass: 3
@@ -9518,11 +9518,11 @@ LayerCount: 2
 Fore
 Refer: 96 3384 N 0.603577 0 0 0.487671 161 -488 2
 Refer: 82 3370 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A_uni0D4D uni0D38
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D uni0D38
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1_xx s1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p1 xx s1
 EndChar
 
-StartChar: uni0D2A_uni0D24
+StartChar: p1_th1
 Encoding: 213 -1 203
 Width: 1583
 GlyphClass: 3
@@ -9531,11 +9531,11 @@ LayerCount: 2
 Fore
 Refer: 77 3364 N 0.592712 0 0 0.482056 423 -482 2
 Refer: 82 3370 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2A uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p1 xx th1
 EndChar
 
-StartChar: uni0D2C_glyph133
+StartChar: p3p3
 Encoding: 214 -1 204
 Width: 2471
 GlyphClass: 3
@@ -9544,11 +9544,11 @@ LayerCount: 2
 Fore
 Refer: 138 -1 N 1 0 0 1 951 0 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D2C uni0D4D uni0D2C
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D uni0D2C
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p3 xx p3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx p3
 EndChar
 
-StartChar: uni0D2C_uni0D32.bb
+StartChar: p3_l3.bb
 Encoding: 215 -1 205
 Width: 2471
 GlyphClass: 3
@@ -9557,11 +9557,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.844055 2430 52 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D2C uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" p3 l3.bb
 EndChar
 
-StartChar: uni0D2C_uni0D26
+StartChar: p3_th3
 Encoding: 216 -1 206
 Width: 2471
 GlyphClass: 3
@@ -9570,11 +9570,11 @@ LayerCount: 2
 Fore
 Refer: 79 3366 N 1 0 0 0.482422 1188 -485 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C_uni0D4D uni0D26
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D uni0D26
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3_xx th3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p3 xx th3
 EndChar
 
-StartChar: uni0D2C_uni0D27
+StartChar: p3_th4
 Encoding: 217 -1 207
 Width: 2471
 GlyphClass: 3
@@ -9583,11 +9583,11 @@ LayerCount: 2
 Fore
 Refer: 80 3367 N 0.897766 0 0 0.47699 813 -486 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C_uni0D4D uni0D27
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D uni0D27
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3_xx th4
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p3 xx th4
 EndChar
 
-StartChar: uni0D2C_uni0D15
+StartChar: p3_k1
 Encoding: 218 -1 208
 Width: 2471
 GlyphClass: 3
@@ -9596,11 +9596,11 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 0.950439 0 0 0.481018 761 -489 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2C uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p3 xx k1
 EndChar
 
-StartChar: uni0D2B_uni0D32.bb
+StartChar: p2_l3.bb
 Encoding: 219 -1 209
 Width: 1978
 GlyphClass: 3
@@ -9609,11 +9609,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.840637 1935 50 2
 Refer: 83 3371 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2B_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D2B uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" p2 l3.bb
 EndChar
 
-StartChar: uni0D2B_uni0D15
+StartChar: p2_k1
 Encoding: 220 -1 210
 Width: 1978
 GlyphClass: 3
@@ -9622,11 +9622,11 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 0.853333 0 0 0.488831 432 -489 2
 Refer: 83 3371 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2B_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2B uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p2 xx k1
 EndChar
 
-StartChar: uni0D2B_uni0D24
+StartChar: p2_th1
 Encoding: 221 -1 211
 Width: 1978
 GlyphClass: 3
@@ -9635,11 +9635,11 @@ LayerCount: 2
 Fore
 Refer: 77 3364 N 0.829224 0 0 0.477234 377 -482 2
 Refer: 83 3371 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2B_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2B uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" p2 xx th1
 EndChar
 
-StartChar: uni0D2E_uni0D32.bb
+StartChar: m1_l3.bb
 Encoding: 222 -1 212
 Width: 1233
 GlyphClass: 3
@@ -9648,11 +9648,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 0.963562 0 0 0.842346 1208 54 2
 Refer: 86 3374 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2E_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D2E uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" m1 l3.bb
 EndChar
 
-StartChar: uni0D2E_uni0D28
+StartChar: m1_n1
 Encoding: 223 -1 213
 Width: 1233
 GlyphClass: 3
@@ -9661,11 +9661,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.609375 0 0 0.491638 104 -489 2
 Refer: 86 3374 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2E_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2E uni0D4D uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1_xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" m1 xx n1
 EndChar
 
-StartChar: uni0D2F_glyph133
+StartChar: y1y1
 Encoding: 224 -1 214
 Width: 1834
 GlyphClass: 3
@@ -9674,11 +9674,11 @@ LayerCount: 2
 Fore
 Refer: 138 -1 N 1 0 0 1 30 0 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D2F
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D2F uni0D2F.pb
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" y1 y2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx y1
 EndChar
 
-StartChar: uni0D2F_uni0D2E
+StartChar: y1_m1
 Encoding: 225 -1 215
 Width: 1834
 GlyphClass: 3
@@ -9687,11 +9687,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1 0 0 0.505493 360 -504 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1_xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx m1
 EndChar
 
-StartChar: uni0D2F_uni0D2A
+StartChar: y1_p1
 Encoding: 226 -1 216
 Width: 1834
 GlyphClass: 3
@@ -9700,11 +9700,11 @@ LayerCount: 2
 Fore
 Refer: 82 3370 N 1 0 0 0.518677 104 -491 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D uni0D2A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D2A
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1_xx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx p1
 EndChar
 
-StartChar: uni0D2F_uni0D15
+StartChar: y1_k1
 Encoding: 227 -1 217
 Width: 1834
 GlyphClass: 3
@@ -9713,11 +9713,11 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 1 0 0 0.489868 117 -489 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx k1
 EndChar
 
-StartChar: uni0D2F_glyph144
+StartChar: y1_k1k1
 Encoding: 228 -1 218
 Width: 1834
 GlyphClass: 3
@@ -9726,11 +9726,11 @@ LayerCount: 2
 Fore
 Refer: 147 -1 N 0.704773 0 0 0.485291 68 -487 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D15 uni0D4D uni0D15
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D2F_uni0D4D glyph144
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx k1 xx k1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" y1_xx k1k1
 EndChar
 
-StartChar: uni0D2F_uni0D24
+StartChar: y1_th1
 Encoding: 229 -1 219
 Width: 1834
 GlyphClass: 3
@@ -9740,11 +9740,11 @@ Fore
 Refer: 77 3364 S 0.916382 0 0 0.484009 56 -485 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2F_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx th1
 EndChar
 
-StartChar: uni0D2F_glyph161
+StartChar: y1_th1th1
 Encoding: 230 -1 220
 Width: 1834
 GlyphClass: 3
@@ -9754,11 +9754,11 @@ Fore
 Refer: 164 -1 S 0.550598 0 0 0.480591 105 -485 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
 LCarets2: 4 0 0 0 0 
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D2F_uni0D4D glyph161
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D2F uni0D4D uni0D24 uni0D4D uni0D24
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" y1_xx th1th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" y1 xx th1 xx th1
 EndChar
 
-StartChar: uni0D31_uni0D31
+StartChar: rh_rh
 Encoding: 231 -1 221
 Width: 1204
 GlyphClass: 3
@@ -9767,11 +9767,11 @@ LayerCount: 2
 Fore
 Refer: 89 3377 N 0.822266 0 0 0.401611 94 -403 2
 Refer: 89 3377 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D31 uni0D4D uni0D31
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D31 uni0D4D uni0D31
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" rh xx rh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" rh xx rh
 EndChar
 
-StartChar: uni0D32_uni0D32.bb
+StartChar: l3_l3.bb
 Encoding: 232 -1 222
 Width: 1470
 GlyphClass: 3
@@ -9780,12 +9780,12 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.842346 1432 54 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D32 uni0D32.bb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D32
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" l3 l3.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3_xx l3
 EndChar
 
-StartChar: uni0D32_uni0D2A
+StartChar: l3_p1
 Encoding: 233 -1 223
 Width: 1470
 GlyphClass: 3
@@ -9794,11 +9794,11 @@ LayerCount: 2
 Fore
 Refer: 82 3370 N 0.860901 0 0 0.504028 90 -491 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D2A
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D2A
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx p1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3_xx p1
 EndChar
 
-StartChar: uni0D32_uni0D15
+StartChar: l3_k1
 Encoding: 234 -1 224
 Width: 1470
 GlyphClass: 3
@@ -9808,11 +9808,11 @@ Fore
 Refer: 62 3349 N 0.765869 0 0 0.491821 82 -492 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
 LCarets2: 2 0 0 
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D15
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx k1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3_xx k1
 EndChar
 
-StartChar: uni0D32_uni0D2E
+StartChar: l3_m1
 Encoding: 235 -1 225
 Width: 1470
 GlyphClass: 3
@@ -9821,11 +9821,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1 0 0 0.498474 164 -498 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D2E
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D32_uni0D4D uni0D2E
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx m1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3_xx m1
 EndChar
 
-StartChar: uni0D35_glyph133
+StartChar: v1_glyph133
 Encoding: 236 -1 226
 Width: 1634
 GlyphClass: 3
@@ -9834,11 +9834,11 @@ LayerCount: 2
 Fore
 Refer: 138 -1 N 1 0 0 1 118 0 2
 Refer: 93 3381 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D35 uni0D4D uni0D35
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D35 uni0D35.pb
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" v1 xx v1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" v1 v2
 EndChar
 
-StartChar: uni0D35_uni0D32.bb
+StartChar: v1_l3.bb
 Encoding: 237 -1 227
 Width: 1634
 GlyphClass: 3
@@ -9847,11 +9847,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.845703 1592 53 2
 Refer: 93 3381 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D35_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D35 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" v1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" v1 l3.bb
 EndChar
 
-StartChar: uni0D36_uni0D36
+StartChar: z1_z1
 Encoding: 238 -1 228
 Width: 1791
 GlyphClass: 3
@@ -9860,11 +9860,11 @@ LayerCount: 2
 Fore
 Refer: 94 3382 N 0.937012 0 0 0.487732 46 -489 2
 Refer: 94 3382 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D36 uni0D4D uni0D36
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D uni0D36
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx z1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx z1
 EndChar
 
-StartChar: uni0D36_uni0D32.bb
+StartChar: z1_l3.bb
 Encoding: 239 -1 229
 Width: 1791
 GlyphClass: 3
@@ -9873,11 +9873,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.845703 1692 53 2
 Refer: 94 3382 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D36_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D36 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" z1 l3.bb
 EndChar
 
-StartChar: uni0D36_uni0D28
+StartChar: z1_n1
 Encoding: 240 -1 230
 Width: 1791
 GlyphClass: 3
@@ -9886,11 +9886,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.646667 0 0 0.487732 575 -489 2
 Refer: 94 3382 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D36_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1_xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx n1
 EndChar
 
-StartChar: uni0D36_uni0D2E
+StartChar: z1_m1
 Encoding: 241 -1 231
 Width: 1791
 GlyphClass: 3
@@ -9899,11 +9899,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 0.839294 0 0 0.494995 649 -498 2
 Refer: 94 3382 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D36_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D36 uni0D4D uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1_xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" z1 xx m1
 EndChar
 
-StartChar: uni0D37_uni0D2A
+StartChar: sh_p1
 Encoding: 242 -1 232
 Width: 1835
 GlyphClass: 3
@@ -9912,11 +9912,11 @@ LayerCount: 2
 Fore
 Refer: 82 3370 N 1 0 0 0.508057 230 -494 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D2A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D2A
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx p1
 EndChar
 
-StartChar: uni0D37_uni0D15
+StartChar: sh_k1
 Encoding: 243 -1 233
 Width: 1835
 GlyphClass: 3
@@ -9925,11 +9925,11 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 0.90094 0 0 0.489868 205 -489 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx k1
 EndChar
 
-StartChar: uni0D37_uni0D23
+StartChar: sh_nh
 Encoding: 244 -1 234
 Width: 1835
 GlyphClass: 3
@@ -9938,11 +9938,11 @@ LayerCount: 2
 Fore
 Refer: 76 3363 N 0.649353 0 0 0.494141 134 -489 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D23
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D23
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx nh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx nh
 EndChar
 
-StartChar: uni0D37_uni0D1F
+StartChar: sh_t1
 Encoding: 245 -1 235
 Width: 1835
 GlyphClass: 3
@@ -9951,11 +9951,11 @@ LayerCount: 2
 Fore
 Refer: 72 3359 N 1.15338 0 0 0.484924 745 -487 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D1F
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D1F
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx t1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx t1
 EndChar
 
-StartChar: uni0D37_uni0D20
+StartChar: sh_t2
 Encoding: 246 -1 236
 Width: 1835
 GlyphClass: 3
@@ -9964,11 +9964,11 @@ LayerCount: 2
 Fore
 Refer: 73 3360 N 0.870361 0 0 0.49353 733 -494 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D20
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D20
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx t2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx t2
 EndChar
 
-StartChar: uni0D37_uni0D2E
+StartChar: sh_m1
 Encoding: 247 -1 237
 Width: 1835
 GlyphClass: 3
@@ -9977,11 +9977,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 0.929382 0 0 0.494995 666 -498 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx m1
 EndChar
 
-StartChar: uni0D37_uni0D2B
+StartChar: sh_p2
 Encoding: 248 -1 238
 Width: 1835
 GlyphClass: 3
@@ -9990,11 +9990,11 @@ LayerCount: 2
 Fore
 Refer: 83 3371 N 0.75885 0 0 0.488708 314 -492 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D2B
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D2B
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx p2
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx p2
 EndChar
 
-StartChar: uni0D37_uni0D24
+StartChar: sh_th1
 Encoding: 249 -1 239
 Width: 1835
 GlyphClass: 3
@@ -10003,11 +10003,11 @@ LayerCount: 2
 Fore
 Refer: 77 3364 N 0.852661 0 0 0.478699 179 -482 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx th1
 EndChar
 
-StartChar: uni0D37_uni0D28
+StartChar: sh_n1
 Encoding: 250 -1 240
 Width: 1835
 GlyphClass: 3
@@ -10016,11 +10016,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.886475 0 0 0.484314 203 -489 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D37 uni0D4D uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" sh xx n1
 EndChar
 
-StartChar: uni0D38_uni0D38
+StartChar: s1_s1
 Encoding: 251 -1 241
 Width: 2258
 GlyphClass: 3
@@ -10029,11 +10029,11 @@ LayerCount: 2
 Fore
 Refer: 96 3384 N 0.906067 0 0 0.498474 118 -494 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D38
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D38
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx s1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx s1
 EndChar
 
-StartChar: uni0D38_uni0D32.bb
+StartChar: s1_l3.bb
 Encoding: 252 -1 242
 Width: 2258
 GlyphClass: 3
@@ -10042,11 +10042,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.841492 2194 50 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D38 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" s1 l3.bb
 EndChar
 
-StartChar: uni0D38_uni0D31_uni0D31
+StartChar: s1_rh_rh
 Encoding: 253 -1 243
 Width: 2258
 GlyphClass: 3
@@ -10056,11 +10056,11 @@ Fore
 Refer: 89 3377 N 0.779419 0 0 0.49115 469 -488 2
 Refer: 89 3377 N 0.724854 0 0 0.49408 1343 -491 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D31 uni0D4D uni0D31
-Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" uni0D38_uni0D4D uni0D31_uni0D31
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx rh xx rh
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 8 subtable" s1_xx rh_rh
 EndChar
 
-StartChar: uni0D38_uni0D2A
+StartChar: s1_p1
 Encoding: 254 -1 244
 Width: 2258
 GlyphClass: 3
@@ -10069,11 +10069,11 @@ LayerCount: 2
 Fore
 Refer: 82 3370 N 1 0 0 0.503479 616 -491 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D2A
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D2A
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx p1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx p1
 EndChar
 
-StartChar: uni0D38_uni0D24
+StartChar: s1_th1
 Encoding: 255 -1 245
 Width: 2258
 GlyphClass: 3
@@ -10082,11 +10082,11 @@ LayerCount: 2
 Fore
 Refer: 77 3364 N 0.917847 0 0 0.478699 468 -485 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx th1
 EndChar
 
-StartChar: uni0D38_uni0D15
+StartChar: s1_k1
 Encoding: 256 -1 246
 Width: 2258
 GlyphClass: 3
@@ -10095,11 +10095,11 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 0.935669 0 0 0.485413 520 -492 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx k1
 EndChar
 
-StartChar: uni0D38_uni0D28
+StartChar: s1_n1
 Encoding: 257 -1 247
 Width: 2258
 GlyphClass: 3
@@ -10108,11 +10108,11 @@ LayerCount: 2
 Fore
 Refer: 81 3368 N 0.926941 0 0 0.489685 516 -492 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D28
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx n1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx n1
 EndChar
 
-StartChar: uni0D38_uni0D2E
+StartChar: s1_m1
 Encoding: 258 -1 248
 Width: 2258
 GlyphClass: 3
@@ -10121,11 +10121,11 @@ LayerCount: 2
 Fore
 Refer: 86 3374 N 1 0 0 0.497986 952 -504 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D38 uni0D4D uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" s1 xx m1
 EndChar
 
-StartChar: uni0D39_uni0D32.bb
+StartChar: h1_l3.bb
 Encoding: 259 -1 249
 Width: 2136
 GlyphClass: 3
@@ -10134,11 +10134,11 @@ LayerCount: 2
 Fore
 Refer: 141 -1 N 1 0 0 0.851685 2101 57 2
 Refer: 97 3385 N 1 0 0 1 0 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D39_uni0D4D uni0D32
-Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" uni0D39 uni0D32.bb
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" h1_xx l3
+Ligature2: "'blws' Below Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 4 subtable" h1 l3.bb
 EndChar
 
-StartChar: uni0D34_uni0D24
+StartChar: zh_th1
 Encoding: 260 -1 250
 Width: 1373
 GlyphClass: 3
@@ -10147,11 +10147,11 @@ LayerCount: 2
 Fore
 Refer: 92 3380 N 1 0 0 1 0 0 2
 Refer: 77 3364 N 0.682861 0 0 0.484985 81 -485 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D34_uni0D4D uni0D24
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" zh_xx th1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx th1
 EndChar
 
-StartChar: uni0D34_uni0D15
+StartChar: zh_k1
 Encoding: 261 -1 251
 Width: 1373
 GlyphClass: 3
@@ -10160,11 +10160,11 @@ LayerCount: 2
 Fore
 Refer: 92 3380 N 1 0 0 1 0 0 2
 Refer: 62 3349 N 0.733093 0 0 0.491821 90 -492 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D34_uni0D4D uni0D15
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" zh_xx k1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx k1
 EndChar
 
-StartChar: uni0D34_glyph161
+StartChar: zh_th1th1
 Encoding: 262 -1 252
 Width: 1373
 GlyphClass: 2
@@ -10173,10 +10173,10 @@ LayerCount: 2
 Fore
 Refer: 92 3380 N 1 0 0 1 0 0 2
 Refer: 164 -1 N 0.424561 0 0 0.482056 78 -482 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D uni0D24 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx th1 xx th1
 EndChar
 
-StartChar: uni0D34_uni0D2E
+StartChar: zh_m1
 Encoding: 263 -1 253
 Width: 1373
 GlyphClass: 3
@@ -10185,11 +10185,11 @@ LayerCount: 2
 Fore
 Refer: 92 3380 N 1 0 0 1 0 0 2
 Refer: 86 3374 N 0.819763 0 0 0.494446 214 -498 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D34_uni0D4D uni0D2E
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D34 uni0D4D uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" zh_xx m1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" zh xx m1
 EndChar
 
-StartChar: uni0D28.cil_uni0D31
+StartChar: n1.cil_uni0D31
 Encoding: 264 -1 254
 Width: 1934
 GlyphClass: 3
@@ -10198,11 +10198,11 @@ LayerCount: 2
 Fore
 Refer: 89 3377 N 0.968445 0 0 0.401123 763 -403 2
 Refer: 134 -1 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni0D28 uni0D4D uni0D31
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D28 uni0D4D uni0D31
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx rh
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" n1 xx rh
 EndChar
 
-StartChar: uni0D30.pb_uni0D15
+StartChar: r3.pb_uni0D15
 Encoding: 265 -1 255
 Width: 2109
 GlyphClass: 3
@@ -10211,12 +10211,12 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 1 0 0 1 357 0 2
 Refer: 143 -1 N 1 0 0 1 8 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D15 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D15
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 k1
 EndChar
 
-StartChar: uni0D30.pb_uni0D17
+StartChar: r3.pb_uni0D17
 Encoding: 266 -1 256
 Width: 2025
 GlyphClass: 3
@@ -10225,12 +10225,12 @@ LayerCount: 2
 Fore
 Refer: 64 3351 N 1 0 0 1 347 0 2
 Refer: 143 -1 N 1 0 0 1 8 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D17 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D17
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 k3
 EndChar
 
-StartChar: uni0D30.pb_uni0D18
+StartChar: r3.pb_uni0D18
 Encoding: 267 -1 257
 Width: 2581
 GlyphClass: 3
@@ -10239,12 +10239,12 @@ LayerCount: 2
 Fore
 Refer: 65 3352 N 1 0 0 1 347 0 2
 Refer: 143 -1 N 1 0 0 1 8 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D18_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D18 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D18
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k4_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 k4
 EndChar
 
-StartChar: uni0D30.pb_uni0D1B
+StartChar: r3.pb_uni0D1B
 Encoding: 268 -1 258
 Width: 2803
 GlyphClass: 3
@@ -10253,12 +10253,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 68 3355 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1B_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1B uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D1B
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch2_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 ch2
 EndChar
 
-StartChar: uni0D30.pb_uni0D1C
+StartChar: r3.pb_uni0D1C
 Encoding: 269 -1 259
 Width: 1950
 GlyphClass: 3
@@ -10267,12 +10267,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 69 3356 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1C_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1C uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D1C
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch3_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 ch3
 EndChar
 
-StartChar: uni0D30.pb_uni0D1D
+StartChar: r3.pb_uni0D1D
 Encoding: 270 -1 260
 Width: 3428
 GlyphClass: 3
@@ -10281,12 +10281,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 70 3357 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1D_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1D uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D1D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch4_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 ch4
 EndChar
 
-StartChar: uni0D30.pb_uni0D1F
+StartChar: r3.pb_uni0D1F
 Encoding: 271 -1 261
 Width: 1241
 GlyphClass: 3
@@ -10295,12 +10295,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 72 3359 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1F_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D1F uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D1F
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 t1
 EndChar
 
-StartChar: uni0D30.pb_uni0D21
+StartChar: r3.pb_uni0D21
 Encoding: 272 -1 262
 Width: 2605
 GlyphClass: 3
@@ -10309,12 +10309,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 74 3361 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D21_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D21 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D21
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t3_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 t3
 EndChar
 
-StartChar: uni0D30.pb_uni0D22
+StartChar: r3.pb_uni0D22
 Encoding: 273 -1 263
 Width: 2633
 GlyphClass: 3
@@ -10323,12 +10323,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 75 3362 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D22_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D22 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D22
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t4_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 t4
 EndChar
 
-StartChar: uni0D30.pb_uni0D24
+StartChar: r3.pb_uni0D24
 Encoding: 274 -1 264
 Width: 2231
 GlyphClass: 3
@@ -10337,12 +10337,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 77 3364 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D24_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D24 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D24
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 th1
 EndChar
 
-StartChar: uni0D30.pb_uni0D26
+StartChar: r3.pb_uni0D26
 Encoding: 275 -1 265
 Width: 1586
 GlyphClass: 3
@@ -10351,12 +10351,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 79 3366 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D26_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D26 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D26
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th3_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 th3
 EndChar
 
-StartChar: uni0D30.pb_uni0D27
+StartChar: r3.pb_uni0D27
 Encoding: 276 -1 266
 Width: 2139
 GlyphClass: 3
@@ -10365,12 +10365,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 80 3367 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D27_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D27 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D27
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th4_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 th4
 EndChar
 
-StartChar: uni0D30.pb_uni0D28
+StartChar: r3.pb_uni0D28
 Encoding: 277 -1 267
 Width: 2139
 GlyphClass: 3
@@ -10379,12 +10379,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 81 3368 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D28_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D28 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D28
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 n1
 EndChar
 
-StartChar: uni0D30.pb_uni0D2A
+StartChar: r3.pb_uni0D2A
 Encoding: 278 -1 268
 Width: 1889
 GlyphClass: 3
@@ -10393,12 +10393,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 -1 2
 Refer: 82 3370 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D2A
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2A_uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 p1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1_xx r3
 EndChar
 
-StartChar: uni0D30.pb_uni0D2B
+StartChar: r3.pb_uni0D2B
 Encoding: 279 -1 269
 Width: 2284
 GlyphClass: 3
@@ -10407,12 +10407,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 83 3371 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2B_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2B uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D2B
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 p2
 EndChar
 
-StartChar: uni0D30.pb_uni0D2C
+StartChar: r3.pb_uni0D2C
 Encoding: 280 -1 270
 Width: 2777
 GlyphClass: 3
@@ -10421,12 +10421,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 84 3372 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2C uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D2C
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 p3
 EndChar
 
-StartChar: uni0D30.pb_uni0D2D
+StartChar: r3.pb_uni0D2D
 Encoding: 281 -1 271
 Width: 1590
 GlyphClass: 3
@@ -10435,12 +10435,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 85 3373 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2D_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2D uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D2D
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p4_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 p4
 EndChar
 
-StartChar: uni0D30.pb_uni0D2E
+StartChar: r3.pb_uni0D2E
 Encoding: 282 -1 272
 Width: 1559
 GlyphClass: 3
@@ -10449,12 +10449,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 86 3374 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2E_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D2E uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D2E
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 m1
 EndChar
 
-StartChar: uni0D30.pb_uni0D35
+StartChar: r3.pb_uni0D35
 Encoding: 283 -1 273
 Width: 1941
 GlyphClass: 3
@@ -10463,12 +10463,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 93 3381 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D35_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D35 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D35
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" v1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" v1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 v1
 EndChar
 
-StartChar: uni0D30.pb_uni0D36
+StartChar: r3.pb_uni0D36
 Encoding: 284 -1 274
 Width: 2138
 GlyphClass: 3
@@ -10477,12 +10477,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 94 3382 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D36
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D36 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D36_uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 z1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1_xx r3
 EndChar
 
-StartChar: uni0D30.pb_uni0D37
+StartChar: r3.pb_uni0D37
 Encoding: 285 -1 275
 Width: 2141
 GlyphClass: 3
@@ -10491,12 +10491,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 95 3383 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D37 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D37
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 sh
 EndChar
 
-StartChar: uni0D30.pb_uni0D38
+StartChar: r3.pb_uni0D38
 Encoding: 286 -1 276
 Width: 2605
 GlyphClass: 3
@@ -10505,12 +10505,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 96 3384 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D38 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D38
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 s1
 EndChar
 
-StartChar: uni0D30.pb_uni0D39
+StartChar: r3.pb_uni0D39
 Encoding: 287 -1 277
 Width: 2483
 GlyphClass: 3
@@ -10519,12 +10519,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 97 3385 N 1 0 0 1 347 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D39_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D39 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D39
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" h1_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" h1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 h1
 EndChar
 
-StartChar: uni0D30.pb_glyph218
+StartChar: r3.pb_glyph218
 Encoding: 288 -1 278
 Width: 1698
 GlyphClass: 3
@@ -10533,12 +10533,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 9 0 2
 Refer: 221 -1 N 1 0 0 1 494 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D31_uni0D31_uni0D4D uni0D30
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" uni0D31_uni0D31 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb uni0D31_uni0D31
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" rh_rh_xx r3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" rh_rh r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 rh_rh
 EndChar
 
-StartChar: uni0D30.pb_glyph159
+StartChar: r3.pb_glyph159
 Encoding: 289 -1 279
 Width: 4175
 GlyphClass: 3
@@ -10547,12 +10547,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 162 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph159 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph159
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph159 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nht3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 nht3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nht3 xx r3
 EndChar
 
-StartChar: uni0D30.pb_glyph160
+StartChar: r3.pb_glyph160
 Encoding: 290 -1 280
 Width: 3025
 GlyphClass: 3
@@ -10561,12 +10561,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 163 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph160 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph160
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph160 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nht1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 nht1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" nht1 xx r3
 EndChar
 
-StartChar: uni0D30.pb_glyph169
+StartChar: r3.pb_glyph169
 Encoding: 291 -1 281
 Width: 2290
 GlyphClass: 3
@@ -10575,12 +10575,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 172 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph169 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph169
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph169 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th3 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 n1th3
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th3 xx r3
 EndChar
 
-StartChar: uni0D30.pb_glyph170
+StartChar: r3.pb_glyph170
 Encoding: 292 -1 282
 Width: 2951
 GlyphClass: 3
@@ -10589,12 +10589,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 173 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph170 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph170
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph170 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 n1th1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th1 xx r3
 EndChar
 
-StartChar: uni0D30.pb_glyph175
+StartChar: r3.pb_glyph175
 Encoding: 293 -1 283
 Width: 2721
 GlyphClass: 3
@@ -10603,12 +10603,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 178 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph175 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph175
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph175 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1p1 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 m1p1
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1p1 xx r3
 EndChar
 
-StartChar: uni0D15_uni0D4D
+StartChar: k1_xx
 Encoding: 294 -1 284
 Width: 1892
 GlyphClass: 3
@@ -10617,10 +10617,10 @@ LayerCount: 2
 Fore
 Refer: 62 3349 N 1 0 0 1 0 0 2
 Refer: 110 3405 N 1 0 0 1 1745 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D15 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" k1 xx
 EndChar
 
-StartChar: uni0D16_uni0D4D
+StartChar: k2_xx
 Encoding: 295 -1 285
 Width: 1812
 GlyphClass: 3
@@ -10629,10 +10629,10 @@ LayerCount: 2
 Fore
 Refer: 63 3350 N 1 0 0 1 0 0 2
 Refer: 110 3405 N 1 0 0 1 1665 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D16 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" k2 xx
 EndChar
 
-StartChar: uni0D17_uni0D4D
+StartChar: k3_xx
 Encoding: 296 -1 286
 Width: 1818
 GlyphClass: 3
@@ -10641,10 +10641,10 @@ LayerCount: 2
 Fore
 Refer: 64 3351 N 1 0 0 1 0 0 2
 Refer: 110 3405 N 1 0 0 1 1671 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D17 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" k3 xx
 EndChar
 
-StartChar: uni0D18_uni0D4D
+StartChar: k4_xx
 Encoding: 297 -1 287
 Width: 2415
 GlyphClass: 3
@@ -10653,10 +10653,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2268 0 2
 Refer: 65 3352 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D18 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" k4 xx
 EndChar
 
-StartChar: uni0D19_uni0D4D
+StartChar: ng_xx
 Encoding: 298 -1 288
 Width: 2079
 GlyphClass: 3
@@ -10665,10 +10665,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1932 0 2
 Refer: 66 3353 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D19 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" ng xx
 EndChar
 
-StartChar: uni0D1A_uni0D4D
+StartChar: ch1_xx
 Encoding: 299 -1 289
 Width: 1926
 GlyphClass: 3
@@ -10677,10 +10677,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1779 0 2
 Refer: 67 3354 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1A uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" ch1 xx
 EndChar
 
-StartChar: uni0D1B_uni0D4D
+StartChar: ch2_xx
 Encoding: 300 -1 290
 Width: 2596
 GlyphClass: 3
@@ -10689,10 +10689,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2449 0 2
 Refer: 68 3355 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1B uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" ch2 xx
 EndChar
 
-StartChar: uni0D1C_uni0D4D
+StartChar: ch3_xx
 Encoding: 301 -1 291
 Width: 1743
 GlyphClass: 3
@@ -10701,10 +10701,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1596 0 2
 Refer: 69 3356 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1C uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" ch3 xx
 EndChar
 
-StartChar: uni0D1D_uni0D4D
+StartChar: ch4_xx
 Encoding: 302 -1 292
 Width: 3221
 GlyphClass: 3
@@ -10713,10 +10713,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 3074 0 2
 Refer: 70 3357 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1D uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" ch4 xx
 EndChar
 
-StartChar: uni0D1E_uni0D4D
+StartChar: nj_xx
 Encoding: 303 -1 293
 Width: 2799
 GlyphClass: 3
@@ -10725,10 +10725,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2652 0 2
 Refer: 71 3358 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1E uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" nj xx
 EndChar
 
-StartChar: uni0D1F_uni0D4D
+StartChar: t1_xx
 Encoding: 304 -1 294
 Width: 1034
 GlyphClass: 3
@@ -10737,10 +10737,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 887 0 2
 Refer: 72 3359 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D1F uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" t1 xx
 EndChar
 
-StartChar: uni0D20_uni0D4D
+StartChar: t2_xx
 Encoding: 305 -1 295
 Width: 1354
 GlyphClass: 3
@@ -10749,10 +10749,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1207 0 2
 Refer: 73 3360 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D20 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" t2 xx
 EndChar
 
-StartChar: uni0D21_uni0D4D
+StartChar: t3_xx
 Encoding: 306 -1 296
 Width: 2398
 GlyphClass: 3
@@ -10761,10 +10761,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2251 0 2
 Refer: 74 3361 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D21 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" t3 xx
 EndChar
 
-StartChar: uni0D22_uni0D4D
+StartChar: t4_xx
 Encoding: 307 -1 297
 Width: 2424
 GlyphClass: 3
@@ -10773,10 +10773,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2277 0 2
 Refer: 75 3362 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D22 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" t4 xx
 EndChar
 
-StartChar: uni0D23_uni0D4D
+StartChar: nh_xx
 Encoding: 308 -1 298
 Width: 2691
 GlyphClass: 3
@@ -10785,10 +10785,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2544 0 2
 Refer: 76 3363 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D23 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" nh xx
 EndChar
 
-StartChar: uni0D24_uni0D4D
+StartChar: th1_xx
 Encoding: 309 -1 299
 Width: 2024
 GlyphClass: 3
@@ -10797,10 +10797,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1877 0 2
 Refer: 77 3364 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D24 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" th1 xx
 EndChar
 
-StartChar: uni0D25_uni0D4D
+StartChar: th2_xx
 Encoding: 310 -1 300
 Width: 1727
 GlyphClass: 3
@@ -10809,10 +10809,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1580 0 2
 Refer: 78 3365 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D25 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" th2 xx
 EndChar
 
-StartChar: uni0D26_uni0D4D
+StartChar: th3_xx
 Encoding: 311 -1 301
 Width: 1379
 GlyphClass: 3
@@ -10821,10 +10821,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1232 0 2
 Refer: 79 3366 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D26 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" th3 xx
 EndChar
 
-StartChar: uni0D27_uni0D4D
+StartChar: th4_xx
 Encoding: 312 -1 302
 Width: 1932
 GlyphClass: 3
@@ -10833,10 +10833,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1785 0 2
 Refer: 80 3367 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D27 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" th4 xx
 EndChar
 
-StartChar: uni0D28_uni0D4D
+StartChar: n1_xx
 Encoding: 313 -1 303
 Width: 1932
 GlyphClass: 3
@@ -10845,10 +10845,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1785 0 2
 Refer: 81 3368 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D28 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" n1 xx
 EndChar
 
-StartChar: uni0D2A_uni0D4D
+StartChar: p1_xx
 Encoding: 314 -1 304
 Width: 1723
 GlyphClass: 3
@@ -10857,10 +10857,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1576 0 2
 Refer: 82 3370 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2A uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" p1 xx
 EndChar
 
-StartChar: uni0D2B_uni0D4D
+StartChar: p2_xx
 Encoding: 315 -1 305
 Width: 2118
 GlyphClass: 3
@@ -10869,10 +10869,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1971 0 2
 Refer: 83 3371 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2B uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" p2 xx
 EndChar
 
-StartChar: uni0D2C_uni0D4D
+StartChar: p3_xx
 Encoding: 316 -1 306
 Width: 2611
 GlyphClass: 3
@@ -10881,10 +10881,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2464 0 2
 Refer: 84 3372 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2C uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" p3 xx
 EndChar
 
-StartChar: uni0D2D_uni0D4D
+StartChar: p4_xx
 Encoding: 317 -1 307
 Width: 1383
 GlyphClass: 3
@@ -10893,10 +10893,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1236 0 2
 Refer: 85 3373 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2D uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" p4 xx
 EndChar
 
-StartChar: uni0D2E_uni0D4D
+StartChar: m1_xx
 Encoding: 318 -1 308
 Width: 1373
 GlyphClass: 3
@@ -10905,10 +10905,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1226 0 2
 Refer: 86 3374 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2E uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" m1 xx
 EndChar
 
-StartChar: uni0D2F_uni0D4D
+StartChar: y1_xx
 Encoding: 319 -1 309
 Width: 1974
 GlyphClass: 3
@@ -10917,10 +10917,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1827 0 2
 Refer: 87 3375 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D2F uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" y1 xx
 EndChar
 
-StartChar: uni0D30_uni0D4D
+StartChar: r3_xx
 Encoding: 320 -1 310
 Width: 1421
 GlyphClass: 3
@@ -10929,10 +10929,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1274 0 2
 Refer: 88 3376 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D30 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" r3 xx
 EndChar
 
-StartChar: uni0D31_uni0D4D
+StartChar: rh_xx
 Encoding: 321 -1 311
 Width: 1344
 GlyphClass: 3
@@ -10941,10 +10941,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1197 0 2
 Refer: 89 3377 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D31 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" rh xx
 EndChar
 
-StartChar: uni0D32_uni0D4D
+StartChar: l3_xx
 Encoding: 322 -1 312
 Width: 1610
 GlyphClass: 3
@@ -10953,10 +10953,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1463 0 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D32 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" l3 xx
 EndChar
 
-StartChar: uni0D33_uni0D4D
+StartChar: lh_xx
 Encoding: 323 -1 313
 Width: 1367
 GlyphClass: 3
@@ -10965,10 +10965,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1220 0 2
 Refer: 91 3379 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D33 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" lh xx
 EndChar
 
-StartChar: uni0D34_uni0D4D
+StartChar: zh_xx
 Encoding: 324 -1 314
 Width: 1513
 GlyphClass: 3
@@ -10977,10 +10977,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1366 0 2
 Refer: 92 3380 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D34 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" zh xx
 EndChar
 
-StartChar: uni0D35_uni0D4D
+StartChar: v1_xx
 Encoding: 325 -1 315
 Width: 1774
 GlyphClass: 3
@@ -10989,10 +10989,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1627 0 2
 Refer: 93 3381 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D35 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" v1 xx
 EndChar
 
-StartChar: uni0D36_uni0D4D
+StartChar: z1_xx
 Encoding: 326 -1 316
 Width: 1931
 GlyphClass: 3
@@ -11001,10 +11001,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1784 0 2
 Refer: 94 3382 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D36 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" z1 xx
 EndChar
 
-StartChar: uni0D37_uni0D4D
+StartChar: sh_xx
 Encoding: 327 -1 317
 Width: 1975
 GlyphClass: 3
@@ -11013,10 +11013,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1828 0 2
 Refer: 95 3383 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D37 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" sh xx
 EndChar
 
-StartChar: uni0D38_uni0D4D
+StartChar: s1_xx
 Encoding: 328 -1 318
 Width: 2398
 GlyphClass: 3
@@ -11025,10 +11025,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2251 0 2
 Refer: 96 3384 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D38 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" s1 xx
 EndChar
 
-StartChar: uni0D39_uni0D4D
+StartChar: h1_xx
 Encoding: 329 -1 319
 Width: 2276
 GlyphClass: 3
@@ -11037,10 +11037,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 2129 0 2
 Refer: 97 3385 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D39 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" h1 xx
 EndChar
 
-StartChar: uni0D31_uni0D31_uni0D4D
+StartChar: rh_rh_xx
 Encoding: 330 -1 320
 Width: 1344
 GlyphClass: 3
@@ -11049,10 +11049,10 @@ LayerCount: 2
 Fore
 Refer: 110 3405 N 1 0 0 1 1197 0 2
 Refer: 221 -1 N 1 0 0 1 0 0 2
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" uni0D31_uni0D31 uni0D4D
+Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 5 subtable" rh_rh xx
 EndChar
 
-StartChar: uni0D30.pb_glyph171
+StartChar: r3.pb_glyph171
 Encoding: 331 -1 321
 Width: 3409
 GlyphClass: 3
@@ -11061,12 +11061,12 @@ LayerCount: 2
 Fore
 Refer: 143 -1 N 1 0 0 1 8 0 2
 Refer: 174 -1 N 1 0 0 1 447 0 2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph171 uni0D30.pb
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" uni0D30.pb glyph171
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" glyph171 uni0D4D uni0D30
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th4 r4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 7 subtable" r4 n1th4
+Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th4 xx r3
 EndChar
 
-StartChar: uni0D7A
+StartChar: nhcil2
 Encoding: 125 3450 322
 Width: 2701
 Flags: W
@@ -11151,7 +11151,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7B
+StartChar: nlcil2
 Encoding: 126 3451 323
 Width: 1934
 Flags: W
@@ -11209,7 +11209,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7C
+StartChar: r3cil2
 Encoding: 127 3452 324
 Width: 1280
 Flags: W
@@ -11253,7 +11253,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7D
+StartChar: l3cil2
 Encoding: 128 3453 325
 Width: 2137
 Flags: W
@@ -11317,7 +11317,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7E
+StartChar: lhcil2
 Encoding: 129 3454 326
 Width: 1885
 Flags: W
@@ -11375,7 +11375,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D7F
+StartChar: k1cil2
 Encoding: 130 3455 327
 Width: 1939
 Flags: W
@@ -11450,7 +11450,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D79
+StartChar: ml_1000
 Encoding: 124 3449 328
 Width: 2278
 Flags: W
@@ -11508,7 +11508,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D3A
+StartChar: rh_half
 Encoding: 96 3386 329
 Width: 909
 Flags: W
@@ -11531,7 +11531,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D29
+StartChar: n2
 Encoding: 79 3369 330
 Width: 2551
 Flags: W
@@ -11585,7 +11585,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D71
+StartChar: ml_100
 Encoding: 123 3441 331
 Width: 2413
 Flags: W
@@ -11634,11 +11634,11 @@ LayerCount: 2
 Fore
 Refer: 46 3330 N 1 0 0 1 925 14 2
 Refer: 98 3390 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni25CC uni0D3E uni0D02
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC uni0D3E uni0D02
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni25CC a2 anuswara
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" uni25CC a2 anuswara
 EndChar
 
-StartChar: uni0D4E
+StartChar: dotrepha
 Encoding: 333 3406 333
 Width: 0
 Flags: W
@@ -11654,7 +11654,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0D32_uni0D15_uni0D4D_uni0D15
+StartChar: l3_k1_xx_k1
 Encoding: 334 -1 334
 Width: 1391
 Flags: W
@@ -11662,10 +11662,10 @@ LayerCount: 2
 Fore
 Refer: 90 3378 N 1 0 0 1 -41.7002 3 2
 Refer: 147 -1 N 0.521566 0 0 0.397485 85.2998 -403 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D15 uni0D4D uni0D15
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx k1 xx k1
 EndChar
 
-StartChar: uni0D32_uni0D24_uni0D4D_uni0D24
+StartChar: l3_th1_xx_th1
 Encoding: 335 -1 335
 Width: 1437
 Flags: W
@@ -11673,10 +11673,10 @@ LayerCount: 2
 Fore
 Refer: 164 -1 N 0.413043 0 0 0.402217 105.63 -406.626 2
 Refer: 90 3378 N 1 0 0 1 -34 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D24 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx th1 xx th1
 EndChar
 
-StartChar: uni0D32_uni0D24
+StartChar: l3_th1
 Encoding: 336 -1 336
 Width: 1470
 Flags: W
@@ -11684,7 +11684,7 @@ LayerCount: 2
 Fore
 Refer: 77 3364 N 0.708045 0 0 0.397266 91.0423 -398.257 2
 Refer: 90 3378 N 1 0 0 1 0 0 2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" uni0D32 uni0D4D uni0D24
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" l3 xx th1
 EndChar
 EndChars
 EndSplineFont
