@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1383994766
+ModificationTime: 1389891980
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -80,7 +80,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 288 36 12
+WinInfo: 0 35 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
@@ -80328,8 +80328,8 @@ EndChar
 
 StartChar: ml_quarter
 Encoding: 184 3443 1089
-Width: 685
-Flags: W
+Width: 1280
+Flags: WO
 LayerCount: 2
 Back
 SplineSet
