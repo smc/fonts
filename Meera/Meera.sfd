@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1391950882
+ModificationTime: 1391951073
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -80,7 +80,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 546 42 14
+WinInfo: 0 42 14
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "chandrakkala"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam2 lookup 0-1" 
@@ -4305,48 +4305,13 @@ EndChar
 
 StartChar: t3
 Encoding: 124 3361 127
-Width: 2174
+Width: 2168
 GlyphClass: 2
-Flags: MW
-AnchorPoint: "chandrakkala" 2174 0 basechar 0
+Flags: MWO
+AnchorPoint: "chandrakkala" 2167 -2 basechar 0
 LayerCount: 2
 Fore
-SplineSet
-2179 460 m 0,0,1
- 2179 261 2179 261 2066.5 120 c 128,-1,2
- 1954 -21 1954 -21 1756 -21 c 256,3,4
- 1558 -21 1558 -21 1461 128 c 1,5,6
- 1365 -21 1365 -21 1178 -21 c 256,7,8
- 991 -21 991 -21 884 89.5 c 128,-1,9
- 777 200 777 200 777 364 c 2,10,-1
- 777 540 l 2,11,12
- 777 652 777 652 716 737.5 c 128,-1,13
- 655 823 655 823 549 823 c 0,14,15
- 416 823 416 823 339.5 710.5 c 128,-1,16
- 263 598 263 598 263 446 c 0,17,18
- 263 183 263 183 485 69 c 1,19,-1
- 416 -27 l 1,20,21
- 143 121 143 121 143 448 c 0,22,23
- 143 655 143 655 249.5 799 c 128,-1,24
- 356 943 356 943 543 943 c 256,25,26
- 730 943 730 943 822.5 815.5 c 128,-1,27
- 915 688 915 688 915 502 c 2,28,-1
- 915 360 l 2,29,30
- 915 250 915 250 977.5 177 c 128,-1,31
- 1040 104 1040 104 1151 104 c 256,32,33
- 1262 104 1262 104 1324.5 169.5 c 128,-1,34
- 1387 235 1387 235 1387 336 c 2,35,-1
- 1387 920 l 1,36,-1
- 1529 920 l 1,37,-1
- 1529 336 l 2,38,39
- 1529 242 1529 242 1599.5 173 c 128,-1,40
- 1670 104 1670 104 1768 104 c 0,41,42
- 1903 104 1903 104 1974 209.5 c 128,-1,43
- 2045 315 2045 315 2045 456 c 0,44,45
- 2045 723 2045 723 1834 842 c 1,46,-1
- 1903 943 l 1,47,48
- 2179 795 2179 795 2179 460 c 0,0,1
-EndSplineSet
+Refer: 149 3384 N -0.999507 0 0 -1.00108 2310.93 944.021 2
 EndChar
 
 StartChar: t4
@@ -73242,7 +73207,7 @@ StartChar: rhu1
 Encoding: 1021 -1 1010
 Width: 1115
 GlyphClass: 3
-Flags: MWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
