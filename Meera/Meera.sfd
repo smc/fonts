@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1391951827
+ModificationTime: 1392919885
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -78620,6 +78620,20 @@ EndSplineSet
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 4 subtable" r4 p3k3
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p3k3 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 4 subtable" p3k3 xx r3
+EndChar
+
+StartChar: ngk3
+Encoding: 1090 -1 1090
+Width: 1691
+Flags: WO
+AnchorPoint: "chandrakkala" 950 1040 basechar 0
+LayerCount: 2
+Fore
+Refer: 117 3351 S 0.784 0 0 0.784 325.332 -768.424 2
+Refer: 119 3353 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 0 subtable" ng xx k3
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx k3
 EndChar
 EndChars
 EndSplineFont
