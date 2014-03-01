@@ -7849,7 +7849,7 @@ EndChar
 
 StartChar: xx
 Encoding: 164 3405 164
-Width: 476
+Width: 184
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
@@ -7872,6 +7872,7 @@ SplineSet
  468 1220 468 1220 472 1202 c 0,26,27
  476 1182 476 1182 476 1172 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: au2
