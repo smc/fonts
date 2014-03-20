@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1392919357
+ModificationTime: 1395351938
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -772,7 +772,7 @@ WinInfo: 684 36 12
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "dotreph"  "'abvm' Above Base Mark in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 0 subtable" 
-BeginChars: 1090 1090
+BeginChars: 1091 1091
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -83593,6 +83593,7 @@ SplineSet
  970 516 970 516 970 610 c 0,77,78
 EndSplineSet
 Validated: 1
+LCarets2: 2 0 0 
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" zh xx v1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx v1
 Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable" zh v2
@@ -88800,6 +88801,21 @@ Refer: 117 3351 S 0.77 0 0 0.77 360.32 -731.19 2
 Refer: 119 3353 N 1 0 0 1 0 0 2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ng xx k3
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" ng xx k3
+EndChar
+
+StartChar: y1v1
+Encoding: 1090 -1 1090
+Width: 1624
+Flags: WO
+AnchorPoint: "dotreph" 730 990 basechar 0
+LayerCount: 2
+Fore
+Refer: 146 3381 N 0.7 0 0 0.7 495.3 -694.3 2
+Refer: 140 3375 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0 
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 1 subtable" y1 xx v1
+Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx v1
+Ligature2: "'psts' Post Base Substitutions in Malay+AQEA-lam/Malay+AQEA-lam2 lookup 6 subtable" y1 v2
 EndChar
 EndChars
 EndSplineFont
