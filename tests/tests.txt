@@ -166,6 +166,8 @@ Rendering glyphs with r4 ( ്ര)
 "അവനി വാഴ്വ് കിനാവ്"
 "അവള്‍ക്ക്"
 --------------------
+പറയ്വോ?
+പോയ്വര്വോ?
 --------------------
 Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna
