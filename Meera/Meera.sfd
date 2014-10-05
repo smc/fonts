@@ -5577,7 +5577,7 @@ EndChar
 StartChar: xx
 Encoding: 164 3405 164
 Width: 318
-GlyphClass: 2
+GlyphClass: 4
 Flags: MW
 AnchorPoint: "chandrakkala" 47 0 basechar 0
 AnchorPoint: "dotreph" -600 1020 basechar 0
