@@ -2,6 +2,7 @@
 * Reference glyphs usage for many glyphs, reducing font size - Santhosh, Rajeesh, Jishnu
 * Metadata information for AppData/Software Center - Rajeesh
 * Fix synthetic italics for AnjaliOldLipi
+* Stronger stroke width for RaghuMalayalam
 * Incorporate Panose values - Fedora bug#803234
 * Test case file update - by Kavya
 * Standard glyph names for many fonts - Jishnu, Prime Jyothi
