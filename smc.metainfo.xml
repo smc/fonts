@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2014 Rajeesh K V <rajeeshknambiar@fedoraproject.org> -->
 <component type="font">
   <id>smc</id>
@@ -9,7 +9,12 @@
   <description>
     <p>
       Unicode fonts for traditional and reformed Malayalam script
-      developed by Swathanthra Malayalam Computing
+      developed by Swathanthra Malayalam Computing.
+    </p>
+    <p>
+      The font collection includes traditional orthography fonts
+      AnjaliOldLipi, Dyuthi, Meera, Rachana, Suruma and reformed
+      orthography fonts Kalyani and Raghumalayalam.
     </p>
   </description>
   <updatecontact>rajeeshknambiar_at_fedoraproject_dot_org</updatecontact>
@@ -17,7 +22,7 @@
   <metadata>
   <value key="FontSampleText">മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും
 	 സ്വാതന്ത്ര്യത്തോടും കൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്
-	 മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.</key>
+	 മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.</value>
   <value key="FontIconText">അഇ</value>
   </metadata>
 </component>
