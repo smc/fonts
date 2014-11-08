@@ -4,7 +4,7 @@ FullName: Dyuthi
 FamilyName: Dyuthi
 Weight: Book
 Copyright: Digitized data copyright (c) 2007,Hiran Venugopalan, Hussain K H,Suresh P, Swathanthra Malayalam Computing(http://smc.org.in)
-Version: 1.0.1
+Version: 1.0.1.1
 ItalicAngle: 0
 UnderlinePosition: -190
 UnderlineWidth: 15
@@ -19,7 +19,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144287
-ModificationTime: 1397389351
+ModificationTime: 1415446959
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -318,7 +318,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "Dyuthi2008SMC" "" "1.0" "" "" "" "Hiran Venugopalan, Hussain KH and Suresh P for Sawthanthra Malayalam Computing (SMC)" "" "http://smc.org.in" "http://hiran.in" "Dyuthi OpenType font+AA0ACgAA    Copyright (C) 2007,Hiran Venugopalan, Hussain K.H,Suresh P,Swathanthra Malayalam Computing(http://smc.org.in)+AAoADQAK    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoACgAA---------------+AAoA-Font Exception+AAoA---------------+AAoACgAA    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version. +AAoA" "http://www.gnu.org/copyleft/gpl.html" "" "Dyuthi" "Regular" "Dyuthi" 
+LangName: 1033 "" "" "" "Dyuthi2008SMC" "" "1.0.1.1" "" "" "" "Hiran Venugopalan, Hussain KH and Suresh P for Sawthanthra Malayalam Computing (SMC)" "" "http://smc.org.in" "http://hiran.in" "Dyuthi OpenType font+AA0ACgAA    Copyright (C) 2007,Hiran Venugopalan, Hussain K.H,Suresh P,Swathanthra Malayalam Computing(http://smc.org.in)+AAoADQAK    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoACgAA---------------+AAoA-Font Exception+AAoA---------------+AAoACgAA    As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version. +AAoA" "http://www.gnu.org/copyleft/gpl.html" "" "Dyuthi" "Regular" "Dyuthi" 
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
@@ -326,7 +326,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 352 32 11
+WinInfo: 338 26 10
 BeginPrivate: 0
 EndPrivate
 BeginChars: 709 709
@@ -38659,22 +38659,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-537 -196 m 1
- 627 -204 627 -204 627 -299 c 0
- 627 -344 627 -344 596 -375 c 0
- 566 -404 566 -404 512 -404 c 0
- 459 -404 459 -404 428 -372 c 1
- 402.375 -342.436 402.375 -342.436 402 -297 c 0
- 402 -236.5 402 -236.5 443 -214 c 1
- 465.272 -200.48 465.272 -200.48 475.602 -199.193 c 0
- 507.46 -194.875 507.46 -194.875 537 -196 c 1
-558 -305 m 0
- 558 -270 558 -270 548 -244 c 0
- 535 -209 535 -209 513 -209 c 0
- 473 -209 473 -209 473 -304 c 0
- 473 -332 473 -332 482 -355 c 1
- 496 -382 496 -382 514 -382 c 0
- 558 -382 558 -382 558 -305 c 0
+537 -196 m 1,0,1
+ 627 -204 627 -204 627 -299 c 0,2,3
+ 627 -344 627 -344 596 -375 c 0,4,5
+ 566 -404 566 -404 512 -404 c 0,6,7
+ 459 -404 459 -404 428 -372 c 1,8,9
+ 402.375 -342.436 402.375 -342.436 402 -297 c 0,10,11
+ 402 -236.5 402 -236.5 443 -214 c 1,12,13
+ 465.272 -200.48 465.272 -200.48 475.602 -199.193 c 0,14,15
+ 507.46 -194.875 507.46 -194.875 537 -196 c 1,0,1
+558 -305 m 0,16,17
+ 558 -270 558 -270 548 -244 c 0,18,19
+ 535 -209 535 -209 513 -209 c 0,20,21
+ 473 -209 473 -209 473 -304 c 0,22,23
+ 473 -332 473 -332 482 -355 c 1,24,25
+ 496 -382 496 -382 514 -382 c 0,26,27
+ 558 -382 558 -382 558 -305 c 0,16,17
 EndSplineSet
 Refer: 564 -1 N 1 0 0 1 0 0 2
 LCarets2: 1 0 

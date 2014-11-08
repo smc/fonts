@@ -4,7 +4,7 @@ FullName: Rachana
 FamilyName: Rachana
 Weight: Book
 Copyright: Digitized data copyright(c) 2005 Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose), 2006-2014 Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)
-Version: Rachana:06;Revision:0.0
+Version: 6.11
 ItalicAngle: 0
 UnderlinePosition: -520
 UnderlineWidth: 34
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1414609500
+ModificationTime: 1415447205
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -760,7 +760,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "Regular" "Rachana2014SMC" "" "Rachana:06;Revision:0.0" "" "" "Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose ), Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)" "Hussain KH" "" "http://smc.org.in" "http://smc.org.in" "Rachana Medium OpenType font+AA0ACgAA    Copyright (C) 1999-2012,  Rachana Akshara Vedi+AA0ACgANAAoA    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoA   (Please look in the COPYING file included in the archive to see the full  text of the GNU GPL license or visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)+AA0ACgAK-Font Exception+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.+AAoACgAA-Read more about this license at http://www.gnu.org/licenses/gpl-faq.html#FontException+AA0ACgAK" "" "" "Rachana" "Regular" "Rachana" 
+LangName: 1033 "" "" "Regular" "Rachana2014SMC" "" "6.1.1" "" "" "Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose ), Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)" "Hussain KH" "" "http://smc.org.in" "http://smc.org.in" "Rachana Medium OpenType font+AA0ACgAA    Copyright (C) 1999-2012,  Rachana Akshara Vedi+AA0ACgANAAoA    This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AA0ACgANAAoA    This program is distributed in the hope that it will be useful,+AA0ACgAA    but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the  GNU General Public License for more details.+AA0ACgANAAoA    You should have received a copy of the GNU General Public License  along with this program; if not, write to the Free Software+AA0ACgAA    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AA0ACgANAAoA   (Please look in the COPYING file included in the archive to see the full  text of the GNU GPL license or visit http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)+AA0ACgAK-Font Exception+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.+AAoACgAA-Read more about this license at http://www.gnu.org/licenses/gpl-faq.html#FontException+AA0ACgAK" "" "" "Rachana" "Regular" "Rachana" 
 GaspTable: 1 65535 2 0
 Encoding: Custom
 UnicodeInterp: none
