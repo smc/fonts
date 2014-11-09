@@ -4,7 +4,7 @@ FullName: Rachana
 FamilyName: Rachana
 Weight: Book
 Copyright: Digitized data copyright(c) 2005 Rachana Akshara Vedi (Chitrajakumar R, Hussain KH, Rajeev Sebastian, Gangadharan N, Vijayakumaran Nair, Subash Kuraiakose), 2006-2014 Suresh P, Santhosh Thottingal, Rajeesh K Nambiar, Swathanthra Malayalam Computing (http://smc.org.in)
-Version: 6.11
+Version: 6.1.1
 ItalicAngle: 0
 UnderlinePosition: -520
 UnderlineWidth: 34
@@ -20,7 +20,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1201144321
-ModificationTime: 1415447205
+ModificationTime: 1415513729
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
