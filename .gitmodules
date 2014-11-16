@@ -13,3 +13,6 @@
 [submodule "Rachana"]
 	path = Rachana
 	url = git@github.com:smc/Rachana.git
+[submodule "RaghuMalayalamSans"]
+	path = RaghuMalayalamSans
+	url = git@github.com:smc/RaghuMalayalamSans.git
