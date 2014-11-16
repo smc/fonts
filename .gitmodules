@@ -10,3 +10,6 @@
 [submodule "Meera"]
 	path = Meera
 	url = git@github.com:smc/Meera.git
+[submodule "Rachana"]
+	path = Rachana
+	url = git@github.com:smc/Rachana.git
