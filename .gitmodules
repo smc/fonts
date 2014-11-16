@@ -4,3 +4,6 @@
 [submodule "Dyuthi"]
 	path = Dyuthi
 	url = git@github.com:smc/Dyuthi.git
+[submodule "Kalyani"]
+	path = Kalyani
+	url = git@github.com:smc/Kalyani.git
