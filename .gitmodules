@@ -1,0 +1,3 @@
+[submodule "AnjaliOldLipi"]
+	path = AnjaliOldLipi
+	url = git@github.com:smc/AnjaliOldLipi.git
