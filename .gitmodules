@@ -19,3 +19,6 @@
 [submodule "Suruma"]
 	path = Suruma
 	url = git@github.com:smc/Suruma.git
+[submodule "Chilanka"]
+	path = Chilanka
+	url = git@github.com:smc/Chilanka.git
