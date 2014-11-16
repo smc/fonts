@@ -7,3 +7,6 @@
 [submodule "Kalyani"]
 	path = Kalyani
 	url = git@github.com:smc/Kalyani.git
+[submodule "Meera"]
+	path = Meera
+	url = git@github.com:smc/Meera.git
