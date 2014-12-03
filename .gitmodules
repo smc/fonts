@@ -1,24 +1,24 @@
 [submodule "AnjaliOldLipi"]
 	path = AnjaliOldLipi
-	url = git@github.com:smc/AnjaliOldLipi.git
+	url = git@gitlab.com:smc/anjalioldlipi.git
 [submodule "Dyuthi"]
 	path = Dyuthi
-	url = git@github.com:smc/Dyuthi.git
+	url = git@gitlab.com:smc/dyuthi.git
 [submodule "Kalyani"]
 	path = Kalyani
-	url = git@github.com:smc/Kalyani.git
+	url = git@gitlab.com:smc/kalyani.git
 [submodule "Meera"]
 	path = Meera
-	url = git@github.com:smc/Meera.git
+	url = git@gitlab.com:smc/meera.git
 [submodule "Rachana"]
 	path = Rachana
-	url = git@github.com:smc/Rachana.git
+	url = git@gitlab.com:smc/rachana.git
 [submodule "RaghuMalayalamSans"]
 	path = RaghuMalayalamSans
-	url = git@github.com:smc/RaghuMalayalamSans.git
+	url = git@gitlab.com:smc/raghumalayalamsans.git
 [submodule "Suruma"]
 	path = Suruma
-	url = git@github.com:smc/Suruma.git
+	url = git@gitlab.com:smc/suruma.git
 [submodule "Chilanka"]
 	path = Chilanka
-	url = git@github.com:smc/Chilanka.git
+	url = git@gitlab.com:smc/chilanka.git
