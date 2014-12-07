@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 fontpath=/usr/share/fonts/truetype/malayalam
-fonts=AnjaliOldLipi Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma
+fonts=AnjaliOldLipi Chilanka Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma
 
 version = 6.1
 
@@ -67,8 +67,8 @@ test: compile
 # Test the fonts
 	@for font in `echo ${fonts}`;do \
 		echo "Testing font $${font}";\
-		hb-view $${font}/$${font}.ttf --debug\
-		 --text-file tests/tests.txt --output-file tests/$${font}.pdf; \
+		hb-view $${font}/$${font}.ttf --text-file tests/tests.txt \
+			--output-file tests/$${font}.pdf; \
 	done
 
 webfonts: compile
