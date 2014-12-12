@@ -22,3 +22,6 @@
 [submodule "Chilanka"]
 	path = Chilanka
 	url = git@gitlab.com:smc/chilanka.git
+[submodule "Keraleeyam"]
+	path = Keraleeyam
+	url = git@gitlab.com:smc/keraleeyam.git
