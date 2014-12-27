@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 fontpath=/usr/share/fonts/truetype/malayalam
-fonts=AnjaliOldLipi Chilanka Dyuthi Kalyani Meera Rachana RaghuMalayalamSans Suruma
+fonts=AnjaliOldLipi Chilanka Dyuthi Kalyani Keraleeyam Meera Rachana RaghuMalayalamSans Suruma
 
 version = 6.1
 
