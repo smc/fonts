@@ -11,7 +11,7 @@ all: clean compile test webfonts
 compile:
 # generate ttf files from sfd files
 	@for font in `echo ${fonts}`;do \
-		./generate.pe $${font}/$${font}.sfd; \
+		fontforge -lang=ff -c "Open('$${font}/$${font}.sfd'); Generate('$${font}/$${font}.ttf')"; \
 	done;
 
 install: compile
